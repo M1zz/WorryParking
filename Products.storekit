@@ -1,34 +1,22 @@
 {
   "identifier" : "5E1A2B3C",
-  "nonRenewingSubscriptions" : [
-
-  ],
-  "products" : [
-
-  ],
+  "nonRenewingSubscriptions" : [],
+  "products" : [],
   "settings" : {
     "_failTransactionsEnabled" : false,
     "_locale" : "en_US",
     "_storefront" : "USA",
-    "_storeKitErrors" : [
-
-    ]
+    "_storeKitErrors" : []
   },
   "subscriptionGroups" : [
     {
       "id" : "21500001",
-      "localizations" : [
-
-      ],
+      "localizations" : [],
       "name" : "Worry Parking Pro",
       "subscriptions" : [
         {
-          "adHocOffers" : [
-
-          ],
-          "codeOffers" : [
-
-          ],
+          "adHocOffers" : [],
+          "codeOffers" : [],
           "displayPrice" : "3.99",
           "familyShareable" : false,
           "groupNumber" : 1,
@@ -43,6 +31,11 @@
               "description" : "Unlimited spots, custom exit times, and exit insights.",
               "displayName" : "Worry Parking Pro",
               "locale" : "en_US"
+            },
+            {
+              "description" : "무제한 주차 칸, 출차 시간 지정, 출차 인사이트.",
+              "displayName" : "걱정 주차장 Pro",
+              "locale" : "ko"
             }
           ],
           "productID" : "com.devkoan.worryparking.pro.monthly",
@@ -50,9 +43,7 @@
           "referenceName" : "Pro Monthly",
           "subscriptionGroupID" : "21500001",
           "type" : "RecurringSubscription",
-          "winbackOffers" : [
-
-          ]
+          "winbackOffers" : []
         }
       ]
     }

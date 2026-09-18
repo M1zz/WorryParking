@@ -72,14 +72,14 @@ struct InsightsCard: View {
     var body: some View {
         VStack(alignment: .leading, spacing: 16) {
             HStack(spacing: 12) {
-                StatTile(value: "\(summary.total)", label: "Exited")
+                StatTile(value: "\(summary.total)", label: String(localized: "Exited"))
                 StatTile(
                     value: summary.didNotHappenRate.map { $0.formatted(.percent.precision(.fractionLength(0))) } ?? "–",
-                    label: "Didn't happen"
+                    label: String(localized: "Didn't happen")
                 )
                 StatTile(
                     value: summary.averageDrop.map { $0.formatted(.number.precision(.fractionLength(1))) } ?? "–",
-                    label: "Avg. level drop"
+                    label: String(localized: "Avg. level drop")
                 )
             }
 
@@ -158,7 +158,7 @@ struct ExitLogRow: View {
                     Tag(text: result.title, color: result.color)
                 }
                 if let after = worry.intensityAfter {
-                    Tag(text: "Level \(worry.intensityBefore) → \(after)", color: .gray)
+                    Tag(text: String(localized: "Level \(worry.intensityBefore) → \(after)"), color: .gray)
                 }
                 if let outcome = worry.outcome {
                     Tag(text: outcome.title, color: Theme.signBlue)

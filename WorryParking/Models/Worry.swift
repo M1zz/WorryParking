@@ -16,10 +16,10 @@ enum FearResult: String, Codable, CaseIterable, Identifiable {
 
     var title: String {
         switch self {
-        case .happened: "It happened"
-        case .partly: "Partly"
-        case .didNotHappen: "It didn't happen"
-        case .notYet: "Too early to tell"
+        case .happened: String(localized: "It happened")
+        case .partly: String(localized: "Partly")
+        case .didNotHappen: String(localized: "It didn't happen")
+        case .notYet: String(localized: "Too early to tell")
         }
     }
 
@@ -39,8 +39,8 @@ enum WorryOutcome: String, Codable {
 
     var title: String {
         switch self {
-        case .letGo: "Let it go"
-        case .plan: "Made a plan"
+        case .letGo: String(localized: "Let it go")
+        case .plan: String(localized: "Made a plan")
         }
     }
 }
@@ -48,12 +48,12 @@ enum WorryOutcome: String, Codable {
 enum Intensity {
     static func label(_ level: Int) -> String {
         switch level {
-        case ...0: "Gone"
-        case 1: "A whisper"
-        case 2: "Nagging"
-        case 3: "Loud"
-        case 4: "Heavy"
-        default: "Overwhelming"
+        case ...0: String(localized: "Gone")
+        case 1: String(localized: "A whisper")
+        case 2: String(localized: "Nagging")
+        case 3: String(localized: "Loud")
+        case 4: String(localized: "Heavy")
+        default: String(localized: "Overwhelming")
         }
     }
 }

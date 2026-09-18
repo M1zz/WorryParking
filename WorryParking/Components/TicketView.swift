@@ -86,7 +86,7 @@ struct TicketView: View {
         }
     }
 
-    private func stamp(label: String, date: Date, alignment: HorizontalAlignment) -> some View {
+    private func stamp(label: LocalizedStringKey, date: Date, alignment: HorizontalAlignment) -> some View {
         VStack(alignment: alignment, spacing: 2) {
             Text(label)
                 .font(.caption2.weight(.bold))

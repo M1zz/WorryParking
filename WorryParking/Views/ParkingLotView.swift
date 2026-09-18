@@ -81,8 +81,8 @@ struct ParkingLotView: View {
     private func header(now: Date) -> some View {
         let next = WorryTime.next(hour: worryHour, minute: worryMinute, after: now, minimumLead: 0)
         let usage: String = store.isPro
-            ? "\(parked.count) parked"
-            : "\(parked.count) of \(AppConfig.freeSpotLimit) spots used"
+            ? String(localized: "\(parked.count) parked")
+            : String(localized: "\(parked.count) of \(AppConfig.freeSpotLimit) spots used")
         return HStack(spacing: 14) {
             ParkingSign(size: 48)
             VStack(alignment: .leading, spacing: 4) {
@@ -249,10 +249,12 @@ struct ParkingSpotView: View {
     private var accessibilityText: String {
         if let worry {
             if worry.exitAt <= now {
-                return "Spot \(number). Worry ready for pickup."
+                return String(localized: "Spot \(number). Worry ready for pickup.")
             }
-            return "Spot \(number). Worry parked until \(WorryTime.describe(worry.exitAt))."
+            return String(localized: "Spot \(number). Worry parked until \(WorryTime.describe(worry.exitAt)).")
         }
-        return isLocked ? "Spot \(number). Pro spot, locked." : "Spot \(number). Empty. Park a worry here."
+        return isLocked
+            ? String(localized: "Spot \(number). Pro spot, locked.")
+            : String(localized: "Spot \(number). Empty. Park a worry here.")
     }
 }

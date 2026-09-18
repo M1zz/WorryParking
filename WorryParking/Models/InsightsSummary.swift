@@ -36,9 +36,9 @@ struct InsightsSummary {
 
     var headline: String {
         guard let rate = didNotHappenRate else {
-            return "Keep parking. Patterns show up after a few exits."
+            return String(localized: "Keep parking. Patterns show up after a few exits.")
         }
         let percent = Int((rate * 100).rounded())
-        return "\(percent)% of the fears you checked didn't come true."
+        return String(localized: "\(percent)% of the fears you checked didn't come true.")
     }
 }

@@ -49,7 +49,7 @@ struct ParkWorryView: View {
     }
 
     private var title: String {
-        issued == nil ? "Park at P\(spot)" : ""
+        issued == nil ? String(localized: "Park at P\(spot)") : ""
     }
 
     var body: some View {
@@ -113,19 +113,19 @@ struct ParkWorryView: View {
                 ) {
                     VStack(spacing: 10) {
                         SelectableRow(
-                            title: "Next Worry Time",
+                            title: String(localized: "Next Worry Time"),
                             detail: WorryTime.describe(nextWorryTime).capitalizedFirst,
                             isSelected: exitChoice == .nextWorryTime
                         ) { exitChoice = .nextWorryTime }
 
                         SelectableRow(
-                            title: "The Worry Time after",
+                            title: String(localized: "The Worry Time after"),
                             detail: WorryTime.describe(followingWorryTime).capitalizedFirst,
                             isSelected: exitChoice == .followingWorryTime
                         ) { exitChoice = .followingWorryTime }
 
                         SelectableRow(
-                            title: "Custom time",
+                            title: String(localized: "Custom time"),
                             detail: store.isPro ? WorryTime.describe(customExit).capitalizedFirst : "Worry Parking Pro",
                             isSelected: exitChoice == .custom,
                             isLocked: !store.isPro

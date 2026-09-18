@@ -24,8 +24,8 @@ enum NotificationManager {
         guard status == .authorized || status == .provisional || status == .ephemeral else { return }
 
         let content = UNMutableNotificationContent()
-        content.title = "P\(spot) is ready for pickup"
-        content.body = "It's Worry Time. Give it \(AppConfig.worrySessionMinutes) focused minutes, then decide what to do with it."
+        content.title = String(localized: "P\(spot) is ready for pickup")
+        content.body = String(localized: "It's Worry Time. Give it \(AppConfig.worrySessionMinutes) focused minutes, then decide what to do with it.")
         content.sound = .default
         content.threadIdentifier = "worry-time"
 

@@ -33,8 +33,8 @@ enum WorryTime {
     static func describe(_ date: Date) -> String {
         let calendar = Calendar.current
         let time = date.formatted(date: .omitted, time: .shortened)
-        if calendar.isDateInToday(date) { return "today at \(time)" }
-        if calendar.isDateInTomorrow(date) { return "tomorrow at \(time)" }
+        if calendar.isDateInToday(date) { return String(localized: "today at \(time)") }
+        if calendar.isDateInTomorrow(date) { return String(localized: "tomorrow at \(time)") }
         return date.formatted(.dateTime.weekday(.wide).month(.abbreviated).day().hour().minute())
     }
 

@@ -26,17 +26,17 @@ struct ExitGateView: View {
 
         var title: String {
             switch self {
-            case .letGo: "Let it go"
-            case .plan: "Make a plan"
-            case .repark: "Park it again"
+            case .letGo: String(localized: "Let it go")
+            case .plan: String(localized: "Make a plan")
+            case .repark: String(localized: "Park it again")
             }
         }
 
         var detail: String {
             switch self {
-            case .letGo: "It's out of the lot. Drive away."
-            case .plan: "Turn it into one small next step."
-            case .repark: "Not ready yet. Bring it back at the next Worry Time."
+            case .letGo: String(localized: "It's out of the lot. Drive away.")
+            case .plan: String(localized: "Turn it into one small next step.")
+            case .repark: String(localized: "Not ready yet. Bring it back at the next Worry Time.")
             }
         }
     }
@@ -55,7 +55,7 @@ struct ExitGateView: View {
     }
 
     private var finishTitle: String {
-        decision == .repark ? "Park it again" : "Drive out"
+        decision == .repark ? String(localized: "Park it again") : String(localized: "Drive out")
     }
 
     var body: some View {

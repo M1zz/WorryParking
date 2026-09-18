@@ -1,0 +1,1431 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%lld" : {
+      "shouldTranslate" : false
+    },
+    "%lld of %lld spots used" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$lld/%2$lld칸 사용 중"
+          }
+        }
+      }
+    },
+    "%lld parked" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld대 주차 중"
+          }
+        }
+      }
+    },
+    "%lld%% of the fears you checked didn't come true." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "확인한 걱정 중 %lld%%는 실제로 일어나지 않았어요."
+          }
+        }
+      }
+    },
+    "%lld, %@" : {
+      "shouldTranslate" : false
+    },
+    "11:40 PM and your brain won't stop replaying tomorrow. Write the worry exactly as it sounds, and rate how loud it is." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "밤 11시 40분, 내일 일이 머릿속에서 계속 재생돼요. 떠오르는 그대로 적고, 얼마나 크게 울리는지 골라요."
+          }
+        }
+      }
+    },
+    "6:00 PM, the presentation is over. Did it happen? Not really. The worry dropped from 4 to 1, so you let it go, and it's added to your Exit Log." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "오후 6시, 발표는 끝났어요. 걱정한 일이 일어났나요? 아니요. 강도가 4에서 1로 내려가서 떠나보냈고, 출차 기록에 남았어요."
+          }
+        }
+      }
+    },
+    "A bigger lot for a busier mind." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "생각이 많은 날엔, 더 넓은 주차장."
+          }
+        }
+      }
+    },
+    "A daily 15-minute window, ideally a few hours before bed. We'll tap you on the shoulder when a worry is ready for pickup." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "매일 15분, 잠들기 몇 시간 전이 좋아요. 걱정이 출차 준비가 되면 살짝 알려드릴게요."
+          }
+        }
+      }
+    },
+    "A whisper" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "속삭이는 정도"
+          }
+        }
+      }
+    },
+    "About" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "정보"
+          }
+        }
+      }
+    },
+    "Allow pickup reminders" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "출차 알림 허용"
+          }
+        }
+      }
+    },
+    "Allow reminders & start" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "알림 허용하고 시작하기"
+          }
+        }
+      }
+    },
+    "At Worry Time, give it %lld focused minutes. Then let it go, make a plan, or park it again." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "걱정 시간에 %lld분만 집중해서 들여다봐요. 그다음 떠나보내거나, 계획을 세우거나, 다시 주차해요."
+          }
+        }
+      }
+    },
+    "Avg. level drop" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "평균 강도 감소"
+          }
+        }
+      }
+    },
+    "Based on worry postponement, a technique from cognitive behavioral therapy (CBT)." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "인지행동치료(CBT)의 '걱정 미루기' 기법을 바탕으로 만들었어요."
+          }
+        }
+      }
+    },
+    "Bring a worry back exactly when you can handle it." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "감당할 수 있을 때 정확히 그 시간에 꺼내요."
+          }
+        }
+      }
+    },
+    "Cancel" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "취소"
+          }
+        }
+      }
+    },
+    "Choose a time a few hours before bed. New worries are parked until then. Already-parked worries keep their exit time." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "잠들기 몇 시간 전으로 정해 주세요. 새 걱정은 이 시간까지 주차돼요. 이미 주차된 걱정은 원래 출차 시간을 유지해요."
+          }
+        }
+      }
+    },
+    "Close" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "닫기"
+          }
+        }
+      }
+    },
+    "Continue" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "계속"
+          }
+        }
+      }
+    },
+    "Count" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "개수"
+          }
+        }
+      }
+    },
+    "Custom exit times" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "출차 시간 직접 지정"
+          }
+        }
+      }
+    },
+    "Custom time" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "직접 지정"
+          }
+        }
+      }
+    },
+    "Did what you feared actually happen?" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "걱정했던 일이 실제로 일어났나요?"
+          }
+        }
+      }
+    },
+    "Didn't happen" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "안 일어남"
+          }
+        }
+      }
+    },
+    "Done" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "완료"
+          }
+        }
+      }
+    },
+    "Drive out" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "출차하기"
+          }
+        }
+      }
+    },
+    "Empty" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "빈자리"
+          }
+        }
+      }
+    },
+    "Everything you write stays on this device. Notifications never include your worry text." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "작성한 내용은 모두 이 기기에만 저장돼요. 알림에는 걱정 내용이 절대 표시되지 않아요."
+          }
+        }
+      }
+    },
+    "EXIT" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "출차"
+          }
+        }
+      }
+    },
+    "Exit" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "출차"
+          }
+        }
+      }
+    },
+    "Exit gate" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "출차 게이트"
+          }
+        }
+      }
+    },
+    "Exit Gate · P%lld" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "출차 게이트 · P%lld"
+          }
+        }
+      }
+    },
+    "Exit Gate · P1" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "출차 게이트 · P1"
+          }
+        }
+      }
+    },
+    "Exit insights" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "출차 인사이트"
+          }
+        }
+      }
+    },
+    "Exit Log" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "출차 기록"
+          }
+        }
+      }
+    },
+    "Exit time" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "출차 시간"
+          }
+        }
+      }
+    },
+    "Exited" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "출차 완료"
+          }
+        }
+      }
+    },
+    "Exits in %@" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ 후 출차"
+          }
+        }
+      }
+    },
+    "Get the worry out of your head and onto a ticket." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "머릿속 걱정을 꺼내 주차권에 옮겨 적어요."
+          }
+        }
+      }
+    },
+    "Give it your full attention. It's the only thing to do right now." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "지금은 이것만 온전히 들여다보세요."
+          }
+        }
+      }
+    },
+    "Gone" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "사라짐"
+          }
+        }
+      }
+    },
+    "Heavy" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "무거움"
+          }
+        }
+      }
+    },
+    "History" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이력"
+          }
+        }
+      }
+    },
+    "How it works" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "사용 방법"
+          }
+        }
+      }
+    },
+    "How loud is it now?" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "지금은 얼마나 크게 울리나요?"
+          }
+        }
+      }
+    },
+    "How loud is it right now?" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "지금 얼마나 크게 울리나요?"
+          }
+        }
+      }
+    },
+    "If it drives back into your head, notice it and tell yourself: it has a spot. You'll deal with it at Worry Time." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "다시 머릿속으로 들어오면 알아차리고 이렇게 말해 주세요. '이미 자리가 있어. 걱정 시간에 다룰 거야.'"
+          }
+        }
+      }
+    },
+    "IN" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "입차"
+          }
+        }
+      }
+    },
+    "It didn't happen" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "일어나지 않았어요"
+          }
+        }
+      }
+    },
+    "It happened" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "일어났어요"
+          }
+        }
+      }
+    },
+    "It stays hidden until your daily Worry Time. If it comes back, remind yourself it already has a spot." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "매일 정한 걱정 시간까지 숨겨둬요. 다시 떠오르면 '이미 자리가 있어'라고 떠올려요."
+          }
+        }
+      }
+    },
+    "It was %lld when you parked it." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "주차할 때는 %lld였어요."
+          }
+        }
+      }
+    },
+    "It's out of the lot. Drive away." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "주차장을 떠났어요. 이제 보내주세요."
+          }
+        }
+      }
+    },
+    "It's parked until tomorrow's Worry Time. When it pops up again in the shower, just tell yourself: it already has a spot." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "내일 걱정 시간까지 주차해 뒀어요. 샤워하다 다시 떠오르면 '이미 자리가 있어'라고만 말해 주세요."
+          }
+        }
+      }
+    },
+    "It's Worry Time. Give it %lld focused minutes, then decide what to do with it." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "걱정 시간이에요. %lld분만 집중해서 들여다보고 어떻게 할지 정해요."
+          }
+        }
+      }
+    },
+    "Keep it parked" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "계속 주차해 두기"
+          }
+        }
+      }
+    },
+    "Keep parking. Patterns show up after a few exits." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "계속 주차해 보세요. 몇 번 출차하면 패턴이 보여요."
+          }
+        }
+      }
+    },
+    "Later" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "나중에"
+          }
+        }
+      }
+    },
+    "Let it go" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "떠나보내기"
+          }
+        }
+      }
+    },
+    "LEVEL" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "강도"
+          }
+        }
+      }
+    },
+    "Level %lld of 5, %@" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "강도 5 중 %1$lld, %2$@"
+          }
+        }
+      }
+    },
+    "Level %lld → %lld" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "강도 %1$lld → %2$lld"
+          }
+        }
+      }
+    },
+    "Lot" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "주차장"
+          }
+        }
+      }
+    },
+    "Loud" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "크게 울림"
+          }
+        }
+      }
+    },
+    "Made a plan" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "계획 세움"
+          }
+        }
+      }
+    },
+    "Make a plan" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "계획 세우기"
+          }
+        }
+      }
+    },
+    "Manage subscription" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "구독 관리"
+          }
+        }
+      }
+    },
+    "Nagging" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "계속 신경 쓰임"
+          }
+        }
+      }
+    },
+    "Next Worry Time" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "다음 걱정 시간"
+          }
+        }
+      }
+    },
+    "Next Worry Time: %@" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "다음 걱정 시간: %@"
+          }
+        }
+      }
+    },
+    "No exits yet" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "아직 출차한 걱정이 없어요"
+          }
+        }
+      }
+    },
+    "Not ready yet. Bring it back at the next Worry Time." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "아직 준비가 안 됐어요. 다음 걱정 시간에 다시 꺼내요."
+          }
+        }
+      }
+    },
+    "Notifications are off" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "알림이 꺼져 있어요"
+          }
+        }
+      }
+    },
+    "One real worry, from 11:40 PM to Worry Time the next day." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "실제 걱정 하나가 밤 11시 40분부터 다음 날 걱정 시간까지 가는 과정이에요."
+          }
+        }
+      }
+    },
+    "One small next step" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "작은 다음 행동 하나"
+          }
+        }
+      }
+    },
+    "Open iOS Settings" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iOS 설정 열기"
+          }
+        }
+      }
+    },
+    "Overwhelming" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "압도됨"
+          }
+        }
+      }
+    },
+    "P" : {
+      "shouldTranslate" : false
+    },
+    "P%lld" : {
+      "shouldTranslate" : false
+    },
+    "P%lld is ready for pickup" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "P%lld 출차 준비 완료"
+          }
+        }
+      }
+    },
+    "P%lld · #%@" : {
+      "shouldTranslate" : false
+    },
+    "P%lld · Ticket #%@" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "P%1$lld · 주차권 #%2$@"
+          }
+        }
+      }
+    },
+    "Park" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "주차"
+          }
+        }
+      }
+    },
+    "Park a worry" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "걱정 주차하기"
+          }
+        }
+      }
+    },
+    "Park at P%lld" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "P%lld에 주차"
+          }
+        }
+      }
+    },
+    "Park every worry, not just three." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3개 제한 없이 모든 걱정을 주차해요."
+          }
+        }
+      }
+    },
+    "Park it" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "주차하기"
+          }
+        }
+      }
+    },
+    "Park it again" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "다시 주차하기"
+          }
+        }
+      }
+    },
+    "Parked %@" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ 주차"
+          }
+        }
+      }
+    },
+    "Parked at P%lld" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "P%lld에 주차했어요"
+          }
+        }
+      }
+    },
+    "Parked until %@" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@까지 주차 중"
+          }
+        }
+      }
+    },
+    "Parked worries stay hidden until their exit time. You don't have to carry them right now." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "주차된 걱정은 출차 시간까지 숨겨져 있어요. 지금 짊어지고 있지 않아도 돼요."
+          }
+        }
+      }
+    },
+    "Parked. Not your job right now." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "주차 중. 지금은 네 일이 아니야."
+          }
+        }
+      }
+    },
+    "Partly" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "일부만"
+          }
+        }
+      }
+    },
+    "Pick your Worry Time" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "걱정 시간을 정해요"
+          }
+        }
+      }
+    },
+    "Postponing works best when you wait. Most worries feel smaller by Worry Time." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "미루기는 기다릴 때 가장 효과가 좋아요. 대부분의 걱정은 걱정 시간이 되면 작아져 있어요."
+          }
+        }
+      }
+    },
+    "Privacy Policy" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "개인정보 처리방침"
+          }
+        }
+      }
+    },
+    "Pro is active" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro 사용 중"
+          }
+        }
+      }
+    },
+    "Pro spot" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro 전용 칸"
+          }
+        }
+      }
+    },
+    "Ready for pickup" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "출차 준비 완료"
+          }
+        }
+      }
+    },
+    "Reminders" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "알림"
+          }
+        }
+      }
+    },
+    "Restore purchases" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "구매 복원"
+          }
+        }
+      }
+    },
+    "Result" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "결과"
+          }
+        }
+      }
+    },
+    "Retrieve early" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "일찍 꺼내기"
+          }
+        }
+      }
+    },
+    "Retrieve this worry early?" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이 걱정을 일찍 꺼낼까요?"
+          }
+        }
+      }
+    },
+    "See how many of your fears actually came true." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "걱정한 일 중 실제로 일어난 게 얼마나 되는지 확인해요."
+          }
+        }
+      }
+    },
+    "See how many of your worries actually happened" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "걱정 중 실제로 일어난 게 얼마나 되는지 확인해 보세요"
+          }
+        }
+      }
+    },
+    "See it in action" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "예시로 살펴보기"
+          }
+        }
+      }
+    },
+    "Send it to the exit gate now" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "지금 출차 게이트로 보내기"
+          }
+        }
+      }
+    },
+    "Settings" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "설정"
+          }
+        }
+      }
+    },
+    "Spot %lld. Empty. Park a worry here." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld번 칸. 비어 있음. 여기에 걱정을 주차하세요."
+          }
+        }
+      }
+    },
+    "Spot %lld. Pro spot, locked." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld번 칸. Pro 전용, 잠김."
+          }
+        }
+      }
+    },
+    "Spot %lld. Worry parked until %@." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$lld번 칸. %2$@까지 걱정 주차 중."
+          }
+        }
+      }
+    },
+    "Spot %lld. Worry ready for pickup." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld번 칸. 출차 준비 완료."
+          }
+        }
+      }
+    },
+    "Terms of Use" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이용약관"
+          }
+        }
+      }
+    },
+    "The Worry Time after" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "그다음 걱정 시간"
+          }
+        }
+      }
+    },
+    "Ticket #%@" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "주차권 #%@"
+          }
+        }
+      }
+    },
+    "today at %@" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "오늘 %@"
+          }
+        }
+      }
+    },
+    "tomorrow at %@" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "내일 %@"
+          }
+        }
+      }
+    },
+    "Too early to tell" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "아직 모르겠어요"
+          }
+        }
+      }
+    },
+    "Turn it into one small next step." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "작은 다음 행동 하나로 바꿔요."
+          }
+        }
+      }
+    },
+    "Unlimited parking spots" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "주차 칸 무제한"
+          }
+        }
+      }
+    },
+    "Unlimited spots, custom exit times, insights" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "무제한 주차 칸, 출차 시간 지정, 인사이트"
+          }
+        }
+      }
+    },
+    "Unlock Insights with Pro" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro로 인사이트 잠금 해제"
+          }
+        }
+      }
+    },
+    "We'll tell you when a worry is ready for pickup." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "걱정이 출차 준비되면 알려드릴게요."
+          }
+        }
+      }
+    },
+    "What do you want to do with it?" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이 걱정을 어떻게 할까요?"
+          }
+        }
+      }
+    },
+    "What if I blank during tomorrow's presentation and everyone decides I'm not good enough?" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "내일 발표 때 머리가 하얘져서 다들 내가 무능하다고 생각하면 어떡하지?"
+          }
+        }
+      }
+    },
+    "What's circling in your head?" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "머릿속에 맴도는 게 뭔가요?"
+          }
+        }
+      }
+    },
+    "When should it come back?" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "언제 다시 꺼낼까요?"
+          }
+        }
+      }
+    },
+    "Without them, parked worries wait silently in the lot." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "알림이 없으면 주차된 걱정이 주차장에서 조용히 기다리기만 해요."
+          }
+        }
+      }
+    },
+    "Worries don't have to ride with you all night.\nPark them here. We'll keep them until your Worry Time." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "걱정을 밤새 태우고 다닐 필요는 없어요.\n여기에 주차해 두세요. 걱정 시간까지 맡아둘게요."
+          }
+        }
+      }
+    },
+    "Worries you review at the exit gate land here. Over time you'll see how many of them actually happened." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "출차 게이트에서 돌아본 걱정이 여기에 쌓여요. 시간이 지나면 실제로 일어난 게 얼마나 되는지 보여요."
+          }
+        }
+      }
+    },
+    "WORRY PARKING" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "걱정 주차장"
+          }
+        }
+      }
+    },
+    "Worry Parking" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "걱정 주차장"
+          }
+        }
+      }
+    },
+    "Worry Parking is a self-help tool, not a medical device or a substitute for professional care. If you're struggling, please reach out to a mental health professional or local emergency services." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "걱정 주차장은 셀프 케어 도구이며 의료기기나 전문 치료를 대신하지 않아요. 많이 힘들다면 정신건강 전문가나 가까운 응급 기관(정신건강 위기상담 109)에 도움을 요청하세요."
+          }
+        }
+      }
+    },
+    "Worry Parking is built on worry postponement, a stimulus-control technique used in cognitive behavioral therapy (CBT): instead of fighting a worry, you schedule it for a set time and return to it then." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "걱정 주차장은 인지행동치료(CBT)에서 쓰는 자극 통제 기법인 '걱정 미루기'를 바탕으로 해요. 걱정과 싸우는 대신 정해진 시간으로 미뤄두고, 그때 다시 들여다봐요."
+          }
+        }
+      }
+    },
+    "Worry Parking Pro" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "걱정 주차장 Pro"
+          }
+        }
+      }
+    },
+    "Worry Time" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "걱정 시간"
+          }
+        }
+      }
+    },
+    "Write" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "적기"
+          }
+        }
+      }
+    },
+    "Write it down" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "적기"
+          }
+        }
+      }
+    },
+    "Write it exactly the way it sounds in your head." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "머릿속에서 들리는 그대로 적어 보세요."
+          }
+        }
+      }
+    },
+    "You don't need to carry this right now. We'll bring it back %@." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "지금은 이걸 짊어지지 않아도 돼요. %@에 다시 가져다 드릴게요."
+          }
+        }
+      }
+    },
+    "Your daily Worry Time is %@. You can change it in Settings." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "매일 걱정 시간은 %@예요. 설정에서 바꿀 수 있어요."
+          }
+        }
+      }
+    },
+    "Your worry" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "내 걱정"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

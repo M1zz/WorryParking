@@ -30,6 +30,11 @@ CBT의 걱정 미루기(worry postponement / scheduled worry) 기법을 주차�
 - Pro: 무제한 주차 칸, 사용자 지정 출차 시간, Exit 인사이트(차트)
 - 페이월은 `SubscriptionStoreView` 사용 → App Store Connect에 같은 ID로 구독 상품만 만들면 그대로 동작
 
+## 현지화
+- 영어(기본) + 한국어. `WorryParking/Localizable.xcstrings`(UI), `InfoPlist.xcstrings`(앱 이름: 걱정 주차장)
+- 새 문자열은 `Text("...")` 리터럴 또는 `String(localized:)`로 작성하면 빌드 시 카탈로그에 자동 추출됩니다.
+- 시뮬레이터에서 확인: Scheme ▸ Run ▸ Options ▸ App Language ▸ Korean
+
 ## 구조
 ```
 WorryParking/
@@ -37,11 +42,10 @@ WorryParking/
 ├─ Models/       Worry(@Model), 인사이트 집계
 ├─ Services/     WorryTime 계산, 알림, StoreKit 2 구독 관리
 ├─ Components/   테마, 주차권(TicketView), 차단기, 공용 컨트롤
-└─ Views/        온보딩, 주차장, 주차하기, 주차권 시트, 출차 게이트, Exit Log, 설정, 페이월
+└─ Views/        온보딩(실제 예시 포함), 주차장, 주차하기, 주차권 시트, 출차 게이트, Exit Log, 설정, 페이월
 ```
 
 ## 출시 전 TODO
 - `AppConfig.privacyURL` / `termsURL`를 실제 문서로 교체
 - App Store Connect에 구독 그룹/상품 생성
-- 한국어 현지화 (UI 문자열은 현재 영어 — String Catalog로 ko 추가)
 - 웰니스 카테고리 심사 대비: 앱 내 "의료기기 아님" 고지는 Settings ▸ About에 포함됨
