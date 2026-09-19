@@ -38,6 +38,13 @@ final class StoreManager {
         isPro = active
     }
 
+    #if DEBUG
+    /// Screenshot mode only: show the Pro experience without a transaction.
+    func unlockForScreenshots() {
+        isPro = true
+    }
+    #endif
+
     func restorePurchases() async {
         try? await AppStore.sync()
         await refreshEntitlements()

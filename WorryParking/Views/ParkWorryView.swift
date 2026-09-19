@@ -17,6 +17,7 @@ struct ParkWorryView: View {
     @State private var issued: Worry?
     @State private var showingPaywall = false
     @FocusState private var isEditorFocused: Bool
+    private var focusesOnAppear = true
 
     enum ExitChoice: Hashable {
         case nextWorryTime
@@ -159,7 +160,7 @@ struct ParkWorryView: View {
             .padding(20)
         }
         .scrollDismissesKeyboard(.interactively)
-        .onAppear { isEditorFocused = true }
+        .onAppear { if focusesOnAppear { isEditorFocused = true } }
     }
 
     private func park() {
@@ -186,6 +187,18 @@ struct ParkWorryView: View {
         }
     }
 }
+
+#if DEBUG
+extension ParkWorryView {
+    /// Screenshot mode: a pre-filled form with the keyboard down.
+    init(spot: Int, draft: String, intensity: Int) {
+        self.spot = spot
+        _text = State(initialValue: draft)
+        _intensity = State(initialValue: intensity)
+        focusesOnAppear = false
+    }
+}
+#endif
 
 /// Shown right after parking: the barrier lifts and the ticket slides in, text hidden.
 struct TicketIssuedView: View {

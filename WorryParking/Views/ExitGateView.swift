@@ -175,3 +175,13 @@ struct ExitGateView: View {
         dismiss()
     }
 }
+
+#if DEBUG
+extension ExitGateView {
+    /// Screenshot mode: a review already in progress.
+    init(worry: Worry, fearResult: FearResult) {
+        self.worry = worry
+        _fearResult = State(initialValue: fearResult)
+    }
+}
+#endif
