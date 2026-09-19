@@ -9,6 +9,9 @@ struct ExitLogView: View {
     @Query(filter: #Predicate<Worry> { $0.statusRaw == "reviewed" })
     private var reviewedWorries: [Worry]
 
+    @Query(sort: \ExperienceFeedback.createdAt)
+    private var feedback: [ExperienceFeedback]
+
     @State private var showingPaywall = false
 
     private var history: [Worry] {
@@ -18,7 +21,7 @@ struct ExitLogView: View {
     var body: some View {
         NavigationStack {
             Group {
-                if history.isEmpty {
+                if history.isEmpty && feedback.isEmpty {
                     ContentUnavailableView(
                         "No exits yet",
                         systemImage: "car.side",
@@ -26,21 +29,34 @@ struct ExitLogView: View {
                     )
                 } else {
                     List {
-                        Section {
-                            InsightsCard(
-                                summary: InsightsSummary(worries: history),
-                                isUnlocked: store.isPro
-                            ) { showingPaywall = true }
-                            .listRowInsets(EdgeInsets())
-                            .listRowBackground(Color.clear)
+                        if !history.isEmpty {
+                            Section {
+                                InsightsCard(
+                                    summary: InsightsSummary(worries: history),
+                                    isUnlocked: store.isPro
+                                ) { showingPaywall = true }
+                                .listRowInsets(EdgeInsets())
+                                .listRowBackground(Color.clear)
+                            }
                         }
 
-                        Section("History") {
-                            ForEach(history) { worry in
-                                ExitLogRow(worry: worry)
-                                    .listRowBackground(Theme.asphaltLight)
+                        if !feedback.isEmpty {
+                            Section("Your experience") {
+                                ForEach(feedback) { entry in
+                                    ExperienceRow(entry: entry)
+                                        .listRowBackground(Theme.asphaltLight)
+                                }
                             }
-                            .onDelete(perform: delete)
+                        }
+
+                        if !history.isEmpty {
+                            Section("History") {
+                                ForEach(history) { worry in
+                                    ExitLogRow(worry: worry)
+                                        .listRowBackground(Theme.asphaltLight)
+                                }
+                                .onDelete(perform: delete)
+                            }
                         }
                     }
                     .scrollContentBackground(.hidden)
@@ -169,6 +185,35 @@ struct ExitLogRow: View {
                 Label(step, systemImage: "arrow.turn.down.right")
                     .font(.subheadline)
                     .foregroundStyle(.secondary)
+            }
+        }
+        .padding(.vertical, 6)
+    }
+}
+
+/// What the user said about postponing, played back to them.
+struct ExperienceRow: View {
+    let entry: ExperienceFeedback
+
+    var body: some View {
+        VStack(alignment: .leading, spacing: 8) {
+            HStack {
+                Text(entry.moment.title)
+                    .font(.subheadline.weight(.semibold))
+                Spacer()
+                Text(entry.createdAt, format: .dateTime.month(.abbreviated).day())
+                    .font(.caption)
+                    .foregroundStyle(.secondary)
+            }
+            HStack(spacing: 6) {
+                Tag(text: entry.feeling.title(for: entry.moment), color: entry.feeling.color)
+                Tag(text: String(localized: "Level \(entry.levelBefore) → \(entry.levelAfter)"), color: .gray)
+            }
+            if !entry.note.isEmpty {
+                Text(entry.note)
+                    .font(.subheadline)
+                    .foregroundStyle(.secondary)
+                    .privacySensitive()
             }
         }
         .padding(.vertical, 6)

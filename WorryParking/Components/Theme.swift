@@ -21,6 +21,16 @@ extension FearResult {
     }
 }
 
+extension ExperienceFeeling {
+    var color: Color {
+        switch self {
+        case .lighter: Theme.readyGreen
+        case .same: Color.gray
+        case .heavier: Color(red: 0.96, green: 0.45, blue: 0.40)
+        }
+    }
+}
+
 struct PrimaryButtonStyle: ButtonStyle {
     var tint: Color = Theme.lineYellow
 

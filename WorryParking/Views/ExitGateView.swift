@@ -9,6 +9,7 @@ struct ExitGateView: View {
     @Environment(\.dismiss) private var dismiss
     @AppStorage(SettingsKey.worryHour) private var worryHour = WorryTime.defaultHour
     @AppStorage(SettingsKey.worryMinute) private var worryMinute = WorryTime.defaultMinute
+    @AppStorage(SettingsKey.askedFirstExitFeedback) private var askedFirstExitFeedback = false
 
     @State private var session = Date.now...Date.now.addingTimeInterval(TimeInterval(AppConfig.worrySessionMinutes * 60))
     @State private var fearResult: FearResult?
@@ -16,6 +17,7 @@ struct ExitGateView: View {
     @State private var decision: ExitDecision?
     @State private var nextStep = ""
     @State private var finished = false
+    @State private var askingFeedback = false
 
     enum ExitDecision: CaseIterable, Identifiable {
         case letGo
@@ -123,6 +125,12 @@ struct ExitGateView: View {
             }
             .onAppear { intensityNow = worry.intensityBefore }
             .sensoryFeedback(.success, trigger: finished)
+            .sheet(isPresented: $askingFeedback) {
+                FirstExitFeedbackView(worry: worry) {
+                    askingFeedback = false
+                    dismiss()
+                }
+            }
         }
     }
 
@@ -172,7 +180,13 @@ struct ExitGateView: View {
 
         try? modelContext.save()
         finished = true
-        dismiss()
+
+        if decision != .repark && !askedFirstExitFeedback {
+            askedFirstExitFeedback = true
+            askingFeedback = true
+        } else {
+            dismiss()
+        }
     }
 }
 

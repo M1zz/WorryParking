@@ -49,6 +49,12 @@ struct SettingsView: View {
                 }
 
                 Section("About") {
+                    NavigationLink {
+                        WhyItWorksView()
+                            .navigationBarTitleDisplayMode(.inline)
+                    } label: {
+                        Label("Why it works", systemImage: "brain.head.profile")
+                    }
                     Text("Worry Parking is built on worry postponement, a stimulus-control technique used in cognitive behavioral therapy (CBT): instead of fighting a worry, you schedule it for a set time and return to it then.")
                         .font(.footnote)
                     Text("Everything you write stays on this device. Notifications never include your worry text.")

@@ -51,7 +51,7 @@ WorryParking/
 ├─ Services/     WorryTime 계산, 알림, StoreKit 2 구독 관리
 ├─ Components/   테마, 주차권(TicketView), 차단기, 공용 컨트롤
 └─ Views/        온보딩(실제 예시 포함), 주차장, 주차하기, 주차권 시트, 출차 게이트, Exit Log, 설정, 페이월
-AppStore/        스크린샷 캡처·합성 스크립트, 완성 스크린샷(ko/en, 6.5" 1242×2688)
+AppStore/        스크린샷 캡처·합성 스크립트, 완성 스크린샷(ko/en, 6.5" 1242×2688), metadata/{ko,en-US} App Store 문구
 docs/            GitHub Pages — 소개 페이지(한/영 전환), ko/·en/ 지원·개인정보 처리방침
 ```
 

@@ -1,0 +1,9 @@
+Welcome to the first version of Worry Parking.
+
+Write down the worry that keeps circling and park it. It comes back at your Worry Time, and until then you don't have to carry it.
+
+When you start, the app explains why worry postponement works, with the research behind it.
+Try it right away by parking one real worry and seeing how its level changes before and after.
+Share how it felt after your first parking and your first exit. Your answers stay on this iPhone and show up under Your experience in the Exit Log.
+Read Why it works again anytime from Settings.
+Reminder permission is asked once, when you pick your Worry Time.

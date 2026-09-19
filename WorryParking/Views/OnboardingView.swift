@@ -6,35 +6,64 @@ struct OnboardingView: View {
     @AppStorage(SettingsKey.worryMinute) private var worryMinute = WorryTime.defaultMinute
 
     @State private var page = 0
-    private let lastPage = 3
-
-    private var buttonTitle: String {
-        page < lastPage ? String(localized: "Continue") : String(localized: "Allow reminders & start")
-    }
+    /// Reminders are requested when leaving this page, so the prompt never
+    /// interrupts the trial that follows.
+    private let worryTimePageIndex = 3
+    /// The last page is the hands-on trial, which brings its own buttons.
+    private let trialPage = 4
 
     var body: some View {
         VStack(spacing: 0) {
             TabView(selection: $page) {
                 welcomePage.tag(0)
-                howItWorksPage.tag(1)
+                WhyItWorksView().tag(1)
                 ExampleWalkthrough().tag(2)
-                worryTimePage.tag(3)
-            }
-            .tabViewStyle(.page(indexDisplayMode: .always))
-
-            Button {
-                if page < lastPage {
-                    withAnimation { page += 1 }
-                } else {
+                worryTimePage.tag(worryTimePageIndex)
+                OnboardingTrialView {
                     Task { await finish() }
                 }
-            } label: {
-                Text(buttonTitle)
+                .tag(trialPage)
             }
-            .buttonStyle(PrimaryButtonStyle())
-            .padding(24)
+            // Dots are drawn below instead, so they never sit on top of scrolling text.
+            .tabViewStyle(.page(indexDisplayMode: .never))
+
+            if page < trialPage {
+                pageDots
+                    .padding(.top, 12)
+                Button {
+                    if page == worryTimePageIndex {
+                        Task {
+                            await NotificationManager.requestAuthorization()
+                            withAnimation { page += 1 }
+                        }
+                    } else {
+                        withAnimation { page += 1 }
+                    }
+                } label: {
+                    if page == worryTimePageIndex {
+                        Text("Allow reminders & continue")
+                    } else {
+                        Text("Continue")
+                    }
+                }
+                .buttonStyle(PrimaryButtonStyle())
+                .padding(24)
+            }
         }
         .background(Theme.asphalt.ignoresSafeArea())
+    }
+
+    private var pageDots: some View {
+        HStack(spacing: 8) {
+            ForEach(0...trialPage, id: \.self) { index in
+                Capsule()
+                    .fill(index == page ? Theme.lineYellow : Color.white.opacity(0.25))
+                    .frame(width: index == page ? 20 : 8, height: 8)
+            }
+        }
+        .animation(.easeInOut(duration: 0.2), value: page)
+        .accessibilityElement(children: .ignore)
+        .accessibilityLabel(Text("Page \(page + 1) of \(trialPage + 1)"))
     }
 
     private var welcomePage: some View {
@@ -47,22 +76,6 @@ struct OnboardingView: View {
                 .font(.title3)
                 .foregroundStyle(.secondary)
                 .multilineTextAlignment(.center)
-            Spacer()
-        }
-        .padding(28)
-    }
-
-    private var howItWorksPage: some View {
-        VStack(alignment: .leading, spacing: 28) {
-            Spacer()
-            Text("How it works")
-                .font(.largeTitle.weight(.bold))
-            StepRow(number: 1, title: "Write it down", detail: "Get the worry out of your head and onto a ticket.")
-            StepRow(number: 2, title: "Park it", detail: "It stays hidden until your daily Worry Time. If it comes back, remind yourself it already has a spot.")
-            StepRow(number: 3, title: "Exit gate", detail: "At Worry Time, give it \(AppConfig.worrySessionMinutes) focused minutes. Then let it go, make a plan, or park it again.")
-            Text("Based on worry postponement, a technique from cognitive behavioral therapy (CBT).")
-                .font(.footnote)
-                .foregroundStyle(.secondary)
             Spacer()
         }
         .padding(28)
@@ -97,30 +110,6 @@ struct OnboardingView: View {
     private func finish() async {
         await NotificationManager.requestAuthorization()
         withAnimation { hasOnboarded = true }
-    }
-}
-
-private struct StepRow: View {
-    let number: Int
-    let title: LocalizedStringKey
-    let detail: LocalizedStringKey
-
-    var body: some View {
-        HStack(alignment: .top, spacing: 16) {
-            Text("\(number)")
-                .font(.headline.weight(.heavy))
-                .foregroundStyle(Theme.ink)
-                .frame(width: 32, height: 32)
-                .background(Theme.lineYellow, in: Circle())
-            VStack(alignment: .leading, spacing: 4) {
-                Text(title)
-                    .font(.headline)
-                Text(detail)
-                    .font(.subheadline)
-                    .foregroundStyle(.secondary)
-            }
-        }
-        .accessibilityElement(children: .combine)
     }
 }
 

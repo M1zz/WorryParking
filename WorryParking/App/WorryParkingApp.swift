@@ -14,7 +14,7 @@ struct WorryParkingApp: App {
                 .tint(Theme.lineYellow)
                 .task { await store.start() }
         }
-        .modelContainer(for: Worry.self)
+        .modelContainer(for: [Worry.self, ExperienceFeedback.self])
     }
 }
 

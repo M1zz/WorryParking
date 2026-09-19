@@ -69,7 +69,7 @@ struct ScreenshotData {
 
     init() {
         container = try! ModelContainer(
-            for: Worry.self,
+            for: Worry.self, ExperienceFeedback.self,
             configurations: ModelConfiguration(isStoredInMemoryOnly: true)
         )
         let context = container.mainContext

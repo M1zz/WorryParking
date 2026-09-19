@@ -18,6 +18,7 @@ enum SettingsKey {
     static let hasOnboarded = "hasOnboarded"
     static let worryHour = "worryTimeHour"
     static let worryMinute = "worryTimeMinute"
+    static let askedFirstExitFeedback = "askedFirstExitFeedback"
 }
 
 extension String {
