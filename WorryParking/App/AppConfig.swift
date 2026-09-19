@@ -6,9 +6,9 @@ enum AppConfig {
     /// Length of a Worry Time session at the exit gate.
     static let worrySessionMinutes = 15
 
-    // TODO: Replace with your own hosted documents before App Store submission.
+    /// Apple's standard EULA. Hosted pages live in `docs/` (GitHub Pages).
     static let termsURL = URL(string: "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/")!
-    static let privacyURL = URL(string: "https://example.com/worry-parking/privacy")!
+    static let privacyURL = URL(string: "https://m1zz.github.io/WorryParking/privacy.html")!
 }
 
 enum SettingsKey {
