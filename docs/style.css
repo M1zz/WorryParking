@@ -55,6 +55,11 @@ html[data-lang="en"] [lang="ko"]:not(html) { display: none !important; }
   padding: 6px 12px; border-radius: 999px; cursor: pointer;
 }
 .lang-toggle button[aria-pressed="true"] { background: var(--line); color: var(--ink); }
+.lang-toggle a {
+  color: var(--muted); text-decoration: none;
+  font-size: 13px; font-weight: 700; padding: 6px 12px; border-radius: 999px;
+}
+.lang-toggle a[aria-current="page"] { background: var(--line); color: var(--ink); }
 
 /* Hero */
 .hero { padding: 64px 0 40px; }
@@ -152,6 +157,24 @@ footer a:hover { color: var(--line); }
 table { width: 100%; border-collapse: collapse; margin: 12px 0; font-size: 15px; }
 th, td { text-align: left; padding: 10px 12px; border-bottom: 1px solid rgba(255, 255, 255, 0.1); vertical-align: top; }
 th { color: var(--muted); font-weight: 600; }
+
+/* Support FAQ */
+.faq details {
+  background: var(--asphalt-light); border-radius: 16px; padding: 0 20px; margin: 10px 0;
+}
+.faq summary {
+  cursor: pointer; font-weight: 700; padding: 16px 0; list-style: none;
+  display: flex; justify-content: space-between; gap: 12px;
+}
+.faq summary::-webkit-details-marker { display: none; }
+.faq summary::after { content: "+"; color: var(--line); font-weight: 800; }
+.faq details[open] summary::after { content: "−"; }
+.faq details > :not(summary) { margin: 0 0 16px; }
+.contact {
+  display: flex; flex-wrap: wrap; align-items: center; gap: 16px;
+  background: var(--asphalt-light); border-radius: var(--radius); padding: 24px;
+}
+.contact p { margin: 0; flex: 1 1 260px; }
 
 @media (max-width: 760px) {
   .hero { padding-top: 40px; }

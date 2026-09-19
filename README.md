@@ -3,9 +3,13 @@
 자기 전 걱정을 "주차"해두면, 지정한 **Worry Time**까지 숨겨뒀다가 출차 알림으로 돌려주는 iOS 앱.
 CBT의 걱정 미루기(worry postponement / scheduled worry) 기법을 주차장 메타포로 제품화했습니다.
 
-- 소개 페이지: https://m1zz.github.io/WorryParking/
-- 개인정보 처리방침: https://m1zz.github.io/WorryParking/privacy.html
-- 이용약관: [Apple 표준 EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
+| | 한국어 | English |
+|---|---|---|
+| 소개 페이지 | https://m1zz.github.io/WorryParking/?lang=ko | https://m1zz.github.io/WorryParking/?lang=en |
+| 지원 (Support URL) | https://m1zz.github.io/WorryParking/ko/support.html | https://m1zz.github.io/WorryParking/en/support.html |
+| 개인정보 처리방침 (Privacy Policy URL) | https://m1zz.github.io/WorryParking/ko/privacy.html | https://m1zz.github.io/WorryParking/en/privacy.html |
+
+이용약관은 [Apple 표준 EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)를 사용합니다. 언어 구분 없는 `/privacy.html`, `/support.html`은 브라우저 언어에 맞는 페이지로 이동합니다.
 
 ## 요구사항
 - Xcode 16 이상 (폴더 동기화 그룹 형식, objectVersion 77)
@@ -48,7 +52,7 @@ WorryParking/
 ├─ Components/   테마, 주차권(TicketView), 차단기, 공용 컨트롤
 └─ Views/        온보딩(실제 예시 포함), 주차장, 주차하기, 주차권 시트, 출차 게이트, Exit Log, 설정, 페이월
 AppStore/        스크린샷 캡처·합성 스크립트, 완성 스크린샷(ko/en, 6.5" 1242×2688)
-docs/            GitHub Pages — 소개 페이지, 개인정보 처리방침 (한/영)
+docs/            GitHub Pages — 소개 페이지(한/영 전환), ko/·en/ 지원·개인정보 처리방침
 ```
 
 ## 앱스토어 스크린샷
@@ -56,5 +60,5 @@ docs/            GitHub Pages — 소개 페이지, 개인정보 처리방침 (�
 
 ## 출시 전 TODO
 - App Store Connect에 구독 그룹/상품 생성
-- App Store Connect 개인정보 URL에 `https://m1zz.github.io/WorryParking/privacy.html` 입력, 앱 개인정보 라벨은 "데이터 수집 안 함"
+- App Store Connect 현지화별로 지원 URL·개인정보 처리방침 URL 입력 (위 표), 앱 개인정보 라벨은 "데이터 수집 안 함"
 - 웰니스 카테고리 심사 대비: 앱 내 "의료기기 아님" 고지는 Settings ▸ About에 포함됨

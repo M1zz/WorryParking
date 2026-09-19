@@ -8,7 +8,10 @@ enum AppConfig {
 
     /// Apple's standard EULA. Hosted pages live in `docs/` (GitHub Pages).
     static let termsURL = URL(string: "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/")!
-    static let privacyURL = URL(string: "https://m1zz.github.io/WorryParking/privacy.html")!
+    static var privacyURL: URL {
+        let language = Bundle.main.preferredLocalizations.first == "ko" ? "ko" : "en"
+        return URL(string: "https://m1zz.github.io/WorryParking/\(language)/privacy.html")!
+    }
 }
 
 enum SettingsKey {
