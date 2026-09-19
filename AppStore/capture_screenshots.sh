@@ -1,6 +1,6 @@
 #!/bin/zsh
 # Builds the app, captures every screenshot scene in Korean and English on a
-# 6.9" simulator, and composes App Store images into AppStore/Screenshots/.
+# 6.9" simulator, and composes 6.5" (1242x2688) App Store images into AppStore/Screenshots/.
 #
 # Usage: AppStore/capture_screenshots.sh ["iPhone 18 Pro Max"]
 set -euo pipefail

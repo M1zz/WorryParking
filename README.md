@@ -47,12 +47,12 @@ WorryParking/
 ├─ Services/     WorryTime 계산, 알림, StoreKit 2 구독 관리
 ├─ Components/   테마, 주차권(TicketView), 차단기, 공용 컨트롤
 └─ Views/        온보딩(실제 예시 포함), 주차장, 주차하기, 주차권 시트, 출차 게이트, Exit Log, 설정, 페이월
-AppStore/        스크린샷 캡처·합성 스크립트, 완성 스크린샷(ko/en, 6.9")
+AppStore/        스크린샷 캡처·합성 스크립트, 완성 스크린샷(ko/en, 6.5" 1242×2688)
 docs/            GitHub Pages — 소개 페이지, 개인정보 처리방침 (한/영)
 ```
 
 ## 앱스토어 스크린샷
-`AppStore/capture_screenshots.sh` — 시뮬레이터(iPhone 18 Pro Max)에서 DEBUG 스크린샷 모드(`-screenshotScene lot|park|ticket|gate|log`)로 샘플 데이터를 띄워 캡처하고, `AppStore/Screenshots/{ko,en}/`에 1320×2868 이미지를 만듭니다. 문구는 `AppStore/compose_screenshots.py`의 `COPY`에서 수정합니다.
+`AppStore/capture_screenshots.sh` — 시뮬레이터(iPhone 18 Pro Max)에서 DEBUG 스크린샷 모드(`-screenshotScene lot|park|ticket|gate|log`)로 샘플 데이터를 띄워 캡처하고, `AppStore/Screenshots/{ko,en}/`에 1242×2688(6.5") 이미지를 만듭니다. 문구는 `AppStore/compose_screenshots.py`의 `COPY`, 크기는 `W, H`에서 수정합니다.
 
 ## 출시 전 TODO
 - App Store Connect에 구독 그룹/상품 생성

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Compose App Store marketing screenshots (6.9", 1320x2868) from raw simulator captures.
+"""Compose App Store marketing screenshots (6.5", 1242x2688) from raw simulator captures.
 
 Usage: python3 compose_screenshots.py <raw_dir> <out_dir>
   raw_dir contains {ko,en}/{lot,park,ticket,gate,log}.png captured by capture_screenshots.sh
@@ -8,7 +8,14 @@ import sys
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
-W, H = 1320, 2868
+W, H = 1242, 2688
+S = W / 1320  # layout below is designed at 1320 wide
+
+
+def px(value):
+    return round(value * S)
+
+
 ASPHALT_TOP = (28, 30, 35)
 ASPHALT_BOTTOM = (16, 17, 20)
 YELLOW = (255, 204, 56)
@@ -71,10 +78,10 @@ def draw_centered_rich(draw, y, line, fnt):
 
 def background():
     bg = Image.new("RGB", (W, H))
-    px = ImageDraw.Draw(bg)
+    pen = ImageDraw.Draw(bg)
     for y in range(H):
         t = y / H
-        px.line([(0, y), (W, y)], fill=tuple(int(a + (b - a) * t) for a, b in zip(ASPHALT_TOP, ASPHALT_BOTTOM)))
+        pen.line([(0, y), (W, y)], fill=tuple(int(a + (b - a) * t) for a, b in zip(ASPHALT_TOP, ASPHALT_BOTTOM)))
     return bg
 
 
@@ -89,30 +96,31 @@ def compose(lang, shot, headline, subtitle, raw_dir):
     draw = ImageDraw.Draw(img)
 
     # Headline + subtitle
-    head_font = font(lang, 112 if lang == "ko" else 108, heavy=True)
-    sub_font = font(lang, 46, heavy=False)
-    y = 150
+    head_font = font(lang, px(112 if lang == "ko" else 108), heavy=True)
+    sub_font = font(lang, px(46), heavy=False)
+    y = px(150)
     for line in headline.split("\n"):
         draw_centered_rich(draw, y, line, head_font)
-        y += 140
-    y += 26
+        y += px(140)
+    y += px(26)
     sub_w = draw.textlength(subtitle, font=sub_font)
     draw.text(((W - sub_w) / 2, y), subtitle, font=sub_font, fill=GRAY)
 
     # Phone geometry
-    screen_w = 960
-    screen_h = round(screen_w * 2868 / 1320)
-    bezel = 24
+    raw = Image.open(raw_dir / lang / f"{shot}.png").convert("RGB")
+    screen_w = px(960)
+    screen_h = round(screen_w * raw.height / raw.width)
+    bezel = px(24)
     phone_w, phone_h = screen_w + bezel * 2, screen_h + bezel * 2
     px0 = (W - phone_w) // 2
-    py0 = H - phone_h - 90
-    screen_r = 128
+    py0 = H - phone_h - px(90)
+    screen_r = px(128)
     phone_r = screen_r + bezel
 
     # Parking bay: the phone is "parked" between two yellow lines, open at the front.
     bay = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     bd = ImageDraw.Draw(bay)
-    gap, line_w, top = 58, 14, py0 + 220
+    gap, line_w, top = px(58), px(14), py0 + px(220)
     for x in (px0 - gap - line_w, px0 + phone_w + gap):
         bd.rectangle([x, top, x + line_w, H], fill=YELLOW + (150,))
     img.paste(bay, (0, 0), bay)
@@ -120,20 +128,20 @@ def compose(lang, shot, headline, subtitle, raw_dir):
     # Shadow
     shadow = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     ImageDraw.Draw(shadow).rounded_rectangle(
-        [px0, py0 + 30, px0 + phone_w, py0 + phone_h + 30], radius=phone_r, fill=(0, 0, 0, 170)
+        [px0, py0 + px(30), px0 + phone_w, py0 + phone_h + px(30)], radius=phone_r, fill=(0, 0, 0, 170)
     )
-    shadow = shadow.filter(ImageFilter.GaussianBlur(50))
+    shadow = shadow.filter(ImageFilter.GaussianBlur(px(50)))
     img.paste(shadow, (0, 0), shadow)
 
     # Frame
     frame = ImageDraw.Draw(img)
     frame.rounded_rectangle([px0, py0, px0 + phone_w, py0 + phone_h], radius=phone_r, fill=(8, 8, 10))
     frame.rounded_rectangle(
-        [px0, py0, px0 + phone_w, py0 + phone_h], radius=phone_r, outline=(78, 81, 90), width=4
+        [px0, py0, px0 + phone_w, py0 + phone_h], radius=phone_r, outline=(78, 81, 90), width=px(4)
     )
 
     # Screen
-    screen = Image.open(raw_dir / lang / f"{shot}.png").convert("RGB").resize((screen_w, screen_h), Image.LANCZOS)
+    screen = raw.resize((screen_w, screen_h), Image.LANCZOS)
     img.paste(screen, (px0 + bezel, py0 + bezel), rounded_mask((screen_w, screen_h), screen_r))
     return img
 
