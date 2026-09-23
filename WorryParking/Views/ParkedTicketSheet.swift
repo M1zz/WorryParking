@@ -24,11 +24,12 @@ struct ParkedTicketSheet: View {
                             .multilineTextAlignment(.center)
                     }
 
-                    Button("Retrieve early") {
+                    Button {
                         confirmingEarlyExit = true
+                    } label: {
+                        Label("Retrieve early", systemImage: "arrow.up.right")
                     }
-                    .font(.subheadline)
-                    .foregroundStyle(.secondary)
+                    .buttonStyle(SecondaryButtonStyle())
                 }
                 .padding(24)
             }

@@ -14,7 +14,7 @@ struct OnboardingTrialView: View {
     private var parked: [Worry]
 
     private enum Stage {
-        case write, parked, reflect
+        case write, tear, parked, reflect
     }
 
     @State private var stage: Stage = .write
@@ -37,12 +37,17 @@ struct OnboardingTrialView: View {
         WorryTime.next(hour: worryHour, minute: worryMinute)
     }
 
+    private var nextSpot: Int {
+        Worry.nextFreeSpot(occupied: parked.map(\.spotNumber))
+    }
+
     var body: some View {
         VStack(spacing: 0) {
             ScrollView {
                 Group {
                     switch stage {
                     case .write: writeStage
+                    case .tear: tearStage
                     case .parked: parkedStage
                     case .reflect: reflectStage
                     }
@@ -94,6 +99,28 @@ struct OnboardingTrialView: View {
             FormSection(title: "How loud is it right now?") {
                 IntensityPicker(value: $levelBefore, range: 1...5)
             }
+        }
+    }
+
+    /// Tearing the ticket off is the moment the worry gets parked.
+    private var tearStage: some View {
+        VStack(alignment: .leading, spacing: 24) {
+            VStack(alignment: .leading, spacing: 6) {
+                Text("Tear off your ticket")
+                    .font(.largeTitle.weight(.bold))
+                Text("Swipe along the dotted line. Once it tears off, this worry is parked until \(WorryTime.describe(exitDate)).")
+                    .font(.subheadline)
+                    .foregroundStyle(.secondary)
+                    .fixedSize(horizontal: false, vertical: true)
+            }
+
+            TearOffTicket(
+                spot: nextSpot,
+                exitAt: exitDate,
+                text: trimmedText,
+                onTear: park
+            )
+            .padding(.top, 12)
         }
     }
 
@@ -164,8 +191,9 @@ struct OnboardingTrialView: View {
         switch stage {
         case .write:
             VStack(spacing: 12) {
-                Button(action: park) {
-                    Label("Park it", systemImage: "parkingsign")
+                Button("Next") {
+                    isEditorFocused = false
+                    withAnimation(.easeInOut(duration: 0.3)) { stage = .tear }
                 }
                 .buttonStyle(PrimaryButtonStyle())
                 .disabled(trimmedText.isEmpty)
@@ -175,6 +203,13 @@ struct OnboardingTrialView: View {
                     .font(.subheadline)
                     .foregroundStyle(.secondary)
             }
+        case .tear:
+            Button {
+                withAnimation(.easeInOut(duration: 0.3)) { stage = .write }
+            } label: {
+                Label("Edit my worry", systemImage: "pencil")
+            }
+            .buttonStyle(SecondaryButtonStyle())
         case .parked:
             Button("Next") {
                 withAnimation(.easeInOut(duration: 0.3)) { stage = .reflect }
@@ -196,7 +231,7 @@ struct OnboardingTrialView: View {
         guard !trimmedText.isEmpty else { return }
         let worry = Worry(
             text: trimmedText,
-            spotNumber: Worry.nextFreeSpot(occupied: parked.map(\.spotNumber)),
+            spotNumber: nextSpot,
             intensityBefore: levelBefore,
             exitAt: exitDate
         )

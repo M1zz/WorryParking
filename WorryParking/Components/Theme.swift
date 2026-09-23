@@ -48,6 +48,24 @@ struct PrimaryButtonStyle: ButtonStyle {
     }
 }
 
+/// An outlined capsule for actions that should read as buttons but stay
+/// quieter than the primary one.
+struct SecondaryButtonStyle: ButtonStyle {
+    func makeBody(configuration: Configuration) -> some View {
+        configuration.label
+            .font(.subheadline.weight(.semibold))
+            .foregroundStyle(.white.opacity(0.85))
+            .padding(.vertical, 12)
+            .padding(.horizontal, 20)
+            .frame(maxWidth: .infinity)
+            .background(Theme.asphaltLight, in: Capsule())
+            .overlay(Capsule().strokeBorder(.white.opacity(0.2), lineWidth: 1))
+            .scaleEffect(configuration.isPressed ? 0.98 : 1)
+            .opacity(configuration.isPressed ? 0.7 : 1)
+            .animation(.easeOut(duration: 0.15), value: configuration.isPressed)
+    }
+}
+
 /// The blue "P" road sign used as the brand mark.
 struct ParkingSign: View {
     var size: CGFloat = 44

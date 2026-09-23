@@ -150,12 +150,8 @@ struct ParkWorryView: View {
                     }
                 }
 
-                Button(action: park) {
-                    Label("Park it", systemImage: "parkingsign")
-                }
-                .buttonStyle(PrimaryButtonStyle())
-                .disabled(!canPark)
-                .opacity(canPark ? 1 : 0.4)
+                TearOffTicket(spot: spot, exitAt: exitDate, isEnabled: canPark, onTear: park)
+                    .padding(.top, 4)
             }
             .padding(20)
         }

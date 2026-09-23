@@ -4,7 +4,7 @@
   "products" : [],
   "settings" : {
     "_failTransactionsEnabled" : false,
-    "_locale" : "en_US",
+    "_locale" : "ko",
     "_storefront" : "USA",
     "_storeKitErrors" : []
   },

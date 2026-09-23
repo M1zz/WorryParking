@@ -81,30 +81,49 @@ struct OnboardingView: View {
         .padding(28)
     }
 
+    /// Scrolls so the wheel picker never squeezes the explanation into "…";
+    /// stays vertically centered when everything fits.
     private var worryTimePage: some View {
-        VStack(spacing: 20) {
-            Spacer()
-            Image(systemName: "clock.fill")
-                .font(.system(size: 56))
-                .foregroundStyle(Theme.lineYellow)
-                .accessibilityHidden(true)
-            Text("Pick your Worry Time")
-                .font(.largeTitle.weight(.bold))
-                .multilineTextAlignment(.center)
-            Text("A daily 15-minute window, ideally a few hours before bed. We'll tap you on the shoulder when a worry is ready for pickup.")
-                .font(.body)
-                .foregroundStyle(.secondary)
-                .multilineTextAlignment(.center)
-            DatePicker(
-                "Worry Time",
-                selection: WorryTime.dateBinding(hour: $worryHour, minute: $worryMinute),
-                displayedComponents: .hourAndMinute
-            )
-            .datePickerStyle(.wheel)
-            .labelsHidden()
-            Spacer()
+        GeometryReader { proxy in
+            ScrollView {
+                VStack(spacing: 20) {
+                    VStack(spacing: 20) {
+                        Image(systemName: "clock.fill")
+                            .font(.system(size: 56))
+                            .foregroundStyle(Theme.lineYellow)
+                            .accessibilityHidden(true)
+                        Text("Pick your Worry Time")
+                            .font(.largeTitle.weight(.bold))
+                            .multilineTextAlignment(.center)
+                            .fixedSize(horizontal: false, vertical: true)
+                        Text("A daily 15-minute window, ideally a few hours before bed. We'll tap you on the shoulder when a worry is ready for pickup.")
+                            .font(.body)
+                            .foregroundStyle(.secondary)
+                            .multilineTextAlignment(.center)
+                            .fixedSize(horizontal: false, vertical: true)
+                    }
+                    .padding(.horizontal, 28)
+
+                    // The wheel won't shrink below ~320pt, so it gets the full
+                    // page width instead of the text margins.
+                    DatePicker(
+                        "Worry Time",
+                        selection: WorryTime.dateBinding(hour: $worryHour, minute: $worryMinute),
+                        displayedComponents: .hourAndMinute
+                    )
+                    .datePickerStyle(.wheel)
+                    .labelsHidden()
+                    .frame(width: proxy.size.width)
+                    .clipped()
+                }
+                .padding(.vertical, 28)
+                // Pinned to the page width: anything wider would push the
+                // whole page to the right instead of staying centered.
+                .frame(width: proxy.size.width)
+                .frame(minHeight: proxy.size.height)
+            }
+            .scrollBounceBehavior(.basedOnSize)
         }
-        .padding(28)
     }
 
     private func finish() async {
