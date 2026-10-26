@@ -638,3 +638,74 @@ https://m1zz.github.io/WorryParking/de/privacy.html
 ### 마케팅 URL
 
 https://m1zz.github.io/WorryParking/de/index.html
+
+## fr
+
+### 이름
+
+Parking des Soucis
+
+### 부제
+
+Repousse tes inquiétudes
+
+### 키워드
+
+anxiété,sommeil,insomnie,TCC,CBT,rumination,journal,méditation,détente,calme,pensées,bien-être
+
+### 프로모션 텍스트
+
+Écris le souci qui tourne en boucle et gare-le. À ton heure des soucis, donne-lui 15 minutes : le reste de ta journée sera plus léger. Basé sur la TCC.
+
+### 설명
+
+Le même souci tourne en boucle chaque soir ?
+Parking des Soucis lui trouve une place. Écris-le, gare-le, et on te le ramène à ton heure des soucis. D’ici là, tu n’as pas à le porter.
+
+COMMENT ÇA MARCHE
+1. Écrire : mets le souci en mots tel qu’il résonne et note de 1 à 5 à quel point il est fort.
+2. Garer : les soucis garés restent floutés. S’il revient dans ta tête, dis-lui : tu as déjà une place.
+3. Barrière de sortie : quand l’heure des soucis arrive, accorde-lui 15 minutes d’attention. Vérifie si c’est vraiment arrivé, puis laisse-le partir, fais un petit plan ou gare-le de nouveau.
+
+POURQUOI ÇA MARCHE
+Parking des Soucis repose sur le report de l’inquiétude, une technique de la thérapie cognitivo-comportementale (TCC) étudiée depuis des décennies.
+
+• S’inquiéter à une heure fixe
+Les soucis surgissent n’importe où : au lit, sous la douche, sur le chemin du retour. Quand s’inquiéter a son propre moment, ton cerveau comprend que le reste de la journée n’est pas pour ça. Les personnes qui ont déplacé leurs soucis vers une courte période quotidienne y ont passé moins de temps et ont signalé moins d’anxiété et moins de troubles du sommeil. (Borkovec et al., 1983 ; McGowan et Behar, 2013)
+
+• Écris-le pour le poser
+Un souci non résolu tourne en boucle parce que ton esprit a peur de l’oublier. Faire un plan concret a empêché les tâches inachevées d’envahir les pensées, et cinq minutes d’écriture avant de dormir ont aidé les gens à s’endormir plus vite. (Masicampo et Baumeister, 2011 ; Scullin et al., 2018)
+
+• Vérifier ce qui s’est vraiment passé
+L’inquiétude prédit un avenir pire que ce qu’il est d’ordinaire. Quand des personnes sujettes à l’inquiétude chronique ont noté leurs soucis, 91 % ne se sont pas réalisés. (LaFreniere et Newman, 2020)
+
+ESSAIE TOUT DE SUITE
+Pendant la prise en main, tu gares un vrai souci et tu vois comment son intensité change avant et après. Ce que tu as ressenti est enregistré dans « Ton expérience » pour que tu puisses y revenir plus tard.
+
+JOURNAL DES SORTIES
+À mesure que les soucis passés en revue s’accumulent, tu vois quelle part de tes craintes s’est réellement produite et de combien leur intensité a baissé en moyenne.
+
+CONFIDENTIEL PAR CONCEPTION
+• Pas de compte, pas de serveur, pas de publicité, pas d’outil d’analyse. Tout ce que tu écris reste sur ton iPhone.
+• Les notifications n’affichent que le numéro de place, comme « P3 est prête pour la sortie ». Le texte de ton souci n’y figure jamais.
+
+CE QUE TU TROUVES DANS L’APP
+• Places illimitées, heures de sortie personnalisées, rappels quotidiens de l’heure des soucis
+• La barrière de sortie, le journal des sorties et les analyses des sorties
+
+Conditions d’utilisation : https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Politique de confidentialité : https://m1zz.github.io/WorryParking/fr/privacy.html
+
+Parking des Soucis est un outil d’entraide. Ce n’est pas un dispositif médical et il ne remplace ni un diagnostic ni un traitement professionnel. Si tu traverses une période difficile, contacte un professionnel de la santé mentale ou les services d’urgence de ton pays.
+
+### 지원 URL
+
+https://m1zz.github.io/WorryParking/fr/support.html
+
+### 개인정보처리방침 URL
+
+https://m1zz.github.io/WorryParking/fr/privacy.html
+
+### 마케팅 URL
+
+https://m1zz.github.io/WorryParking/fr/index.html

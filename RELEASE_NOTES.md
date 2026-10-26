@@ -64,3 +64,10 @@ Jetzt sind alle Funktionen kostenlos
 Parke so viele Sorgen, wie du willst
 Ausfahrtszeiten und Einblicke gratis
 Jetzt in mehr Sprachen verfügbar
+
+### App Store (Français)
+
+Toutes les fonctions sont gratuites
+Gare autant de soucis que nécessaire
+Heures de sortie et analyses gratuites
+Disponible dans plus de langues

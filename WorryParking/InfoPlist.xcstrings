@@ -29,6 +29,12 @@
             "value" : "Parking de Preocupaciones"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parking des Soucis"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -87,6 +93,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Parking de Preocupaciones"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parking des Soucis"
           }
         },
         "ja" : {

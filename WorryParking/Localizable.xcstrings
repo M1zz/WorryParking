@@ -24,6 +24,12 @@
             "value" : "%1$lld de %2$lld plazas ocupadas"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$lld places sur %2$lld utilisées"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -76,6 +82,12 @@
             "value" : "%lld aparcadas"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld garés"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -126,6 +138,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "El %lld%% de los miedos que comprobaste no se cumplió."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld %% des craintes que tu as vérifiées ne se sont pas réalisées."
           }
         },
         "ja" : {
@@ -183,6 +201,12 @@
             "value" : "23:40 y tu mente no deja de repetir lo de mañana. Escribe la preocupación tal como suena y valora cuánto volumen tiene."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "23 h 40 et ton esprit rejoue sans cesse la journée de demain. Écris le souci tel qu’il résonne et dis à quel point il est fort."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -233,6 +257,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "18:00, la presentación ya pasó. ¿Ocurrió lo que temías? Casi nada. La preocupación bajó de 4 a 1, la dejaste ir y quedó en tu registro de salidas."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "18 h, la présentation est terminée. Est-ce arrivé ? Pas vraiment. Le souci est passé de 4 à 1, tu le laisses donc partir, et il rejoint ton journal des sorties."
           }
         },
         "ja" : {
@@ -287,6 +317,12 @@
             "value" : "Un parking más grande para una mente más ocupada."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un plus grand parking pour un esprit bien occupé."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -337,6 +373,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Un rato de 15 minutos al día, mejor unas horas antes de dormir. Te avisaremos con suavidad cuando una preocupación esté lista para salir."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "15 minutes par jour, de préférence quelques heures avant de dormir. On te prévient en douceur quand un souci est prêt à sortir."
           }
         },
         "ja" : {
@@ -391,6 +433,12 @@
             "value" : "Un poco más ligera"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un peu plus léger"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -441,6 +489,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Un susurro"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un murmure"
           }
         },
         "ja" : {
@@ -495,6 +549,12 @@
             "value" : "Acerca de"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "À propos"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -545,6 +605,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Más o menos igual"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "À peu près pareil"
           }
         },
         "ja" : {
@@ -599,6 +665,12 @@
             "value" : "Después de aparcarla, ¿cómo te sientes?"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Une fois garé, comment te sens-tu ?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -649,6 +721,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Permitir avisos de salida"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Autoriser les rappels de sortie"
           }
         },
         "ja" : {
@@ -703,6 +781,12 @@
             "value" : "Permitir avisos y continuar"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Autoriser les rappels et continuer"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -753,6 +837,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Una preocupación sin resolver se repite porque tu mente teme olvidarla. Escribirla y fijar una hora para volver a ella le dice a tu cerebro que, por ahora, está controlada."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un souci non résolu tourne en boucle parce que ton esprit a peur de l’oublier. L’écrire et fixer un moment pour y revenir dit à ton cerveau que c’est pris en charge pour l’instant."
           }
         },
         "ja" : {
@@ -807,6 +897,12 @@
             "value" : "¿Algo más? (opcional)"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Autre chose ? (facultatif)"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -857,6 +953,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bajada media de nivel"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Baisse moyenne d’intensité"
           }
         },
         "ja" : {
@@ -911,6 +1013,12 @@
             "value" : "Antes"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avant"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -961,6 +1069,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Recupera una preocupación justo cuando puedas con ella."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ressors un souci exactement quand tu es prêt à l’affronter."
           }
         },
         "ja" : {
@@ -1015,6 +1129,12 @@
             "value" : "Cancelar"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Annuler"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1065,6 +1185,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Comprueba qué ocurrió en realidad"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vérifie ce qui s’est vraiment passé"
           }
         },
         "ja" : {
@@ -1119,6 +1245,12 @@
             "value" : "Elige una hora unas horas antes de dormir. Las preocupaciones nuevas se quedan aparcadas hasta entonces. Las que ya están aparcadas conservan su hora de salida."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choisis une heure quelques heures avant de dormir. Les nouveaux soucis restent garés jusque-là. Ceux déjà garés gardent leur heure de sortie."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1169,6 +1301,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cerrar"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fermer"
           }
         },
         "ja" : {
@@ -1223,6 +1361,12 @@
             "value" : "Continuar"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continuer"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1273,6 +1417,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cantidad"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nombre"
           }
         },
         "ja" : {
@@ -1327,6 +1477,12 @@
             "value" : "Horas de salida personalizadas"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heures de sortie personnalisées"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1377,6 +1533,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hora personalizada"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heure personnalisée"
           }
         },
         "ja" : {
@@ -1431,6 +1593,12 @@
             "value" : "¿Ocurrió de verdad lo que temías?"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ce que tu craignais s’est-il vraiment produit ?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1481,6 +1649,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "No ocurrió"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pas arrivé"
           }
         },
         "ja" : {
@@ -1535,6 +1709,12 @@
             "value" : "Listo"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terminé"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1585,6 +1765,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sacar el coche"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sortir"
           }
         },
         "ja" : {
@@ -1639,6 +1825,12 @@
             "value" : "Reescribir mi preocupación"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Modifier mon souci"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1686,6 +1878,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Libre"
+          }
+        },
+        "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Libre"
@@ -1743,6 +1941,12 @@
             "value" : "Todo lo que escribes se queda en este dispositivo. Las notificaciones nunca incluyen el texto de tus preocupaciones."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tout ce que tu écris reste sur cet appareil. Les notifications n’incluent jamais le texte de ton souci."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1793,6 +1997,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "SALIDA"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SORTIE"
           }
         },
         "ja" : {
@@ -1847,6 +2057,12 @@
             "value" : "Salida"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sortie"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1897,6 +2113,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Barrera de salida"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Barrière de sortie"
           }
         },
         "ja" : {
@@ -1951,6 +2173,12 @@
             "value" : "Barrera de salida · P%lld"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Barrière de sortie · P%lld"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2001,6 +2229,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Barrera de salida · P1"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Barrière de sortie · P1"
           }
         },
         "ja" : {
@@ -2055,6 +2289,12 @@
             "value" : "Información de salidas"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Analyses des sorties"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2105,6 +2345,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Registro de salidas"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Journal des sorties"
           }
         },
         "ja" : {
@@ -2159,6 +2405,12 @@
             "value" : "Hora de salida"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heure de sortie"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2209,6 +2461,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ya salió"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sorti"
           }
         },
         "ja" : {
@@ -2263,6 +2521,12 @@
             "value" : "Sale en %@"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sortie dans %@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2313,6 +2577,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Primera salida"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Première sortie"
           }
         },
         "ja" : {
@@ -2367,6 +2637,12 @@
             "value" : "La primera vez que aparcaste"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La première fois que tu l’as garé"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2417,6 +2693,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dale toda tu atención. Es lo único que tienes que hacer ahora."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Accorde-lui toute ton attention. C’est la seule chose à faire pour l’instant."
           }
         },
         "ja" : {
@@ -2471,6 +2753,12 @@
             "value" : "Desapareció"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disparu"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2521,6 +2809,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pesada"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lourd"
           }
         },
         "ja" : {
@@ -2575,6 +2869,12 @@
             "value" : "Historial"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Historique"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2625,6 +2925,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿Cómo te fue?"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comment ça s’est passé ?"
           }
         },
         "ja" : {
@@ -2679,6 +2985,12 @@
             "value" : "¿Qué volumen tiene ahora?"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "À quel point est-il fort maintenant ?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2731,6 +3043,12 @@
             "value" : "¿Qué volumen tiene en este momento?"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "À quel point est-il fort en ce moment ?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2781,6 +3099,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Si vuelve a tu cabeza, nótalo y dite: ya tiene plaza. Te ocuparás de ella a la Hora de preocuparse."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "S’il revient dans ta tête, remarque-le et dis-toi : il a une place. Tu t’en occuperas à l’heure des soucis."
           }
         },
         "ja" : {
@@ -2837,6 +3161,12 @@
             "value" : "Si sigue volviendo, prueba a decir un breve «ya tienes plaza» y vuelve a lo que estabas haciendo. Si la preocupación te estorba en el día a día, hablar con un profesional puede ayudarte mucho."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "S’il revenait sans cesse, essaie de te dire simplement « tu as déjà une place » et retourne à ce que tu faisais. Si les soucis t’empêchent de vivre normalement, en parler à un professionnel peut vraiment aider."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2887,6 +3217,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ENTRADA"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ENTRÉE"
           }
         },
         "ja" : {
@@ -2941,6 +3277,12 @@
             "value" : "Me molestó menos"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ça m’a moins préoccupé"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2991,6 +3333,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Me molestó más"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ça m’a plus préoccupé"
           }
         },
         "ja" : {
@@ -3045,6 +3393,12 @@
             "value" : "No ocurrió"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ça n’est pas arrivé"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3097,6 +3451,12 @@
             "value" : "Ocurrió"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "C’est arrivé"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3147,6 +3507,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cuando la aparcaste era un %lld."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il était à %lld quand tu l’as garé."
           }
         },
         "ja" : {
@@ -3203,6 +3569,12 @@
             "value" : "Me ronda más la cabeza"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Je n’arrête pas d’y penser"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3253,6 +3625,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Solo es la primera. En los estudios, el efecto se fue acumulando a lo largo de unas semanas. Aparca algunas más y compáralas en tu registro de salidas."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ce n’est que le premier. Dans les études, l’effet s’est construit sur quelques semaines. Gare-en quelques autres et compare-les dans ton journal des sorties."
           }
         },
         "ja" : {
@@ -3307,6 +3685,12 @@
             "value" : "Ya salió del parking. Déjala ir."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il a quitté le parking. Laisse-le partir."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3357,6 +3741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Está aparcada hasta la Hora de preocuparse de mañana. Cuando vuelva a aparecer en la ducha, dite: ya tiene plaza."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il est garé jusqu’à l’heure des soucis de demain. Quand il resurgit sous la douche, dis-toi simplement : il a déjà une place."
           }
         },
         "ja" : {
@@ -3411,6 +3801,12 @@
             "value" : "Es la Hora de preocuparse. Dedícale %lld minutos de atención y luego decide qué hacer con ella."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "C’est l’heure des soucis. Accorde-lui %lld minutes d’attention, puis décide quoi en faire."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3461,6 +3857,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mantener aparcada"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le laisser garé"
           }
         },
         "ja" : {
@@ -3515,6 +3917,12 @@
             "value" : "Sigue aparcando. Los patrones aparecen tras unas cuantas salidas."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue à garer. Des schémas apparaissent après quelques sorties."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3565,6 +3973,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Más tarde"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plus tard"
           }
         },
         "ja" : {
@@ -3619,6 +4033,12 @@
             "value" : "Dejarla ir"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le laisser partir"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3669,6 +4089,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "NIVEL"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "INTENSITÉ"
           }
         },
         "ja" : {
@@ -3723,6 +4149,12 @@
             "value" : "Nivel %lld de 5, %@"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Intensité %lld sur 5, %@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3773,6 +4205,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nivel %lld → %lld"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Intensité %lld → %lld"
           }
         },
         "ja" : {
@@ -3829,6 +4267,12 @@
             "value" : "Mirar una preocupación de frente puede hacer que al principio parezca más grande. No tienes que resolverla ahora. Su único trabajo es esperar a la Hora de preocuparse."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Regarder un souci en face peut d’abord le faire paraître plus gros. Tu n’as pas à le résoudre maintenant. Son seul travail est d’attendre l’heure des soucis."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3876,6 +4320,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parking"
+          }
+        },
+        "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Parking"
@@ -3933,6 +4383,12 @@
             "value" : "Fuerte"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fort"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3983,6 +4439,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Plan hecho"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plan fait"
           }
         },
         "ja" : {
@@ -4037,6 +4499,12 @@
             "value" : "Hacer un plan"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Faire un plan"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4087,6 +4555,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hacer un plan concreto evitó que las tareas pendientes invadieran los pensamientos, y escribir cinco minutos antes de dormir ayudó a la gente a conciliar el sueño más rápido."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Faire un plan concret a empêché les tâches inachevées d’envahir les pensées, et cinq minutes d’écriture avant de dormir ont aidé les gens à s’endormir plus vite."
           }
         },
         "ja" : {
@@ -4141,6 +4615,12 @@
             "value" : "Gestionar suscripción"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gérer l’abonnement"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4191,6 +4671,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Persistente"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tenace"
           }
         },
         "ja" : {
@@ -4245,6 +4731,12 @@
             "value" : "Siguiente"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suivant"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4295,6 +4787,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Próxima Hora de preocuparse"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prochaine heure des soucis"
           }
         },
         "ja" : {
@@ -4349,6 +4847,12 @@
             "value" : "Próxima Hora de preocuparse: %@"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prochaine heure des soucis : %@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4399,6 +4903,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aún no hay salidas"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aucune sortie pour l’instant"
           }
         },
         "ja" : {
@@ -4453,6 +4963,12 @@
             "value" : "Ahora no"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pas maintenant"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4505,6 +5021,12 @@
             "value" : "Aún no está lista. Recupérala en la próxima Hora de preocuparse."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pas encore prêt. Ressors-le à la prochaine heure des soucis."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4555,6 +5077,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Las notificaciones están desactivadas"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Les notifications sont désactivées"
           }
         },
         "ja" : {
@@ -4611,6 +5139,12 @@
             "value" : "Ahora"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maintenant"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4661,6 +5195,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ahora que está aparcada, ¿qué volumen tiene?"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maintenant qu’il est garé, à quel point est-il fort ?"
           }
         },
         "ja" : {
@@ -4715,6 +5255,12 @@
             "value" : "Una preocupación real, desde las 23:40 hasta la Hora de preocuparse del día siguiente."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un vrai souci, de 23 h 40 jusqu’à l’heure des soucis du lendemain."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4765,6 +5311,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Un pequeño paso siguiente"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un petit pas suivant"
           }
         },
         "ja" : {
@@ -4819,6 +5371,12 @@
             "value" : "Abrir los Ajustes de iOS"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ouvrir les réglages iOS"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4869,6 +5427,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Abrumadora"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Écrasant"
           }
         },
         "ja" : {
@@ -4929,6 +5493,12 @@
             "value" : "P%lld está lista para salir"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "P%lld est prête pour la sortie"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4984,6 +5554,12 @@
             "value" : "P%1$lld · Ticket n.º %2$@"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "P%1$lld · Ticket n° %2$@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5034,6 +5610,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Página %1$lld de %2$lld"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Page %1$lld sur %2$lld"
           }
         },
         "ja" : {
@@ -5088,6 +5670,12 @@
             "value" : "Aparcar"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Garer"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5138,6 +5726,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aparcar una preocupación"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Garer un souci"
           }
         },
         "ja" : {
@@ -5192,6 +5786,12 @@
             "value" : "Aparcar en P%lld"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Garer en P%lld"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5242,6 +5842,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aparca todas tus preocupaciones, no solo tres."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gare tous tes soucis, pas seulement trois."
           }
         },
         "ja" : {
@@ -5296,6 +5902,12 @@
             "value" : "Aparcarla de nuevo"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le garer de nouveau"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5346,6 +5958,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aparcada %@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Garé %@"
           }
         },
         "ja" : {
@@ -5400,6 +6018,12 @@
             "value" : "Aparcada en P%lld"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Garé en P%lld"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5450,6 +6074,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aparcada hasta %@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Garé jusqu’à %@"
           }
         },
         "ja" : {
@@ -5504,6 +6134,12 @@
             "value" : "Las preocupaciones aparcadas permanecen ocultas hasta su hora de salida. No tienes que cargar con ellas ahora."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Les soucis garés restent masqués jusqu’à leur heure de sortie. Tu n’as pas à les porter pour l’instant."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5556,6 +6192,12 @@
             "value" : "Aparcada. Ahora no es cosa tuya."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Garé. Pas ton affaire pour le moment."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5606,6 +6248,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "En parte"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En partie"
           }
         },
         "ja" : {
@@ -5662,6 +6310,12 @@
             "value" : "Quienes trasladaron sus preocupaciones a un breve momento diario dedicaron menos tiempo a preocuparse y refirieron menos ansiedad y menos problemas de sueño."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Les personnes qui ont déplacé leurs soucis vers une courte période quotidienne y ont passé moins de temps et ont signalé moins d’anxiété et moins de troubles du sommeil."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5712,6 +6366,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Elige tu Hora de preocuparse"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choisis ton heure des soucis"
           }
         },
         "ja" : {
@@ -5766,6 +6426,12 @@
             "value" : "Posponer te está funcionando. Prueba a aparcar también la siguiente."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reporter fonctionne pour toi. Essaie de garer aussi le prochain."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5816,6 +6482,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Posponer funciona mejor cuando esperas. A la Hora de preocuparse, la mayoría de las preocupaciones se sienten más pequeñas."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reporter marche mieux quand tu attends. À l’heure des soucis, la plupart des soucis paraissent plus petits."
           }
         },
         "ja" : {
@@ -5870,6 +6542,12 @@
             "value" : "Política de privacidad"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Politique de confidentialité"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5920,6 +6598,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pro activo"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro est actif"
           }
         },
         "ja" : {
@@ -5974,6 +6658,12 @@
             "value" : "Plaza Pro"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Place Pro"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6024,6 +6714,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lista para salir"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prêt pour la sortie"
           }
         },
         "ja" : {
@@ -6078,6 +6774,12 @@
             "value" : "Avisos"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rappels"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6128,6 +6830,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Los estudios describen efectos medios y los resultados varían de una persona a otra. Parking de Preocupaciones es una herramienta de autoayuda, no un producto sanitario ni un tratamiento."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Les recherches décrivent des effets moyens, et les résultats varient d’une personne à l’autre. Parking des Soucis est un outil d’entraide, pas un dispositif médical ni un traitement."
           }
         },
         "ja" : {
@@ -6182,6 +6890,12 @@
             "value" : "Referencias de investigación"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Références scientifiques"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6232,6 +6946,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Restaurar compras"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restaurer les achats"
           }
         },
         "ja" : {
@@ -6286,6 +7006,12 @@
             "value" : "Resultado"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Résultat"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6336,6 +7062,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sacar antes"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sortir plus tôt"
           }
         },
         "ja" : {
@@ -6390,6 +7122,12 @@
             "value" : "¿Sacar esta preocupación antes de tiempo?"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ressortir ce souci plus tôt ?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6440,6 +7178,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mira cuántos de tus miedos se cumplieron de verdad."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vois combien de tes craintes se sont réellement produites."
           }
         },
         "ja" : {
@@ -6494,6 +7238,12 @@
             "value" : "Mira cuántas de tus preocupaciones ocurrieron de verdad"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vois combien de tes soucis se sont réellement produits"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6544,6 +7294,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verlo en acción"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voir en action"
           }
         },
         "ja" : {
@@ -6598,6 +7354,12 @@
             "value" : "Enviarla ahora a la barrera de salida"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L’envoyer maintenant à la barrière de sortie"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6648,6 +7410,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ajustes"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Réglages"
           }
         },
         "ja" : {
@@ -6702,6 +7470,12 @@
             "value" : "Omitir por ahora"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Passer pour l’instant"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6752,6 +7526,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Plaza %lld. Libre. Aparca aquí una preocupación."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Place %lld. Libre. Gare un souci ici."
           }
         },
         "ja" : {
@@ -6806,6 +7586,12 @@
             "value" : "Plaza %lld. Plaza Pro, bloqueada."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Place %lld. Place Pro, verrouillée."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6856,6 +7642,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Plaza %1$lld. Preocupación aparcada hasta %2$@."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Place %1$lld. Souci garé jusqu’à %2$@."
           }
         },
         "ja" : {
@@ -6910,6 +7702,12 @@
             "value" : "Plaza %lld. Preocupación lista para salir."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Place %lld. Souci prêt pour la sortie."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6960,6 +7758,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Empezar"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Commencer"
           }
         },
         "ja" : {
@@ -7014,6 +7818,12 @@
             "value" : "Desliza por la línea de puntos para aparcar"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Glisse le long de la ligne pointillée pour garer"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7064,6 +7874,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Desliza por la línea de puntos. Cuando se rompa el ticket, esta preocupación quedará aparcada hasta %@."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Glisse le long de la ligne pointillée. Une fois le ticket déchiré, ce souci est garé jusqu’à %@."
           }
         },
         "ja" : {
@@ -7118,6 +7934,12 @@
             "value" : "Respira hondo y despacio una vez. Ahora mismo no hay nada que hacer con ella."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prends une inspiration lente. Il n’y a rien à faire à ce sujet pour l’instant."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7168,6 +7990,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rompe el ticket para aparcar"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Déchire le ticket pour garer"
           }
         },
         "ja" : {
@@ -7222,6 +8050,12 @@
             "value" : "Rompe tu ticket"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Déchire ton ticket"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7272,6 +8106,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Condiciones de uso"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conditions d’utilisation"
           }
         },
         "ja" : {
@@ -7326,6 +8166,12 @@
             "value" : "Es completamente normal. El efecto suele acumularse a lo largo de días, no de minutos. Cuando reaparezca, dile «ya tienes plaza» y observa cómo te sientes a la Hora de preocuparse."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "C’est tout à fait normal. L’effet se construit généralement en quelques jours, pas en quelques minutes. Quand il resurgit, dis-lui « tu as déjà une place » et observe ce que tu ressens à l’heure des soucis."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7376,6 +8222,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ese es el primer efecto de posponer. Cuando una preocupación está escrita y tiene su sitio, tu mente no necesita aferrarse a ella. Nos vemos a la Hora de preocuparse."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "C’est le premier effet du report. Une fois le souci écrit et rangé quelque part, ton esprit n’a plus besoin de s’y accrocher. À l’heure des soucis."
           }
         },
         "ja" : {
@@ -7430,6 +8282,12 @@
             "value" : "La Hora de preocuparse siguiente"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L’heure des soucis suivante"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7480,6 +8338,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ticket n.º %@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ticket n° %@"
           }
         },
         "ja" : {
@@ -7534,6 +8398,12 @@
             "value" : "hoy a las %@"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "aujourd’hui à %@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7584,6 +8454,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "mañana a las %@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "demain à %@"
           }
         },
         "ja" : {
@@ -7638,6 +8514,12 @@
             "value" : "Aún es pronto para saberlo"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trop tôt pour le dire"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7688,6 +8570,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pruébalo ahora"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Essaie maintenant"
           }
         },
         "ja" : {
@@ -7742,6 +8630,12 @@
             "value" : "Conviértela en un pequeño paso siguiente."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Transforme-le en un petit pas suivant."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7792,6 +8686,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Plazas de aparcamiento ilimitadas"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Places de parking illimitées"
           }
         },
         "ja" : {
@@ -7846,6 +8746,12 @@
             "value" : "Plazas ilimitadas, horas de salida personalizadas, información"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Places illimitées, heures de sortie personnalisées, analyses"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7896,6 +8802,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Desbloquea la información con Pro"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Débloque les analyses avec Pro"
           }
         },
         "ja" : {
@@ -7950,6 +8862,12 @@
             "value" : "Te avisaremos cuando una preocupación esté lista para salir."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "On te prévient quand un souci est prêt pour la sortie."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8000,6 +8918,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿Qué quieres hacer con ella?"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Que veux-tu en faire ?"
           }
         },
         "ja" : {
@@ -8054,6 +8978,12 @@
             "value" : "¿Y si me quedo en blanco en la presentación de mañana y todos piensan que no soy lo bastante bueno?"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Et si j’ai un trou de mémoire pendant la présentation de demain et que tout le monde me trouve nul ?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8104,6 +9034,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lo que temías no ocurrió. Cada salida así queda en tu registro de salidas, para que veas con qué frecuencia tus preocupaciones se equivocan."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ce que tu craignais ne s’est pas produit. Chaque sortie comme celle-ci est ajoutée à ton journal des sorties, pour que tu voies à quelle fréquence tes soucis se trompent."
           }
         },
         "ja" : {
@@ -8158,6 +9094,12 @@
             "value" : "¿Qué te da vueltas en la cabeza?"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Qu’est-ce qui tourne dans ta tête ?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8208,6 +9150,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cuando personas con preocupación crónica anotaron sus preocupaciones, el %lld%% no se cumplió."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quand des personnes sujettes à l’inquiétude chronique ont noté leurs soucis, %lld %% ne se sont pas réalisés."
           }
         },
         "ja" : {
@@ -8262,6 +9210,12 @@
             "value" : "¿Cuándo debe volver?"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quand doit-il revenir ?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8312,6 +9266,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mientras estuvo aparcada, ¿cómo se sintió esta preocupación?"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pendant qu’il était garé, comment ce souci s’est-il fait sentir ?"
           }
         },
         "ja" : {
@@ -8366,6 +9326,12 @@
             "value" : "Por qué funciona"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pourquoi ça marche"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8418,6 +9384,12 @@
             "value" : "Sin ellos, las preocupaciones aparcadas esperan en silencio en el parking."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sans eux, les soucis garés attendent en silence sur le parking."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8468,6 +9440,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Las preocupaciones no tienen por qué acompañarte toda la noche.\nAparca tus preocupaciones aquí. Las guardaremos hasta tu Hora de preocuparse."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Les soucis n’ont pas à t’accompagner toute la nuit.\nGare-les ici. On les garde jusqu’à ton heure des soucis."
           }
         },
         "ja" : {
@@ -8524,6 +9502,12 @@
             "value" : "Las preocupaciones aparecen en cualquier sitio: en la cama, en la ducha, de camino a casa. Cuando preocuparse tiene su propio momento, tu cerebro aprende que el resto del día no es para eso. Los psicólogos lo llaman control de estímulos."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Les soucis surgissent n’importe où : au lit, sous la douche, sur le chemin du retour. Quand s’inquiéter a son propre moment, ton cerveau comprend que le reste de la journée n’est pas pour ça. Les psychologues appellent cela le contrôle du stimulus."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8574,6 +9558,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Las preocupaciones que revisas en la barrera de salida llegan aquí. Con el tiempo verás cuántas ocurrieron de verdad."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Les soucis que tu passes en revue à la barrière de sortie arrivent ici. Avec le temps, tu verras combien se sont réellement produits."
           }
         },
         "ja" : {
@@ -8628,6 +9618,12 @@
             "value" : "Preocuparse a una hora fija"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "S’inquiéter à une heure fixe"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8678,6 +9674,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "PARKING DE PREOCUPACIONES"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PARKING DES SOUCIS"
           }
         },
         "ja" : {
@@ -8732,6 +9734,12 @@
             "value" : "Parking de Preocupaciones"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parking des Soucis"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8784,6 +9792,12 @@
             "value" : "Parking de Preocupaciones es una herramienta de autoayuda, no un producto sanitario ni un sustituto de la atención profesional. Si lo estás pasando mal, acude a un profesional de la salud mental o a los servicios de emergencia de tu zona."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parking des Soucis est un outil d’entraide, pas un dispositif médical ni un substitut aux soins professionnels. Si tu traverses une période difficile, contacte un professionnel de la santé mentale ou les services d’urgence de ton pays."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8834,6 +9848,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Parking de Preocupaciones se basa en posponer la preocupación, una técnica de control de estímulos de la terapia cognitivo-conductual (TCC): en lugar de luchar contra una preocupación, le asignas una hora y vuelves a ella entonces."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parking des Soucis repose sur le report de l’inquiétude, une technique de contrôle du stimulus issue de la thérapie cognitivo-comportementale (TCC) : au lieu de lutter contre un souci, tu lui donnes une heure fixe et tu y reviens à ce moment-là."
           }
         },
         "ja" : {
@@ -8890,6 +9910,12 @@
             "value" : "Parking de Preocupaciones se basa en posponer la preocupación, una técnica de la terapia cognitivo-conductual (TCC) estudiada durante décadas."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parking des Soucis repose sur le report de l’inquiétude, une technique de la thérapie cognitivo-comportementale (TCC) étudiée depuis des décennies."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8940,6 +9966,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Parking de Preocupaciones Pro"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parking des Soucis Pro"
           }
         },
         "ja" : {
@@ -8994,6 +10026,12 @@
             "value" : "La preocupación predice un futuro peor de lo que suele resultar. En la barrera de salida anotas si ocurrió de verdad, así que con el tiempo tu registro de salidas muestra con qué frecuencia te equivocabas al temer."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L’inquiétude prédit un avenir pire que ce qu’il est d’ordinaire. À la barrière de sortie, tu notes si c’est vraiment arrivé ; avec le temps, ton journal des sorties montre à quelle fréquence tes soucis avaient tort."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9046,6 +10084,12 @@
             "value" : "Hora de preocuparse"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heure des soucis"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9096,6 +10140,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Escribir"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Écrire"
           }
         },
         "ja" : {
@@ -9152,6 +10202,12 @@
             "value" : "Escribe una preocupación que tengas ahora en la cabeza. Se aparcará de verdad y volverá %@."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Écris un souci qui t’occupe l’esprit en ce moment. Il sera vraiment garé et reviendra %@."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9202,6 +10258,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Escríbela para soltarla"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Écris-le pour le poser"
           }
         },
         "ja" : {
@@ -9256,6 +10318,12 @@
             "value" : "Escríbela tal como suena en tu cabeza."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Écris-le exactement comme il résonne dans ta tête."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9308,6 +10376,12 @@
             "value" : "No tienes que cargar con esto ahora. Te lo devolveremos %@."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu n’as pas à porter ça maintenant. On te le ramène %@."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9358,6 +10432,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pospusiste una preocupación y volviste a ella a propósito. Esa es toda la técnica."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu as reporté un souci et tu y es revenu exprès. C’est toute la technique."
           }
         },
         "ja" : {
@@ -9414,6 +10494,12 @@
             "value" : "Tus respuestas se quedan en este iPhone. Puedes revisarlas en tu registro de salidas."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tes réponses restent sur cet iPhone. Tu peux les relire dans ton journal des sorties."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9464,6 +10550,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tu Hora de preocuparse diaria es a las %@. Puedes cambiarla en Ajustes."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ton heure des soucis quotidienne est %@. Tu peux la modifier dans les réglages."
           }
         },
         "ja" : {
@@ -9518,6 +10610,12 @@
             "value" : "Tu experiencia"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ton expérience"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9570,6 +10668,12 @@
             "value" : "Tu primera salida"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ta première sortie"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9620,6 +10724,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tu preocupación"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ton souci"
           }
         },
         "ja" : {
