@@ -22,6 +22,12 @@
             "state" : "translated",
             "value" : "找主管约一次一对一"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "找主管約一次一對一"
+          }
         }
       }
     },
@@ -45,6 +51,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "这个月的信用卡账单我真的还得上吗？"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "這個月的信用卡帳單我真的付得起嗎？"
           }
         }
       }
@@ -70,6 +82,12 @@
             "state" : "translated",
             "value" : "打听一下附近的租金"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打聽一下附近的租金"
+          }
         }
       }
     },
@@ -93,6 +111,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "我在饭局上开的玩笑是不是过头了？"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我在聚餐時開的玩笑是不是太過頭了？"
           }
         }
       }
@@ -118,6 +142,12 @@
             "state" : "translated",
             "value" : "我觉得这个季度的绩效被我搞砸了。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我覺得這一季的考績被我搞砸了。"
+          }
         }
       }
     },
@@ -141,6 +171,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "周一开会又要被点名批评了。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "星期一開會又要被點名了。"
           }
         }
       }
@@ -166,6 +202,12 @@
             "state" : "translated",
             "value" : "报告我肯定赶不上截止日期。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "報告我一定趕不上截止日期。"
+          }
         }
       }
     },
@@ -189,6 +231,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "面试时我要是结巴了，就没戏了。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "面試時我要是結巴了，就沒戲了。"
           }
         }
       }
@@ -214,6 +262,12 @@
             "state" : "translated",
             "value" : "电脑要是坏了，我的东西就全没了。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "電腦要是壞了，我的東西就全沒了。"
+          }
         }
       }
     },
@@ -237,6 +291,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "感觉群里朋友好像只无视我发的消息。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "感覺群組裡的朋友好像只無視我傳的訊息。"
           }
         }
       }
@@ -262,6 +322,12 @@
             "state" : "translated",
             "value" : "要是错过航班，整个旅行就毁了。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "要是錯過班機，整趟旅行就毀了。"
+          }
         }
       }
     },
@@ -285,6 +351,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "妈妈的体检结果还没出来。万一查出了大问题，她又瞒着我呢？"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "媽媽的健檢結果還沒出來。萬一查出了大問題，她又瞞著我呢？"
           }
         }
       }
@@ -310,6 +382,12 @@
             "state" : "translated",
             "value" : "房东肯定要涨房租了。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "房東一定會漲房租。"
+          }
         }
       }
     },
@@ -333,6 +411,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "领导回的消息那么短，是我做错什么了吗？"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "主管回的訊息那麼短，是我做錯什麼了嗎？"
           }
         }
       }
@@ -358,6 +442,12 @@
             "state" : "translated",
             "value" : "我说的那些话，姐姐一定被伤到了。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我說的那些話，姊姊一定被傷到了。"
+          }
         }
       }
     },
@@ -381,6 +471,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "大声练习三个最可能被问到的问题"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大聲練習三個最可能被問到的問題"
           }
         }
       }
@@ -406,6 +502,12 @@
             "state" : "translated",
             "value" : "开启云备份"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "開啟雲端備份"
+          }
         }
       }
     },
@@ -430,6 +532,12 @@
             "state" : "translated",
             "value" : "要是我明天演讲时大脑一片空白，大家都觉得我不行怎么办？"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "要是我明天簡報時腦袋一片空白，大家都覺得我不行怎麼辦？"
+          }
         }
       }
     },
@@ -453,6 +561,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "万一体检查出了什么怎么办？"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "萬一健檢查出了什麼怎麼辦？"
           }
         }
       }

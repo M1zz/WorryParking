@@ -23,6 +23,12 @@
             "state" : "translated",
             "value" : "已使用 %1$lld/%2$lld 个车位"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已使用 %1$lld/%2$lld 個車位"
+          }
         }
       }
     },
@@ -45,6 +51,12 @@
             "state" : "translated",
             "value" : "已停放 %lld 个"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已停放 %lld 個"
+          }
         }
       }
     },
@@ -66,6 +78,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "你核对过的担忧里，有 %lld%% 并没有成真。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你確認過的擔憂中，有 %lld%% 並沒有成真。"
           }
         }
       }
@@ -92,6 +110,12 @@
             "state" : "translated",
             "value" : "晚上 11:40，脑子里还在反复预演明天的事。照着脑中的声音原样写下来，再选一下它有多响。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "晚上 11:40，腦袋還在反覆預演明天的事。照著腦中的聲音原樣寫下來，再選一下它有多響。"
+          }
         }
       }
     },
@@ -113,6 +137,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "下午 6:00，演讲结束了。你担心的事发生了吗？并没有。烦恼强度从 4 降到了 1，于是你放它走了，它也记入了出场记录。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下午 6:00，簡報結束了。你擔心的事發生了嗎？並沒有。煩惱強度從 4 降到了 1，於是你放它走了，它也記進了出場紀錄。"
           }
         }
       }
@@ -136,6 +166,12 @@
             "state" : "translated",
             "value" : "烦恼多的日子，就要一个更大的停车场。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "煩惱多的日子，就需要更大的停車場。"
+          }
         }
       }
     },
@@ -157,6 +193,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "每天 15 分钟，最好在睡前几小时。烦恼可以取车时，我们会轻轻提醒你。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "每天 15 分鐘，最好在睡前幾個小時。煩惱可以取車時，我們會輕輕提醒你。"
           }
         }
       }
@@ -180,6 +222,12 @@
             "state" : "translated",
             "value" : "轻松了一点"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "輕鬆了一點"
+          }
         }
       }
     },
@@ -201,6 +249,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "像耳语"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "像耳語"
           }
         }
       }
@@ -224,6 +278,12 @@
             "state" : "translated",
             "value" : "关于"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "關於"
+          }
         }
       }
     },
@@ -242,6 +302,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "差不多"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "差不多"
@@ -268,6 +334,12 @@
             "state" : "translated",
             "value" : "停好之后，你感觉怎么样？"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "停好之後，你覺得怎麼樣？"
+          }
         }
       }
     },
@@ -289,6 +361,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "允许取车提醒"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "允許取車提醒"
           }
         }
       }
@@ -312,6 +390,12 @@
             "state" : "translated",
             "value" : "允许提醒并继续"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "允許提醒並繼續"
+          }
         }
       }
     },
@@ -333,6 +417,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "没处理完的烦恼会一遍遍重播，因为大脑怕自己忘记。把它写下来，再约定一个回头处理的时间，大脑就知道这件事暂时有人管了。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "沒處理完的煩惱會一遍遍重播，因為大腦怕自己忘記。把它寫下來，再約定一個回頭處理的時間，大腦就知道這件事暫時有人顧著了。"
           }
         }
       }
@@ -356,6 +446,12 @@
             "state" : "translated",
             "value" : "还有想补充的吗？（选填）"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "還有想補充的嗎？（選填）"
+          }
         }
       }
     },
@@ -378,6 +474,12 @@
             "state" : "translated",
             "value" : "平均强度降幅"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "平均強度降幅"
+          }
         }
       }
     },
@@ -396,6 +498,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "之前"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "之前"
@@ -422,6 +530,12 @@
             "state" : "translated",
             "value" : "等你有余力的时候，再把烦恼取回来。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "等你有餘力的時候，再把煩惱取回來。"
+          }
         }
       }
     },
@@ -440,6 +554,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取消"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "取消"
@@ -466,6 +586,12 @@
             "state" : "translated",
             "value" : "核对实际发生了什么"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "確認實際發生了什麼"
+          }
         }
       }
     },
@@ -487,6 +613,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "选一个睡前几小时的时间。新的烦恼会停放到那时。已经停放的烦恼保持原来的出场时间。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "選一個睡前幾小時的時間。新的煩惱會停放到那時。已經停放的煩惱維持原本的出場時間。"
           }
         }
       }
@@ -510,6 +642,12 @@
             "state" : "translated",
             "value" : "关闭"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "關閉"
+          }
         }
       }
     },
@@ -531,6 +669,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "继续"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "繼續"
           }
         }
       }
@@ -554,6 +698,12 @@
             "state" : "translated",
             "value" : "数量"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "數量"
+          }
         }
       }
     },
@@ -575,6 +725,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "自定义出场时间"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自訂出場時間"
           }
         }
       }
@@ -598,6 +754,12 @@
             "state" : "translated",
             "value" : "自定义时间"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自訂時間"
+          }
         }
       }
     },
@@ -619,6 +781,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "你担心的事真的发生了吗？"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你擔心的事真的發生了嗎？"
           }
         }
       }
@@ -642,6 +810,12 @@
             "state" : "translated",
             "value" : "没发生"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "沒發生"
+          }
         }
       }
     },
@@ -660,6 +834,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "完成"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "完成"
@@ -686,6 +866,12 @@
             "state" : "translated",
             "value" : "驶出"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "駛出"
+          }
         }
       }
     },
@@ -708,6 +894,12 @@
             "state" : "translated",
             "value" : "重写我的烦恼"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重寫我的煩惱"
+          }
         }
       }
     },
@@ -726,6 +918,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "空位"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "空位"
@@ -752,6 +950,12 @@
             "state" : "translated",
             "value" : "你写下的内容都只保存在这台设备上。通知里绝不会出现烦恼的内容。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你寫下的內容都只儲存在這台裝置上。通知裡絕對不會出現煩惱的內容。"
+          }
         }
       }
     },
@@ -773,6 +977,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "出场"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "出場"
           }
         }
       }
@@ -796,6 +1006,12 @@
             "state" : "translated",
             "value" : "出场"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "出場"
+          }
         }
       }
     },
@@ -817,6 +1033,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "出场闸口"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "出場閘口"
           }
         }
       }
@@ -840,6 +1062,12 @@
             "state" : "translated",
             "value" : "出场闸口 · P%lld"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "出場閘口 · P%lld"
+          }
         }
       }
     },
@@ -861,6 +1089,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "出场闸口 · P1"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "出場閘口 · P1"
           }
         }
       }
@@ -884,6 +1118,12 @@
             "state" : "translated",
             "value" : "出场洞察"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "出場洞察"
+          }
         }
       }
     },
@@ -905,6 +1145,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "出场记录"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "出場紀錄"
           }
         }
       }
@@ -928,6 +1174,12 @@
             "state" : "translated",
             "value" : "出场时间"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "出場時間"
+          }
         }
       }
     },
@@ -949,6 +1201,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "已出场"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已出場"
           }
         }
       }
@@ -972,6 +1230,12 @@
             "state" : "translated",
             "value" : "%@后出场"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@後出場"
+          }
         }
       }
     },
@@ -993,6 +1257,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "第一次出场"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "第一次出場"
           }
         }
       }
@@ -1016,6 +1286,12 @@
             "state" : "translated",
             "value" : "第一次停放时"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "第一次停放時"
+          }
         }
       }
     },
@@ -1038,6 +1314,12 @@
             "state" : "translated",
             "value" : "全神贯注地看着它。此刻只需要做这一件事。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "全神貫注地看著它。此刻只需要做這一件事。"
+          }
         }
       }
     },
@@ -1056,6 +1338,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "消失了"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "消失了"
@@ -1082,6 +1370,12 @@
             "state" : "translated",
             "value" : "沉重"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "沉重"
+          }
         }
       }
     },
@@ -1103,6 +1397,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "历史"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "歷史"
           }
         }
       }
@@ -1126,6 +1426,12 @@
             "state" : "translated",
             "value" : "感觉怎么样？"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "感覺怎麼樣？"
+          }
         }
       }
     },
@@ -1147,6 +1453,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "它现在有多响？"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "它現在有多響？"
           }
         }
       }
@@ -1170,6 +1482,12 @@
             "state" : "translated",
             "value" : "它现在有多响？"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "它現在有多響？"
+          }
         }
       }
     },
@@ -1191,6 +1509,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "如果它又闯回脑海，先留意到它，然后对自己说：它已经有车位了，等到烦恼时间再处理。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如果它又闖回腦海，先留意到它，然後對自己說：它已經有車位了，等到煩惱時間再處理。"
           }
         }
       }
@@ -1216,6 +1540,12 @@
             "state" : "translated",
             "value" : "如果它总是回来，就简单地说一句“你已经有车位了”，然后继续做手头的事。如果烦恼已经影响到日常生活，找专业人士聊聊会很有帮助。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如果它一直回來，就簡單地說一句「你已經有車位了」，然後繼續做手邊的事。如果煩惱已經影響到日常生活，找專業人士聊聊會很有幫助。"
+          }
         }
       }
     },
@@ -1237,6 +1567,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "入场"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "入場"
           }
         }
       }
@@ -1260,6 +1596,12 @@
             "state" : "translated",
             "value" : "没那么在意了"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "沒那麼在意了"
+          }
         }
       }
     },
@@ -1278,6 +1620,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更在意了"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "更在意了"
@@ -1304,6 +1652,12 @@
             "state" : "translated",
             "value" : "没有发生"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "沒有發生"
+          }
         }
       }
     },
@@ -1325,6 +1679,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "发生了"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "發生了"
           }
         }
       }
@@ -1348,6 +1708,12 @@
             "state" : "translated",
             "value" : "停放时是 %lld。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "停放時是 %lld。"
+          }
         }
       }
     },
@@ -1368,6 +1734,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "反而更放不下了"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "反而更放不下了"
@@ -1394,6 +1766,12 @@
             "state" : "translated",
             "value" : "这只是第一次。研究显示，效果要几周才会慢慢积累。多停放几个，在出场记录里比一比。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "這只是第一次。研究顯示，效果要幾週才會慢慢累積。多停放幾個，在出場紀錄裡比一比。"
+          }
         }
       }
     },
@@ -1415,6 +1793,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "它已驶出停车场。让它走吧。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "它已駛出停車場。讓它走吧。"
           }
         }
       }
@@ -1438,6 +1822,12 @@
             "state" : "translated",
             "value" : "它会一直停到明天的烦恼时间。洗澡时它再冒出来，就对自己说：它已经有车位了。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "它會一直停到明天的煩惱時間。洗澡時它再冒出來，就對自己說：它已經有車位了。"
+          }
         }
       }
     },
@@ -1459,6 +1849,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "烦恼时间到了。给它 %lld 分钟专注的时间，然后决定怎么处理。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "煩惱時間到了。給它 %lld 分鐘專注的時間，然後決定怎麼處理。"
           }
         }
       }
@@ -1482,6 +1878,12 @@
             "state" : "translated",
             "value" : "继续停放"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "繼續停放"
+          }
         }
       }
     },
@@ -1503,6 +1905,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "继续停放吧。出场几次之后，规律就会浮现。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "繼續停放吧。出場幾次之後，規律就會浮現。"
           }
         }
       }
@@ -1526,6 +1934,12 @@
             "state" : "translated",
             "value" : "稍后"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "稍後"
+          }
         }
       }
     },
@@ -1544,6 +1958,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "放它走"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "放它走"
@@ -1570,6 +1990,12 @@
             "state" : "translated",
             "value" : "强度"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "強度"
+          }
         }
       }
     },
@@ -1592,6 +2018,12 @@
             "state" : "translated",
             "value" : "强度 %lld/5，%@"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "強度 %lld/5，%@"
+          }
         }
       }
     },
@@ -1613,6 +2045,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "强度 %lld → %lld"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "強度 %lld → %lld"
           }
         }
       }
@@ -1638,6 +2076,12 @@
             "state" : "translated",
             "value" : "直视烦恼，一开始可能会觉得它变大了。现在不必解决它，它唯一的任务就是等到烦恼时间。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "直視煩惱，一開始可能會覺得它變大了。現在不必解決它，它唯一的任務就是等到煩惱時間。"
+          }
         }
       }
     },
@@ -1659,6 +2103,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "停车场"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "停車場"
           }
         }
       }
@@ -1682,6 +2132,12 @@
             "state" : "translated",
             "value" : "很响"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "很響"
+          }
         }
       }
     },
@@ -1703,6 +2159,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "已制定计划"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已擬定計畫"
           }
         }
       }
@@ -1726,6 +2188,12 @@
             "state" : "translated",
             "value" : "制定计划"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "擬定計畫"
+          }
         }
       }
     },
@@ -1747,6 +2215,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "制定具体计划后，没做完的事就不再闯进思绪；睡前写五分钟，还能让人更快入睡。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "擬定具體計畫後，沒做完的事就不再闖進思緒；睡前寫五分鐘，還能讓人更快入睡。"
           }
         }
       }
@@ -1770,6 +2244,12 @@
             "state" : "translated",
             "value" : "管理订阅"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "管理訂閱"
+          }
         }
       }
     },
@@ -1792,6 +2272,12 @@
             "state" : "translated",
             "value" : "挥之不去"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "揮之不去"
+          }
         }
       }
     },
@@ -1810,6 +2296,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下一步"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "下一步"
@@ -1836,6 +2328,12 @@
             "state" : "translated",
             "value" : "下次烦恼时间"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下次煩惱時間"
+          }
         }
       }
     },
@@ -1857,6 +2355,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "下次烦恼时间：%@"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下次煩惱時間：%@"
           }
         }
       }
@@ -1880,6 +2384,12 @@
             "state" : "translated",
             "value" : "还没有出场记录"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "還沒有出場紀錄"
+          }
         }
       }
     },
@@ -1901,6 +2411,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "暂不"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "暫不"
           }
         }
       }
@@ -1924,6 +2440,12 @@
             "state" : "translated",
             "value" : "还没准备好。下次烦恼时间再把它取回来。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "還沒準備好。下次煩惱時間再把它取回來。"
+          }
         }
       }
     },
@@ -1945,6 +2467,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "通知已关闭"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "通知已關閉"
           }
         }
       }
@@ -1970,6 +2498,12 @@
             "state" : "translated",
             "value" : "现在"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "現在"
+          }
         }
       }
     },
@@ -1991,6 +2525,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "停好之后，它现在有多响？"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "停好之後，它現在有多響？"
           }
         }
       }
@@ -2014,6 +2554,12 @@
             "state" : "translated",
             "value" : "一个真实的烦恼，从晚上 11:40 到第二天的烦恼时间。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一個真實的煩惱，從晚上 11:40 到隔天的煩惱時間。"
+          }
         }
       }
     },
@@ -2035,6 +2581,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "一小步行动"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一小步行動"
           }
         }
       }
@@ -2058,6 +2610,12 @@
             "state" : "translated",
             "value" : "打开 iOS 设置"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "開啟 iOS 設定"
+          }
         }
       }
     },
@@ -2079,6 +2637,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "不堪重负"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不堪負荷"
           }
         }
       }
@@ -2108,6 +2672,12 @@
             "state" : "translated",
             "value" : "P%lld 可以取车了"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "P%lld 可以取車了"
+          }
         }
       }
     },
@@ -2133,6 +2703,12 @@
             "state" : "translated",
             "value" : "P%1$lld · 停车票 #%2$@"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "P%1$lld · 停車票 #%2$@"
+          }
         }
       }
     },
@@ -2155,6 +2731,12 @@
             "state" : "translated",
             "value" : "第 %1$lld/%2$lld 页"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "第 %1$lld/%2$lld 頁"
+          }
         }
       }
     },
@@ -2173,6 +2755,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "停放"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "停放"
@@ -2199,6 +2787,12 @@
             "state" : "translated",
             "value" : "停放烦恼"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "停放煩惱"
+          }
         }
       }
     },
@@ -2217,6 +2811,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "停到 P%lld"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "停到 P%lld"
@@ -2243,6 +2843,12 @@
             "state" : "translated",
             "value" : "每个烦恼都能停放，不止三个。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "每個煩惱都能停放，不只三個。"
+          }
         }
       }
     },
@@ -2261,6 +2867,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重新停放"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "重新停放"
@@ -2287,6 +2899,12 @@
             "state" : "translated",
             "value" : "%@停放"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@停放"
+          }
         }
       }
     },
@@ -2305,6 +2923,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已停在 P%lld"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "已停在 P%lld"
@@ -2331,6 +2955,12 @@
             "state" : "translated",
             "value" : "停放至 %@"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "停放至 %@"
+          }
         }
       }
     },
@@ -2352,6 +2982,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "停放的烦恼在出场时间之前都会被遮住。你现在不用背着它们。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "停放的煩惱在出場時間之前都會被遮住。你現在不用揹著它們。"
           }
         }
       }
@@ -2375,6 +3011,12 @@
             "state" : "translated",
             "value" : "已停放。现在不归你管。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已停放。現在不歸你管。"
+          }
         }
       }
     },
@@ -2396,6 +3038,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "部分发生"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "部分發生"
           }
         }
       }
@@ -2421,6 +3069,12 @@
             "state" : "translated",
             "value" : "把烦恼挪到每天固定的一小段时间里，人们花在烦恼上的时间更少，焦虑和睡眠问题也有所减轻。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "把煩惱挪到每天固定的一小段時間裡，人們花在煩惱上的時間更少，焦慮和睡眠問題也有所減輕。"
+          }
         }
       }
     },
@@ -2442,6 +3096,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "选择你的烦恼时间"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "選擇你的煩惱時間"
           }
         }
       }
@@ -2465,6 +3125,12 @@
             "state" : "translated",
             "value" : "推迟起效了。下一个烦恼也试着停在这里吧。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "延後奏效了。下一個煩惱也試著停在這裡吧。"
+          }
         }
       }
     },
@@ -2486,6 +3152,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "等待时推迟的效果最好。大多数烦恼到了烦恼时间都会变小。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "等待時延後的效果最好。大多數煩惱到了煩惱時間都會變小。"
           }
         }
       }
@@ -2509,6 +3181,12 @@
             "state" : "translated",
             "value" : "隐私政策"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隱私權政策"
+          }
         }
       }
     },
@@ -2530,6 +3208,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pro 已启用"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro 已啟用"
           }
         }
       }
@@ -2553,6 +3237,12 @@
             "state" : "translated",
             "value" : "Pro 车位"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro 車位"
+          }
         }
       }
     },
@@ -2575,6 +3265,12 @@
             "state" : "translated",
             "value" : "可以取车"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "可以取車"
+          }
         }
       }
     },
@@ -2593,6 +3289,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "提醒"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "提醒"
@@ -2619,6 +3321,12 @@
             "state" : "translated",
             "value" : "研究描述的是平均效果，每个人的结果不同。烦恼停车场是一款自助工具，不是医疗器械，也不是治疗手段。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "研究描述的是平均效果，每個人的結果不同。煩惱停車場是一款自助工具，不是醫療器材，也不是治療方式。"
+          }
         }
       }
     },
@@ -2640,6 +3348,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "研究出处"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "研究出處"
           }
         }
       }
@@ -2663,6 +3377,12 @@
             "state" : "translated",
             "value" : "恢复购买"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "恢復購買"
+          }
         }
       }
     },
@@ -2684,6 +3404,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "结果"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "結果"
           }
         }
       }
@@ -2707,6 +3433,12 @@
             "state" : "translated",
             "value" : "提前取车"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "提前取車"
+          }
         }
       }
     },
@@ -2728,6 +3460,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "要提前取出这个烦恼吗？"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "要提前取出這個煩惱嗎？"
           }
         }
       }
@@ -2751,6 +3489,12 @@
             "state" : "translated",
             "value" : "看看你担心的事里有多少真的发生了。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "看看你擔心的事裡有多少真的發生了。"
+          }
         }
       }
     },
@@ -2772,6 +3516,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "看看你的烦恼里有多少真的发生了"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "看看你的煩惱裡有多少真的發生了"
           }
         }
       }
@@ -2795,6 +3545,12 @@
             "state" : "translated",
             "value" : "看个示例"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "看個範例"
+          }
         }
       }
     },
@@ -2816,6 +3572,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "现在就送去出场闸口"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "現在就送去出場閘口"
           }
         }
       }
@@ -2839,6 +3601,12 @@
             "state" : "translated",
             "value" : "设置"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "設定"
+          }
         }
       }
     },
@@ -2860,6 +3628,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "暂时跳过"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "先跳過"
           }
         }
       }
@@ -2883,6 +3657,12 @@
             "state" : "translated",
             "value" : "%lld 号车位。空位。把烦恼停在这里。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld 號車位。空位。把煩惱停在這裡。"
+          }
         }
       }
     },
@@ -2904,6 +3684,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld 号车位。Pro 车位，已锁定。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld 號車位。Pro 車位，已鎖定。"
           }
         }
       }
@@ -2927,6 +3713,12 @@
             "state" : "translated",
             "value" : "%1$lld 号车位。烦恼停放至 %2$@。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$lld 號車位。煩惱停放至 %2$@。"
+          }
         }
       }
     },
@@ -2948,6 +3740,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld 号车位。烦恼可以取车了。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld 號車位。煩惱可以取車了。"
           }
         }
       }
@@ -2971,6 +3769,12 @@
             "state" : "translated",
             "value" : "开始"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "開始"
+          }
         }
       }
     },
@@ -2992,6 +3796,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "沿着虚线滑动即可停放"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "沿著虛線滑動即可停放"
           }
         }
       }
@@ -3015,6 +3825,12 @@
             "state" : "translated",
             "value" : "沿着虚线滑动。票撕下后，这个烦恼就会停放到 %@。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "沿著虛線滑動。票撕下後，這個煩惱就會停放到 %@。"
+          }
         }
       }
     },
@@ -3036,6 +3852,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "慢慢深呼吸一次。此刻对这个烦恼无事可做。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "慢慢深呼吸一次。此刻對這個煩惱無事可做。"
           }
         }
       }
@@ -3059,6 +3881,12 @@
             "state" : "translated",
             "value" : "撕下停车票来停放"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "撕下停車票來停放"
+          }
         }
       }
     },
@@ -3080,6 +3908,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "撕下你的停车票"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "撕下你的停車票"
           }
         }
       }
@@ -3103,6 +3937,12 @@
             "state" : "translated",
             "value" : "使用条款"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用條款"
+          }
         }
       }
     },
@@ -3124,6 +3964,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "这很正常。效果通常是几天慢慢积累的，而不是几分钟。它再冒出来时，对它说“你已经有车位了”，到烦恼时间再看看感觉如何。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "這很正常。效果通常是幾天慢慢累積的，而不是幾分鐘。它再冒出來時，對它說「你已經有車位了」，到煩惱時間再看看感覺如何。"
           }
         }
       }
@@ -3147,6 +3993,12 @@
             "state" : "translated",
             "value" : "这就是推迟的第一个效果。烦恼一旦写下来、有了去处，大脑就不必再抓着它不放。烦恼时间见。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "這就是延後的第一個效果。煩惱一旦寫下來、有了去處，大腦就不必再抓著它不放。煩惱時間見。"
+          }
         }
       }
     },
@@ -3168,6 +4020,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "再下一次烦恼时间"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "再下一次煩惱時間"
           }
         }
       }
@@ -3191,6 +4049,12 @@
             "state" : "translated",
             "value" : "停车票 #%@"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "停車票 #%@"
+          }
         }
       }
     },
@@ -3209,6 +4073,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今天 %@"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "今天 %@"
@@ -3235,6 +4105,12 @@
             "state" : "translated",
             "value" : "明天 %@"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "明天 %@"
+          }
         }
       }
     },
@@ -3256,6 +4132,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "现在还说不准"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "現在還很難說"
           }
         }
       }
@@ -3279,6 +4161,12 @@
             "state" : "translated",
             "value" : "现在就试试"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "現在就試試"
+          }
         }
       }
     },
@@ -3300,6 +4188,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "把它变成一小步行动。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "把它變成一小步行動。"
           }
         }
       }
@@ -3323,6 +4217,12 @@
             "state" : "translated",
             "value" : "不限数量的车位"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不限數量的車位"
+          }
         }
       }
     },
@@ -3344,6 +4244,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "不限车位、自定义出场时间、洞察"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不限車位、自訂出場時間、洞察"
           }
         }
       }
@@ -3367,6 +4273,12 @@
             "state" : "translated",
             "value" : "用 Pro 解锁洞察"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "用 Pro 解鎖洞察"
+          }
         }
       }
     },
@@ -3388,6 +4300,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "烦恼可以取车时，我们会告诉你。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "煩惱可以取車時，我們會告訴你。"
           }
         }
       }
@@ -3411,6 +4329,12 @@
             "state" : "translated",
             "value" : "你想怎么处理它？"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你想怎麼處理它？"
+          }
         }
       }
     },
@@ -3432,6 +4356,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "如果我明天演讲时脑子一片空白，大家都觉得我不够好怎么办？"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如果我明天簡報時腦袋一片空白，大家都覺得我不夠好怎麼辦？"
           }
         }
       }
@@ -3455,6 +4385,12 @@
             "state" : "translated",
             "value" : "你担心的事没有发生。像这样的出场都会记入出场记录，让你看到自己的烦恼有多少是白担心。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你擔心的事沒有發生。像這樣的出場都會記進出場紀錄，讓你看到自己的煩惱有多少是白擔心。"
+          }
         }
       }
     },
@@ -3476,6 +4412,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "你脑子里在转什么？"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你腦袋裡在轉什麼？"
           }
         }
       }
@@ -3499,6 +4441,12 @@
             "state" : "translated",
             "value" : "长期爱担忧的人记录自己的烦恼后发现，有 %lld%% 并没有成真。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "長期容易擔憂的人記錄自己的煩惱後發現，有 %lld%% 並沒有成真。"
+          }
         }
       }
     },
@@ -3520,6 +4468,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "什么时候取回来？"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "什麼時候取回來？"
           }
         }
       }
@@ -3543,6 +4497,12 @@
             "state" : "translated",
             "value" : "停放期间，这个烦恼感觉怎么样？"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "停放期間，這個煩惱感覺怎麼樣？"
+          }
         }
       }
     },
@@ -3564,6 +4524,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "为什么有效"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "為什麼有效"
           }
         }
       }
@@ -3587,6 +4553,12 @@
             "state" : "translated",
             "value" : "没有提醒的话，停放的烦恼只会在停车场里静静等着。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "沒有提醒的話，停放的煩惱只會在停車場裡靜靜等著。"
+          }
         }
       }
     },
@@ -3608,6 +4580,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "烦恼不必陪你熬一整夜。\n把它们停在这里，我们替你保管到烦恼时间。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "煩惱不必陪你熬一整夜。\n把它們停在這裡，我們替你保管到煩惱時間。"
           }
         }
       }
@@ -3633,6 +4611,12 @@
             "state" : "translated",
             "value" : "烦恼无处不在：躺在床上、洗澡时、下班路上。给烦恼划出专属时间后，大脑就会明白一天里其余的时间不是留给它的。心理学家把这叫作刺激控制。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "煩惱無處不在：躺在床上、洗澡時、下班路上。給煩惱劃出專屬時間後，大腦就會明白一天裡其餘的時間不是留給它的。心理學家把這叫做刺激控制。"
+          }
         }
       }
     },
@@ -3654,6 +4638,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "你在出场闸口回顾过的烦恼会汇集在这里。时间久了，你会看到其中有多少真的发生了。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你在出場閘口回顧過的煩惱會匯集在這裡。時間久了，你會看到其中有多少真的發生了。"
           }
         }
       }
@@ -3677,6 +4667,12 @@
             "state" : "translated",
             "value" : "只在固定的时间烦恼"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "只在固定的時間煩惱"
+          }
         }
       }
     },
@@ -3698,6 +4694,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "烦恼停车场"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "煩惱停車場"
           }
         }
       }
@@ -3721,6 +4723,12 @@
             "state" : "translated",
             "value" : "烦恼停车场"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "煩惱停車場"
+          }
         }
       }
     },
@@ -3743,6 +4751,12 @@
             "state" : "translated",
             "value" : "烦恼停车场是一款自助工具，不是医疗器械，也不能代替专业护理。如果你正感到难受，请联系心理健康专业人士或当地紧急服务。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "煩惱停車場是一款自助工具，不是醫療器材，也不能取代專業照護。如果你正感到難受，請聯絡心理健康專業人員或當地緊急服務。"
+          }
         }
       }
     },
@@ -3764,6 +4778,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "烦恼停车场基于“烦恼推迟”——认知行为疗法（CBT）中的一种刺激控制技术：不与烦恼硬碰硬，而是把它安排到固定时间，到时再回头处理。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "煩惱停車場以「煩惱延後」為基礎——這是認知行為治療（CBT）中的一種刺激控制技巧：不與煩惱硬碰硬，而是把它安排到固定時間，到時再回頭處理。"
           }
         }
       }
@@ -3789,6 +4809,12 @@
             "state" : "translated",
             "value" : "烦恼停车场基于“烦恼推迟”，这是认知行为疗法（CBT）中已被研究数十年的技术。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "煩惱停車場以「煩惱延後」為基礎，這是認知行為治療（CBT）中已被研究數十年的技巧。"
+          }
         }
       }
     },
@@ -3810,6 +4836,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "烦恼停车场 Pro"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "煩惱停車場 Pro"
           }
         }
       }
@@ -3833,6 +4865,12 @@
             "state" : "translated",
             "value" : "烦恼总会把未来想得比实际更糟。在出场闸口记录它是否真的发生，久而久之，出场记录就会告诉你自己的烦恼有多少是错的。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "煩惱總會把未來想得比實際更糟。在出場閘口記錄它是否真的發生，久而久之，出場紀錄就會告訴你自己的煩惱有多少是錯的。"
+          }
         }
       }
     },
@@ -3855,6 +4893,12 @@
             "state" : "translated",
             "value" : "烦恼时间"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "煩惱時間"
+          }
         }
       }
     },
@@ -3876,6 +4920,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "写下"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "寫下"
           }
         }
       }
@@ -3901,6 +4951,12 @@
             "state" : "translated",
             "value" : "写下此刻脑子里的一个烦恼。它会真的被停放，并在%@回来。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "寫下此刻腦袋裡的一個煩惱。它會真的被停放，並在%@回來。"
+          }
         }
       }
     },
@@ -3922,6 +4978,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "写下来，才能放下"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "寫下來，才能放下"
           }
         }
       }
@@ -3945,6 +5007,12 @@
             "state" : "translated",
             "value" : "照着脑中的声音原样写下来。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "照著腦中的聲音原樣寫下來。"
+          }
         }
       }
     },
@@ -3967,6 +5035,12 @@
             "state" : "translated",
             "value" : "你现在不用背着它。我们会在%@把它送回来。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你現在不用揹著它。我們會在%@把它送回來。"
+          }
         }
       }
     },
@@ -3988,6 +5062,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "你把烦恼推迟了，又特意回头面对它。这就是这个方法的全部。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你把煩惱延後，又特意回頭面對它。這就是這個方法的全部。"
           }
         }
       }
@@ -4013,6 +5093,12 @@
             "state" : "translated",
             "value" : "你的回答只保存在这部 iPhone 上。可以在出场记录里回看。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你的回答只儲存在這支 iPhone 上。可以在出場紀錄裡回顧。"
+          }
         }
       }
     },
@@ -4034,6 +5120,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "你每天的烦恼时间是 %@。可以在设置里修改。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你每天的煩惱時間是 %@。可以在設定裡修改。"
           }
         }
       }
@@ -4057,6 +5149,12 @@
             "state" : "translated",
             "value" : "你的体验"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你的體驗"
+          }
         }
       }
     },
@@ -4079,6 +5177,12 @@
             "state" : "translated",
             "value" : "你的第一次出场"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你的第一次出場"
+          }
         }
       }
     },
@@ -4100,6 +5204,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "我的烦恼"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我的煩惱"
           }
         }
       }
