@@ -71,3 +71,10 @@ Toutes les fonctions sont gratuites
 Gare autant de soucis que nécessaire
 Heures de sortie et analyses gratuites
 Disponible dans plus de langues
+
+### App Store (Italiano)
+
+Ora tutte le funzioni sono gratuite
+Parcheggia quante preoccupazioni vuoi
+Orari di uscita e approfondimenti gratis
+Ora disponibile in più lingue

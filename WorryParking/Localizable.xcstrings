@@ -30,6 +30,12 @@
             "value" : "%1$lld places sur %2$lld utilisées"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$lld posti su %2$lld occupati"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -88,6 +94,12 @@
             "value" : "%lld garés"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld parcheggiate"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -144,6 +156,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld %% des craintes que tu as vérifiées ne se sont pas réalisées."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il %lld%% delle paure che hai verificato non si è avverato."
           }
         },
         "ja" : {
@@ -207,6 +225,12 @@
             "value" : "23 h 40 et ton esprit rejoue sans cesse la journée de demain. Écris le souci tel qu’il résonne et dis à quel point il est fort."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le 23:40 e la tua mente continua a rivivere il domani. Scrivi la preoccupazione esattamente come suona e indica quanto è forte."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -263,6 +287,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "18 h, la présentation est terminée. Est-ce arrivé ? Pas vraiment. Le souci est passé de 4 à 1, tu le laisses donc partir, et il rejoint ton journal des sorties."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le 18:00, la presentazione è finita. È successo davvero? Non proprio. La preoccupazione è scesa da 4 a 1, quindi la lasci andare e finisce nel tuo registro delle uscite."
           }
         },
         "ja" : {
@@ -323,6 +353,12 @@
             "value" : "Un plus grand parking pour un esprit bien occupé."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un parcheggio più grande per una mente più affollata."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -379,6 +415,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "15 minutes par jour, de préférence quelques heures avant de dormir. On te prévient en douceur quand un souci est prêt à sortir."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "15 minuti al giorno, meglio qualche ora prima di dormire. Ti avviseremo con delicatezza quando una preoccupazione sarà pronta per il ritiro."
           }
         },
         "ja" : {
@@ -439,6 +481,12 @@
             "value" : "Un peu plus léger"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un po’ più leggera"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -495,6 +543,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Un murmure"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un sussurro"
           }
         },
         "ja" : {
@@ -555,6 +609,12 @@
             "value" : "À propos"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Info"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -611,6 +671,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "À peu près pareil"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Più o meno uguale"
           }
         },
         "ja" : {
@@ -671,6 +737,12 @@
             "value" : "Une fois garé, comment te sens-tu ?"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dopo averla parcheggiata, come ti senti?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -727,6 +799,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Autoriser les rappels de sortie"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Consenti i promemoria di ritiro"
           }
         },
         "ja" : {
@@ -787,6 +865,12 @@
             "value" : "Autoriser les rappels et continuer"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Consenti i promemoria e continua"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -843,6 +927,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Un souci non résolu tourne en boucle parce que ton esprit a peur de l’oublier. L’écrire et fixer un moment pour y revenir dit à ton cerveau que c’est pris en charge pour l’instant."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Una preoccupazione irrisolta si ripresenta perché la tua mente teme di dimenticarla. Scriverla e fissare un momento per tornarci dice al cervello che per ora è sotto controllo."
           }
         },
         "ja" : {
@@ -903,6 +993,12 @@
             "value" : "Autre chose ? (facultatif)"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Altro? (facoltativo)"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -959,6 +1055,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Baisse moyenne d’intensité"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Calo medio di intensità"
           }
         },
         "ja" : {
@@ -1019,6 +1121,12 @@
             "value" : "Avant"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prima"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1075,6 +1183,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ressors un souci exactement quand tu es prêt à l’affronter."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riprendi una preoccupazione esattamente quando sei in grado di affrontarla."
           }
         },
         "ja" : {
@@ -1135,6 +1249,12 @@
             "value" : "Annuler"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Annulla"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1191,6 +1311,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vérifie ce qui s’est vraiment passé"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verifica cosa è successo davvero"
           }
         },
         "ja" : {
@@ -1251,6 +1377,12 @@
             "value" : "Choisis une heure quelques heures avant de dormir. Les nouveaux soucis restent garés jusque-là. Ceux déjà garés gardent leur heure de sortie."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scegli un orario qualche ora prima di dormire. Le nuove preoccupazioni restano parcheggiate fino ad allora. Quelle già parcheggiate mantengono il loro orario di uscita."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1307,6 +1439,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fermer"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chiudi"
           }
         },
         "ja" : {
@@ -1367,6 +1505,12 @@
             "value" : "Continuer"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continua"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1423,6 +1567,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nombre"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Numero"
           }
         },
         "ja" : {
@@ -1483,6 +1633,12 @@
             "value" : "Heures de sortie personnalisées"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Orari di uscita personalizzati"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1539,6 +1695,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Heure personnalisée"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Orario personalizzato"
           }
         },
         "ja" : {
@@ -1599,6 +1761,12 @@
             "value" : "Ce que tu craignais s’est-il vraiment produit ?"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quello che temevi è successo davvero?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1655,6 +1823,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pas arrivé"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Non è successo"
           }
         },
         "ja" : {
@@ -1715,6 +1889,12 @@
             "value" : "Terminé"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fine"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1771,6 +1951,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sortir"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esci"
           }
         },
         "ja" : {
@@ -1831,6 +2017,12 @@
             "value" : "Modifier mon souci"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Modifica la mia preoccupazione"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1887,6 +2079,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Libre"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Libero"
           }
         },
         "ja" : {
@@ -1947,6 +2145,12 @@
             "value" : "Tout ce que tu écris reste sur cet appareil. Les notifications n’incluent jamais le texte de ton souci."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tutto ciò che scrivi resta su questo dispositivo. Le notifiche non includono mai il testo della tua preoccupazione."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2003,6 +2207,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "SORTIE"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "USCITA"
           }
         },
         "ja" : {
@@ -2063,6 +2273,12 @@
             "value" : "Sortie"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uscita"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2119,6 +2335,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Barrière de sortie"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sbarra d’uscita"
           }
         },
         "ja" : {
@@ -2179,6 +2401,12 @@
             "value" : "Barrière de sortie · P%lld"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sbarra d’uscita · P%lld"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2235,6 +2463,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Barrière de sortie · P1"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sbarra d’uscita · P1"
           }
         },
         "ja" : {
@@ -2295,6 +2529,12 @@
             "value" : "Analyses des sorties"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Approfondimenti sulle uscite"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2351,6 +2591,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Journal des sorties"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registro delle uscite"
           }
         },
         "ja" : {
@@ -2411,6 +2657,12 @@
             "value" : "Heure de sortie"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Orario di uscita"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2467,6 +2719,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sorti"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uscita effettuata"
           }
         },
         "ja" : {
@@ -2527,6 +2785,12 @@
             "value" : "Sortie dans %@"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esce tra %@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2583,6 +2847,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Première sortie"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prima uscita"
           }
         },
         "ja" : {
@@ -2643,6 +2913,12 @@
             "value" : "La première fois que tu l’as garé"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La prima volta che l’hai parcheggiata"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2699,6 +2975,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Accorde-lui toute ton attention. C’est la seule chose à faire pour l’instant."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dedicale tutta la tua attenzione. È l’unica cosa da fare adesso."
           }
         },
         "ja" : {
@@ -2759,6 +3041,12 @@
             "value" : "Disparu"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Svanita"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2815,6 +3103,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lourd"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pesante"
           }
         },
         "ja" : {
@@ -2875,6 +3169,12 @@
             "value" : "Historique"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cronologia"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2931,6 +3231,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Comment ça s’est passé ?"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Com’è andata?"
           }
         },
         "ja" : {
@@ -2991,6 +3297,12 @@
             "value" : "À quel point est-il fort maintenant ?"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quanto è forte adesso?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3049,6 +3361,12 @@
             "value" : "À quel point est-il fort en ce moment ?"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quanto è forte in questo momento?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3105,6 +3423,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "S’il revient dans ta tête, remarque-le et dis-toi : il a une place. Tu t’en occuperas à l’heure des soucis."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se ti torna in testa, accorgitene e dì a te stesso: ha un posto. Te ne occuperai all’Ora delle preoccupazioni."
           }
         },
         "ja" : {
@@ -3167,6 +3491,12 @@
             "value" : "S’il revenait sans cesse, essaie de te dire simplement « tu as déjà une place » et retourne à ce que tu faisais. Si les soucis t’empêchent de vivre normalement, en parler à un professionnel peut vraiment aider."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se continuava a tornare, prova a dirti un breve “hai già un posto” e torna a quello che stavi facendo. Se le preoccupazioni ti ostacolano nelle giornate, parlarne con un professionista può davvero aiutare."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3223,6 +3553,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ENTRÉE"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ENTRATA"
           }
         },
         "ja" : {
@@ -3283,6 +3619,12 @@
             "value" : "Ça m’a moins préoccupé"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mi ha disturbato meno"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3339,6 +3681,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ça m’a plus préoccupé"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mi ha disturbato di più"
           }
         },
         "ja" : {
@@ -3399,6 +3747,12 @@
             "value" : "Ça n’est pas arrivé"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Non è successo"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3457,6 +3811,12 @@
             "value" : "C’est arrivé"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "È successo"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3513,6 +3873,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Il était à %lld quand tu l’as garé."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quando l’hai parcheggiata era %lld."
           }
         },
         "ja" : {
@@ -3575,6 +3941,12 @@
             "value" : "Je n’arrête pas d’y penser"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ora ci penso di più"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3631,6 +4003,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ce n’est que le premier. Dans les études, l’effet s’est construit sur quelques semaines. Gare-en quelques autres et compare-les dans ton journal des sorties."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "È solo la prima. Negli studi l’effetto si è accumulato nell’arco di alcune settimane. Parcheggiane altre e confrontale nel tuo registro delle uscite."
           }
         },
         "ja" : {
@@ -3691,6 +4069,12 @@
             "value" : "Il a quitté le parking. Laisse-le partir."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "È uscita dal parcheggio. Lasciala andare."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3747,6 +4131,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Il est garé jusqu’à l’heure des soucis de demain. Quand il resurgit sous la douche, dis-toi simplement : il a déjà une place."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "È parcheggiata fino all’Ora delle preoccupazioni di domani. Se riaffiora sotto la doccia, ripeti a te stesso: ha già un posto."
           }
         },
         "ja" : {
@@ -3807,6 +4197,12 @@
             "value" : "C’est l’heure des soucis. Accorde-lui %lld minutes d’attention, puis décide quoi en faire."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "È l’Ora delle preoccupazioni. Dedicale %lld minuti di attenzione, poi decidi cosa farne."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3863,6 +4259,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Le laisser garé"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lascia parcheggiata"
           }
         },
         "ja" : {
@@ -3923,6 +4325,12 @@
             "value" : "Continue à garer. Des schémas apparaissent après quelques sorties."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continua a parcheggiare. Gli schemi emergono dopo alcune uscite."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3979,6 +4387,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Plus tard"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Più tardi"
           }
         },
         "ja" : {
@@ -4039,6 +4453,12 @@
             "value" : "Le laisser partir"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lasciala andare"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4095,6 +4515,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "INTENSITÉ"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "INTENSITÀ"
           }
         },
         "ja" : {
@@ -4155,6 +4581,12 @@
             "value" : "Intensité %lld sur 5, %@"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Intensità %lld su 5, %@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4211,6 +4643,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Intensité %lld → %lld"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Intensità %lld → %lld"
           }
         },
         "ja" : {
@@ -4273,6 +4711,12 @@
             "value" : "Regarder un souci en face peut d’abord le faire paraître plus gros. Tu n’as pas à le résoudre maintenant. Son seul travail est d’attendre l’heure des soucis."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guardare una preoccupazione dritto negli occhi può farla sembrare più grande all’inizio. Non devi risolverla adesso. Il suo unico compito è aspettare l’Ora delle preoccupazioni."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4329,6 +4773,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Parking"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parcheggio"
           }
         },
         "ja" : {
@@ -4389,6 +4839,12 @@
             "value" : "Fort"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forte"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4445,6 +4901,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Plan fait"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Piano fatto"
           }
         },
         "ja" : {
@@ -4505,6 +4967,12 @@
             "value" : "Faire un plan"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fai un piano"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4561,6 +5029,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Faire un plan concret a empêché les tâches inachevées d’envahir les pensées, et cinq minutes d’écriture avant de dormir ont aidé les gens à s’endormir plus vite."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fare un piano concreto ha impedito ai compiti in sospeso di invadere i pensieri, e cinque minuti di scrittura prima di dormire hanno aiutato le persone ad addormentarsi più in fretta."
           }
         },
         "ja" : {
@@ -4621,6 +5095,12 @@
             "value" : "Gérer l’abonnement"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gestisci abbonamento"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4677,6 +5157,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tenace"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Insistente"
           }
         },
         "ja" : {
@@ -4737,6 +5223,12 @@
             "value" : "Suivant"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avanti"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4793,6 +5285,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Prochaine heure des soucis"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prossima Ora delle preoccupazioni"
           }
         },
         "ja" : {
@@ -4853,6 +5351,12 @@
             "value" : "Prochaine heure des soucis : %@"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prossima Ora delle preoccupazioni: %@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4909,6 +5413,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aucune sortie pour l’instant"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ancora nessuna uscita"
           }
         },
         "ja" : {
@@ -4969,6 +5479,12 @@
             "value" : "Pas maintenant"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Non ora"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5027,6 +5543,12 @@
             "value" : "Pas encore prêt. Ressors-le à la prochaine heure des soucis."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Non è ancora pronta. Riprendila alla prossima Ora delle preoccupazioni."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5083,6 +5605,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Les notifications sont désactivées"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le notifiche sono disattivate"
           }
         },
         "ja" : {
@@ -5145,6 +5673,12 @@
             "value" : "Maintenant"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adesso"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5201,6 +5735,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Maintenant qu’il est garé, à quel point est-il fort ?"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ora che è parcheggiata, quanto è forte?"
           }
         },
         "ja" : {
@@ -5261,6 +5801,12 @@
             "value" : "Un vrai souci, de 23 h 40 jusqu’à l’heure des soucis du lendemain."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Una preoccupazione vera, dalle 23:40 all’Ora delle preoccupazioni del giorno dopo."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5317,6 +5863,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Un petit pas suivant"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un piccolo passo successivo"
           }
         },
         "ja" : {
@@ -5377,6 +5929,12 @@
             "value" : "Ouvrir les réglages iOS"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apri le Impostazioni di iOS"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5433,6 +5991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Écrasant"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opprimente"
           }
         },
         "ja" : {
@@ -5499,6 +6063,12 @@
             "value" : "P%lld est prête pour la sortie"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "P%lld è pronta per il ritiro"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5560,6 +6130,12 @@
             "value" : "P%1$lld · Ticket n° %2$@"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "P%1$lld · Biglietto n. %2$@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5616,6 +6192,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Page %1$lld sur %2$lld"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pagina %1$lld di %2$lld"
           }
         },
         "ja" : {
@@ -5676,6 +6258,12 @@
             "value" : "Garer"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parcheggia"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5732,6 +6320,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Garer un souci"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parcheggia una preoccupazione"
           }
         },
         "ja" : {
@@ -5792,6 +6386,12 @@
             "value" : "Garer en P%lld"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parcheggia in P%lld"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5848,6 +6448,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gare tous tes soucis, pas seulement trois."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parcheggia ogni preoccupazione, non solo tre."
           }
         },
         "ja" : {
@@ -5908,6 +6514,12 @@
             "value" : "Le garer de nouveau"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parcheggiala di nuovo"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5964,6 +6576,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Garé %@"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parcheggiata %@"
           }
         },
         "ja" : {
@@ -6024,6 +6642,12 @@
             "value" : "Garé en P%lld"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parcheggiata in P%lld"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6080,6 +6704,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Garé jusqu’à %@"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parcheggiata fino a %@"
           }
         },
         "ja" : {
@@ -6140,6 +6770,12 @@
             "value" : "Les soucis garés restent masqués jusqu’à leur heure de sortie. Tu n’as pas à les porter pour l’instant."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le preoccupazioni parcheggiate restano nascoste fino al loro orario di uscita. Non devi portartele dietro adesso."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6198,6 +6834,12 @@
             "value" : "Garé. Pas ton affaire pour le moment."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parcheggiata. Per ora non è affar tuo."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6254,6 +6896,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "En partie"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In parte"
           }
         },
         "ja" : {
@@ -6316,6 +6964,12 @@
             "value" : "Les personnes qui ont déplacé leurs soucis vers une courte période quotidienne y ont passé moins de temps et ont signalé moins d’anxiété et moins de troubles du sommeil."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chi ha spostato le preoccupazioni in un breve momento quotidiano ha dedicato meno tempo a preoccuparsi e ha riferito meno ansia e meno problemi di sonno."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6372,6 +7026,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Choisis ton heure des soucis"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scegli la tua Ora delle preoccupazioni"
           }
         },
         "ja" : {
@@ -6432,6 +7092,12 @@
             "value" : "Reporter fonctionne pour toi. Essaie de garer aussi le prochain."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rimandare sta funzionando. Prova a parcheggiare anche la prossima."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6488,6 +7154,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reporter marche mieux quand tu attends. À l’heure des soucis, la plupart des soucis paraissent plus petits."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rimandare funziona meglio quando aspetti. All’Ora delle preoccupazioni, la maggior parte delle preoccupazioni sembra più piccola."
           }
         },
         "ja" : {
@@ -6548,6 +7220,12 @@
             "value" : "Politique de confidentialité"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Informativa sulla privacy"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6604,6 +7282,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pro est actif"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro attivo"
           }
         },
         "ja" : {
@@ -6664,6 +7348,12 @@
             "value" : "Place Pro"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Posto Pro"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6720,6 +7410,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Prêt pour la sortie"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pronta per il ritiro"
           }
         },
         "ja" : {
@@ -6780,6 +7476,12 @@
             "value" : "Rappels"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Promemoria"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6836,6 +7538,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Les recherches décrivent des effets moyens, et les résultats varient d’une personne à l’autre. Parking des Soucis est un outil d’entraide, pas un dispositif médical ni un traitement."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gli studi descrivono effetti medi e i risultati variano da persona a persona. Parcheggio Preoccupazioni è uno strumento di auto-aiuto, non un dispositivo medico né una terapia."
           }
         },
         "ja" : {
@@ -6896,6 +7604,12 @@
             "value" : "Références scientifiques"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fonti della ricerca"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6952,6 +7666,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Restaurer les achats"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ripristina acquisti"
           }
         },
         "ja" : {
@@ -7012,6 +7732,12 @@
             "value" : "Résultat"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esito"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7068,6 +7794,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sortir plus tôt"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ritira prima"
           }
         },
         "ja" : {
@@ -7128,6 +7860,12 @@
             "value" : "Ressortir ce souci plus tôt ?"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ritirare questa preoccupazione in anticipo?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7184,6 +7922,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vois combien de tes craintes se sont réellement produites."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scopri quante delle tue paure si sono avverate davvero."
           }
         },
         "ja" : {
@@ -7244,6 +7988,12 @@
             "value" : "Vois combien de tes soucis se sont réellement produits"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scopri quante delle tue preoccupazioni sono successe davvero"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7300,6 +8050,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Voir en action"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guardalo in azione"
           }
         },
         "ja" : {
@@ -7360,6 +8116,12 @@
             "value" : "L’envoyer maintenant à la barrière de sortie"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mandala subito alla sbarra d’uscita"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7416,6 +8178,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Réglages"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impostazioni"
           }
         },
         "ja" : {
@@ -7476,6 +8244,12 @@
             "value" : "Passer pour l’instant"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salta per ora"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7532,6 +8306,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Place %lld. Libre. Gare un souci ici."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Posto %lld. Libero. Parcheggia qui una preoccupazione."
           }
         },
         "ja" : {
@@ -7592,6 +8372,12 @@
             "value" : "Place %lld. Place Pro, verrouillée."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Posto %lld. Posto Pro, bloccato."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7648,6 +8434,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Place %1$lld. Souci garé jusqu’à %2$@."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Posto %1$lld. Preoccupazione parcheggiata fino a %2$@."
           }
         },
         "ja" : {
@@ -7708,6 +8500,12 @@
             "value" : "Place %lld. Souci prêt pour la sortie."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Posto %lld. Preoccupazione pronta per il ritiro."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7764,6 +8562,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Commencer"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inizia"
           }
         },
         "ja" : {
@@ -7824,6 +8628,12 @@
             "value" : "Glisse le long de la ligne pointillée pour garer"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scorri lungo la linea tratteggiata per parcheggiare"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7880,6 +8690,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Glisse le long de la ligne pointillée. Une fois le ticket déchiré, ce souci est garé jusqu’à %@."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scorri lungo la linea tratteggiata. Appena il biglietto si stacca, questa preoccupazione resta parcheggiata fino a %@."
           }
         },
         "ja" : {
@@ -7940,6 +8756,12 @@
             "value" : "Prends une inspiration lente. Il n’y a rien à faire à ce sujet pour l’instant."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fai un respiro lento. Per ora non c’è niente da fare al riguardo."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7996,6 +8818,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Déchire le ticket pour garer"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Strappa il biglietto per parcheggiare"
           }
         },
         "ja" : {
@@ -8056,6 +8884,12 @@
             "value" : "Déchire ton ticket"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Strappa il tuo biglietto"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8112,6 +8946,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Conditions d’utilisation"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Condizioni d’uso"
           }
         },
         "ja" : {
@@ -8172,6 +9012,12 @@
             "value" : "C’est tout à fait normal. L’effet se construit généralement en quelques jours, pas en quelques minutes. Quand il resurgit, dis-lui « tu as déjà une place » et observe ce que tu ressens à l’heure des soucis."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "È del tutto normale. L’effetto di solito si accumula nell’arco di giorni, non di minuti. Quando riaffiora, dille “hai già un posto” e osserva come ti senti all’Ora delle preoccupazioni."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8228,6 +9074,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "C’est le premier effet du report. Une fois le souci écrit et rangé quelque part, ton esprit n’a plus besoin de s’y accrocher. À l’heure des soucis."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "È il primo effetto del rimandare. Quando una preoccupazione è scritta e ha un posto, la tua mente non deve più tenerla stretta. Ci vediamo all’Ora delle preoccupazioni."
           }
         },
         "ja" : {
@@ -8288,6 +9140,12 @@
             "value" : "L’heure des soucis suivante"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L’Ora delle preoccupazioni successiva"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8344,6 +9202,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ticket n° %@"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Biglietto n. %@"
           }
         },
         "ja" : {
@@ -8404,6 +9268,12 @@
             "value" : "aujourd’hui à %@"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "oggi alle %@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8460,6 +9330,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "demain à %@"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "domani alle %@"
           }
         },
         "ja" : {
@@ -8520,6 +9396,12 @@
             "value" : "Trop tôt pour le dire"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Troppo presto per dirlo"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8576,6 +9458,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Essaie maintenant"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Provalo ora"
           }
         },
         "ja" : {
@@ -8636,6 +9524,12 @@
             "value" : "Transforme-le en un petit pas suivant."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trasformala in un piccolo passo successivo."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8692,6 +9586,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Places de parking illimitées"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Posti auto illimitati"
           }
         },
         "ja" : {
@@ -8752,6 +9652,12 @@
             "value" : "Places illimitées, heures de sortie personnalisées, analyses"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Posti illimitati, orari di uscita personalizzati, approfondimenti"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8808,6 +9714,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Débloque les analyses avec Pro"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sblocca gli approfondimenti con Pro"
           }
         },
         "ja" : {
@@ -8868,6 +9780,12 @@
             "value" : "On te prévient quand un souci est prêt pour la sortie."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ti avviseremo quando una preoccupazione sarà pronta per il ritiro."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8924,6 +9842,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Que veux-tu en faire ?"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cosa vuoi farne?"
           }
         },
         "ja" : {
@@ -8984,6 +9908,12 @@
             "value" : "Et si j’ai un trou de mémoire pendant la présentation de demain et que tout le monde me trouve nul ?"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E se domani durante la presentazione vado in blocco e tutti pensano che non sono abbastanza bravo?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9040,6 +9970,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ce que tu craignais ne s’est pas produit. Chaque sortie comme celle-ci est ajoutée à ton journal des sorties, pour que tu voies à quelle fréquence tes soucis se trompent."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quello che temevi non è successo. Ogni uscita come questa finisce nel tuo registro delle uscite, così vedi quanto spesso le tue preoccupazioni si sbagliano."
           }
         },
         "ja" : {
@@ -9100,6 +10036,12 @@
             "value" : "Qu’est-ce qui tourne dans ta tête ?"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cosa ti gira in testa?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9156,6 +10098,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quand des personnes sujettes à l’inquiétude chronique ont noté leurs soucis, %lld %% ne se sont pas réalisés."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quando persone con preoccupazione cronica hanno registrato le loro preoccupazioni, il %lld%% non si è avverato."
           }
         },
         "ja" : {
@@ -9216,6 +10164,12 @@
             "value" : "Quand doit-il revenir ?"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quando deve tornare?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9272,6 +10226,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pendant qu’il était garé, comment ce souci s’est-il fait sentir ?"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mentre era parcheggiata, come ti è sembrata questa preoccupazione?"
           }
         },
         "ja" : {
@@ -9332,6 +10292,12 @@
             "value" : "Pourquoi ça marche"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perché funziona"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9390,6 +10356,12 @@
             "value" : "Sans eux, les soucis garés attendent en silence sur le parking."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Senza, le preoccupazioni parcheggiate aspettano in silenzio nel parcheggio."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9446,6 +10418,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Les soucis n’ont pas à t’accompagner toute la nuit.\nGare-les ici. On les garde jusqu’à ton heure des soucis."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le preoccupazioni non devono accompagnarti tutta la notte.\nParcheggiale qui. Le terremo noi fino alla tua Ora delle preoccupazioni."
           }
         },
         "ja" : {
@@ -9508,6 +10486,12 @@
             "value" : "Les soucis surgissent n’importe où : au lit, sous la douche, sur le chemin du retour. Quand s’inquiéter a son propre moment, ton cerveau comprend que le reste de la journée n’est pas pour ça. Les psychologues appellent cela le contrôle du stimulus."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le preoccupazioni compaiono ovunque: a letto, sotto la doccia, sulla strada di casa. Quando preoccuparsi ha un suo momento, il tuo cervello impara che il resto della giornata non è per quello. Gli psicologi lo chiamano controllo dello stimolo."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9564,6 +10548,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Les soucis que tu passes en revue à la barrière de sortie arrivent ici. Avec le temps, tu verras combien se sont réellement produits."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le preoccupazioni che riesamini alla sbarra d’uscita finiscono qui. Col tempo vedrai quante sono successe davvero."
           }
         },
         "ja" : {
@@ -9624,6 +10614,12 @@
             "value" : "S’inquiéter à une heure fixe"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preoccuparsi a un’ora fissa"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9680,6 +10676,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "PARKING DES SOUCIS"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PARCHEGGIO PREOCCUPAZIONI"
           }
         },
         "ja" : {
@@ -9740,6 +10742,12 @@
             "value" : "Parking des Soucis"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parcheggio Preoccupazioni"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9798,6 +10806,12 @@
             "value" : "Parking des Soucis est un outil d’entraide, pas un dispositif médical ni un substitut aux soins professionnels. Si tu traverses une période difficile, contacte un professionnel de la santé mentale ou les services d’urgence de ton pays."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parcheggio Preoccupazioni è uno strumento di auto-aiuto, non un dispositivo medico né un sostituto delle cure professionali. Se stai attraversando un momento difficile, rivolgiti a un professionista della salute mentale o ai servizi di emergenza locali."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9854,6 +10868,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Parking des Soucis repose sur le report de l’inquiétude, une technique de contrôle du stimulus issue de la thérapie cognitivo-comportementale (TCC) : au lieu de lutter contre un souci, tu lui donnes une heure fixe et tu y reviens à ce moment-là."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parcheggio Preoccupazioni si basa sul rinvio della preoccupazione, una tecnica di controllo dello stimolo usata nella terapia cognitivo-comportamentale (TCC): invece di combattere una preoccupazione, le assegni un orario preciso e ci torni in quel momento."
           }
         },
         "ja" : {
@@ -9916,6 +10936,12 @@
             "value" : "Parking des Soucis repose sur le report de l’inquiétude, une technique de la thérapie cognitivo-comportementale (TCC) étudiée depuis des décennies."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parcheggio Preoccupazioni si basa sul rinvio della preoccupazione, una tecnica della terapia cognitivo-comportamentale (TCC) studiata da decenni."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9972,6 +10998,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Parking des Soucis Pro"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parcheggio Preoccupazioni Pro"
           }
         },
         "ja" : {
@@ -10032,6 +11064,12 @@
             "value" : "L’inquiétude prédit un avenir pire que ce qu’il est d’ordinaire. À la barrière de sortie, tu notes si c’est vraiment arrivé ; avec le temps, ton journal des sorties montre à quelle fréquence tes soucis avaient tort."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La preoccupazione prevede un futuro peggiore di come di solito va. Alla sbarra d’uscita registri se è successo davvero, così col tempo il tuo registro delle uscite mostra quanto spesso le tue preoccupazioni avevano torto."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10090,6 +11128,12 @@
             "value" : "Heure des soucis"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ora delle preoccupazioni"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10146,6 +11190,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Écrire"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scrivi"
           }
         },
         "ja" : {
@@ -10208,6 +11258,12 @@
             "value" : "Écris un souci qui t’occupe l’esprit en ce moment. Il sera vraiment garé et reviendra %@."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scrivi una preoccupazione che hai in testa in questo momento. Verrà davvero parcheggiata e tornerà %@."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10264,6 +11320,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Écris-le pour le poser"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scrivila per lasciarla andare"
           }
         },
         "ja" : {
@@ -10324,6 +11386,12 @@
             "value" : "Écris-le exactement comme il résonne dans ta tête."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scrivila esattamente come suona nella tua testa."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10382,6 +11450,12 @@
             "value" : "Tu n’as pas à porter ça maintenant. On te le ramène %@."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Non devi portarti dietro tutto questo adesso. Te lo riporteremo %@."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10438,6 +11512,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tu as reporté un souci et tu y es revenu exprès. C’est toute la technique."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hai rimandato una preoccupazione e ci sei tornato di proposito. Questa è l’intera tecnica."
           }
         },
         "ja" : {
@@ -10500,6 +11580,12 @@
             "value" : "Tes réponses restent sur cet iPhone. Tu peux les relire dans ton journal des sorties."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le tue risposte restano su questo iPhone. Puoi rileggerle nel tuo registro delle uscite."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10556,6 +11642,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ton heure des soucis quotidienne est %@. Tu peux la modifier dans les réglages."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La tua Ora delle preoccupazioni quotidiana è alle %@. Puoi cambiarla nelle Impostazioni."
           }
         },
         "ja" : {
@@ -10616,6 +11708,12 @@
             "value" : "Ton expérience"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La tua esperienza"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10674,6 +11772,12 @@
             "value" : "Ta première sortie"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La tua prima uscita"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10730,6 +11834,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ton souci"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La tua preoccupazione"
           }
         },
         "ja" : {

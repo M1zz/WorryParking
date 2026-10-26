@@ -29,6 +29,12 @@
             "value" : "Demander un point individuel à ma manager"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chiedere un colloquio individuale al mio capo"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -87,6 +93,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vais-je vraiment pouvoir payer la facture de carte ce mois-ci ?"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riuscirò davvero a pagare l’estratto conto della carta questo mese?"
           }
         },
         "ja" : {
@@ -149,6 +161,12 @@
             "value" : "Regarder les loyers du quartier"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Controllare gli affitti in zona"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -207,6 +225,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ma blague pendant le dîner est-elle allée trop loin ?"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La mia battuta a cena è andata troppo oltre?"
           }
         },
         "ja" : {
@@ -269,6 +293,12 @@
             "value" : "Je crois que j’ai raté mon évaluation du trimestre."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Credo di aver rovinato la valutazione di questo trimestre."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -327,6 +357,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "On va encore me reprendre à la réunion de lundi."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alla riunione di lunedì mi richiameranno di nuovo."
           }
         },
         "ja" : {
@@ -389,6 +425,12 @@
             "value" : "Je ne rendrai jamais le rapport à temps."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Non riuscirò mai a rispettare la scadenza del rapporto."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -447,6 +489,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Si je bégaie à l’entretien, c’est fichu."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se mi blocco al colloquio, sono fuori."
           }
         },
         "ja" : {
@@ -509,6 +557,12 @@
             "value" : "Si mon ordinateur plante, je perds tout."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se il portatile si rompe, perdo tutto."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -567,6 +621,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "J’ai l’impression que mes amis n’ignorent que mes messages dans le groupe."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mi sembra che nel gruppo i miei amici ignorino solo i miei messaggi."
           }
         },
         "ja" : {
@@ -629,6 +689,12 @@
             "value" : "Rater l’avion gâcherait tout le voyage."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perdere il volo rovinerebbe tutto il viaggio."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -687,6 +753,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Les résultats du bilan de maman ne sont toujours pas arrivés. Et s’ils avaient trouvé quelque chose de grave et qu’elle ne me le disait pas ?"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I risultati degli esami di mamma non sono ancora arrivati. E se avessero trovato qualcosa di grave e lei non me lo dicesse?"
           }
         },
         "ja" : {
@@ -749,6 +821,12 @@
             "value" : "Mon propriétaire va augmenter le loyer."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il padrone di casa mi alzerà l’affitto."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -807,6 +885,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "La réponse de mon chef était si courte. Ai-je fait quelque chose de mal ?"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La risposta del mio capo era così breve. Ho sbagliato qualcosa?"
           }
         },
         "ja" : {
@@ -869,6 +953,12 @@
             "value" : "Ma sœur doit être blessée par ce que j’ai dit."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mia sorella sarà di sicuro ferita da quello che ho detto."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -927,6 +1017,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "S’entraîner à voix haute sur trois questions probables"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esercitarsi ad alta voce su tre domande probabili"
           }
         },
         "ja" : {
@@ -989,6 +1085,12 @@
             "value" : "Activer la sauvegarde dans le cloud"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Attivare il backup su cloud"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1049,6 +1151,12 @@
             "value" : "Et si j’ai un trou de mémoire pendant la présentation de demain et que tout le monde me trouve nul ?"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E se domani durante la presentazione vado in blocco e tutti pensano che non sono abbastanza bravo?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1107,6 +1215,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Et si le bilan révélait quelque chose ?"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E se dagli esami risultasse qualcosa?"
           }
         },
         "ja" : {
