@@ -41,6 +41,12 @@
             "value" : "Pedirle una reunión individual a mi jefe"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pyytää esihenkilöltä kahdenkeskinen keskustelu"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -141,6 +147,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿Podré pagar de verdad el recibo de la tarjeta de este mes?"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pystynkö oikeasti maksamaan tämän kuun luottokorttilaskun?"
           }
         },
         "fr" : {
@@ -245,6 +257,12 @@
             "value" : "Mirar los alquileres de la zona"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tarkistaa vuokrat naapurustossa"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -345,6 +363,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿Se me fue la mano con mi broma en la cena?"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Menikö vitsini illallisella liian pitkälle?"
           }
         },
         "fr" : {
@@ -449,6 +473,12 @@
             "value" : "Creo que eché a perder la evaluación de este trimestre."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Luulen, että pilasin tämän neljänneksen arvioinnin."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -549,6 +579,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "En la reunión del lunes me van a llamar la atención otra vez."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maanantain palaverissa minua moititaan taas."
           }
         },
         "fr" : {
@@ -653,6 +689,12 @@
             "value" : "No voy a llegar nunca a la fecha de entrega del informe."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En ehdi ikinä raportin määräaikaan."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -753,6 +795,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Si me trabo en la entrevista, estoy fuera."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jos änkytän haastattelussa, olen ulkona."
           }
         },
         "fr" : {
@@ -857,6 +905,12 @@
             "value" : "Si se estropea mi portátil, lo pierdo todo."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jos kannettavani hajoaa, menetän kaiken."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -957,6 +1011,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Siento que mis amigos ignoran solo mis mensajes en el grupo."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tuntuu, että kaverit jättävät huomiotta vain minun viestini ryhmächatissa."
           }
         },
         "fr" : {
@@ -1061,6 +1121,12 @@
             "value" : "Perder el vuelo arruinaría todo el viaje."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lennon myöhästyminen pilaisi koko matkan."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1161,6 +1227,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aún no han llegado los resultados de la revisión de mamá. ¿Y si encontraron algo grave y no me lo dice?"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Äidin tutkimustulokset eivät ole vieläkään tulleet. Entä jos he löysivät jotain vakavaa eikä hän kerro minulle?"
           }
         },
         "fr" : {
@@ -1265,6 +1337,12 @@
             "value" : "Mi casero me va a subir el alquiler."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vuokranantaja korottaa vuokraa."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1365,6 +1443,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "La respuesta de mi jefe fue tan corta. ¿Hice algo mal?"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esihenkilöni vastaus oli niin lyhyt. Tein jotain väärin?"
           }
         },
         "fr" : {
@@ -1469,6 +1553,12 @@
             "value" : "Seguro que mi hermana se ha sentido herida por lo que dije."
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siskoni on varmasti loukkaantunut siitä, mitä sanoin."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1569,6 +1659,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Practicar en voz alta tres preguntas probables"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Harjoitella ääneen kolmea todennäköistä kysymystä"
           }
         },
         "fr" : {
@@ -1673,6 +1769,12 @@
             "value" : "Activar la copia de seguridad en la nube"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ottaa pilvivarmuuskopiointi käyttöön"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1775,6 +1877,12 @@
             "value" : "¿Y si me quedo en blanco en la presentación de mañana y todos piensan que no soy lo bastante bueno?"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entä jos jähmetyn huomenna esityksessä ja kaikki päättelevät, etten ole tarpeeksi hyvä?"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1875,6 +1983,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿Y si la revisión detecta algo?"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entä jos tutkimuksessa löytyy jotain?"
           }
         },
         "fr" : {

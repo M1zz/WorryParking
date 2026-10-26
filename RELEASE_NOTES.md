@@ -120,3 +120,10 @@ Nu på flere sprog
 Πάρκαρε όσες ανησυχίες χρειάζεσαι
 Ώρες εξόδου και στατιστικά δωρεάν
 Διαθέσιμο σε περισσότερες γλώσσες
+
+### App Store (Suomi)
+
+Kaikki ominaisuudet ovat nyt ilmaisia
+Pysäköi niin monta huolta kuin tarvitset
+Ulosajoajat ja tilastot ilmaiseksi
+Nyt saatavilla useammalla kielellä
