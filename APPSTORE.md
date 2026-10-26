@@ -1561,3 +1561,74 @@ https://m1zz.github.io/WorryParking/pl/privacy.html
 ### 마케팅 URL
 
 https://m1zz.github.io/WorryParking/pl/index.html
+
+## sv
+
+### 이름
+
+Oroparkeringen
+
+### 부제
+
+Skjut upp grubblandet
+
+### 키워드
+
+ångest,sömn,sömnlöshet,KBT,CBT,stress,dagbok,mindfulness,avslappning,lugn,tankar,självhjälp
+
+### 프로모션 텍스트
+
+Skriv ner oron som snurrar och parkera den. Ge den 15 minuter på orotid, så blir resten av dagen lättare. Bygger på uppskjuten oro från KBT.
+
+### 설명
+
+Snurrar samma oro i huvudet varje kväll?
+Oroparkeringen ger den en plats. Skriv ner den, parkera den, så tar vi med den tillbaka vid din orotid. Tills dess behöver du inte bära på den.
+
+SÅ FUNGERAR DET
+1. Skriv: sätt ord på oron precis som den låter och bedöm från 1 till 5 hur högljudd den är.
+2. Parkera: parkerade oror förblir suddiga. Om en kör in i huvudet igen, säg till den: du har redan en plats.
+3. Utfartsbom: när orotiden kommer, ge den 15 minuters fokuserad uppmärksamhet. Kolla om det faktiskt hände och släpp sedan taget, gör en liten plan eller parkera den igen.
+
+VARFÖR DET FUNGERAR
+Oroparkeringen bygger på uppskjuten oro, en teknik inom kognitiv beteendeterapi (KBT) som har studerats i årtionden.
+
+• Oroa dig vid en bestämd tid
+Oror dyker upp överallt: i sängen, i duschen, på vägen hem. När oroande får sin egen tid lär sig hjärnan att resten av dagen inte är till för det. Personer som flyttade sitt oroande till en kort daglig orotid ägnade mindre tid åt oro och rapporterade mindre ångest och färre sömnproblem. (Borkovec m.fl., 1983; McGowan & Behar, 2013)
+
+• Skriv ner för att släppa taget
+En olöst oro spelas upp om och om igen eftersom hjärnan är rädd för att glömma den. En konkret plan hindrade ofärdiga uppgifter från att tränga sig in i tankarna, och fem minuters skrivande före sänggåendet hjälpte människor att somna snabbare. (Masicampo & Baumeister, 2011; Scullin m.fl., 2018)
+
+• Kolla vad som faktiskt hände
+Oro förutspår framtiden sämre än den oftast blir. När personer med långvarig oro följde upp sina oror inträffade 91 % av dem inte. (LaFreniere & Newman, 2020)
+
+TESTA DIREKT
+I introduktionen parkerar du en riktig oro och ser hur dess styrka förändras före och efter parkeringen. Hur det kändes sparas under ”Din upplevelse”, så att du kan titta tillbaka senare.
+
+UTFARTSLOGG
+Allt eftersom genomgångna oror samlas ser du hur stor del av dina farhågor som faktiskt besannades och hur mycket styrkan sjönk i genomsnitt.
+
+PRIVAT FRÅN GRUNDEN
+• Inget konto, inga servrar, ingen reklam, ingen analys. Allt du skriver stannar på din iPhone.
+• Notiser visar bara platsnumret, till exempel ”P3 är redo att hämtas”. Texten från din oro ingår aldrig.
+
+DET HÄR INGÅR
+• Obegränsade platser, egna utfartstider, dagliga påminnelser om orotid
+• Utfartsbom, utfartslogg och insikter om utfarter
+
+Användarvillkor: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Integritetspolicy: https://m1zz.github.io/WorryParking/sv/privacy.html
+
+Oroparkeringen är ett självhjälpsverktyg. Det är ingen medicinteknisk produkt och ersätter inte professionell diagnos eller behandling. Om du har det svårt, kontakta en psykiatrisk yrkesperson eller lokala nödtjänster.
+
+### 지원 URL
+
+https://m1zz.github.io/WorryParking/sv/support.html
+
+### 개인정보처리방침 URL
+
+https://m1zz.github.io/WorryParking/sv/privacy.html
+
+### 마케팅 URL
+
+https://m1zz.github.io/WorryParking/sv/index.html

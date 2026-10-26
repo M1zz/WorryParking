@@ -113,6 +113,12 @@
             "value" : "Парковка тревог"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oroparkeringen"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -249,6 +255,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Парковка тревог"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oroparkeringen"
           }
         },
         "th" : {

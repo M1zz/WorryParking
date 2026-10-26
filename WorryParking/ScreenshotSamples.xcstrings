@@ -107,6 +107,12 @@
             "value" : "Попросить руководителя о встрече один на один"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Be chefen om ett enskilt samtal"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -237,6 +243,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Хватит ли мне денег закрыть счёт по карте в этом месяце?"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kommer jag verkligen att kunna betala den här månadens kortfaktura?"
           }
         },
         "th" : {
@@ -371,6 +383,12 @@
             "value" : "Узнать цены на аренду в районе"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kolla hyrorna i området"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -501,6 +519,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Не слишком ли далеко зашла моя шутка за ужином?"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gick mitt skämt på middagen för långt?"
           }
         },
         "th" : {
@@ -635,6 +659,12 @@
             "value" : "Кажется, я провалил оценку за этот квартал."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jag tror att jag förstörde den här kvartalsbedömningen."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -765,6 +795,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "На совещании в понедельник меня опять отчитают."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "På mötet på måndag får jag skäll igen."
           }
         },
         "th" : {
@@ -899,6 +935,12 @@
             "value" : "Я никогда не успею сдать отчёт в срок."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jag hinner aldrig med rapportens deadline."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1029,6 +1071,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Если я запнусь на собеседовании, меня не возьмут."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Om jag stammar på intervjun är jag körd."
           }
         },
         "th" : {
@@ -1163,6 +1211,12 @@
             "value" : "Если сломается ноутбук, я потеряю всё."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Om min dator går sönder förlorar jag allt."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1293,6 +1347,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Кажется, в общем чате друзья игнорируют только мои сообщения."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det känns som att mina vänner bara ignorerar mina meddelanden i gruppchatten."
           }
         },
         "th" : {
@@ -1427,6 +1487,12 @@
             "value" : "Если я опоздаю на рейс, вся поездка будет испорчена."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Att missa flyget skulle förstöra hela resan."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1557,6 +1623,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Результатов обследования мамы всё ещё нет. А вдруг нашли что-то серьёзное, а она мне не говорит?"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mammas provsvar har fortfarande inte kommit. Tänk om de hittade något allvarligt och hon inte säger det till mig?"
           }
         },
         "th" : {
@@ -1691,6 +1763,12 @@
             "value" : "Хозяин квартиры поднимет арендную плату."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hyresvärden kommer att höja hyran."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1821,6 +1899,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ответ начальника такой короткий. Я что-то сделал не так?"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chefens svar var så kort. Gjorde jag något fel?"
           }
         },
         "th" : {
@@ -1955,6 +2039,12 @@
             "value" : "Сестра наверняка обиделась на мои слова."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Min syster är säkert sårad av det jag sa."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2085,6 +2175,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Вслух отработать три вероятных вопроса"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Öva högt på tre sannolika frågor"
           }
         },
         "th" : {
@@ -2219,6 +2315,12 @@
             "value" : "Включить облачное резервное копирование"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Slå på säkerhetskopiering i molnet"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2351,6 +2453,12 @@
             "value" : "А если я зависну на завтрашнем выступлении и все решат, что я недостаточно хорош?"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tänk om jag går i baklås under presentationen i morgon och alla tycker att jag inte är tillräckligt bra?"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2481,6 +2589,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "А если обследование что-то покажет?"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tänk om undersökningen hittar något?"
           }
         },
         "th" : {

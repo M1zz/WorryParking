@@ -155,3 +155,10 @@ Wszystkie funkcje są teraz za darmo
 Parkuj tyle zmartwień, ile chcesz
 Czasy wyjazdu i statystyki gratis
 Dostępne w większej liczbie języków
+
+### App Store (Svenska)
+
+Nu är alla funktioner gratis
+Parkera så många oror du vill
+Utfartstider och insikter är gratis
+Nu på fler språk
