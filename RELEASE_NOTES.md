@@ -1,0 +1,17 @@
+# 걱정 주차장 릴리즈 노트
+
+## 1.0.1
+
+### 앱스토어 (한국어)
+
+이제 모든 기능을 무료로 쓸 수 있어요
+주차 칸 제한 없이 걱정을 맡겨 두세요
+출차 시간 지정과 출차 인사이트도 무료예요
+더 많은 나라 언어로 만나 보세요
+
+### App Store (English)
+
+Every feature is now free
+Park as many worries as you need
+Set exit times and see insights for free
+Now available in more languages

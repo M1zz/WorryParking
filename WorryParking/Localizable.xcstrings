@@ -147,17 +147,6 @@
         }
       }
     },
-    "Allow reminders & start" : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "알림 허용하고 시작하기"
-          }
-        }
-      }
-    },
     "An unfinished worry keeps replaying because your mind is afraid of forgetting it. Writing it down, with a set time to come back to it, tells your brain it's taken care of for now." : {
       "localizations" : {
         "ko" : {
@@ -178,34 +167,12 @@
         }
       }
     },
-    "At Worry Time, give it %lld focused minutes. Then let it go, make a plan, or park it again." : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "걱정 시간에 %lld분만 집중해서 들여다봐요. 그다음 떠나보내거나, 계획을 세우거나, 다시 주차해요."
-          }
-        }
-      }
-    },
     "Avg. level drop" : {
       "localizations" : {
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "평균 강도 감소"
-          }
-        }
-      }
-    },
-    "Based on worry postponement, a technique from cognitive behavioral therapy (CBT)." : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "인지행동치료(CBT)의 '걱정 미루기' 기법을 바탕으로 만들었어요."
           }
         }
       }
@@ -500,17 +467,6 @@
         }
       }
     },
-    "Get the worry out of your head and onto a ticket." : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "머릿속 걱정을 꺼내 주차권에 옮겨 적어요."
-          }
-        }
-      }
-    },
     "Give it your full attention. It's the only thing to do right now." : {
       "localizations" : {
         "ko" : {
@@ -557,17 +513,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "해 보니 어땠어요?"
-          }
-        }
-      }
-    },
-    "How it works" : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "사용 방법"
           }
         }
       }
@@ -660,17 +605,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "일어났어요"
-          }
-        }
-      }
-    },
-    "It stays hidden until your daily Worry Time. If it comes back, remind yourself it already has a spot." : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "매일 정한 걱정 시간까지 숨겨둬요. 다시 떠오르면 '이미 자리가 있어'라고 떠올려요."
           }
         }
       }
@@ -1096,17 +1030,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "3개 제한 없이 모든 걱정을 주차해요."
-          }
-        }
-      }
-    },
-    "Park it" : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "주차하기"
           }
         }
       }
@@ -1865,17 +1788,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "지금 머릿속에 있는 걱정 하나를 적어 보세요. 실제로 주차되고, %@에 다시 돌아와요."
-          }
-        }
-      }
-    },
-    "Write it down" : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "적기"
           }
         }
       }
