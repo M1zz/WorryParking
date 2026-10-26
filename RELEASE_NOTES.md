@@ -127,3 +127,10 @@ Kaikki ominaisuudet ovat nyt ilmaisia
 Pysäköi niin monta huolta kuin tarvitset
 Ulosajoajat ja tilastot ilmaiseksi
 Nyt saatavilla useammalla kielellä
+
+### App Store (Bahasa Indonesia)
+
+Semua fitur kini gratis
+Parkir sebanyak apa pun kekhawatiranmu
+Waktu keluar dan wawasan juga gratis
+Kini tersedia dalam lebih banyak bahasa

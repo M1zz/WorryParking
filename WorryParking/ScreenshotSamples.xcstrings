@@ -53,6 +53,12 @@
             "value" : "Demander un point individuel à ma manager"
           }
         },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minta atasan untuk sesi tatap muka satu lawan satu"
+          }
+        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -159,6 +165,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vais-je vraiment pouvoir payer la facture de carte ce mois-ci ?"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apakah aku benar-benar sanggup membayar tagihan kartu bulan ini?"
           }
         },
         "it" : {
@@ -269,6 +281,12 @@
             "value" : "Regarder les loyers du quartier"
           }
         },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cek harga sewa di sekitar sini"
+          }
+        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -375,6 +393,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ma blague pendant le dîner est-elle allée trop loin ?"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apakah leluconku saat makan malam kelewatan?"
           }
         },
         "it" : {
@@ -485,6 +509,12 @@
             "value" : "Je crois que j’ai raté mon évaluation du trimestre."
           }
         },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sepertinya aku merusak penilaian kuartal ini."
+          }
+        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -591,6 +621,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "On va encore me reprendre à la réunion de lundi."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Di rapat hari Senin aku akan ditegur lagi."
           }
         },
         "it" : {
@@ -701,6 +737,12 @@
             "value" : "Je ne rendrai jamais le rapport à temps."
           }
         },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aku tidak akan pernah sempat memenuhi tenggat laporan."
+          }
+        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -807,6 +849,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Si je bégaie à l’entretien, c’est fichu."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kalau aku gagap saat wawancara, aku gagal."
           }
         },
         "it" : {
@@ -917,6 +965,12 @@
             "value" : "Si mon ordinateur plante, je perds tout."
           }
         },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kalau laptopku rusak, aku kehilangan semuanya."
+          }
+        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1023,6 +1077,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "J’ai l’impression que mes amis n’ignorent que mes messages dans le groupe."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rasanya teman-temanku hanya mengabaikan pesanku di grup chat."
           }
         },
         "it" : {
@@ -1133,6 +1193,12 @@
             "value" : "Rater l’avion gâcherait tout le voyage."
           }
         },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ketinggalan pesawat akan merusak seluruh perjalanan."
+          }
+        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1239,6 +1305,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Les résultats du bilan de maman ne sont toujours pas arrivés. Et s’ils avaient trouvé quelque chose de grave et qu’elle ne me le disait pas ?"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hasil pemeriksaan ibu belum juga keluar. Bagaimana kalau mereka menemukan sesuatu yang serius dan ibu tidak memberi tahu?"
           }
         },
         "it" : {
@@ -1349,6 +1421,12 @@
             "value" : "Mon propriétaire va augmenter le loyer."
           }
         },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pemilik kontrakanku akan menaikkan sewa."
+          }
+        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1455,6 +1533,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "La réponse de mon chef était si courte. Ai-je fait quelque chose de mal ?"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Balasan atasanku singkat sekali. Apa aku melakukan kesalahan?"
           }
         },
         "it" : {
@@ -1565,6 +1649,12 @@
             "value" : "Ma sœur doit être blessée par ce que j’ai dit."
           }
         },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kakakku pasti sakit hati dengan ucapanku."
+          }
+        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1671,6 +1761,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "S’entraîner à voix haute sur trois questions probables"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Latihan tiga pertanyaan yang mungkin muncul dengan suara lantang"
           }
         },
         "it" : {
@@ -1781,6 +1877,12 @@
             "value" : "Activer la sauvegarde dans le cloud"
           }
         },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktifkan cadangan cloud"
+          }
+        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1889,6 +1991,12 @@
             "value" : "Et si j’ai un trou de mémoire pendant la présentation de demain et que tout le monde me trouve nul ?"
           }
         },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bagaimana kalau besok aku blank saat presentasi dan semua orang mengira aku tidak cukup baik?"
+          }
+        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1995,6 +2103,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Et si le bilan révélait quelque chose ?"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bagaimana kalau pemeriksaannya menemukan sesuatu?"
           }
         },
         "it" : {

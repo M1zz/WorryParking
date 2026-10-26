@@ -1277,3 +1277,74 @@ https://m1zz.github.io/WorryParking/fi/privacy.html
 ### 마케팅 URL
 
 https://m1zz.github.io/WorryParking/fi/index.html
+
+## id
+
+### 이름
+
+Parkir Kekhawatiran
+
+### 부제
+
+Tunda rasa cemas ke nanti
+
+### 키워드
+
+kecemasan,tidur,insomnia,CBT,stres,jurnal,mindfulness,relaksasi,tenang,overthinking,kesehatan mental
+
+### 프로모션 텍스트
+
+Tulis kekhawatiran yang terus berputar, lalu parkirkan. Di Waktu Khawatir, beri 15 menit dan sisa harimu terasa lebih ringan. Berbasis CBT.
+
+### 설명
+
+Kekhawatiran yang sama berputar di kepalamu setiap malam?
+Parkir Kekhawatiran memberinya tempat. Tulis, parkirkan, dan kami akan membawanya kembali di Waktu Khawatir yang kamu tentukan. Sampai saat itu, kamu tidak perlu membawanya ke mana-mana.
+
+CARA KERJANYA
+1. Tulis: ungkapkan kekhawatiran persis seperti suaranya di kepala, lalu nilai dari 1 sampai 5 seberapa keras suaranya.
+2. Parkir: kekhawatiran yang terparkir tetap buram. Kalau ia masuk lagi ke kepalamu, katakan padanya: kamu sudah punya tempat.
+3. Gerbang keluar: saat Waktu Khawatir tiba, beri ia 15 menit perhatian penuh. Periksa apakah itu benar-benar terjadi, lalu lepaskan, buat rencana kecil, atau parkirkan lagi.
+
+MENGAPA BERHASIL
+Parkir Kekhawatiran dibangun di atas penundaan kekhawatiran, teknik terapi perilaku kognitif (CBT) yang telah diteliti selama puluhan tahun.
+
+• Khawatir di satu waktu tertentu
+Kekhawatiran muncul di mana saja: di tempat tidur, saat mandi, dalam perjalanan pulang. Ketika khawatir punya waktunya sendiri, otakmu belajar bahwa sisa hari bukan untuk itu. Orang yang memindahkan waktu khawatirnya ke periode singkat setiap hari menghabiskan lebih sedikit waktu untuk khawatir dan melaporkan kecemasan serta masalah tidur yang lebih sedikit. (Borkovec dkk., 1983; McGowan & Behar, 2013)
+
+• Tulis untuk melepaskan
+Kekhawatiran yang belum selesai terus berulang karena pikiranmu takut melupakannya. Membuat rencana konkret menghentikan tugas yang belum selesai mengganggu pikiran, dan menulis lima menit sebelum tidur membantu orang tertidur lebih cepat. (Masicampo & Baumeister, 2011; Scullin dkk., 2018)
+
+• Periksa apa yang sebenarnya terjadi
+Kekhawatiran memprediksi masa depan lebih buruk daripada yang biasanya terjadi. Ketika orang dengan kekhawatiran kronis mencatat kekhawatirannya, 91% di antaranya tidak terjadi. (LaFreniere & Newman, 2020)
+
+COBA LANGSUNG
+Saat pengenalan awal, kamu memarkirkan satu kekhawatiran nyata dan melihat bagaimana tingkatnya berubah sebelum dan sesudah. Perasaanmu tersimpan di “Pengalamanmu” agar bisa dilihat lagi nanti.
+
+CATATAN KELUAR
+Seiring kekhawatiran yang kamu tinjau bertambah, kamu bisa melihat berapa bagian ketakutanmu yang benar-benar terjadi dan seberapa besar rata-rata penurunan tingkatnya.
+
+PRIVAT SEJAK AWAL
+• Tanpa akun, tanpa server, tanpa iklan, tanpa analitik. Semua yang kamu tulis tetap di iPhone-mu.
+• Notifikasi hanya menampilkan nomor petak, seperti “P3 siap dijemput”. Teks kekhawatiranmu tidak pernah disertakan.
+
+YANG ADA DI APLIKASI
+• Petak parkir tanpa batas, waktu keluar kustom, pengingat Waktu Khawatir harian
+• Gerbang keluar, catatan keluar, dan wawasan keluar
+
+Ketentuan Penggunaan: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Kebijakan Privasi: https://m1zz.github.io/WorryParking/id/privacy.html
+
+Parkir Kekhawatiran adalah alat bantu diri. Aplikasi ini bukan perangkat medis dan tidak menggantikan diagnosis atau pengobatan profesional. Jika kamu sedang kesulitan, hubungi profesional kesehatan mental atau layanan darurat setempat.
+
+### 지원 URL
+
+https://m1zz.github.io/WorryParking/id/support.html
+
+### 개인정보처리방침 URL
+
+https://m1zz.github.io/WorryParking/id/privacy.html
+
+### 마케팅 URL
+
+https://m1zz.github.io/WorryParking/id/index.html
