@@ -184,3 +184,10 @@ th { color: var(--muted); font-weight: 600; }
   .bay { padding: 0 24px; }
   .gallery figure { flex-basis: 200px; }
 }
+
+/* Language menu (many languages) */
+.lang-select {
+  background: var(--asphalt-light); color: var(--text);
+  border: 0; border-radius: 999px; padding: 8px 14px;
+  font: inherit; font-size: 13px; font-weight: 700; cursor: pointer; max-width: 190px;
+}

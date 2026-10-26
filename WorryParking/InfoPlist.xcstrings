@@ -11,6 +11,12 @@
             "value" : "Worry Parking"
           }
         },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Worry Parking"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27,6 +33,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "WorryParking"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Worry Parking"
           }
         },
         "ko" : {

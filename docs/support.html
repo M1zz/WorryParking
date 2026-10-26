@@ -1,28 +1,84 @@
 <!doctype html>
-<html lang="ko">
+<html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>지원 · Support — Worry Parking</title>
+  <title>Support — Worry Parking</title>
   <meta name="robots" content="noindex">
   <link rel="alternate" hreflang="ko" href="https://m1zz.github.io/WorryParking/ko/support.html">
   <link rel="alternate" hreflang="en" href="https://m1zz.github.io/WorryParking/en/support.html">
+  <link rel="alternate" hreflang="en-GB" href="https://m1zz.github.io/WorryParking/en-GB/support.html">
+  <link rel="alternate" hreflang="zh-Hans" href="https://m1zz.github.io/WorryParking/zh-Hans/support.html">
+  <link rel="alternate" hreflang="zh-Hant" href="https://m1zz.github.io/WorryParking/zh-Hant/support.html">
+  <link rel="alternate" hreflang="ja" href="https://m1zz.github.io/WorryParking/ja/support.html">
+  <link rel="alternate" hreflang="ru" href="https://m1zz.github.io/WorryParking/ru/support.html">
+  <link rel="alternate" hreflang="es" href="https://m1zz.github.io/WorryParking/es/support.html">
+  <link rel="alternate" hreflang="de" href="https://m1zz.github.io/WorryParking/de/support.html">
+  <link rel="alternate" hreflang="fr" href="https://m1zz.github.io/WorryParking/fr/support.html">
+  <link rel="alternate" hreflang="it" href="https://m1zz.github.io/WorryParking/it/support.html">
+  <link rel="alternate" hreflang="pt-BR" href="https://m1zz.github.io/WorryParking/pt-BR/support.html">
+  <link rel="alternate" hreflang="th" href="https://m1zz.github.io/WorryParking/th/support.html">
+  <link rel="alternate" hreflang="vi" href="https://m1zz.github.io/WorryParking/vi/support.html">
+  <link rel="alternate" hreflang="cs" href="https://m1zz.github.io/WorryParking/cs/support.html">
+  <link rel="alternate" hreflang="da" href="https://m1zz.github.io/WorryParking/da/support.html">
+  <link rel="alternate" hreflang="el" href="https://m1zz.github.io/WorryParking/el/support.html">
+  <link rel="alternate" hreflang="fi" href="https://m1zz.github.io/WorryParking/fi/support.html">
+  <link rel="alternate" hreflang="id" href="https://m1zz.github.io/WorryParking/id/support.html">
+  <link rel="alternate" hreflang="nb" href="https://m1zz.github.io/WorryParking/nb/support.html">
+  <link rel="alternate" hreflang="nl" href="https://m1zz.github.io/WorryParking/nl/support.html">
+  <link rel="alternate" hreflang="pl" href="https://m1zz.github.io/WorryParking/pl/support.html">
+  <link rel="alternate" hreflang="sv" href="https://m1zz.github.io/WorryParking/sv/support.html">
+  <link rel="alternate" hreflang="tr" href="https://m1zz.github.io/WorryParking/tr/support.html">
+  <link rel="alternate" hreflang="x-default" href="https://m1zz.github.io/WorryParking/en/support.html">
+  <link rel="icon" href="assets/favicon.png">
   <link rel="stylesheet" href="style.css">
   <script>
-    // Send visitors to their language: ?lang=, saved choice, then browser language.
+    // Send visitors to their language: ?lang=, saved choice, then browser language (default English).
     (function () {
+      var known = {"ko":"ko","en":"en","en-gb":"en-GB","zh-hans":"zh-Hans","zh-hant":"zh-Hant","ja":"ja","ru":"ru","es":"es","de":"de","fr":"fr","it":"it","pt-br":"pt-BR","th":"th","vi":"vi","cs":"cs","da":"da","el":"el","fi":"fi","id":"id","nb":"nb","nl":"nl","pl":"pl","sv":"sv","tr":"tr"};
+      function pick(tag) {
+        tag = (tag || "").toLowerCase();
+        if (known[tag]) return known[tag];
+        if (tag.indexOf("zh") === 0) return /hant|tw|hk|mo/.test(tag) ? "zh-Hant" : "zh-Hans";
+        if (tag.indexOf("nn") === 0 || tag === "no") return "nb";
+        if (tag.indexOf("en-") === 0 && tag !== "en-us") return /^en-(gb|au|nz|ie|in|za)/.test(tag) ? "en-GB" : "en";
+        return known[tag.split("-")[0]] || "en";
+      }
       var lang = new URLSearchParams(location.search).get("lang");
       try { lang = lang || localStorage.getItem("lang"); } catch (e) {}
-      lang = lang || ((navigator.language || "").toLowerCase().indexOf("ko") === 0 ? "ko" : "en");
-      location.replace((lang === "ko" ? "ko" : "en") + "/support.html" + location.hash);
+      var langs = navigator.languages && navigator.languages.length ? navigator.languages : [navigator.language];
+      var target = lang && known[lang.toLowerCase()] ? known[lang.toLowerCase()] : pick(langs[0]);
+      location.replace(target + "/support.html" + location.hash);
     })();
   </script>
 </head>
 <body>
   <main class="doc">
     <div class="wrap">
-      <p><a href="ko/support.html">지원 (한국어)</a></p>
-      <p><a href="en/support.html">Support (English)</a></p>
+      <p><a href="ko/support.html">한국어</a></p>
+      <p><a href="en/support.html">English</a></p>
+      <p><a href="en-GB/support.html">English (UK)</a></p>
+      <p><a href="zh-Hans/support.html">简体中文</a></p>
+      <p><a href="zh-Hant/support.html">繁體中文</a></p>
+      <p><a href="ja/support.html">日本語</a></p>
+      <p><a href="ru/support.html">Русский</a></p>
+      <p><a href="es/support.html">Español</a></p>
+      <p><a href="de/support.html">Deutsch</a></p>
+      <p><a href="fr/support.html">Français</a></p>
+      <p><a href="it/support.html">Italiano</a></p>
+      <p><a href="pt-BR/support.html">Português (Brasil)</a></p>
+      <p><a href="th/support.html">ไทย</a></p>
+      <p><a href="vi/support.html">Tiếng Việt</a></p>
+      <p><a href="cs/support.html">Čeština</a></p>
+      <p><a href="da/support.html">Dansk</a></p>
+      <p><a href="el/support.html">Ελληνικά</a></p>
+      <p><a href="fi/support.html">Suomi</a></p>
+      <p><a href="id/support.html">Bahasa Indonesia</a></p>
+      <p><a href="nb/support.html">Norsk bokmål</a></p>
+      <p><a href="nl/support.html">Nederlands</a></p>
+      <p><a href="pl/support.html">Polski</a></p>
+      <p><a href="sv/support.html">Svenska</a></p>
+      <p><a href="tr/support.html">Türkçe</a></p>
     </div>
   </main>
 </body>

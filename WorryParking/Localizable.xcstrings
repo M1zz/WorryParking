@@ -6,6 +6,12 @@
     },
     "%lld of %lld spots used" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld of %lld spots used"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16,6 +22,12 @@
     },
     "%lld parked" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld parked"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26,6 +38,12 @@
     },
     "%lld%% of the fears you checked didn't come true." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld%% of the fears you checked didn't come true."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -39,6 +57,12 @@
     },
     "11:40 PM and your brain won't stop replaying tomorrow. Write the worry exactly as it sounds, and rate how loud it is." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "11:40 PM and your brain won't stop replaying tomorrow. Write the worry exactly as it sounds, and rate how loud it is."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -49,6 +73,12 @@
     },
     "6:00 PM, the presentation is over. Did it happen? Not really. The worry dropped from 4 to 1, so you let it go, and it's added to your Exit Log." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "6:00 PM, the presentation is over. Did it happen? Not really. The worry dropped from 4 to 1, so you let it go, and it's added to your Exit Log."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -59,6 +89,12 @@
     },
     "A bigger lot for a busier mind." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A bigger car park for a busier mind."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -69,6 +105,12 @@
     },
     "A daily 15-minute window, ideally a few hours before bed. We'll tap you on the shoulder when a worry is ready for pickup." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A daily 15-minute window, ideally a few hours before bed. We'll tap you on the shoulder when a worry is ready for pickup."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -79,6 +121,12 @@
     },
     "A little lighter" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A little lighter"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -89,6 +137,12 @@
     },
     "A whisper" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A whisper"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -99,6 +153,12 @@
     },
     "About" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -109,6 +169,12 @@
     },
     "About the same" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About the same"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -119,6 +185,12 @@
     },
     "After parking it, how do you feel?" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "After parking it, how do you feel?"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -129,6 +201,12 @@
     },
     "Allow pickup reminders" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allow pickup reminders"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -139,6 +217,12 @@
     },
     "Allow reminders & continue" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allow reminders & continue"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -149,6 +233,12 @@
     },
     "An unfinished worry keeps replaying because your mind is afraid of forgetting it. Writing it down, with a set time to come back to it, tells your brain it's taken care of for now." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "An unfinished worry keeps replaying because your mind is afraid of forgetting it. Writing it down, with a set time to come back to it, tells your brain it's taken care of for now."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -159,6 +249,12 @@
     },
     "Anything else? (optional)" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anything else? (optional)"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -169,6 +265,12 @@
     },
     "Avg. level drop" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avg. level drop"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -179,6 +281,12 @@
     },
     "Before" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Before"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -189,6 +297,12 @@
     },
     "Bring a worry back exactly when you can handle it." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bring a worry back exactly when you can handle it."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -199,6 +313,12 @@
     },
     "Cancel" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -209,6 +329,12 @@
     },
     "Check what actually happened" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Check what actually happened"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -219,6 +345,12 @@
     },
     "Choose a time a few hours before bed. New worries are parked until then. Already-parked worries keep their exit time." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose a time a few hours before bed. New worries are parked until then. Already-parked worries keep their exit time."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -229,6 +361,12 @@
     },
     "Close" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Close"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -239,6 +377,12 @@
     },
     "Continue" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -249,6 +393,12 @@
     },
     "Count" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Count"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -259,6 +409,12 @@
     },
     "Custom exit times" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Custom exit times"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -269,6 +425,12 @@
     },
     "Custom time" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Custom time"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -279,6 +441,12 @@
     },
     "Did what you feared actually happen?" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Did what you feared actually happen?"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -289,6 +457,12 @@
     },
     "Didn't happen" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Didn't happen"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -299,6 +473,12 @@
     },
     "Done" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Done"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -309,6 +489,12 @@
     },
     "Drive out" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drive out"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -319,6 +505,12 @@
     },
     "Edit my worry" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit my worry"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -329,6 +521,12 @@
     },
     "Empty" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Empty"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -339,6 +537,12 @@
     },
     "Everything you write stays on this device. Notifications never include your worry text." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Everything you write stays on this device. Notifications never include your worry text."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -349,6 +553,12 @@
     },
     "EXIT" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "EXIT"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -359,6 +569,12 @@
     },
     "Exit" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exit"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -369,6 +585,12 @@
     },
     "Exit gate" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exit gate"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -379,6 +601,12 @@
     },
     "Exit Gate · P%lld" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exit Gate · P%lld"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -389,6 +617,12 @@
     },
     "Exit Gate · P1" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exit Gate · P1"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -399,6 +633,12 @@
     },
     "Exit insights" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exit insights"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -409,6 +649,12 @@
     },
     "Exit Log" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exit Log"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -419,6 +665,12 @@
     },
     "Exit time" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exit time"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -429,6 +681,12 @@
     },
     "Exited" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exited"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -439,6 +697,12 @@
     },
     "Exits in %@" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exits in %@"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -449,6 +713,12 @@
     },
     "First exit" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "First exit"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -459,6 +729,12 @@
     },
     "First time parking" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "First time parking"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -469,6 +745,12 @@
     },
     "Give it your full attention. It's the only thing to do right now." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Give it your full attention. It's the only thing to do right now."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -479,6 +761,12 @@
     },
     "Gone" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gone"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -489,6 +777,12 @@
     },
     "Heavy" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heavy"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -499,6 +793,12 @@
     },
     "History" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "History"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -509,6 +809,12 @@
     },
     "How did that feel?" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "How did that feel?"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -519,6 +825,12 @@
     },
     "How loud is it now?" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "How loud is it now?"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -529,6 +841,12 @@
     },
     "How loud is it right now?" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "How loud is it right now?"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -539,6 +857,12 @@
     },
     "If it drives back into your head, notice it and tell yourself: it has a spot. You'll deal with it at Worry Time." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "If it drives back into your head, notice it and tell yourself: it has a spot. You'll deal with it at Worry Time."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -551,6 +875,12 @@
       "comment" : "Response to a user's \"heavier\" feedback on postponing.",
       "isCommentAutoGenerated" : true,
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "If it kept coming back, try a short \"you already have a spot\" and return to what you were doing. If worry is getting in the way of your days, talking to a professional can really help."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -561,6 +891,12 @@
     },
     "IN" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "IN"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -571,6 +907,12 @@
     },
     "It bothered me less" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "It bothered me less"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -581,6 +923,12 @@
     },
     "It bothered me more" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "It bothered me more"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -591,6 +939,12 @@
     },
     "It didn't happen" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "It didn't happen"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -601,6 +955,12 @@
     },
     "It happened" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "It happened"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -611,6 +971,12 @@
     },
     "It was %lld when you parked it." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "It was %lld when you parked it."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -623,6 +989,12 @@
       "comment" : "Feedback text for a user who found postponing a hassle.",
       "isCommentAutoGenerated" : true,
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "It's on my mind more"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -633,6 +1005,12 @@
     },
     "It's only the first one. In studies, the effect built up over a few weeks. Park a few more and compare them in your Exit Log." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "It's only the first one. In studies, the effect built up over a few weeks. Park a few more and compare them in your Exit Log."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -643,6 +1021,12 @@
     },
     "It's out of the lot. Drive away." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "It's out of the car park. Drive away."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -653,6 +1037,12 @@
     },
     "It's parked until tomorrow's Worry Time. When it pops up again in the shower, just tell yourself: it already has a spot." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "It's parked until tomorrow's Worry Time. When it pops up again in the shower, just tell yourself: it already has a spot."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -663,6 +1053,12 @@
     },
     "It's Worry Time. Give it %lld focused minutes, then decide what to do with it." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "It's Worry Time. Give it %lld focused minutes, then decide what to do with it."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -673,6 +1069,12 @@
     },
     "Keep it parked" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keep it parked"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -683,6 +1085,12 @@
     },
     "Keep parking. Patterns show up after a few exits." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keep parking. Patterns show up after a few exits."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -693,6 +1101,12 @@
     },
     "Later" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Later"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -703,6 +1117,12 @@
     },
     "Let it go" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Let it go"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -713,6 +1133,12 @@
     },
     "LEVEL" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LEVEL"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -723,6 +1149,12 @@
     },
     "Level %lld of 5, %@" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Level %lld of 5, %@"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -733,6 +1165,12 @@
     },
     "Level %lld → %lld" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Level %lld → %lld"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -745,6 +1183,12 @@
       "comment" : "Feedback response for a user who chose \"heavier\" for the \"How postponing felt\" question.",
       "isCommentAutoGenerated" : true,
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Looking straight at a worry can make it feel bigger at first. You don't have to solve it now. Its only job is to wait for Worry Time."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -755,6 +1199,12 @@
     },
     "Lot" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Car park"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -765,6 +1215,12 @@
     },
     "Loud" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loud"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -775,6 +1231,12 @@
     },
     "Made a plan" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Made a plan"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -785,6 +1247,12 @@
     },
     "Make a plan" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Make a plan"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -795,6 +1263,12 @@
     },
     "Making a concrete plan stopped unfinished tasks from intruding on people's thoughts, and five minutes of writing before bed helped people fall asleep faster." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Making a concrete plan stopped unfinished tasks from intruding on people's thoughts, and five minutes of writing before bed helped people fall asleep faster."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -805,6 +1279,12 @@
     },
     "Manage subscription" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manage subscription"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -815,6 +1295,12 @@
     },
     "Nagging" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nagging"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -825,6 +1311,12 @@
     },
     "Next" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Next"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -835,6 +1327,12 @@
     },
     "Next Worry Time" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Next Worry Time"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -845,6 +1343,12 @@
     },
     "Next Worry Time: %@" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Next Worry Time: %@"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -855,6 +1359,12 @@
     },
     "No exits yet" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No exits yet"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -865,6 +1375,12 @@
     },
     "Not now" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not now"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -875,6 +1391,12 @@
     },
     "Not ready yet. Bring it back at the next Worry Time." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not ready yet. Bring it back at the next Worry Time."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -885,6 +1407,12 @@
     },
     "Notifications are off" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notifications are off"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -897,6 +1425,12 @@
       "comment" : "A label for the current value of a level.",
       "isCommentAutoGenerated" : true,
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Now"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -907,6 +1441,12 @@
     },
     "Now that it's parked, how loud is it?" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Now that it's parked, how loud is it?"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -917,6 +1457,12 @@
     },
     "One real worry, from 11:40 PM to Worry Time the next day." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "One real worry, from 11:40 PM to Worry Time the next day."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -927,6 +1473,12 @@
     },
     "One small next step" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "One small next step"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -937,6 +1489,12 @@
     },
     "Open iOS Settings" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open iOS Settings"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -947,6 +1505,12 @@
     },
     "Overwhelming" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Overwhelming"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -963,6 +1527,12 @@
     },
     "P%lld is ready for pickup" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "P%lld is ready for pickup"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -976,6 +1546,12 @@
     },
     "P%lld · Ticket #%@" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "P%lld · Ticket #%@"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -986,6 +1562,12 @@
     },
     "Page %lld of %lld" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Page %lld of %lld"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -996,6 +1578,12 @@
     },
     "Park" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Park"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1006,6 +1594,12 @@
     },
     "Park a worry" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Park a worry"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1016,6 +1610,12 @@
     },
     "Park at P%lld" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Park at P%lld"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1026,6 +1626,12 @@
     },
     "Park every worry, not just three." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Park every worry, not just three."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1036,6 +1642,12 @@
     },
     "Park it again" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Park it again"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1046,6 +1658,12 @@
     },
     "Parked %@" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parked %@"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1056,6 +1674,12 @@
     },
     "Parked at P%lld" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parked at P%lld"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1066,6 +1690,12 @@
     },
     "Parked until %@" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parked until %@"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1076,6 +1706,12 @@
     },
     "Parked worries stay hidden until their exit time. You don't have to carry them right now." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parked worries stay hidden until their exit time. You don't have to carry them right now."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1086,6 +1722,12 @@
     },
     "Parked. Not your job right now." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parked. Not your job right now."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1096,6 +1738,12 @@
     },
     "Partly" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Partly"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1108,6 +1756,12 @@
       "comment" : "Research study showing that people who moved their worrying to a short daily worry period spent less time worrying and reported less anxiety and fewer sleep problems.",
       "isCommentAutoGenerated" : true,
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "People who moved their worrying to a short daily worry period spent less time worrying and reported less anxiety and fewer sleep problems."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1118,6 +1772,12 @@
     },
     "Pick your Worry Time" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pick your Worry Time"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1128,6 +1788,12 @@
     },
     "Postponing is working for you. Try parking the next one too." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Postponing is working for you. Try parking the next one too."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1138,6 +1804,12 @@
     },
     "Postponing works best when you wait. Most worries feel smaller by Worry Time." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Postponing works best when you wait. Most worries feel smaller by Worry Time."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1148,6 +1820,12 @@
     },
     "Privacy Policy" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privacy Policy"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1158,6 +1836,12 @@
     },
     "Pro is active" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro is active"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1168,6 +1852,12 @@
     },
     "Pro spot" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro spot"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1178,6 +1868,12 @@
     },
     "Ready for pickup" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ready for pickup"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1188,6 +1884,12 @@
     },
     "Reminders" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reminders"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1198,6 +1900,12 @@
     },
     "Research describes average effects, and results differ from person to person. Worry Parking is a self-help tool, not a medical device or a treatment." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Research describes average effects, and results differ from person to person. Worry Parking is a self-help tool, not a medical device or a treatment."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1208,6 +1916,12 @@
     },
     "Research references" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Research references"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1218,6 +1932,12 @@
     },
     "Restore purchases" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restore purchases"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1228,6 +1948,12 @@
     },
     "Result" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Result"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1238,6 +1964,12 @@
     },
     "Retrieve early" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Retrieve early"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1248,6 +1980,12 @@
     },
     "Retrieve this worry early?" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Retrieve this worry early?"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1258,6 +1996,12 @@
     },
     "See how many of your fears actually came true." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "See how many of your fears actually came true."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1268,6 +2012,12 @@
     },
     "See how many of your worries actually happened" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "See how many of your worries actually happened"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1278,6 +2028,12 @@
     },
     "See it in action" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "See it in action"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1288,6 +2044,12 @@
     },
     "Send it to the exit gate now" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Send it to the exit gate now"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1298,6 +2060,12 @@
     },
     "Settings" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1308,6 +2076,12 @@
     },
     "Skip for now" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skip for now"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1318,6 +2092,12 @@
     },
     "Spot %lld. Empty. Park a worry here." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spot %lld. Empty. Park a worry here."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1328,6 +2108,12 @@
     },
     "Spot %lld. Pro spot, locked." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spot %lld. Pro spot, locked."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1338,6 +2124,12 @@
     },
     "Spot %lld. Worry parked until %@." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spot %lld. Worry parked until %@."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1348,6 +2140,12 @@
     },
     "Spot %lld. Worry ready for pickup." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spot %lld. Worry ready for pickup."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1358,6 +2156,12 @@
     },
     "Start" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1368,6 +2172,12 @@
     },
     "Swipe along the dotted line to park" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Swipe along the dotted line to park"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1378,6 +2188,12 @@
     },
     "Swipe along the dotted line. Once it tears off, this worry is parked until %@." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Swipe along the dotted line. Once it tears off, this worry is parked until %@."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1388,6 +2204,12 @@
     },
     "Take one slow breath. There's nothing to do about it right now." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Take one slow breath. There's nothing to do about it right now."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1398,6 +2220,12 @@
     },
     "Tear off the ticket to park" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tear off the ticket to park"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1408,6 +2236,12 @@
     },
     "Tear off your ticket" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tear off your ticket"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1418,6 +2252,12 @@
     },
     "Terms of Use" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terms of Use"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1428,6 +2268,12 @@
     },
     "That's completely normal. The effect usually builds over days, not minutes. When it pops back up, tell it \"you already have a spot\" and see how it feels at Worry Time." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "That's completely normal. The effect usually builds over days, not minutes. When it pops back up, tell it \"you already have a spot\" and see how it feels at Worry Time."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1438,6 +2284,12 @@
     },
     "That's the first effect of postponing. Once a worry is written down and has a place, your mind doesn't have to hold on to it. See you at Worry Time." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "That's the first effect of postponing. Once a worry is written down and has a place, your mind doesn't have to hold on to it. See you at Worry Time."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1448,6 +2300,12 @@
     },
     "The Worry Time after" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Worry Time after"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1458,6 +2316,12 @@
     },
     "Ticket #%@" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ticket #%@"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1468,6 +2332,12 @@
     },
     "today at %@" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "today at %@"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1478,6 +2348,12 @@
     },
     "tomorrow at %@" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "tomorrow at %@"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1488,6 +2364,12 @@
     },
     "Too early to tell" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Too early to tell"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1498,6 +2380,12 @@
     },
     "Try it now" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Try it now"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1508,6 +2396,12 @@
     },
     "Turn it into one small next step." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Turn it into one small next step."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1518,6 +2412,12 @@
     },
     "Unlimited parking spots" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unlimited parking spots"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1528,6 +2428,12 @@
     },
     "Unlimited spots, custom exit times, insights" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unlimited spots, custom exit times, insights"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1538,6 +2444,12 @@
     },
     "Unlock Insights with Pro" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unlock Insights with Pro"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1548,6 +2460,12 @@
     },
     "We'll tell you when a worry is ready for pickup." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "We'll tell you when a worry is ready for pickup."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1558,6 +2476,12 @@
     },
     "What do you want to do with it?" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What do you want to do with it?"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1568,6 +2492,12 @@
     },
     "What if I blank during tomorrow's presentation and everyone decides I'm not good enough?" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What if I blank during tomorrow's presentation and everyone decides I'm not good enough?"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1578,6 +2508,12 @@
     },
     "What you feared didn't happen. Each exit like this goes into your Exit Log, so you can see how often your worries turn out wrong." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What you feared didn't happen. Each exit like this goes into your Exit Log, so you can see how often your worries turn out wrong."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1588,6 +2524,12 @@
     },
     "What's circling in your head?" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What's circling in your head?"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1598,6 +2540,12 @@
     },
     "When people with chronic worry tracked their worries, %lld%% of them didn't come true." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "When people with chronic worry tracked their worries, %lld%% of them didn't come true."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1608,6 +2556,12 @@
     },
     "When should it come back?" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "When should it come back?"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1618,6 +2572,12 @@
     },
     "While it was parked, how did this worry feel?" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "While it was parked, how did this worry feel?"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1628,6 +2588,12 @@
     },
     "Why it works" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Why it works"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1638,6 +2604,12 @@
     },
     "Without them, parked worries wait silently in the lot." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Without them, parked worries wait silently in the lot."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1648,6 +2620,12 @@
     },
     "Worries don't have to ride with you all night.\nPark them here. We'll keep them until your Worry Time." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Worries don't have to ride with you all night.\nPark them here. We'll keep them until your Worry Time."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1660,6 +2638,12 @@
       "comment" : "Explanation of the mechanism of worry postponement, based on cognitive behavioral therapy.",
       "isCommentAutoGenerated" : true,
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Worries show up anywhere: in bed, in the shower, on the way home. When worrying gets its own time, your brain learns that the rest of the day isn't for it. Psychologists call this stimulus control."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1670,6 +2654,12 @@
     },
     "Worries you review at the exit gate land here. Over time you'll see how many of them actually happened." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Worries you review at the exit gate land here. Over time you'll see how many of them actually happened."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1680,6 +2670,12 @@
     },
     "Worry at one set time" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Worry at one set time"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1690,6 +2686,12 @@
     },
     "WORRY PARKING" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "WORRY PARKING"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1700,6 +2702,12 @@
     },
     "Worry Parking" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Worry Parking"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1710,6 +2718,12 @@
     },
     "Worry Parking is a self-help tool, not a medical device or a substitute for professional care. If you're struggling, please reach out to a mental health professional or local emergency services." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Worry Parking is a self-help tool, not a medical device or a substitute for professional care. If you're struggling, please reach out to a mental health professional or local emergency services."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1720,6 +2734,12 @@
     },
     "Worry Parking is built on worry postponement, a stimulus-control technique used in cognitive behavioral therapy (CBT): instead of fighting a worry, you schedule it for a set time and return to it then." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Worry Parking is built on worry postponement, a stimulus-control technique used in cognitive behavioral therapy (CBT): instead of fighting a worry, you schedule it for a set time and return to it then."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1732,6 +2752,12 @@
       "comment" : "A description of the research behind worry postponement.",
       "isCommentAutoGenerated" : true,
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Worry Parking is built on worry postponement, a technique from cognitive behavioral therapy (CBT) that has been studied for decades."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1742,6 +2768,12 @@
     },
     "Worry Parking Pro" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Worry Parking Pro"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1752,6 +2784,12 @@
     },
     "Worry predicts the future as worse than it usually turns out. At the exit gate you record whether it really happened, so over time your Exit Log shows how often your worries were wrong." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Worry predicts the future as worse than it usually turns out. At the exit gate you record whether it really happened, so over time your Exit Log shows how often your worries were wrong."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1762,6 +2800,12 @@
     },
     "Worry Time" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Worry Time"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1772,6 +2816,12 @@
     },
     "Write" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Write"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1784,6 +2834,12 @@
       "comment" : "A description of the onboarding step where the user writes down a worry.",
       "isCommentAutoGenerated" : true,
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Write down one worry that's on your mind right now. It will really be parked and come back %@."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1794,6 +2850,12 @@
     },
     "Write it down to put it down" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Write it down to put it down"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1804,6 +2866,12 @@
     },
     "Write it exactly the way it sounds in your head." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Write it exactly the way it sounds in your head."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1814,6 +2882,12 @@
     },
     "You don't need to carry this right now. We'll bring it back %@." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You don't need to carry this right now. We'll bring it back %@."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1824,6 +2898,12 @@
     },
     "You postponed a worry and came back to it on purpose. That's the whole technique." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You postponed a worry and came back to it on purpose. That's the whole technique."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1836,6 +2916,12 @@
       "comment" : "A description of how the user's feedback is stored.",
       "isCommentAutoGenerated" : true,
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your answers stay on this iPhone. You can look back at them in your Exit Log."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1846,6 +2932,12 @@
     },
     "Your daily Worry Time is %@. You can change it in Settings." : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your daily Worry Time is %@. You can change it in Settings."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1856,6 +2948,12 @@
     },
     "Your experience" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your experience"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1866,6 +2964,12 @@
     },
     "Your first exit" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your first exit"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1876,6 +2980,12 @@
     },
     "Your worry" : {
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your worry"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",

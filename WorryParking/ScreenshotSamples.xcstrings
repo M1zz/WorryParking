@@ -5,6 +5,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ask my manager for a 1:1"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17,6 +23,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Can I actually cover this month's card bill?"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29,6 +41,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Check rents in the neighbourhood"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -41,6 +59,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Did my joke at dinner go too far?"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -53,6 +77,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I think I blew this quarter's review."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -65,6 +95,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I'll get called out again at Monday's meeting."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -77,6 +113,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I'll never make the report deadline."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -89,6 +131,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "If I stutter in the interview, I'm out."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -101,6 +149,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "If my laptop dies, I lose everything."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -113,6 +167,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "It feels like my friends ignore only my messages in the group chat."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -125,6 +185,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Missing the flight would ruin the whole trip."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -137,6 +203,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mum's checkup results still aren't back. What if they found something serious and she's not telling me?"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -149,6 +221,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "My landlord is going to raise the rent."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -161,6 +239,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "My manager's reply was so short. Did I do something wrong?"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -173,6 +257,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "My sister must be hurt by what I said."
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -185,6 +275,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Practise three likely questions out loud"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -197,6 +293,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Turn on cloud backup"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -209,6 +311,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What if I blank during tomorrow's presentation and everyone decides I'm not good enough?"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -221,6 +329,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What if the checkup finds something?"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",

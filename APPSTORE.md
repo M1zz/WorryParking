@@ -69,7 +69,7 @@ https://m1zz.github.io/WorryParking/ko/privacy.html
 
 ### 마케팅 URL
 
-https://m1zz.github.io/WorryParking/
+https://m1zz.github.io/WorryParking/ko/index.html
 
 ## en
 
@@ -140,4 +140,75 @@ https://m1zz.github.io/WorryParking/en/privacy.html
 
 ### 마케팅 URL
 
-https://m1zz.github.io/WorryParking/
+https://m1zz.github.io/WorryParking/en/index.html
+
+## en-GB
+
+### 이름
+
+Worry Parking
+
+### 부제
+
+Park worries till Worry Time
+
+### 키워드
+
+anxiety,sleep,insomnia,CBT,overthinking,rumination,stress,diary,mindfulness,calm,wellbeing,bedtime
+
+### 프로모션 텍스트
+
+Write down the worry that keeps circling, park it, and give it 15 focused minutes at Worry Time. The rest of your day gets lighter. Built on worry postponement from CBT.
+
+### 설명
+
+Does the same worry keep circling every night?
+Worry Parking gives it a spot. Write it down, park it, and we'll bring it back at your Worry Time. Until then, you don't have to carry it.
+
+HOW IT WORKS
+1. Write it down: put the worry into words exactly as it sounds, and rate how loud it is from 1 to 5.
+2. Park it: parked worries stay blurred. If one drives back into your head, tell it: you already have a spot.
+3. Exit gate: when Worry Time comes, give it 15 focused minutes. Check whether it really happened, then let it go, make one small plan, or park it again.
+
+WHY IT WORKS
+Worry Parking is built on worry postponement, a technique from cognitive behavioral therapy (CBT) that has been studied for decades.
+
+• Worry at one set time
+Worries show up anywhere: in bed, in the shower, on the way home. When worrying gets its own time, your brain learns that the rest of the day isn't for it. People who moved their worrying to a short daily worry period spent less time worrying and reported less anxiety and fewer sleep problems. (Borkovec et al., 1983; McGowan & Behar, 2013)
+
+• Write it down to put it down
+An unfinished worry keeps replaying because your mind is afraid of forgetting it. Making a concrete plan stopped unfinished tasks from intruding on people's thoughts, and five minutes of writing before bed helped people fall asleep faster. (Masicampo & Baumeister, 2011; Scullin et al., 2018)
+
+• Check what actually happened
+Worry predicts the future as worse than it usually turns out. When people with chronic worry tracked their worries, 91% of them didn't come true. (LaFreniere & Newman, 2020)
+
+TRY IT RIGHT AWAY
+During onboarding you park one real worry and see how its level changes before and after. How it felt is saved under "Your experience" so you can look back later.
+
+EXIT LOG
+As your reviewed worries add up, see what share of your fears actually came true and how much their level dropped.
+
+PRIVATE BY DESIGN
+• No account, no servers, no ads, no analytics. Everything you write stays on your iPhone.
+• Notifications only show the spot number, like "P3 is ready for pickup". Your worry text is never included.
+
+WHAT YOU GET
+• Unlimited parking spots, custom exit times, daily Worry Time reminders
+• The exit gate, Exit Log and Exit insights
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Privacy Policy: https://m1zz.github.io/WorryParking/en-GB/privacy.html
+
+Worry Parking is a self-help tool. It is not a medical device and does not replace professional diagnosis or treatment. If you're struggling, please reach out to a mental health professional or your local emergency services.
+
+### 지원 URL
+
+https://m1zz.github.io/WorryParking/en-GB/support.html
+
+### 개인정보처리방침 URL
+
+https://m1zz.github.io/WorryParking/en-GB/privacy.html
+
+### 마케팅 URL
+
+https://m1zz.github.io/WorryParking/en-GB/index.html
