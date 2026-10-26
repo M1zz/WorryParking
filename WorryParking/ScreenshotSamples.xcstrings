@@ -23,6 +23,12 @@
             "value" : "팀장님께 1:1 요청하기"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Попросить руководителя о встрече один на один"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -57,6 +63,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이번 달 카드값을 감당할 수 있을까?"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Хватит ли мне денег закрыть счёт по карте в этом месяце?"
           }
         },
         "zh-Hans" : {
@@ -95,6 +107,12 @@
             "value" : "주변 시세 알아보기"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Узнать цены на аренду в районе"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -129,6 +147,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "모임에서 한 농담이 선을 넘었나?"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не слишком ли далеко зашла моя шутка за ужином?"
           }
         },
         "zh-Hans" : {
@@ -167,6 +191,12 @@
             "value" : "이번 분기 평가를 망친 것 같아."
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кажется, я провалил оценку за этот квартал."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -201,6 +231,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "월요일 회의에서 또 지적받을 거야."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "На совещании в понедельник меня опять отчитают."
           }
         },
         "zh-Hans" : {
@@ -239,6 +275,12 @@
             "value" : "보고서 마감을 못 맞추면 어쩌지."
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Я никогда не успею сдать отчёт в срок."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -273,6 +315,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "면접에서 말을 더듬으면 떨어질 거야."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Если я запнусь на собеседовании, меня не возьмут."
           }
         },
         "zh-Hans" : {
@@ -311,6 +359,12 @@
             "value" : "노트북이 고장 나면 작업물이 다 날아가."
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Если сломается ноутбук, я потеряю всё."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -345,6 +399,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "단톡방에서 친구들이 내 말만 무시하는 것 같아."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кажется, в общем чате друзья игнорируют только мои сообщения."
           }
         },
         "zh-Hans" : {
@@ -383,6 +443,12 @@
             "value" : "비행기를 놓치면 여행을 다 망칠 거야."
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Если я опоздаю на рейс, вся поездка будет испорчена."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -417,6 +483,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "엄마 건강검진 재검 결과가 아직 안 나왔어. 혹시 큰 병인데 나한테 말을 안 하시는 거면 어떡하지?"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Результатов обследования мамы всё ещё нет. А вдруг нашли что-то серьёзное, а она мне не говорит?"
           }
         },
         "zh-Hans" : {
@@ -455,6 +527,12 @@
             "value" : "집주인이 월세를 올릴 것 같아."
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Хозяин квартиры поднимет арендную плату."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -489,6 +567,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "팀장님 답장이 너무 짧았어. 내가 뭘 잘못한 걸까?"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ответ начальника такой короткий. Я что-то сделал не так?"
           }
         },
         "zh-Hans" : {
@@ -527,6 +611,12 @@
             "value" : "동생이 내 말에 서운했을 거야."
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сестра наверняка обиделась на мои слова."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -561,6 +651,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "예상 질문 3개 소리 내어 연습하기"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вслух отработать три вероятных вопроса"
           }
         },
         "zh-Hans" : {
@@ -599,6 +695,12 @@
             "value" : "클라우드 백업 켜기"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Включить облачное резервное копирование"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -635,6 +737,12 @@
             "value" : "내일 발표하다 머리가 하얘지면, 다들 내가 무능하다고 생각할 거야."
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "А если я зависну на завтрашнем выступлении и все решат, что я недостаточно хорош?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -669,6 +777,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "건강검진에서 뭐라도 나오면 어떡하지."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "А если обследование что-то покажет?"
           }
         },
         "zh-Hans" : {
