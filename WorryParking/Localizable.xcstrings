@@ -60,6 +60,12 @@
             "value" : "Занято мест: %1$lld из %2$lld"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ใช้ช่องจอดแล้ว %1$lld จาก %2$lld ช่อง"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -130,6 +136,12 @@
             "value" : "На парковке: %lld"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "จอดอยู่ %lld เรื่อง"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -198,6 +210,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld%% проверенных тревог не сбылись."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ความกังวลที่คุณตรวจสอบแล้ว %lld%% ไม่ได้เกิดขึ้นจริง"
           }
         },
         "zh-Hans" : {
@@ -273,6 +291,12 @@
             "value" : "23:40, а мысли всё прокручивают завтрашний день. Запишите тревогу так, как она звучит в голове, и отметьте, насколько она громкая."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ห้าทุ่มสี่สิบ สมองยังวนคิดเรื่องพรุ่งนี้ไม่หยุด เขียนความกังวลตามที่ได้ยินในหัว แล้วเลือกว่ามันดังแค่ไหน"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -341,6 +365,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "18:00, выступление позади. Случилось ли то, чего вы боялись? Почти нет. Громкость тревоги упала с 4 до 1, вы отпустили её, и она попала в журнал выездов."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "หกโมงเย็น การนำเสนอจบไปแล้ว สิ่งที่กังวลเกิดขึ้นไหม? ไม่เลย ระดับความกังวลลดจาก 4 เหลือ 1 คุณจึงปล่อยมันไป และมันถูกบันทึกในบันทึกการออกของคุณ"
           }
         },
         "zh-Hans" : {
@@ -413,6 +443,12 @@
             "value" : "Для беспокойных дней — парковка побольше."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ที่จอดที่กว้างขึ้น สำหรับวันที่ใจคิดเยอะ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -481,6 +517,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Каждый день 15 минут, лучше за несколько часов до сна. Мы мягко напомним, когда тревогу пора забирать."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ทุกวันวันละ 15 นาที ควรเป็นสักสองสามชั่วโมงก่อนนอน เราจะเตือนเบา ๆ เมื่อความกังวลพร้อมออกจากที่จอด"
           }
         },
         "zh-Hans" : {
@@ -553,6 +595,12 @@
             "value" : "Стало чуть легче"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เบาขึ้นเล็กน้อย"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -621,6 +669,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Шёпот"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เบาเหมือนเสียงกระซิบ"
           }
         },
         "zh-Hans" : {
@@ -693,6 +747,12 @@
             "value" : "О приложении"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เกี่ยวกับ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -761,6 +821,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Примерно так же"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เท่าเดิม"
           }
         },
         "zh-Hans" : {
@@ -833,6 +899,12 @@
             "value" : "Как вы себя чувствуете после парковки?"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "หลังจากจอดไปแล้ว คุณรู้สึกอย่างไร?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -901,6 +973,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Разрешить напоминания о выезде"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "อนุญาตการเตือนออกจากที่จอด"
           }
         },
         "zh-Hans" : {
@@ -973,6 +1051,12 @@
             "value" : "Разрешить и продолжить"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "อนุญาตการเตือนแล้วไปต่อ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1041,6 +1125,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Незавершённая тревога прокручивается снова и снова, потому что разум боится о ней забыть. Когда вы записали её и назначили время вернуться к ней, мозг понимает: пока всё под контролем."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ความกังวลที่ยังค้างจะวนซ้ำ เพราะใจกลัวว่าจะลืม การเขียนมันลงไปและกำหนดเวลากลับมาดู จะบอกสมองว่าตอนนี้มีที่จัดการแล้ว"
           }
         },
         "zh-Hans" : {
@@ -1113,6 +1203,12 @@
             "value" : "Что-нибудь ещё? (необязательно)"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "อยากบอกอะไรเพิ่มไหม? (ไม่บังคับ)"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1181,6 +1277,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Среднее снижение уровня"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ระดับที่ลดลงเฉลี่ย"
           }
         },
         "zh-Hans" : {
@@ -1253,6 +1355,12 @@
             "value" : "До"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ก่อน"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1321,6 +1429,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Возвращайте тревогу ровно тогда, когда вам по силам с ней справиться."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เอาความกังวลกลับมา ในเวลาที่คุณพร้อมรับมือพอดี"
           }
         },
         "zh-Hans" : {
@@ -1393,6 +1507,12 @@
             "value" : "Отмена"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ยกเลิก"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1461,6 +1581,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Проверить, что произошло на самом деле"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ตรวจดูว่าเกิดอะไรขึ้นจริง"
           }
         },
         "zh-Hans" : {
@@ -1533,6 +1659,12 @@
             "value" : "Выберите время за несколько часов до сна. Новые тревоги будут стоять на парковке до этого времени. Уже припаркованные сохранят своё время выезда."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เลือกเวลาก่อนนอนสักสองสามชั่วโมง ความกังวลใหม่จะจอดอยู่จนถึงเวลานั้น ส่วนที่จอดอยู่แล้วจะยังคงเวลาออกเดิม"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1601,6 +1733,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Закрыть"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ปิด"
           }
         },
         "zh-Hans" : {
@@ -1673,6 +1811,12 @@
             "value" : "Продолжить"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ต่อไป"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1741,6 +1885,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Количество"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "จำนวน"
           }
         },
         "zh-Hans" : {
@@ -1813,6 +1963,12 @@
             "value" : "Своё время выезда"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "กำหนดเวลาออกเอง"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1881,6 +2037,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Своё время"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "กำหนดเวลาเอง"
           }
         },
         "zh-Hans" : {
@@ -1953,6 +2115,12 @@
             "value" : "Случилось ли то, чего вы боялись?"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "สิ่งที่คุณกลัวเกิดขึ้นจริงหรือเปล่า?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2021,6 +2189,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Не случилось"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ไม่ได้เกิดขึ้น"
           }
         },
         "zh-Hans" : {
@@ -2093,6 +2267,12 @@
             "value" : "Готово"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เสร็จสิ้น"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2161,6 +2341,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Выехать"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ขับออก"
           }
         },
         "zh-Hans" : {
@@ -2233,6 +2419,12 @@
             "value" : "Переписать тревогу"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "แก้ไขความกังวลของฉัน"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2301,6 +2493,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Свободно"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ว่าง"
           }
         },
         "zh-Hans" : {
@@ -2373,6 +2571,12 @@
             "value" : "Всё, что вы пишете, хранится только на этом устройстве. В уведомлениях никогда не бывает текста ваших тревог."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ทุกอย่างที่คุณเขียนจะอยู่บนอุปกรณ์เครื่องนี้เท่านั้น การแจ้งเตือนจะไม่มีข้อความความกังวลของคุณเลย"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2441,6 +2645,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ВЫЕЗД"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ออก"
           }
         },
         "zh-Hans" : {
@@ -2513,6 +2723,12 @@
             "value" : "Выезд"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ออก"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2581,6 +2797,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Шлагбаум выезда"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ด่านทางออก"
           }
         },
         "zh-Hans" : {
@@ -2653,6 +2875,12 @@
             "value" : "Шлагбаум выезда · P%lld"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ด่านทางออก · P%lld"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2721,6 +2949,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Шлагбаум выезда · P1"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ด่านทางออก · P1"
           }
         },
         "zh-Hans" : {
@@ -2793,6 +3027,12 @@
             "value" : "Аналитика выездов"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ข้อมูลเชิงลึกการออก"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2861,6 +3101,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Журнал выездов"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "บันทึกการออก"
           }
         },
         "zh-Hans" : {
@@ -2933,6 +3179,12 @@
             "value" : "Время выезда"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เวลาออก"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3001,6 +3253,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Выехала"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ออกแล้ว"
           }
         },
         "zh-Hans" : {
@@ -3073,6 +3331,12 @@
             "value" : "Выезд через %@"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ออกใน %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3141,6 +3405,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Первый выезд"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "การออกครั้งแรก"
           }
         },
         "zh-Hans" : {
@@ -3213,6 +3483,12 @@
             "value" : "Первая парковка"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ตอนจอดครั้งแรก"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3281,6 +3557,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Уделите ей всё внимание. Сейчас больше ничего делать не нужно."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ให้ความสนใจกับมันอย่างเต็มที่ ตอนนี้ไม่มีอย่างอื่นต้องทำ"
           }
         },
         "zh-Hans" : {
@@ -3353,6 +3635,12 @@
             "value" : "Исчезла"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "หายไปแล้ว"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3421,6 +3709,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Тяжёлая"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "หนัก"
           }
         },
         "zh-Hans" : {
@@ -3493,6 +3787,12 @@
             "value" : "История"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ประวัติ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3561,6 +3861,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Как это было?"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "รู้สึกอย่างไรบ้าง?"
           }
         },
         "zh-Hans" : {
@@ -3633,6 +3939,12 @@
             "value" : "Насколько громко она звучит сейчас?"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ตอนนี้มันดังแค่ไหน?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3703,6 +4015,12 @@
             "value" : "Насколько громко она звучит прямо сейчас?"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ตอนนี้มันดังแค่ไหน?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3771,6 +4089,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Если она снова лезет в голову, заметьте это и скажите себе: у неё есть место. Вы разберётесь с ней во время тревог."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ถ้ามันกลับเข้ามาในหัวอีก ให้สังเกตมัน แล้วบอกตัวเองว่า มันมีที่จอดแล้ว เดี๋ยวค่อยจัดการตอนเวลากังวล"
           }
         },
         "zh-Hans" : {
@@ -3845,6 +4169,12 @@
             "value" : "Если она всё время возвращается, коротко скажите себе: «Для тебя уже есть место» — и вернитесь к делам. Если тревоги мешают жить, разговор со специалистом может очень помочь."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ถ้ามันวนกลับมาเรื่อย ๆ ลองพูดสั้น ๆ ว่า “เธอมีที่จอดแล้วนะ” แล้วกลับไปทำสิ่งที่ทำอยู่ ถ้าความกังวลรบกวนชีวิตประจำวัน การพูดคุยกับผู้เชี่ยวชาญช่วยได้มาก"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3913,6 +4243,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ВЪЕЗД"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เข้า"
           }
         },
         "zh-Hans" : {
@@ -3985,6 +4321,12 @@
             "value" : "Беспокоила меньше"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "รบกวนใจน้อยลง"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4053,6 +4395,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Беспокоила больше"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "รบกวนใจมากขึ้น"
           }
         },
         "zh-Hans" : {
@@ -4125,6 +4473,12 @@
             "value" : "Не случилось"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ไม่ได้เกิดขึ้น"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4195,6 +4549,12 @@
             "value" : "Случилось"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เกิดขึ้น"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4263,6 +4623,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Когда вы её припарковали, было %lld."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ตอนที่จอดมันอยู่ที่ %lld"
           }
         },
         "zh-Hans" : {
@@ -4337,6 +4703,12 @@
             "value" : "Теперь думаю о ней больше"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ยิ่งคิดถึงมากขึ้น"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4405,6 +4777,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Это только первая. В исследованиях эффект накапливался в течение нескольких недель. Припаркуйте ещё несколько и сравните их в журнале выездов."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "นี่เป็นแค่เรื่องแรก ในงานวิจัย ผลค่อย ๆ สะสมตลอดหลายสัปดาห์ ลองจอดเพิ่มอีกสองสามเรื่อง แล้วเปรียบเทียบกันในบันทึกการออก"
           }
         },
         "zh-Hans" : {
@@ -4477,6 +4855,12 @@
             "value" : "Она уехала с парковки. Пусть едет."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "มันออกจากที่จอดแล้ว ปล่อยให้มันไปเถอะ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4545,6 +4929,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Она припаркована до завтрашнего времени тревог. Если в душе она всплывёт снова, просто скажите себе: для неё уже есть место."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "มันจอดอยู่จนถึงเวลากังวลของพรุ่งนี้ ถ้ามันโผล่มาอีกตอนอาบน้ำ ก็บอกตัวเองว่า มันมีที่จอดแล้ว"
           }
         },
         "zh-Hans" : {
@@ -4617,6 +5007,12 @@
             "value" : "Время тревог. Уделите ей %lld мин внимания, а потом решите, что с ней делать."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ถึงเวลากังวลแล้ว ให้เวลากับมัน %lld นาทีอย่างตั้งใจ แล้วตัดสินใจว่าจะทำอย่างไรต่อ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4685,6 +5081,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Оставить на парковке"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "จอดต่อไป"
           }
         },
         "zh-Hans" : {
@@ -4757,6 +5159,12 @@
             "value" : "Продолжайте парковать. Закономерности видны после нескольких выездов."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "จอดต่อไปเรื่อย ๆ รูปแบบจะปรากฏหลังออกได้สองสามครั้ง"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4825,6 +5233,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Позже"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ไว้ทีหลัง"
           }
         },
         "zh-Hans" : {
@@ -4897,6 +5311,12 @@
             "value" : "Отпустить"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ปล่อยไป"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4965,6 +5385,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "УРОВЕНЬ"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ระดับ"
           }
         },
         "zh-Hans" : {
@@ -5037,6 +5463,12 @@
             "value" : "Уровень %lld из 5, %@"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ระดับ %lld จาก 5, %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5105,6 +5537,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Уровень %lld → %lld"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ระดับ %lld → %lld"
           }
         },
         "zh-Hans" : {
@@ -5179,6 +5617,12 @@
             "value" : "Если смотреть на тревогу в упор, поначалу она может казаться больше. Решать её прямо сейчас не нужно. Её единственная задача — ждать времени тревог."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "การมองตรง ๆ ที่ความกังวลอาจทำให้มันดูใหญ่ขึ้นในตอนแรก คุณไม่ต้องแก้มันตอนนี้ งานเดียวของมันคือรอถึงเวลากังวล"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5247,6 +5691,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Парковка"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ที่จอด"
           }
         },
         "zh-Hans" : {
@@ -5319,6 +5769,12 @@
             "value" : "Громкая"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ดัง"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5387,6 +5843,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "План составлен"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "วางแผนแล้ว"
           }
         },
         "zh-Hans" : {
@@ -5459,6 +5921,12 @@
             "value" : "Составить план"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "วางแผน"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5527,6 +5995,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Конкретный план не давал незавершённым делам лезть в мысли, а пять минут записей перед сном помогали быстрее засыпать."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "การวางแผนที่เป็นรูปธรรมช่วยไม่ให้งานค้างแทรกเข้ามาในความคิด และการเขียนห้านาทีก่อนนอนช่วยให้หลับเร็วขึ้น"
           }
         },
         "zh-Hans" : {
@@ -5599,6 +6073,12 @@
             "value" : "Управлять подпиской"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "จัดการการสมัครสมาชิก"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5667,6 +6147,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Назойливая"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "วนเวียนไม่หาย"
           }
         },
         "zh-Hans" : {
@@ -5739,6 +6225,12 @@
             "value" : "Далее"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ถัดไป"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5807,6 +6299,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Следующее время тревог"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เวลากังวลครั้งถัดไป"
           }
         },
         "zh-Hans" : {
@@ -5879,6 +6377,12 @@
             "value" : "Следующее время тревог: %@"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เวลากังวลครั้งถัดไป: %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5947,6 +6451,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Выездов пока нет"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ยังไม่มีการออก"
           }
         },
         "zh-Hans" : {
@@ -6019,6 +6529,12 @@
             "value" : "Не сейчас"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ไว้ก่อน"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6089,6 +6605,12 @@
             "value" : "Пока не готовы. Заберите её в следующее время тревог."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ยังไม่พร้อม เอากลับมาในเวลากังวลครั้งถัดไป"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6157,6 +6679,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Уведомления отключены"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "การแจ้งเตือนปิดอยู่"
           }
         },
         "zh-Hans" : {
@@ -6231,6 +6759,12 @@
             "value" : "Сейчас"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ตอนนี้"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6299,6 +6833,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Теперь, когда она припаркована, насколько громко она звучит?"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ตอนนี้จอดแล้ว มันดังแค่ไหน?"
           }
         },
         "zh-Hans" : {
@@ -6371,6 +6911,12 @@
             "value" : "Одна настоящая тревога: от 23:40 до времени тревог на следующий день."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ความกังวลจริงหนึ่งเรื่อง ตั้งแต่ห้าทุ่มสี่สิบจนถึงเวลากังวลของวันรุ่งขึ้น"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6439,6 +6985,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Один маленький следующий шаг"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ก้าวเล็ก ๆ ก้าวต่อไป"
           }
         },
         "zh-Hans" : {
@@ -6511,6 +7063,12 @@
             "value" : "Открыть настройки iOS"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เปิดการตั้งค่า iOS"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6579,6 +7137,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Захлёстывает"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ท่วมท้น"
           }
         },
         "zh-Hans" : {
@@ -6657,6 +7221,12 @@
             "value" : "P%lld можно забирать"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "P%lld พร้อมออกจากที่จอดแล้ว"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6730,6 +7300,12 @@
             "value" : "P%1$lld · Талон №%2$@"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "P%1$lld · บัตรจอดเลขที่ %2$@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6798,6 +7374,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Страница %1$lld из %2$lld"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "หน้า %1$lld จาก %2$lld"
           }
         },
         "zh-Hans" : {
@@ -6870,6 +7452,12 @@
             "value" : "Парковка"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "จอด"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6938,6 +7526,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Припарковать тревогу"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "จอดความกังวล"
           }
         },
         "zh-Hans" : {
@@ -7010,6 +7604,12 @@
             "value" : "Припарковать на P%lld"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "จอดที่ P%lld"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7078,6 +7678,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Паркуйте все тревоги, а не только три."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "จอดได้ทุกความกังวล ไม่ใช่แค่สามเรื่อง"
           }
         },
         "zh-Hans" : {
@@ -7150,6 +7756,12 @@
             "value" : "Припарковать снова"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "จอดอีกครั้ง"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7218,6 +7830,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Припаркована %@"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "จอดเมื่อ %@"
           }
         },
         "zh-Hans" : {
@@ -7290,6 +7908,12 @@
             "value" : "Припаркована на P%lld"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "จอดที่ P%lld แล้ว"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7358,6 +7982,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Припаркована до %@"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "จอดถึง %@"
           }
         },
         "zh-Hans" : {
@@ -7430,6 +8060,12 @@
             "value" : "Припаркованные тревоги скрыты до времени выезда. Нести их сейчас не нужно."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ความกังวลที่จอดไว้จะถูกซ่อนจนถึงเวลาออก คุณไม่ต้องแบกมันไว้ตอนนี้"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7500,6 +8136,12 @@
             "value" : "Припарковано. Сейчас это не ваша забота."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "จอดแล้ว ตอนนี้ไม่ใช่หน้าที่ของคุณ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7568,6 +8210,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Отчасти"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "บางส่วน"
           }
         },
         "zh-Hans" : {
@@ -7642,6 +8290,12 @@
             "value" : "Люди, которые перенесли тревожные мысли на короткое ежедневное время, меньше тратили сил на тревогу и сообщали о меньшей тревожности и меньших проблемах со сном."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "คนที่ย้ายการกังวลไปไว้ในช่วงเวลาสั้น ๆ ประจำวัน ใช้เวลากังวลน้อยลง และรายงานว่ากังวลและมีปัญหาการนอนน้อยลง"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7710,6 +8364,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Выберите время тревог"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เลือกเวลากังวลของคุณ"
           }
         },
         "zh-Hans" : {
@@ -7782,6 +8442,12 @@
             "value" : "Откладывание работает. Попробуйте припарковать и следующую тревогу."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "การเลื่อนได้ผลกับคุณแล้ว ลองจอดเรื่องต่อไปด้วยสิ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7850,6 +8516,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Откладывание лучше всего работает, когда вы ждёте. К времени тревог большинство тревог кажутся меньше."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "การเลื่อนได้ผลดีที่สุดเมื่อคุณรอ ความกังวลส่วนใหญ่ดูเล็กลงเมื่อถึงเวลากังวล"
           }
         },
         "zh-Hans" : {
@@ -7922,6 +8594,12 @@
             "value" : "Политика конфиденциальности"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "นโยบายความเป็นส่วนตัว"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7990,6 +8668,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pro активен"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro ใช้งานอยู่"
           }
         },
         "zh-Hans" : {
@@ -8062,6 +8746,12 @@
             "value" : "Место Pro"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ช่องจอด Pro"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8130,6 +8820,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Можно забирать"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "พร้อมออกจากที่จอด"
           }
         },
         "zh-Hans" : {
@@ -8202,6 +8898,12 @@
             "value" : "Напоминания"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "การเตือน"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8270,6 +8972,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Исследования описывают средние эффекты, а результаты у разных людей отличаются. «Парковка тревог» — инструмент самопомощи, а не медицинское изделие и не лечение."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "งานวิจัยอธิบายผลโดยเฉลี่ย และผลลัพธ์ของแต่ละคนแตกต่างกัน ที่จอดความกังวลเป็นเครื่องมือดูแลตนเอง ไม่ใช่อุปกรณ์ทางการแพทย์หรือการรักษา"
           }
         },
         "zh-Hans" : {
@@ -8342,6 +9050,12 @@
             "value" : "Источники исследований"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "แหล่งอ้างอิงงานวิจัย"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8410,6 +9124,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Восстановить покупки"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "กู้คืนการซื้อ"
           }
         },
         "zh-Hans" : {
@@ -8482,6 +9202,12 @@
             "value" : "Результат"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ผลลัพธ์"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8550,6 +9276,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Забрать раньше"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เอาออกก่อนเวลา"
           }
         },
         "zh-Hans" : {
@@ -8622,6 +9354,12 @@
             "value" : "Забрать эту тревогу раньше срока?"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เอาความกังวลนี้ออกก่อนเวลาไหม?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8690,6 +9428,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Посмотрите, сколько из ваших страхов сбылось на самом деле."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ดูว่าสิ่งที่คุณกลัวเกิดขึ้นจริงมากแค่ไหน"
           }
         },
         "zh-Hans" : {
@@ -8762,6 +9506,12 @@
             "value" : "Посмотрите, сколько из ваших тревог действительно случилось"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ดูว่าความกังวลของคุณเกิดขึ้นจริงมากแค่ไหน"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8830,6 +9580,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Посмотреть в действии"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ดูตัวอย่างการใช้งาน"
           }
         },
         "zh-Hans" : {
@@ -8902,6 +9658,12 @@
             "value" : "Отправить к шлагбауму выезда сейчас"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ส่งไปที่ด่านทางออกตอนนี้"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8970,6 +9732,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Настройки"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "การตั้งค่า"
           }
         },
         "zh-Hans" : {
@@ -9042,6 +9810,12 @@
             "value" : "Пропустить"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ข้ามไปก่อน"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9110,6 +9884,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Место %lld. Свободно. Припаркуйте здесь тревогу."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ช่องจอด %lld ว่าง จอดความกังวลที่นี่ได้"
           }
         },
         "zh-Hans" : {
@@ -9182,6 +9962,12 @@
             "value" : "Место %lld. Место Pro, заблокировано."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ช่องจอด %lld ช่องจอด Pro ล็อกอยู่"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9250,6 +10036,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Место %1$lld. Тревога припаркована до %2$@."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ช่องจอด %1$lld จอดความกังวลไว้ถึง %2$@"
           }
         },
         "zh-Hans" : {
@@ -9322,6 +10114,12 @@
             "value" : "Место %lld. Тревогу можно забирать."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ช่องจอด %lld ความกังวลพร้อมออกจากที่จอด"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9390,6 +10188,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Начать"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เริ่ม"
           }
         },
         "zh-Hans" : {
@@ -9462,6 +10266,12 @@
             "value" : "Проведите по пунктирной линии, чтобы припарковать"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ปัดตามเส้นประเพื่อจอด"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9530,6 +10340,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Проведите по пунктирной линии. Как только талон оторвётся, тревога будет припаркована до %@."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ปัดตามเส้นประ เมื่อบัตรฉีกขาด ความกังวลนี้จะจอดอยู่จนถึง %@"
           }
         },
         "zh-Hans" : {
@@ -9602,6 +10418,12 @@
             "value" : "Сделайте один медленный вдох. Прямо сейчас с этим ничего не поделать."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "หายใจเข้าออกช้า ๆ หนึ่งครั้ง ตอนนี้ยังไม่มีอะไรต้องทำกับมัน"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9670,6 +10492,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Оторвите талон, чтобы припарковать"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ฉีกบัตรเพื่อจอด"
           }
         },
         "zh-Hans" : {
@@ -9742,6 +10570,12 @@
             "value" : "Оторвите талон"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ฉีกบัตรของคุณ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9810,6 +10644,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Условия использования"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ข้อกำหนดการใช้งาน"
           }
         },
         "zh-Hans" : {
@@ -9882,6 +10722,12 @@
             "value" : "Это совершенно нормально. Эффект обычно накапливается днями, а не минутами. Когда она всплывёт снова, скажите ей: «Для тебя уже есть место», и посмотрите, что будете чувствовать во время тревог."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เป็นเรื่องปกติมาก ผลมักสะสมเป็นวัน ไม่ใช่เป็นนาที เมื่อมันโผล่กลับมา ให้บอกว่า “เธอมีที่จอดแล้วนะ” แล้วดูว่ารู้สึกอย่างไรตอนเวลากังวล"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9950,6 +10796,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Это первый эффект откладывания. Когда тревога записана и у неё есть место, разуму не нужно её удерживать. До встречи во время тревог."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "นี่คือผลแรกของการเลื่อน เมื่อความกังวลถูกเขียนลงไปและมีที่ของมัน ใจก็ไม่ต้องกำมันไว้ แล้วเจอกันตอนเวลากังวล"
           }
         },
         "zh-Hans" : {
@@ -10022,6 +10874,12 @@
             "value" : "Следующее после этого время тревог"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เวลากังวลหลังจากนั้น"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10090,6 +10948,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Талон №%@"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "บัตรจอดเลขที่ %@"
           }
         },
         "zh-Hans" : {
@@ -10162,6 +11026,12 @@
             "value" : "сегодня в %@"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "วันนี้ %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10230,6 +11100,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "завтра в %@"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "พรุ่งนี้ %@"
           }
         },
         "zh-Hans" : {
@@ -10302,6 +11178,12 @@
             "value" : "Пока рано судить"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ยังเร็วเกินไปที่จะบอก"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10370,6 +11252,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Попробовать сейчас"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ลองเลย"
           }
         },
         "zh-Hans" : {
@@ -10442,6 +11330,12 @@
             "value" : "Превратите её в один маленький следующий шаг."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เปลี่ยนมันเป็นก้าวเล็ก ๆ ก้าวต่อไป"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10510,6 +11404,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Неограниченное число мест"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ช่องจอดไม่จำกัด"
           }
         },
         "zh-Hans" : {
@@ -10582,6 +11482,12 @@
             "value" : "Неограниченные места, своё время выезда, аналитика"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ช่องจอดไม่จำกัด กำหนดเวลาออกเอง ข้อมูลเชิงลึก"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10650,6 +11556,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Откройте аналитику с Pro"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ปลดล็อกข้อมูลเชิงลึกด้วย Pro"
           }
         },
         "zh-Hans" : {
@@ -10722,6 +11634,12 @@
             "value" : "Мы сообщим, когда тревогу можно будет забрать."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เราจะบอกเมื่อความกังวลพร้อมออกจากที่จอด"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10790,6 +11708,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Что вы хотите с ней сделать?"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "อยากทำอย่างไรกับมัน?"
           }
         },
         "zh-Hans" : {
@@ -10862,6 +11786,12 @@
             "value" : "А если я зависну на завтрашнем выступлении и все решат, что я недостаточно хорош?"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ถ้าพรุ่งนี้ตอนนำเสนอฉันสมองว่างเปล่า แล้วทุกคนคิดว่าฉันไม่เก่งพอจะทำอย่างไร?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10930,6 +11860,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "То, чего вы боялись, не случилось. Каждый такой выезд попадает в журнал выездов, и вы видите, как часто тревоги оказываются напрасными."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "สิ่งที่คุณกลัวไม่ได้เกิดขึ้น การออกจากที่จอดแบบนี้ทุกครั้งจะถูกบันทึกในบันทึกการออก เพื่อให้คุณเห็นว่าความกังวลของคุณคิดผิดบ่อยแค่ไหน"
           }
         },
         "zh-Hans" : {
@@ -11002,6 +11938,12 @@
             "value" : "Что крутится у вас в голове?"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "อะไรวนอยู่ในหัวคุณ?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11070,6 +12012,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Когда люди с хронической тревожностью отслеживали свои тревоги, %lld%% из них не сбылись."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เมื่อคนที่กังวลเรื้อรังบันทึกความกังวลของตัวเอง %lld%% ของมันไม่ได้เกิดขึ้นจริง"
           }
         },
         "zh-Hans" : {
@@ -11142,6 +12090,12 @@
             "value" : "Когда её вернуть?"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ให้กลับมาตอนไหน?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11210,6 +12164,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Как ощущалась эта тревога, пока она стояла на парковке?"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ระหว่างที่จอดอยู่ ความกังวลนี้รู้สึกอย่างไร?"
           }
         },
         "zh-Hans" : {
@@ -11282,6 +12242,12 @@
             "value" : "Почему это работает"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ทำไมถึงได้ผล"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11352,6 +12318,12 @@
             "value" : "Без них припаркованные тревоги просто молча ждут на парковке."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ถ้าไม่มีการเตือน ความกังวลที่จอดไว้ก็จะรออยู่เงียบ ๆ ในที่จอด"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11420,6 +12392,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Тревогам незачем ездить с вами всю ночь.\nПаркуйте их здесь. Мы сохраним их до вашего времени тревог."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ความกังวลไม่จำเป็นต้องตามคุณไปทั้งคืน\nจอดไว้ที่นี่ เราจะเก็บไว้ให้จนถึงเวลากังวลของคุณ"
           }
         },
         "zh-Hans" : {
@@ -11494,6 +12472,12 @@
             "value" : "Тревоги появляются где угодно: в постели, в душе, по дороге домой. Когда у тревоги есть своё время, мозг понимает, что остальная часть дня ей не принадлежит. Психологи называют это контролем стимулов."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ความกังวลโผล่มาได้ทุกที่ ทั้งบนเตียง ตอนอาบน้ำ ระหว่างทางกลับบ้าน เมื่อการกังวลมีเวลาเป็นของตัวเอง สมองจะเรียนรู้ว่าเวลาที่เหลือของวันไม่ใช่เวลาของมัน นักจิตวิทยาเรียกสิ่งนี้ว่าการควบคุมสิ่งเร้า"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11562,6 +12546,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Тревоги, которые вы разобрали у шлагбаума, собираются здесь. Со временем вы увидите, сколько из них действительно случилось."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ความกังวลที่คุณทบทวนที่ด่านทางออกจะมารวมกันที่นี่ เมื่อเวลาผ่านไป คุณจะเห็นว่ามีกี่เรื่องที่เกิดขึ้นจริง"
           }
         },
         "zh-Hans" : {
@@ -11634,6 +12624,12 @@
             "value" : "Тревожиться в одно и то же время"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "กังวลในเวลาที่กำหนดเท่านั้น"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11702,6 +12698,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ПАРКОВКА ТРЕВОГ"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ที่จอดความกังวล"
           }
         },
         "zh-Hans" : {
@@ -11774,6 +12776,12 @@
             "value" : "Парковка тревог"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ที่จอดความกังวล"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11844,6 +12852,12 @@
             "value" : "«Парковка тревог» — инструмент самопомощи, а не медицинское изделие и не замена профессиональной помощи. Если вам тяжело, обратитесь к специалисту по психическому здоровью или в местные экстренные службы."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ที่จอดความกังวลเป็นเครื่องมือดูแลตนเอง ไม่ใช่อุปกรณ์ทางการแพทย์และไม่ใช่ตัวแทนของการดูแลโดยผู้เชี่ยวชาญ หากคุณกำลังลำบาก โปรดติดต่อผู้เชี่ยวชาญด้านสุขภาพจิตหรือบริการฉุกเฉินในพื้นที่ของคุณ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11912,6 +12926,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "«Парковка тревог» построена на откладывании тревог — приёме контроля стимулов из когнитивно-поведенческой терапии (КПТ): вместо борьбы с тревогой вы назначаете ей время и возвращаетесь к ней тогда."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ที่จอดความกังวลสร้างขึ้นจากการเลื่อนความกังวล เทคนิคการควบคุมสิ่งเร้าที่ใช้ในการบำบัดทางความคิดและพฤติกรรม (CBT) คือแทนที่จะสู้กับความกังวล คุณกำหนดเวลาให้มัน แล้วกลับมาจัดการตอนนั้น"
           }
         },
         "zh-Hans" : {
@@ -11986,6 +13006,12 @@
             "value" : "«Парковка тревог» построена на откладывании тревог — приёме когнитивно-поведенческой терапии (КПТ), который изучают уже десятилетия."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ที่จอดความกังวลสร้างขึ้นจากการเลื่อนความกังวล เทคนิคจากการบำบัดทางความคิดและพฤติกรรม (CBT) ที่มีงานวิจัยมานานหลายสิบปี"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12054,6 +13080,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Парковка тревог Pro"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ที่จอดความกังวล Pro"
           }
         },
         "zh-Hans" : {
@@ -12126,6 +13158,12 @@
             "value" : "Тревога рисует будущее хуже, чем оно обычно оказывается. У шлагбаума вы отмечаете, случилось ли это на самом деле, и со временем журнал выездов показывает, как часто вы тревожились зря."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ความกังวลมักทำนายอนาคตแย่กว่าที่เป็นจริง ที่ด่านทางออกคุณบันทึกว่ามันเกิดขึ้นจริงไหม เมื่อเวลาผ่านไป บันทึกการออกจะแสดงให้เห็นว่าความกังวลของคุณคิดผิดบ่อยแค่ไหน"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12196,6 +13234,12 @@
             "value" : "Время тревог"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เวลากังวล"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12264,6 +13308,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Запись"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เขียน"
           }
         },
         "zh-Hans" : {
@@ -12338,6 +13388,12 @@
             "value" : "Запишите одну тревогу, которая сейчас у вас на уме. Она действительно будет припаркована и вернётся %@."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เขียนความกังวลหนึ่งเรื่องที่อยู่ในใจตอนนี้ มันจะถูกจอดไว้จริง และกลับมา%@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12406,6 +13462,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Запишите, чтобы отпустить"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เขียนลงไป เพื่อวางมันลง"
           }
         },
         "zh-Hans" : {
@@ -12478,6 +13540,12 @@
             "value" : "Запишите так, как это звучит у вас в голове."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เขียนตามที่ได้ยินในหัวเลย"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12548,6 +13616,12 @@
             "value" : "Нести это сейчас не нужно. Мы вернём её %@."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "คุณไม่ต้องแบกเรื่องนี้ไว้ตอนนี้ เราจะนำกลับมาให้%@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12616,6 +13690,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Вы отложили тревогу и намеренно вернулись к ней. В этом весь приём."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "คุณเลื่อนความกังวลไว้ แล้วกลับมาเผชิญมันโดยตั้งใจ นี่คือเทคนิคทั้งหมดแล้ว"
           }
         },
         "zh-Hans" : {
@@ -12690,6 +13770,12 @@
             "value" : "Ваши ответы остаются на этом iPhone. Их можно перечитать в журнале выездов."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "คำตอบของคุณอยู่บน iPhone เครื่องนี้เท่านั้น ย้อนดูได้ในบันทึกการออก"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12758,6 +13844,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ваше ежедневное время тревог — %@. Его можно изменить в настройках."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เวลากังวลประจำวันของคุณคือ %@ เปลี่ยนได้ในการตั้งค่า"
           }
         },
         "zh-Hans" : {
@@ -12830,6 +13922,12 @@
             "value" : "Ваш опыт"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ประสบการณ์ของคุณ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12900,6 +13998,12 @@
             "value" : "Ваш первый выезд"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "การออกครั้งแรกของคุณ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12968,6 +14072,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Моя тревога"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ความกังวลของคุณ"
           }
         },
         "zh-Hans" : {

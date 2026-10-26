@@ -59,6 +59,12 @@
             "value" : "Попросить руководителя о встрече один на один"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ขอหัวหน้านัดคุยตัวต่อตัว"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -129,6 +135,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Хватит ли мне денег закрыть счёт по карте в этом месяце?"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ฉันจะจ่ายบิลบัตรเครดิตเดือนนี้ไหวจริง ๆ ไหม?"
           }
         },
         "zh-Hans" : {
@@ -203,6 +215,12 @@
             "value" : "Узнать цены на аренду в районе"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ดูราคาค่าเช่าแถวนี้"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -273,6 +291,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Не слишком ли далеко зашла моя шутка за ужином?"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "มุกที่ฉันเล่นตอนกินข้าวเมื่อกี้ล้ำเส้นไปหรือเปล่า?"
           }
         },
         "zh-Hans" : {
@@ -347,6 +371,12 @@
             "value" : "Кажется, я провалил оценку за этот квартал."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ฉันรู้สึกว่าทำผลประเมินไตรมาสนี้พัง"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -417,6 +447,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "На совещании в понедельник меня опять отчитают."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ประชุมวันจันทร์จะโดนทักอีกแน่"
           }
         },
         "zh-Hans" : {
@@ -491,6 +527,12 @@
             "value" : "Я никогда не успею сдать отчёт в срок."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ฉันจะส่งรายงานไม่ทันกำหนดแน่ ๆ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -561,6 +603,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Если я запнусь на собеседовании, меня не возьмут."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ถ้าพูดติดขัดตอนสัมภาษณ์ ฉันต้องตกแน่"
           }
         },
         "zh-Hans" : {
@@ -635,6 +683,12 @@
             "value" : "Если сломается ноутбук, я потеряю всё."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ถ้าแล็ปท็อปพัง ฉันจะเสียทุกอย่าง"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -705,6 +759,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Кажется, в общем чате друзья игнорируют только мои сообщения."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "รู้สึกเหมือนเพื่อนในกลุ่มแชตเมินแค่ข้อความของฉัน"
           }
         },
         "zh-Hans" : {
@@ -779,6 +839,12 @@
             "value" : "Если я опоздаю на рейс, вся поездка будет испорчена."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ถ้าตกเครื่อง ทริปนี้ก็พังหมด"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -849,6 +915,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Результатов обследования мамы всё ещё нет. А вдруг нашли что-то серьёзное, а она мне не говорит?"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ผลตรวจสุขภาพของแม่ยังไม่ออก ถ้าเจออะไรร้ายแรงแล้วแม่ไม่บอกฉันล่ะ?"
           }
         },
         "zh-Hans" : {
@@ -923,6 +995,12 @@
             "value" : "Хозяин квартиры поднимет арендную плату."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เจ้าของห้องจะขึ้นค่าเช่าแน่"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -993,6 +1071,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ответ начальника такой короткий. Я что-то сделал не так?"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "หัวหน้าตอบสั้นมากเลย ฉันทำอะไรผิดหรือเปล่า?"
           }
         },
         "zh-Hans" : {
@@ -1067,6 +1151,12 @@
             "value" : "Сестра наверняка обиделась на мои слова."
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "น้องสาวต้องเสียใจกับสิ่งที่ฉันพูดแน่"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1137,6 +1227,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Вслух отработать три вероятных вопроса"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ซ้อมตอบคำถามที่น่าจะถูกถามสามข้อออกเสียง"
           }
         },
         "zh-Hans" : {
@@ -1211,6 +1307,12 @@
             "value" : "Включить облачное резервное копирование"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เปิดการสำรองข้อมูลบนคลาวด์"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1283,6 +1385,12 @@
             "value" : "А если я зависну на завтрашнем выступлении и все решат, что я недостаточно хорош?"
           }
         },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ถ้าพรุ่งนี้ตอนนำเสนอฉันสมองว่างเปล่า แล้วทุกคนคิดว่าฉันไม่เก่งพอจะทำอย่างไร?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1353,6 +1461,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "А если обследование что-то покажет?"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ถ้าผลตรวจเจออะไรขึ้นมาล่ะ?"
           }
         },
         "zh-Hans" : {

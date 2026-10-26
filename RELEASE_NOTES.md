@@ -85,3 +85,10 @@ Agora todos os recursos são gratuitos
 Estacione quantas preocupações quiser
 Horários de saída e insights grátis
 Agora disponível em mais idiomas
+
+### App Store (ไทย)
+
+ตอนนี้ใช้ทุกฟีเจอร์ได้ฟรี
+จอดความกังวลได้ไม่จำกัด
+กำหนดเวลาออกและดูข้อมูลเชิงลึกฟรี
+รองรับภาษาเพิ่มขึ้นแล้ว
