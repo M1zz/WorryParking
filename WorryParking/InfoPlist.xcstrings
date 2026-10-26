@@ -95,6 +95,12 @@
             "value" : "Zorgenparking"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parking Zmartwień"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -225,6 +231,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zorgenparking"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parking Zmartwień"
           }
         },
         "pt-BR" : {

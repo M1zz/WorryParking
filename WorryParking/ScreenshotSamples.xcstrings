@@ -89,6 +89,12 @@
             "value" : "Mijn leidinggevende om een persoonlijk gesprek vragen"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Poprosić szefa o rozmowę w cztery oczy"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -213,6 +219,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kan ik de creditcardrekening van deze maand echt betalen?"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Czy naprawdę dam radę zapłacić w tym miesiącu rachunek za kartę?"
           }
         },
         "pt-BR" : {
@@ -341,6 +353,12 @@
             "value" : "De huurprijzen in de buurt opzoeken"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sprawdzić ceny najmu w okolicy"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -465,6 +483,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ging mijn grap tijdens het diner te ver?"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Czy mój żart na kolacji nie poszedł za daleko?"
           }
         },
         "pt-BR" : {
@@ -593,6 +617,12 @@
             "value" : "Ik denk dat ik de beoordeling van dit kwartaal heb verpest."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chyba zepsułem ocenę za ten kwartał."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -717,6 +747,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Op de vergadering van maandag krijg ik weer op mijn kop."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Na poniedziałkowym spotkaniu znów mi się oberwie."
           }
         },
         "pt-BR" : {
@@ -845,6 +881,12 @@
             "value" : "Ik haal de deadline van het rapport nooit."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nigdy nie zdążę z terminem raportu."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -969,6 +1011,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Als ik stotter tijdens het sollicitatiegesprek, ben ik erbij."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jeśli zacznę się jąkać na rozmowie, odpadam."
           }
         },
         "pt-BR" : {
@@ -1097,6 +1145,12 @@
             "value" : "Als mijn laptop crasht, ben ik alles kwijt."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jeśli laptop mi padnie, stracę wszystko."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1221,6 +1275,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Het voelt alsof mijn vrienden in de groepsapp alleen mijn berichten negeren."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mam wrażenie, że znajomi na czacie grupowym ignorują tylko moje wiadomości."
           }
         },
         "pt-BR" : {
@@ -1349,6 +1409,12 @@
             "value" : "Mijn vlucht missen zou de hele reis verpesten."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spóźnienie na lot zrujnowałoby cały wyjazd."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1473,6 +1539,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "De uitslag van mama’s onderzoek is er nog steeds niet. Wat als ze iets ernstigs hebben gevonden en ze het mij niet vertelt?"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wyniki badań mamy wciąż nie przyszły. A jeśli znaleźli coś poważnego, a ona mi nie mówi?"
           }
         },
         "pt-BR" : {
@@ -1601,6 +1673,12 @@
             "value" : "Mijn huisbaas gaat de huur verhogen."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Właściciel podniesie mi czynsz."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1725,6 +1803,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Het antwoord van mijn leidinggevende was zo kort. Heb ik iets verkeerd gedaan?"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odpowiedź szefa była taka krótka. Czy coś zrobiłem źle?"
           }
         },
         "pt-BR" : {
@@ -1853,6 +1937,12 @@
             "value" : "Mijn zus is vast gekwetst door wat ik zei."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siostra na pewno jest zraniona tym, co powiedziałem."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1977,6 +2067,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Drie waarschijnlijke vragen hardop oefenen"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Poćwiczyć na głos trzy prawdopodobne pytania"
           }
         },
         "pt-BR" : {
@@ -2105,6 +2201,12 @@
             "value" : "Cloudback-up inschakelen"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Włączyć kopię zapasową w chmurze"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2231,6 +2333,12 @@
             "value" : "Wat als ik morgen tijdens de presentatie blanco ga en iedereen denkt dat ik niet goed genoeg ben?"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A co, jeśli jutro na prezentacji dostanę zaćmienia i wszyscy uznają, że nie jestem wystarczająco dobry?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2355,6 +2463,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wat als het onderzoek iets vindt?"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A co, jeśli badania coś wykryją?"
           }
         },
         "pt-BR" : {

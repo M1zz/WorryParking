@@ -1490,3 +1490,74 @@ https://m1zz.github.io/WorryParking/nl/privacy.html
 ### 마케팅 URL
 
 https://m1zz.github.io/WorryParking/nl/index.html
+
+## pl
+
+### 이름
+
+Parking Zmartwień
+
+### 부제
+
+Odłóż niepokój na później
+
+### 키워드
+
+lęk,sen,bezsenność,CBT,stres,dziennik,mindfulness,relaks,spokój,myśli,samopomoc,ruminacje
+
+### 프로모션 텍스트
+
+Zapisz zmartwienie, które krąży po głowie, i zaparkuj je. W Porze na zmartwienia poświęć mu 15 minut, a reszta dnia będzie lżejsza. Oparte na technice z CBT.
+
+### 설명
+
+To samo zmartwienie krąży po twojej głowie każdego wieczoru?
+Parking Zmartwień znajdzie mu miejsce. Zapisz je, zaparkuj, a w wyznaczonej przez ciebie Porze na zmartwienia je oddamy. Do tego czasu nie musisz go nosić.
+
+JAK TO DZIAŁA
+1. Zapisz: ubierz zmartwienie w słowa dokładnie tak, jak brzmi, i oceń w skali od 1 do 5, jak jest głośne.
+2. Zaparkuj: zaparkowane zmartwienia pozostają rozmyte. Jeśli któreś wjedzie ci znów do głowy, powiedz mu: masz już miejsce.
+3. Szlaban wyjazdowy: gdy nadejdzie Pora na zmartwienia, poświęć mu 15 minut skupionej uwagi. Sprawdź, czy to naprawdę się stało, a potem puść je, zrób mały plan albo zaparkuj ponownie.
+
+DLACZEGO TO DZIAŁA
+Parking Zmartwień opiera się na odkładaniu zmartwień, technice terapii poznawczo-behawioralnej (CBT), którą bada się od dziesięcioleci.
+
+• Martw się o jednej ustalonej porze
+Zmartwienia pojawiają się wszędzie: w łóżku, pod prysznicem, w drodze do domu. Gdy martwienie się dostaje własny czas, mózg uczy się, że reszta dnia nie jest na to. Osoby, które przeniosły martwienie się na krótki codzienny czas, spędzały na tym mniej czasu i zgłaszały mniej lęku oraz mniej problemów ze snem. (Borkovec i in., 1983; McGowan i Behar, 2013)
+
+• Zapisz, żeby odpuścić
+Nierozwiązane zmartwienie wciąż się powtarza, bo umysł boi się o nim zapomnieć. Konkretny plan sprawił, że niedokończone sprawy przestały wdzierać się do myśli, a pięć minut pisania przed snem pomagało szybciej zasnąć. (Masicampo i Baumeister, 2011; Scullin i in., 2018)
+
+• Sprawdź, co naprawdę się stało
+Zmartwienie przewiduje przyszłość gorszą, niż zwykle bywa. Gdy osoby z przewlekłym martwieniem się notowały swoje zmartwienia, 91% z nich się nie spełniło. (LaFreniere i Newman, 2020)
+
+WYPRÓBUJ OD RAZU
+Na początku parkujesz jedno prawdziwe zmartwienie i widzisz, jak zmienia się jego nasilenie przed zaparkowaniem i po nim. Twoje wrażenia zapisują się w sekcji „Twoje doświadczenie”, żeby można było do nich wrócić.
+
+DZIENNIK WYJAZDÓW
+W miarę jak przybywa przejrzanych zmartwień, widzisz, jaka część twoich obaw naprawdę się spełniła i o ile średnio spadło ich nasilenie.
+
+PRYWATNOŚĆ OD PODSTAW
+• Bez konta, bez serwerów, bez reklam, bez analityki. Wszystko, co piszesz, zostaje na twoim iPhonie.
+• Powiadomienia pokazują tylko numer miejsca, na przykład „P3 jest gotowe do odbioru”. Treść twojego zmartwienia nigdy w nich nie występuje.
+
+CO JEST W APLIKACJI
+• Nieograniczona liczba miejsc, własne czasy wyjazdu, codzienne przypomnienia o Porze na zmartwienia
+• Szlaban wyjazdowy, dziennik wyjazdów i statystyki wyjazdów
+
+Warunki korzystania: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Polityka prywatności: https://m1zz.github.io/WorryParking/pl/privacy.html
+
+Parking Zmartwień to narzędzie samopomocy. Nie jest wyrobem medycznym i nie zastępuje profesjonalnej diagnozy ani leczenia. Jeśli jest ci ciężko, skontaktuj się ze specjalistą zdrowia psychicznego lub lokalnymi służbami ratunkowymi.
+
+### 지원 URL
+
+https://m1zz.github.io/WorryParking/pl/support.html
+
+### 개인정보처리방침 URL
+
+https://m1zz.github.io/WorryParking/pl/privacy.html
+
+### 마케팅 URL
+
+https://m1zz.github.io/WorryParking/pl/index.html

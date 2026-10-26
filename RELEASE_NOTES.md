@@ -148,3 +148,10 @@ Alle functies zijn nu gratis
 Parkeer zoveel zorgen als je wilt
 Uitrittijden en inzichten zijn gratis
 Nu in meer talen beschikbaar
+
+### App Store (Polski)
+
+Wszystkie funkcje są teraz za darmo
+Parkuj tyle zmartwień, ile chcesz
+Czasy wyjazdu i statystyki gratis
+Dostępne w większej liczbie języków
