@@ -16,6 +16,12 @@
             "state" : "translated",
             "value" : "팀장님께 1:1 요청하기"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "找主管约一次一对一"
+          }
         }
       }
     },
@@ -33,6 +39,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이번 달 카드값을 감당할 수 있을까?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "这个月的信用卡账单我真的还得上吗？"
           }
         }
       }
@@ -52,6 +64,12 @@
             "state" : "translated",
             "value" : "주변 시세 알아보기"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打听一下附近的租金"
+          }
         }
       }
     },
@@ -69,6 +87,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "모임에서 한 농담이 선을 넘었나?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我在饭局上开的玩笑是不是过头了？"
           }
         }
       }
@@ -88,6 +112,12 @@
             "state" : "translated",
             "value" : "이번 분기 평가를 망친 것 같아."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我觉得这个季度的绩效被我搞砸了。"
+          }
         }
       }
     },
@@ -105,6 +135,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "월요일 회의에서 또 지적받을 거야."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "周一开会又要被点名批评了。"
           }
         }
       }
@@ -124,6 +160,12 @@
             "state" : "translated",
             "value" : "보고서 마감을 못 맞추면 어쩌지."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "报告我肯定赶不上截止日期。"
+          }
         }
       }
     },
@@ -141,6 +183,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "면접에서 말을 더듬으면 떨어질 거야."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "面试时我要是结巴了，就没戏了。"
           }
         }
       }
@@ -160,6 +208,12 @@
             "state" : "translated",
             "value" : "노트북이 고장 나면 작업물이 다 날아가."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "电脑要是坏了，我的东西就全没了。"
+          }
         }
       }
     },
@@ -177,6 +231,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "단톡방에서 친구들이 내 말만 무시하는 것 같아."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "感觉群里朋友好像只无视我发的消息。"
           }
         }
       }
@@ -196,6 +256,12 @@
             "state" : "translated",
             "value" : "비행기를 놓치면 여행을 다 망칠 거야."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "要是错过航班，整个旅行就毁了。"
+          }
         }
       }
     },
@@ -213,6 +279,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "엄마 건강검진 재검 결과가 아직 안 나왔어. 혹시 큰 병인데 나한테 말을 안 하시는 거면 어떡하지?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "妈妈的体检结果还没出来。万一查出了大问题，她又瞒着我呢？"
           }
         }
       }
@@ -232,6 +304,12 @@
             "state" : "translated",
             "value" : "집주인이 월세를 올릴 것 같아."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "房东肯定要涨房租了。"
+          }
         }
       }
     },
@@ -249,6 +327,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "팀장님 답장이 너무 짧았어. 내가 뭘 잘못한 걸까?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "领导回的消息那么短，是我做错什么了吗？"
           }
         }
       }
@@ -268,6 +352,12 @@
             "state" : "translated",
             "value" : "동생이 내 말에 서운했을 거야."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我说的那些话，姐姐一定被伤到了。"
+          }
         }
       }
     },
@@ -285,6 +375,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "예상 질문 3개 소리 내어 연습하기"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大声练习三个最可能被问到的问题"
           }
         }
       }
@@ -304,6 +400,12 @@
             "state" : "translated",
             "value" : "클라우드 백업 켜기"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "开启云备份"
+          }
         }
       }
     },
@@ -322,6 +424,12 @@
             "state" : "translated",
             "value" : "내일 발표하다 머리가 하얘지면, 다들 내가 무능하다고 생각할 거야."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "要是我明天演讲时大脑一片空白，大家都觉得我不行怎么办？"
+          }
         }
       }
     },
@@ -339,6 +447,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "건강검진에서 뭐라도 나오면 어떡하지."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "万一体检查出了什么怎么办？"
           }
         }
       }

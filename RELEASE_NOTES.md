@@ -15,3 +15,17 @@ Every feature is now free
 Park as many worries as you need
 Set exit times and see insights for free
 Now available in more languages
+
+### App Store (English UK)
+
+Every feature is now free
+Park as many worries as you need
+Set exit times and see insights for free
+Now available in more languages
+
+### App Store (简体中文)
+
+所有功能现已免费开放
+想停多少烦恼，就停多少
+出场时间和洞察，同样免费
+新增更多语言支持
