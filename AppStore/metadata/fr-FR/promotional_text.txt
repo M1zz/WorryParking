@@ -1,0 +1,1 @@
+Écris le souci qui tourne en boucle et gare-le. À ton heure des soucis, donne-lui 15 minutes : le reste de ta journée sera plus léger. Basé sur la TCC.

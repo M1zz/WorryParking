@@ -39,7 +39,7 @@ CBT의 걱정 미루기(worry postponement / scheduled worry) 기법을 주차�
 - 페이월은 `SubscriptionStoreView` 사용 → App Store Connect에 같은 ID로 구독 상품만 만들면 그대로 동작
 
 ## 현지화
-- 영어(기본) + 한국어. `WorryParking/Localizable.xcstrings`(UI), `InfoPlist.xcstrings`(앱 이름: 걱정 주차장)
+- 영어(기본) + 한국어 + 22개 언어(en-GB, zh-Hans, zh-Hant, ja, ru, es, de, fr, it, pt-BR, th, vi, cs, da, el, fi, id, nb, nl, pl, sv, tr). `WorryParking/Localizable.xcstrings`(UI), `InfoPlist.xcstrings`(앱 이름: 걱정 주차장)
 - 새 문자열은 `Text("...")` 리터럴 또는 `String(localized:)`로 작성하면 빌드 시 카탈로그에 자동 추출됩니다.
 - 시뮬레이터에서 확인: Scheme ▸ Run ▸ Options ▸ App Language ▸ Korean
 
@@ -51,12 +51,12 @@ WorryParking/
 ├─ Services/     WorryTime 계산, 알림, StoreKit 2 구독 관리
 ├─ Components/   테마, 주차권(TicketView), 차단기, 공용 컨트롤
 └─ Views/        온보딩(실제 예시 포함), 주차장, 주차하기, 주차권 시트, 출차 게이트, Exit Log, 설정, 페이월
-AppStore/        스크린샷 캡처·합성 스크립트, 완성 스크린샷(ko/en, 6.5" 1242×2688), metadata/{ko,en-US} App Store 문구
-docs/            GitHub Pages — 소개 페이지(한/영 전환), ko/·en/ 지원·개인정보 처리방침
+AppStore/        스크린샷 캡처·합성 스크립트, 완성 스크린샷(ko/en, 6.5" 1242×2688), metadata/<로케일>/ App Store 문구(24개 언어)
+docs/            GitHub Pages — 루트는 언어 자동 이동, <언어>/{index,support,privacy}.html (24개 언어, 상단 언어 메뉴)
 ```
 
 ## 앱스토어 스크린샷
-`AppStore/capture_screenshots.sh` — 시뮬레이터(iPhone 18 Pro Max)에서 DEBUG 스크린샷 모드(`-screenshotScene lot|park|ticket|gate|log`)로 샘플 데이터를 띄워 캡처하고, `AppStore/Screenshots/{ko,en}/`에 1242×2688(6.5") 이미지를 만듭니다. 문구는 `AppStore/compose_screenshots.py`의 `COPY`, 크기는 `W, H`에서 수정합니다.
+`AppStore/capture_screenshots.sh` — 시뮬레이터(iPhone 18 Pro Max)에서 DEBUG 스크린샷 모드(`-screenshotScene lot|park|ticket|gate|log`)로 샘플 데이터를 띄워 캡처하고, `AppStore/Screenshots/<언어>/`에 1242×2688(6.5") 이미지를 만듭니다(24개 언어, 한·중·일·태국어는 글꼴 확인 필요). 문구는 `AppStore/compose_screenshots.py`의 `COPY`, 크기는 `W, H`에서 수정합니다.
 
 ## 출시 전 TODO
 - App Store Connect에 구독 그룹/상품 생성

@@ -1,0 +1,38 @@
+Pyöriikö sama huoli mielessäsi joka ilta?
+Huolipysäköinti antaa sille paikan. Kirjoita huoli ylös, pysäköi se, niin tuomme sen takaisin sinun valitsemanasi huoliaikana. Siihen asti sinun ei tarvitse kantaa sitä mukanasi.
+
+NÄIN SE TOIMII
+1. Kirjoita: pue huoli sanoiksi täsmälleen sellaisena kuin se kuulostaa ja arvioi asteikolla 1–5, kuinka kovaääninen se on.
+2. Pysäköi: pysäköidyt huolet pysyvät sumeina. Jos jokin ajaa takaisin mieleesi, sano sille: sinulla on jo paikka.
+3. Ulosajopuomi: kun huoliaika koittaa, anna huolelle 15 minuuttia keskittynyttä huomiota. Tarkista, tapahtuiko se oikeasti, ja päästä sitten irti, tee pieni suunnitelma tai pysäköi se uudelleen.
+
+MIKSI SE TOIMII
+Huolipysäköinti perustuu huolehtimisen lykkäämiseen, kognitiivisen käyttäytymisterapian (KKT) tekniikkaan, jota on tutkittu vuosikymmeniä.
+
+• Huolehdi yhtenä tiettynä aikana
+Huolet ilmestyvät missä tahansa: sängyssä, suihkussa, kotimatkalla. Kun huolehtimiselle annetaan oma aikansa, aivosi oppivat, ettei loppupäivä ole sitä varten. Ihmiset, jotka siirsivät huolehtimisensa lyhyeen päivittäiseen huolijaksoon, huolehtivat vähemmän aikaa ja raportoivat vähemmän ahdistusta ja vähemmän unihäiriöitä. (Borkovec ym., 1983; McGowan & Behar, 2013)
+
+• Kirjoita ylös päästääksesi irti
+Kesken jäänyt huoli pyörii mielessä, koska mielesi pelkää unohtavansa sen. Konkreettinen suunnitelma esti keskeneräisiä tehtäviä tunkeutumasta ajatuksiin, ja viiden minuutin kirjoittaminen ennen nukkumaanmenoa auttoi nukahtamaan nopeammin. (Masicampo & Baumeister, 2011; Scullin ym., 2018)
+
+• Tarkista, mitä oikeasti tapahtui
+Huoli ennustaa tulevaisuuden pahemmaksi kuin se yleensä on. Kun pitkäaikaisesti huolehtivat ihmiset seurasivat huoliaan, 91 % niistä ei toteutunut. (LaFreniere & Newman, 2020)
+
+KOKEILE HETI
+Aloituksessa pysäköit yhden oikean huolen ja näet, miten sen voimakkuus muuttuu ennen pysäköintiä ja sen jälkeen. Miltä se tuntui, tallentuu kohtaan ”Kokemuksesi”, jotta voit katsoa sitä myöhemmin.
+
+ULOSAJOLOKI
+Kun läpikäytyjä huolia kertyy, näet, kuinka suuri osa peloistasi toteutui oikeasti ja kuinka paljon voimakkuus laski keskimäärin.
+
+YKSITYISYYS ENNEN KAIKKEA
+• Ei tiliä, ei palvelimia, ei mainoksia, ei analytiikkaa. Kaikki kirjoittamasi pysyy iPhonessasi.
+• Ilmoituksissa näkyy vain paikan numero, esimerkiksi ”P3 on valmis noudettavaksi”. Huolesi tekstiä ei koskaan liitetä mukaan.
+
+MITÄ SOVELLUKSESSA ON
+• Rajattomat paikat, omat ulosajoajat, päivittäiset huoliajan muistutukset
+• Ulosajopuomi, ulosajoloki ja ulosajojen tilastot
+
+Käyttöehdot: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Tietosuojakäytäntö: https://m1zz.github.io/WorryParking/fi/privacy.html
+
+Huolipysäköinti on itseapuväline. Se ei ole lääkinnällinen laite eikä korvaa ammattilaisen tekemää diagnoosia tai hoitoa. Jos sinulla on vaikeaa, ota yhteyttä mielenterveyden ammattilaiseen tai paikallisiin hätäpalveluihin.

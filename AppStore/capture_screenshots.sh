@@ -1,5 +1,5 @@
 #!/bin/zsh
-# Builds the app, captures every screenshot scene in Korean and English on a
+# Builds the app, captures every screenshot scene in every language below on a
 # 6.9" simulator, and composes 6.5" (1242x2688) App Store images into AppStore/Screenshots/.
 #
 # Usage: AppStore/capture_screenshots.sh ["iPhone 18 Pro Max"]
@@ -23,8 +23,13 @@ xcrun simctl install $DEVICE $WORK/dd/Build/Products/Debug-iphonesimulator/Worry
 xcrun simctl status_bar $DEVICE override --time "9:41" --dataNetwork wifi --wifiBars 3 \
   --cellularMode active --cellularBars 4 --batteryState discharging --batteryLevel 100 --operatorName ""
 
-for lang in ko en; do
-  locale=$([[ $lang == ko ]] && echo ko_KR || echo en_US)
+# <AppleLanguages code>:<AppleLocale>. The code is also the folder name used by compose_screenshots.py.
+LANGS=(ko:ko_KR en:en_US en-GB:en_GB zh-Hans:zh_CN zh-Hant:zh_TW ja:ja_JP ru:ru_RU es:es_ES de:de_DE fr:fr_FR it:it_IT
+       pt-BR:pt_BR th:th_TH vi:vi_VN cs:cs_CZ da:da_DK el:el_GR fi:fi_FI id:id_ID nb:nb_NO nl:nl_NL pl:pl_PL sv:sv_SE tr:tr_TR)
+
+for entry in $LANGS; do
+  lang=${entry%%:*}
+  locale=${entry##*:}
   mkdir -p $WORK/raw/$lang
   for scene in $SCENES; do
     xcrun simctl terminate $DEVICE $BUNDLE_ID 2>/dev/null || true
