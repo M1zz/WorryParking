@@ -89,6 +89,12 @@
             "value" : "Bekymringsparkering"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zorgenparking"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -213,6 +219,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bekymringsparkering"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zorgenparking"
           }
         },
         "pt-BR" : {

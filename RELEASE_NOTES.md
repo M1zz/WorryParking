@@ -141,3 +141,10 @@ Alle funksjoner er nå gratis
 Parker så mange bekymringer du vil
 Utkjøringstider og innsikt er gratis
 Nå på flere språk
+
+### App Store (Nederlands)
+
+Alle functies zijn nu gratis
+Parkeer zoveel zorgen als je wilt
+Uitrittijden en inzichten zijn gratis
+Nu in meer talen beschikbaar

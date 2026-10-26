@@ -83,6 +83,12 @@
             "value" : "Be sjefen min om en samtale på tomannshånd"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mijn leidinggevende om een persoonlijk gesprek vragen"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -201,6 +207,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Klarer jeg egentlig å betale kredittkortregningen denne måneden?"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kan ik de creditcardrekening van deze maand echt betalen?"
           }
         },
         "pt-BR" : {
@@ -323,6 +335,12 @@
             "value" : "Sjekke leieprisene i nabolaget"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De huurprijzen in de buurt opzoeken"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -441,6 +459,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gikk vitsen min under middagen for langt?"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ging mijn grap tijdens het diner te ver?"
           }
         },
         "pt-BR" : {
@@ -563,6 +587,12 @@
             "value" : "Jeg tror jeg ødela vurderingen for dette kvartalet."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ik denk dat ik de beoordeling van dit kwartaal heb verpest."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -681,6 +711,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "På møtet på mandag får jeg kjeft igjen."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Op de vergadering van maandag krijg ik weer op mijn kop."
           }
         },
         "pt-BR" : {
@@ -803,6 +839,12 @@
             "value" : "Jeg rekker aldri fristen på rapporten."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ik haal de deadline van het rapport nooit."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -921,6 +963,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hvis jeg stammer på intervjuet, er jeg ute."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Als ik stotter tijdens het sollicitatiegesprek, ben ik erbij."
           }
         },
         "pt-BR" : {
@@ -1043,6 +1091,12 @@
             "value" : "Hvis laptopen min går i stykker, mister jeg alt."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Als mijn laptop crasht, ben ik alles kwijt."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1161,6 +1215,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Det føles som om vennene mine bare ignorerer meldingene mine i gruppechatten."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Het voelt alsof mijn vrienden in de groepsapp alleen mijn berichten negeren."
           }
         },
         "pt-BR" : {
@@ -1283,6 +1343,12 @@
             "value" : "Å gå glipp av flyet ville ødelagt hele turen."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mijn vlucht missen zou de hele reis verpesten."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1401,6 +1467,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mammas undersøkelsesresultater er fortsatt ikke kommet. Hva om de fant noe alvorlig, og hun ikke forteller meg det?"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De uitslag van mama’s onderzoek is er nog steeds niet. Wat als ze iets ernstigs hebben gevonden en ze het mij niet vertelt?"
           }
         },
         "pt-BR" : {
@@ -1523,6 +1595,12 @@
             "value" : "Utleieren min kommer til å øke husleien."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mijn huisbaas gaat de huur verhogen."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1641,6 +1719,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Svaret fra sjefen min var så kort. Gjorde jeg noe galt?"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Het antwoord van mijn leidinggevende was zo kort. Heb ik iets verkeerd gedaan?"
           }
         },
         "pt-BR" : {
@@ -1763,6 +1847,12 @@
             "value" : "Søsteren min er sikkert såret av det jeg sa."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mijn zus is vast gekwetst door wat ik zei."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1881,6 +1971,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Øve høyt på tre sannsynlige spørsmål"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drie waarschijnlijke vragen hardop oefenen"
           }
         },
         "pt-BR" : {
@@ -2003,6 +2099,12 @@
             "value" : "Slå på skysikkerhetskopi"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cloudback-up inschakelen"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2123,6 +2225,12 @@
             "value" : "Hva om jeg stopper helt opp under presentasjonen i morgen, og alle tror jeg ikke er flink nok?"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wat als ik morgen tijdens de presentatie blanco ga en iedereen denkt dat ik niet goed genoeg ben?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2241,6 +2349,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hva om undersøkelsen finner noe?"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wat als het onderzoek iets vindt?"
           }
         },
         "pt-BR" : {

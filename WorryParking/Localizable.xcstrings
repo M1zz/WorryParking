@@ -84,6 +84,12 @@
             "value" : "%1$lld av %2$lld plasser i bruk"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$lld van %2$lld plekken in gebruik"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -202,6 +208,12 @@
             "value" : "%lld parkert"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld geparkeerd"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -318,6 +330,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld %% av frykten du sjekket, inntraff ikke."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld%% van de angsten die je controleerde, kwam niet uit."
           }
         },
         "pt-BR" : {
@@ -441,6 +459,12 @@
             "value" : "Klokka 23.40, og hodet ditt spiller av i morgen om og om igjen. Skriv bekymringen akkurat slik den høres ut, og vurder hvor høy den er."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "23:40 uur en je hoofd blijft morgen afspelen. Schrijf de zorg precies op zoals hij klinkt en geef aan hoe luid hij is."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -557,6 +581,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Klokka 18.00, presentasjonen er over. Skjedde det? Egentlig ikke. Bekymringen sank fra 4 til 1, så du lot den gå, og den ble lagt til i utkjøringsloggen din."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "18:00 uur, de presentatie is voorbij. Gebeurde het? Eigenlijk niet. De zorg zakte van 4 naar 1, dus je liet hem los, en hij staat nu in je uitritlogboek."
           }
         },
         "pt-BR" : {
@@ -677,6 +707,12 @@
             "value" : "En større parkeringsplass for et travelt hode."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Een groter parkeerterrein voor een druk hoofd."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -793,6 +829,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "15 minutter hver dag, helst et par timer før leggetid. Vi gir deg en liten dytt når en bekymring er klar til henting."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elke dag 15 minuten, bij voorkeur een paar uur voor het slapengaan. We geven je een seintje als een zorg klaar is om opgehaald te worden."
           }
         },
         "pt-BR" : {
@@ -913,6 +955,12 @@
             "value" : "Litt lettere"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Een stuk lichter"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1029,6 +1077,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "En hvisking"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Een fluistering"
           }
         },
         "pt-BR" : {
@@ -1149,6 +1203,12 @@
             "value" : "Om"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Info"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1265,6 +1325,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Omtrent det samme"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ongeveer hetzelfde"
           }
         },
         "pt-BR" : {
@@ -1385,6 +1451,12 @@
             "value" : "Hvordan har du det nå som du har parkert den?"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoe voel je je nu je hem hebt geparkeerd?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1501,6 +1573,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tillat hentepåminnelser"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ophaalherinneringen toestaan"
           }
         },
         "pt-BR" : {
@@ -1621,6 +1699,12 @@
             "value" : "Tillat påminnelser og fortsett"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Herinneringen toestaan en doorgaan"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1737,6 +1821,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "En uferdig bekymring spiller seg om igjen fordi sinnet ditt er redd for å glemme den. Når du skriver den ned og avtaler et tidspunkt for å komme tilbake til den, forteller du hjernen at den er tatt hånd om for nå."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Een onaf gebleven zorg blijft zich herhalen omdat je geest bang is hem te vergeten. Als je hem opschrijft en een moment afspreekt om erop terug te komen, weet je brein dat het voorlopig geregeld is."
           }
         },
         "pt-BR" : {
@@ -1857,6 +1947,12 @@
             "value" : "Noe mer? (valgfritt)"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nog iets? (optioneel)"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1973,6 +2069,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gj.snittlig fall i styrke"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gem. daling in niveau"
           }
         },
         "pt-BR" : {
@@ -2093,6 +2195,12 @@
             "value" : "Før"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eerder"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2209,6 +2317,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hent frem en bekymring akkurat når du klarer å ta den."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Haal een zorg precies terug op het moment dat je hem aankunt."
           }
         },
         "pt-BR" : {
@@ -2329,6 +2443,12 @@
             "value" : "Avbryt"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Annuleer"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2445,6 +2565,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sjekk hva som faktisk skjedde"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Controleer wat er echt gebeurde"
           }
         },
         "pt-BR" : {
@@ -2565,6 +2691,12 @@
             "value" : "Velg et tidspunkt et par timer før leggetid. Nye bekymringer blir stående parkert til da. Bekymringer som allerede er parkert, beholder utkjøringstiden sin."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kies een tijd een paar uur voor het slapengaan. Nieuwe zorgen blijven tot dan geparkeerd. Zorgen die al geparkeerd staan, houden hun uitrittijd."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2681,6 +2813,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lukk"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sluit"
           }
         },
         "pt-BR" : {
@@ -2801,6 +2939,12 @@
             "value" : "Fortsett"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ga door"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2917,6 +3061,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Antall"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aantal"
           }
         },
         "pt-BR" : {
@@ -3037,6 +3187,12 @@
             "value" : "Egne utkjøringstider"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eigen uitrittijden"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3153,6 +3309,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Eget tidspunkt"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eigen tijd"
           }
         },
         "pt-BR" : {
@@ -3273,6 +3435,12 @@
             "value" : "Skjedde det du fryktet, egentlig?"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gebeurde wat je vreesde echt?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3389,6 +3557,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Skjedde ikke"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Niet gebeurd"
           }
         },
         "pt-BR" : {
@@ -3509,6 +3683,12 @@
             "value" : "Ferdig"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klaar"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3625,6 +3805,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kjør ut"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rijd uit"
           }
         },
         "pt-BR" : {
@@ -3745,6 +3931,12 @@
             "value" : "Rediger bekymringen min"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mijn zorg bewerken"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3861,6 +4053,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ledig"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vrij"
           }
         },
         "pt-BR" : {
@@ -3981,6 +4179,12 @@
             "value" : "Alt du skriver, blir på denne enheten. Varsler inneholder aldri teksten fra bekymringen din."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alles wat je schrijft blijft op dit apparaat. Meldingen bevatten nooit de tekst van je zorg."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4097,6 +4301,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "UT"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UIT"
           }
         },
         "pt-BR" : {
@@ -4217,6 +4427,12 @@
             "value" : "Utkjøring"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uitrit"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4333,6 +4549,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Utkjørselsbom"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Slagboom"
           }
         },
         "pt-BR" : {
@@ -4453,6 +4675,12 @@
             "value" : "Utkjørselsbom · P%lld"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Slagboom · P%lld"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4569,6 +4797,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Utkjørselsbom · P1"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Slagboom · P1"
           }
         },
         "pt-BR" : {
@@ -4689,6 +4923,12 @@
             "value" : "Innsikt om utkjøringer"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inzichten over uitritten"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4805,6 +5045,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Utkjøringslogg"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uitritlogboek"
           }
         },
         "pt-BR" : {
@@ -4925,6 +5171,12 @@
             "value" : "Utkjøringstid"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uitrittijd"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5041,6 +5293,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kjørt ut"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uitgereden"
           }
         },
         "pt-BR" : {
@@ -5161,6 +5419,12 @@
             "value" : "Utkjøring om %@"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uitrit over %@"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5277,6 +5541,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Første utkjøring"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eerste uitrit"
           }
         },
         "pt-BR" : {
@@ -5397,6 +5667,12 @@
             "value" : "Første gang du parkerte"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De eerste keer dat je parkeerde"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5513,6 +5789,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gi den hele oppmerksomheten din. Det er det eneste du skal gjøre akkurat nå."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geef hem je volle aandacht. Het is het enige wat je nu hoeft te doen."
           }
         },
         "pt-BR" : {
@@ -5633,6 +5915,12 @@
             "value" : "Borte"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Weg"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5749,6 +6037,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tung"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zwaar"
           }
         },
         "pt-BR" : {
@@ -5869,6 +6163,12 @@
             "value" : "Historikk"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geschiedenis"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5985,6 +6285,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hvordan føltes det?"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoe voelde dat?"
           }
         },
         "pt-BR" : {
@@ -6105,6 +6411,12 @@
             "value" : "Hvor høy er den nå?"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoe luid is hij nu?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6223,6 +6535,12 @@
             "value" : "Hvor høy er den akkurat nå?"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoe luid is hij op dit moment?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6339,6 +6657,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hvis den kjører inn i hodet ditt igjen, legg merke til det og si til deg selv: den har en plass. Du tar den ved bekymringstid."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Als hij je hoofd weer in rijdt, merk het op en zeg tegen jezelf: hij heeft een plek. Je pakt hem op tijdens de Zorgentijd."
           }
         },
         "pt-BR" : {
@@ -6461,6 +6785,12 @@
             "value" : "Hvis den fortsatte å komme tilbake, prøv å si et kort «du har allerede en plass» og gå tilbake til det du holdt på med. Hvis bekymringer står i veien for dagene dine, kan det hjelpe mye å snakke med en fagperson."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Als hij steeds terugkwam, probeer dan kort te zeggen: ‘je hebt al een plek’ en ga terug naar waar je mee bezig was. Als zorgen je dagen in de weg zitten, kan praten met een professional echt helpen."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6577,6 +6907,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "INN"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "IN"
           }
         },
         "pt-BR" : {
@@ -6697,6 +7033,12 @@
             "value" : "Den plaget meg mindre"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hij hinderde me minder"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6813,6 +7155,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Den plaget meg mer"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hij hinderde me meer"
           }
         },
         "pt-BR" : {
@@ -6933,6 +7281,12 @@
             "value" : "Skjedde ikke"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Niet gebeurd"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7051,6 +7405,12 @@
             "value" : "Skjedde"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gebeurd"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7167,6 +7527,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Den var %lld da du parkerte den."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toen je hem parkeerde, was hij %lld."
           }
         },
         "pt-BR" : {
@@ -7289,6 +7655,12 @@
             "value" : "Jeg tenker mer på den"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ik denk er juist meer aan"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7405,6 +7777,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dette er bare den første. I studier bygde effekten seg opp over noen uker. Parker noen flere, og sammenlign dem i utkjøringsloggen din."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dit is pas de eerste. In onderzoeken bouwde het effect zich op over een paar weken. Parkeer er nog een paar en vergelijk ze in je uitritlogboek."
           }
         },
         "pt-BR" : {
@@ -7525,6 +7903,12 @@
             "value" : "Den har kjørt ut av parkeringsplassen. La den kjøre."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hij is van het parkeerterrein af. Laat hem gaan."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7641,6 +8025,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Den er parkert til bekymringstid i morgen. Når den dukker opp igjen i dusjen, si bare til deg selv: den har allerede en plass."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hij staat geparkeerd tot de Zorgentijd van morgen. Als hij onder de douche weer opduikt, zeg dan gewoon tegen jezelf: hij heeft al een plek."
           }
         },
         "pt-BR" : {
@@ -7761,6 +8151,12 @@
             "value" : "Det er bekymringstid. Gi den %lld minutter med full oppmerksomhet, og bestem så hva du vil gjøre med den."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Het is Zorgentijd. Geef hem %lld minuten gerichte aandacht en beslis dan wat je ermee doet."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7877,6 +8273,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Behold den parkert"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Laat geparkeerd"
           }
         },
         "pt-BR" : {
@@ -7997,6 +8399,12 @@
             "value" : "Fortsett å parkere. Mønstre viser seg etter noen utkjøringer."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blijf parkeren. Patronen worden zichtbaar na een paar uitritten."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8113,6 +8521,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Senere"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Later"
           }
         },
         "pt-BR" : {
@@ -8233,6 +8647,12 @@
             "value" : "La den gå"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Laat los"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8349,6 +8769,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "STYRKE"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NIVEAU"
           }
         },
         "pt-BR" : {
@@ -8469,6 +8895,12 @@
             "value" : "Styrke %lld av 5, %@"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Niveau %lld van 5, %@"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8585,6 +9017,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Styrke %lld → %lld"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Niveau %lld → %lld"
           }
         },
         "pt-BR" : {
@@ -8707,6 +9145,12 @@
             "value" : "Å se en bekymring rett i øynene kan få den til å føles større i starten. Du trenger ikke løse den nå. Eneste oppgave den har, er å vente til bekymringstid."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Een zorg recht in de ogen kijken kan hem in het begin groter laten lijken. Je hoeft hem nu niet op te lossen. Zijn enige taak is wachten tot de Zorgentijd."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8823,6 +9267,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Parkering"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parkeerterrein"
           }
         },
         "pt-BR" : {
@@ -8943,6 +9393,12 @@
             "value" : "Høy"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Luid"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9059,6 +9515,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Laget en plan"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plan gemaakt"
           }
         },
         "pt-BR" : {
@@ -9179,6 +9641,12 @@
             "value" : "Lag en plan"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maak een plan"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9295,6 +9763,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "En konkret plan hindret uferdige oppgaver i å trenge seg inn i tankene, og fem minutters skriving før leggetid hjalp folk å sovne raskere."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Een concreet plan zorgde ervoor dat onafgemaakte taken niet meer in gedachten binnendrongen, en vijf minuten schrijven voor het slapengaan hielp mensen sneller in slaap te vallen."
           }
         },
         "pt-BR" : {
@@ -9415,6 +9889,12 @@
             "value" : "Administrer abonnement"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abonnement beheren"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9531,6 +10011,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Plagsom"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hardnekkig"
           }
         },
         "pt-BR" : {
@@ -9651,6 +10137,12 @@
             "value" : "Neste"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Volgende"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9767,6 +10259,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Neste bekymringstid"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Volgende Zorgentijd"
           }
         },
         "pt-BR" : {
@@ -9887,6 +10385,12 @@
             "value" : "Neste bekymringstid: %@"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Volgende Zorgentijd: %@"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10003,6 +10507,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ingen utkjøringer ennå"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nog geen uitritten"
           }
         },
         "pt-BR" : {
@@ -10123,6 +10633,12 @@
             "value" : "Ikke nå"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Niet nu"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10241,6 +10757,12 @@
             "value" : "Ikke klar ennå. Hent den frem igjen ved neste bekymringstid."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nog niet klaar. Haal hem terug tijdens de volgende Zorgentijd."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10357,6 +10879,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Varsler er slått av"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meldingen staan uit"
           }
         },
         "pt-BR" : {
@@ -10479,6 +11007,12 @@
             "value" : "Nå"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nu"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10595,6 +11129,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nå som den er parkert, hvor høy er den?"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nu hij geparkeerd is, hoe luid is hij?"
           }
         },
         "pt-BR" : {
@@ -10715,6 +11255,12 @@
             "value" : "Én ekte bekymring, fra klokka 23.40 til bekymringstid dagen etter."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eén echte zorg, van 23:40 uur tot de Zorgentijd van de volgende dag."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10831,6 +11377,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ett lite neste steg"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eén kleine volgende stap"
           }
         },
         "pt-BR" : {
@@ -10951,6 +11503,12 @@
             "value" : "Åpne innstillinger i iOS"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open iOS-instellingen"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11067,6 +11625,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Overveldende"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Overweldigend"
           }
         },
         "pt-BR" : {
@@ -11193,6 +11757,12 @@
             "value" : "P%lld er klar til henting"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "P%lld is klaar om opgehaald te worden"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11314,6 +11884,12 @@
             "value" : "P%1$lld · Billett nr. %2$@"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "P%1$lld · Kaartje nr. %2$@"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11430,6 +12006,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Side %1$lld av %2$lld"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pagina %1$lld van %2$lld"
           }
         },
         "pt-BR" : {
@@ -11550,6 +12132,12 @@
             "value" : "Parker"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parkeer"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11666,6 +12254,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Parker en bekymring"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parkeer een zorg"
           }
         },
         "pt-BR" : {
@@ -11786,6 +12380,12 @@
             "value" : "Parker på P%lld"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parkeer op P%lld"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11902,6 +12502,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Parker alle bekymringer, ikke bare tre."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parkeer elke zorg, niet slechts drie."
           }
         },
         "pt-BR" : {
@@ -12022,6 +12628,12 @@
             "value" : "Parker på nytt"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parkeer opnieuw"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12138,6 +12750,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Parkert %@"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geparkeerd %@"
           }
         },
         "pt-BR" : {
@@ -12258,6 +12876,12 @@
             "value" : "Parkert på P%lld"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geparkeerd op P%lld"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12374,6 +12998,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Parkert til %@"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geparkeerd tot %@"
           }
         },
         "pt-BR" : {
@@ -12494,6 +13124,12 @@
             "value" : "Parkerte bekymringer er skjult til utkjøringstiden. Du trenger ikke bære på dem akkurat nå."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geparkeerde zorgen blijven verborgen tot hun uitrittijd. Je hoeft ze nu niet met je mee te dragen."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12612,6 +13248,12 @@
             "value" : "Parkert. Ikke din jobb akkurat nå."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geparkeerd. Nu even niet jouw taak."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12728,6 +13370,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Delvis"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gedeeltelijk"
           }
         },
         "pt-BR" : {
@@ -12850,6 +13498,12 @@
             "value" : "Folk som flyttet bekymringene til en kort daglig bekymringsperiode, brukte mindre tid på å bekymre seg og rapporterte mindre angst og færre søvnproblemer."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mensen die hun zorgen naar een korte dagelijkse zorgenperiode verplaatsten, besteedden minder tijd aan piekeren en meldden minder angst en minder slaapproblemen."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12966,6 +13620,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Velg bekymringstiden din"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kies je Zorgentijd"
           }
         },
         "pt-BR" : {
@@ -13086,6 +13746,12 @@
             "value" : "Utsettelse fungerer for deg. Prøv å parkere den neste også."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uitstellen werkt voor jou. Probeer ook de volgende te parkeren."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13202,6 +13868,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Utsettelse fungerer best når du venter. Ved bekymringstid føles de fleste bekymringer mindre."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uitstellen werkt het best als je wacht. Tijdens de Zorgentijd voelen de meeste zorgen kleiner."
           }
         },
         "pt-BR" : {
@@ -13322,6 +13994,12 @@
             "value" : "Personvernerklæring"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privacybeleid"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13438,6 +14116,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pro er aktiv"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro is actief"
           }
         },
         "pt-BR" : {
@@ -13558,6 +14242,12 @@
             "value" : "Pro-plass"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro-plek"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13674,6 +14364,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Klar til henting"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klaar om op te halen"
           }
         },
         "pt-BR" : {
@@ -13794,6 +14490,12 @@
             "value" : "Påminnelser"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Herinneringen"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13910,6 +14612,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Forskning beskriver gjennomsnittlige effekter, og resultatene varierer fra person til person. Bekymringsparkering er et selvhjelpsverktøy, ikke et medisinsk utstyr eller en behandling."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Onderzoek beschrijft gemiddelde effecten en de resultaten verschillen per persoon. Zorgenparking is een hulpmiddel voor zelfhulp, geen medisch hulpmiddel of behandeling."
           }
         },
         "pt-BR" : {
@@ -14030,6 +14738,12 @@
             "value" : "Forskningsreferanser"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Onderzoeksbronnen"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14146,6 +14860,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gjenopprett kjøp"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aankopen herstellen"
           }
         },
         "pt-BR" : {
@@ -14266,6 +14986,12 @@
             "value" : "Resultat"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resultaat"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14382,6 +15108,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hent tidlig"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eerder ophalen"
           }
         },
         "pt-BR" : {
@@ -14502,6 +15234,12 @@
             "value" : "Hente denne bekymringen tidlig?"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deze zorg eerder ophalen?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14618,6 +15356,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se hvor mye av frykten din som faktisk inntraff."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kijk hoeveel van je angsten echt uitkwamen."
           }
         },
         "pt-BR" : {
@@ -14738,6 +15482,12 @@
             "value" : "Se hvor mange av bekymringene dine som faktisk skjedde"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kijk hoeveel van je zorgen echt gebeurden"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14854,6 +15604,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se hvordan det fungerer"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zie het in actie"
           }
         },
         "pt-BR" : {
@@ -14974,6 +15730,12 @@
             "value" : "Send den til utkjørselsbommen nå"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stuur hem nu naar de slagboom"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15090,6 +15852,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Innstillinger"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instellingen"
           }
         },
         "pt-BR" : {
@@ -15210,6 +15978,12 @@
             "value" : "Hopp over for nå"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nu overslaan"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15326,6 +16100,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Plass %lld. Ledig. Parker en bekymring her."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plek %lld. Vrij. Parkeer hier een zorg."
           }
         },
         "pt-BR" : {
@@ -15446,6 +16226,12 @@
             "value" : "Plass %lld. Pro-plass, låst."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plek %lld. Pro-plek, vergrendeld."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15562,6 +16348,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Plass %1$lld. Bekymring parkert til %2$@."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plek %1$lld. Zorg geparkeerd tot %2$@."
           }
         },
         "pt-BR" : {
@@ -15682,6 +16474,12 @@
             "value" : "Plass %lld. Bekymring klar til henting."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plek %lld. Zorg klaar om op te halen."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15795,6 +16593,12 @@
           }
         },
         "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start"
+          }
+        },
+        "nl" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Start"
@@ -15918,6 +16722,12 @@
             "value" : "Sveip langs den stiplede linjen for å parkere"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veeg langs de stippellijn om te parkeren"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16034,6 +16844,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sveip langs den stiplede linjen. Når billetten er revet av, er denne bekymringen parkert til %@."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veeg langs de stippellijn. Zodra het kaartje scheurt, staat deze zorg geparkeerd tot %@."
           }
         },
         "pt-BR" : {
@@ -16154,6 +16970,12 @@
             "value" : "Ta ett langsomt åndedrag. Det er ingenting å gjøre med den akkurat nå."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adem één keer langzaam in en uit. Er valt nu niets aan te doen."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16270,6 +17092,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Riv av billetten for å parkere"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scheur het kaartje af om te parkeren"
           }
         },
         "pt-BR" : {
@@ -16390,6 +17218,12 @@
             "value" : "Riv av billetten din"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scheur je kaartje af"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16506,6 +17340,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bruksvilkår"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gebruiksvoorwaarden"
           }
         },
         "pt-BR" : {
@@ -16626,6 +17466,12 @@
             "value" : "Det er helt normalt. Effekten bygger seg vanligvis opp over dager, ikke minutter. Når den dukker opp igjen, si «du har allerede en plass» og se hvordan det føles ved bekymringstid."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dat is helemaal normaal. Het effect bouwt zich meestal op over dagen, niet over minuten. Als hij terugkomt, zeg dan ‘je hebt al een plek’ en kijk hoe het voelt tijdens de Zorgentijd."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16742,6 +17588,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Det er den første effekten av utsettelse. Når en bekymring er skrevet ned og har en plass, trenger ikke sinnet ditt å holde fast i den. Vi sees ved bekymringstid."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dat is het eerste effect van uitstellen. Zodra een zorg is opgeschreven en een plek heeft, hoeft je geest hem niet vast te houden. Tot de Zorgentijd."
           }
         },
         "pt-BR" : {
@@ -16862,6 +17714,12 @@
             "value" : "Bekymringstiden etter det"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De Zorgentijd daarna"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16978,6 +17836,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Billett nr. %@"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kaartje nr. %@"
           }
         },
         "pt-BR" : {
@@ -17098,6 +17962,12 @@
             "value" : "i dag kl. %@"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "vandaag om %@"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17214,6 +18084,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "i morgen kl. %@"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "morgen om %@"
           }
         },
         "pt-BR" : {
@@ -17334,6 +18210,12 @@
             "value" : "For tidlig å si"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nog te vroeg om te zeggen"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17450,6 +18332,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Prøv nå"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Probeer het nu"
           }
         },
         "pt-BR" : {
@@ -17570,6 +18458,12 @@
             "value" : "Gjør den om til ett lite neste steg."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maak er één kleine volgende stap van."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17686,6 +18580,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ubegrenset med parkeringsplasser"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Onbeperkt aantal parkeerplekken"
           }
         },
         "pt-BR" : {
@@ -17806,6 +18706,12 @@
             "value" : "Ubegrenset med plasser, egne utkjøringstider, innsikt"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Onbeperkte plekken, eigen uitrittijden, inzichten"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17922,6 +18828,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lås opp innsikt med Pro"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ontgrendel inzichten met Pro"
           }
         },
         "pt-BR" : {
@@ -18042,6 +18954,12 @@
             "value" : "Vi gir deg beskjed når en bekymring er klar til henting."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "We laten het je weten als een zorg klaar is om opgehaald te worden."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18158,6 +19076,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hva vil du gjøre med den?"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wat wil je ermee doen?"
           }
         },
         "pt-BR" : {
@@ -18278,6 +19202,12 @@
             "value" : "Hva om jeg stopper helt opp under presentasjonen i morgen, og alle tror jeg ikke er flink nok?"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wat als ik morgen tijdens de presentatie blanco ga en iedereen denkt dat ik niet goed genoeg ben?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18394,6 +19324,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Det du fryktet, skjedde ikke. Hver utkjøring som denne havner i utkjøringsloggen din, så du ser hvor ofte bekymringene dine tar feil."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wat je vreesde, gebeurde niet. Elke uitrit zoals deze komt in je uitritlogboek, zodat je ziet hoe vaak je zorgen ernaast zitten."
           }
         },
         "pt-BR" : {
@@ -18514,6 +19450,12 @@
             "value" : "Hva går rundt i hodet ditt?"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wat draait er rond in je hoofd?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18630,6 +19572,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Da folk med kroniske bekymringer registrerte bekymringene sine, inntraff %lld %% av dem ikke."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toen mensen met chronische zorgen hun zorgen bijhielden, kwam %lld%% ervan niet uit."
           }
         },
         "pt-BR" : {
@@ -18750,6 +19698,12 @@
             "value" : "Når skal den komme tilbake?"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wanneer moet hij terugkomen?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18866,6 +19820,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hvordan føltes denne bekymringen mens den sto parkert?"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoe voelde deze zorg terwijl hij geparkeerd stond?"
           }
         },
         "pt-BR" : {
@@ -18986,6 +19946,12 @@
             "value" : "Hvorfor det virker"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Waarom het werkt"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19104,6 +20070,12 @@
             "value" : "Uten dem venter parkerte bekymringer bare stille på parkeringsplassen."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zonder die meldingen wachten geparkeerde zorgen stilletjes op het parkeerterrein."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19220,6 +20192,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bekymringer trenger ikke å kjøre med deg hele natten.\nParker dem her. Vi tar vare på dem til bekymringstiden din."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zorgen hoeven niet de hele nacht met je mee te rijden.\nParkeer ze hier. Wij bewaren ze tot je Zorgentijd."
           }
         },
         "pt-BR" : {
@@ -19342,6 +20320,12 @@
             "value" : "Bekymringer dukker opp overalt: i sengen, i dusjen, på vei hjem. Når bekymring får sin egen tid, lærer hjernen at resten av dagen ikke er til det. Psykologer kaller dette stimuluskontroll."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zorgen duiken overal op: in bed, onder de douche, op weg naar huis. Als piekeren een eigen moment krijgt, leert je brein dat de rest van de dag er niet voor is. Psychologen noemen dit stimuluscontrole."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19458,6 +20442,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bekymringer du går gjennom ved utkjørselsbommen, havner her. Over tid ser du hvor mange av dem som faktisk skjedde."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zorgen die je bij de slagboom bekijkt, komen hier terecht. Na verloop van tijd zie je hoeveel ervan echt gebeurden."
           }
         },
         "pt-BR" : {
@@ -19578,6 +20568,12 @@
             "value" : "Bekymre deg til ett fast tidspunkt"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pieker op één vast moment"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19694,6 +20690,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "BEKYMRINGSPARKERING"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ZORGENPARKING"
           }
         },
         "pt-BR" : {
@@ -19814,6 +20816,12 @@
             "value" : "Bekymringsparkering"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zorgenparking"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19932,6 +20940,12 @@
             "value" : "Bekymringsparkering er et selvhjelpsverktøy, ikke et medisinsk utstyr eller en erstatning for profesjonell hjelp. Hvis du har det vanskelig, ta kontakt med en fagperson innen psykisk helse eller lokale nødtjenester."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zorgenparking is een hulpmiddel voor zelfhulp, geen medisch hulpmiddel en geen vervanging van professionele zorg. Als het moeilijk gaat, neem dan contact op met een professional in de geestelijke gezondheidszorg of met de lokale hulpdiensten."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20048,6 +21062,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bekymringsparkering bygger på bekymringsutsettelse, en stimuluskontrollteknikk fra kognitiv atferdsterapi (KAT): I stedet for å kjempe mot en bekymring gir du den et fast tidspunkt og vender tilbake til den da."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zorgenparking is gebaseerd op zorguitstel, een stimuluscontroletechniek uit cognitieve gedragstherapie (CGT): in plaats van tegen een zorg te vechten, plan je hem op een vast moment in en kom je dan op hem terug."
           }
         },
         "pt-BR" : {
@@ -20170,6 +21190,12 @@
             "value" : "Bekymringsparkering bygger på bekymringsutsettelse, en teknikk fra kognitiv atferdsterapi (KAT) som har vært forsket på i flere tiår."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zorgenparking is gebaseerd op zorguitstel, een techniek uit cognitieve gedragstherapie (CGT) die al tientallen jaren wordt onderzocht."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20286,6 +21312,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bekymringsparkering Pro"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zorgenparking Pro"
           }
         },
         "pt-BR" : {
@@ -20406,6 +21438,12 @@
             "value" : "Bekymring forutsier fremtiden verre enn den som regel blir. Ved utkjørselsbommen noterer du om det faktisk skjedde, så utkjøringsloggen din over tid viser hvor ofte bekymringene dine tok feil."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Piekeren voorspelt de toekomst slechter dan hij meestal uitpakt. Bij de slagboom noteer je of het echt gebeurde, zodat je uitritlogboek na verloop van tijd laat zien hoe vaak je zorgen ernaast zaten."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20524,6 +21562,12 @@
             "value" : "Bekymringstid"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zorgentijd"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20640,6 +21684,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Skriv"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schrijf"
           }
         },
         "pt-BR" : {
@@ -20762,6 +21812,12 @@
             "value" : "Skriv én bekymring som opptar deg akkurat nå. Den blir virkelig parkert og kommer tilbake %@."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schrijf één zorg op die nu in je hoofd zit. Hij wordt echt geparkeerd en komt %@ terug."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20878,6 +21934,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Skriv det ned for å slippe taket"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schrijf op om los te laten"
           }
         },
         "pt-BR" : {
@@ -20998,6 +22060,12 @@
             "value" : "Skriv den akkurat slik den høres ut i hodet ditt."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schrijf hem precies op zoals hij in je hoofd klinkt."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21116,6 +22184,12 @@
             "value" : "Du trenger ikke bære på dette akkurat nå. Vi tar den med tilbake %@."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Je hoeft dit nu niet te dragen. We brengen hem %@ terug."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21232,6 +22306,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Du utsatte en bekymring og vendte bevisst tilbake til den. Det er hele teknikken."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Je stelde een zorg uit en kwam er bewust op terug. Dat is de hele techniek."
           }
         },
         "pt-BR" : {
@@ -21354,6 +22434,12 @@
             "value" : "Svarene dine blir på denne iPhonen. Du kan se dem igjen i utkjøringsloggen din."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Je antwoorden blijven op deze iPhone. Je kunt ze terugkijken in je uitritlogboek."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21470,6 +22556,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Din daglige bekymringstid er %@. Du kan endre den i Innstillinger."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Je dagelijkse Zorgentijd is %@. Je kunt hem wijzigen in Instellingen."
           }
         },
         "pt-BR" : {
@@ -21590,6 +22682,12 @@
             "value" : "Din opplevelse"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jouw ervaring"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21708,6 +22806,12 @@
             "value" : "Din første utkjøring"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Je eerste uitrit"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21824,6 +22928,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bekymringen din"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jouw zorg"
           }
         },
         "pt-BR" : {
