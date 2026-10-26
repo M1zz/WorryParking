@@ -11,6 +11,12 @@
             "value" : "Ask my manager for a 1:1"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pedirle una reunión individual a mi jefe"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -51,6 +57,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Can I actually cover this month's card bill?"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Podré pagar de verdad el recibo de la tarjeta de este mes?"
           }
         },
         "ja" : {
@@ -95,6 +107,12 @@
             "value" : "Check rents in the neighbourhood"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mirar los alquileres de la zona"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -135,6 +153,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Did my joke at dinner go too far?"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Se me fue la mano con mi broma en la cena?"
           }
         },
         "ja" : {
@@ -179,6 +203,12 @@
             "value" : "I think I blew this quarter's review."
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Creo que eché a perder la evaluación de este trimestre."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -219,6 +249,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "I'll get called out again at Monday's meeting."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En la reunión del lunes me van a llamar la atención otra vez."
           }
         },
         "ja" : {
@@ -263,6 +299,12 @@
             "value" : "I'll never make the report deadline."
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No voy a llegar nunca a la fecha de entrega del informe."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -303,6 +345,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "If I stutter in the interview, I'm out."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si me trabo en la entrevista, estoy fuera."
           }
         },
         "ja" : {
@@ -347,6 +395,12 @@
             "value" : "If my laptop dies, I lose everything."
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si se estropea mi portátil, lo pierdo todo."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -387,6 +441,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "It feels like my friends ignore only my messages in the group chat."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siento que mis amigos ignoran solo mis mensajes en el grupo."
           }
         },
         "ja" : {
@@ -431,6 +491,12 @@
             "value" : "Missing the flight would ruin the whole trip."
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perder el vuelo arruinaría todo el viaje."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -471,6 +537,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mum's checkup results still aren't back. What if they found something serious and she's not telling me?"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aún no han llegado los resultados de la revisión de mamá. ¿Y si encontraron algo grave y no me lo dice?"
           }
         },
         "ja" : {
@@ -515,6 +587,12 @@
             "value" : "My landlord is going to raise the rent."
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mi casero me va a subir el alquiler."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -555,6 +633,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "My manager's reply was so short. Did I do something wrong?"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La respuesta de mi jefe fue tan corta. ¿Hice algo mal?"
           }
         },
         "ja" : {
@@ -599,6 +683,12 @@
             "value" : "My sister must be hurt by what I said."
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seguro que mi hermana se ha sentido herida por lo que dije."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -639,6 +729,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Practise three likely questions out loud"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Practicar en voz alta tres preguntas probables"
           }
         },
         "ja" : {
@@ -683,6 +779,12 @@
             "value" : "Turn on cloud backup"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activar la copia de seguridad en la nube"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -725,6 +827,12 @@
             "value" : "What if I blank during tomorrow's presentation and everyone decides I'm not good enough?"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Y si me quedo en blanco en la presentación de mañana y todos piensan que no soy lo bastante bueno?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -765,6 +873,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "What if the checkup finds something?"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Y si la revisión detecta algo?"
           }
         },
         "ja" : {

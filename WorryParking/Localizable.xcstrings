@@ -12,6 +12,12 @@
             "value" : "%lld of %lld spots used"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$lld de %2$lld plazas ocupadas"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -52,6 +58,12 @@
             "value" : "%lld parked"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld aparcadas"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -90,6 +102,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld%% of the fears you checked didn't come true."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El %lld%% de los miedos que comprobaste no se cumplió."
           }
         },
         "ja" : {
@@ -135,6 +153,12 @@
             "value" : "11:40 PM and your brain won't stop replaying tomorrow. Write the worry exactly as it sounds, and rate how loud it is."
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "23:40 y tu mente no deja de repetir lo de mañana. Escribe la preocupación tal como suena y valora cuánto volumen tiene."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -173,6 +197,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "6:00 PM, the presentation is over. Did it happen? Not really. The worry dropped from 4 to 1, so you let it go, and it's added to your Exit Log."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "18:00, la presentación ya pasó. ¿Ocurrió lo que temías? Casi nada. La preocupación bajó de 4 a 1, la dejaste ir y quedó en tu registro de salidas."
           }
         },
         "ja" : {
@@ -215,6 +245,12 @@
             "value" : "A bigger car park for a busier mind."
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un parking más grande para una mente más ocupada."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -253,6 +289,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "A daily 15-minute window, ideally a few hours before bed. We'll tap you on the shoulder when a worry is ready for pickup."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un rato de 15 minutos al día, mejor unas horas antes de dormir. Te avisaremos con suavidad cuando una preocupación esté lista para salir."
           }
         },
         "ja" : {
@@ -295,6 +337,12 @@
             "value" : "A little lighter"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un poco más ligera"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -333,6 +381,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "A whisper"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un susurro"
           }
         },
         "ja" : {
@@ -375,6 +429,12 @@
             "value" : "About"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acerca de"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -413,6 +473,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "About the same"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Más o menos igual"
           }
         },
         "ja" : {
@@ -455,6 +521,12 @@
             "value" : "After parking it, how do you feel?"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Después de aparcarla, ¿cómo te sientes?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -493,6 +565,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Allow pickup reminders"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Permitir avisos de salida"
           }
         },
         "ja" : {
@@ -535,6 +613,12 @@
             "value" : "Allow reminders & continue"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Permitir avisos y continuar"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -573,6 +657,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "An unfinished worry keeps replaying because your mind is afraid of forgetting it. Writing it down, with a set time to come back to it, tells your brain it's taken care of for now."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Una preocupación sin resolver se repite porque tu mente teme olvidarla. Escribirla y fijar una hora para volver a ella le dice a tu cerebro que, por ahora, está controlada."
           }
         },
         "ja" : {
@@ -615,6 +705,12 @@
             "value" : "Anything else? (optional)"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Algo más? (opcional)"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -653,6 +749,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Avg. level drop"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bajada media de nivel"
           }
         },
         "ja" : {
@@ -695,6 +797,12 @@
             "value" : "Before"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Antes"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -733,6 +841,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bring a worry back exactly when you can handle it."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recupera una preocupación justo cuando puedas con ella."
           }
         },
         "ja" : {
@@ -775,6 +889,12 @@
             "value" : "Cancel"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancelar"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -813,6 +933,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Check what actually happened"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comprueba qué ocurrió en realidad"
           }
         },
         "ja" : {
@@ -855,6 +981,12 @@
             "value" : "Choose a time a few hours before bed. New worries are parked until then. Already-parked worries keep their exit time."
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elige una hora unas horas antes de dormir. Las preocupaciones nuevas se quedan aparcadas hasta entonces. Las que ya están aparcadas conservan su hora de salida."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -893,6 +1025,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Close"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cerrar"
           }
         },
         "ja" : {
@@ -935,6 +1073,12 @@
             "value" : "Continue"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continuar"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -973,6 +1117,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Count"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cantidad"
           }
         },
         "ja" : {
@@ -1015,6 +1165,12 @@
             "value" : "Custom exit times"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Horas de salida personalizadas"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1053,6 +1209,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Custom time"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hora personalizada"
           }
         },
         "ja" : {
@@ -1095,6 +1257,12 @@
             "value" : "Did what you feared actually happen?"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Ocurrió de verdad lo que temías?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1133,6 +1301,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Didn't happen"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No ocurrió"
           }
         },
         "ja" : {
@@ -1175,6 +1349,12 @@
             "value" : "Done"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Listo"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1213,6 +1393,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Drive out"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sacar el coche"
           }
         },
         "ja" : {
@@ -1255,6 +1441,12 @@
             "value" : "Edit my worry"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reescribir mi preocupación"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1293,6 +1485,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Empty"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Libre"
           }
         },
         "ja" : {
@@ -1335,6 +1533,12 @@
             "value" : "Everything you write stays on this device. Notifications never include your worry text."
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Todo lo que escribes se queda en este dispositivo. Las notificaciones nunca incluyen el texto de tus preocupaciones."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1373,6 +1577,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "EXIT"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SALIDA"
           }
         },
         "ja" : {
@@ -1415,6 +1625,12 @@
             "value" : "Exit"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salida"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1453,6 +1669,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Exit gate"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Barrera de salida"
           }
         },
         "ja" : {
@@ -1495,6 +1717,12 @@
             "value" : "Exit Gate · P%lld"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Barrera de salida · P%lld"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1533,6 +1761,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Exit Gate · P1"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Barrera de salida · P1"
           }
         },
         "ja" : {
@@ -1575,6 +1809,12 @@
             "value" : "Exit insights"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Información de salidas"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1613,6 +1853,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Exit Log"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registro de salidas"
           }
         },
         "ja" : {
@@ -1655,6 +1901,12 @@
             "value" : "Exit time"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hora de salida"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1693,6 +1945,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Exited"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ya salió"
           }
         },
         "ja" : {
@@ -1735,6 +1993,12 @@
             "value" : "Exits in %@"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sale en %@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1773,6 +2037,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "First exit"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Primera salida"
           }
         },
         "ja" : {
@@ -1815,6 +2085,12 @@
             "value" : "First time parking"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La primera vez que aparcaste"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1853,6 +2129,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Give it your full attention. It's the only thing to do right now."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dale toda tu atención. Es lo único que tienes que hacer ahora."
           }
         },
         "ja" : {
@@ -1895,6 +2177,12 @@
             "value" : "Gone"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desapareció"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1933,6 +2221,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Heavy"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pesada"
           }
         },
         "ja" : {
@@ -1975,6 +2269,12 @@
             "value" : "History"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Historial"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2013,6 +2313,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "How did that feel?"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Cómo te fue?"
           }
         },
         "ja" : {
@@ -2055,6 +2361,12 @@
             "value" : "How loud is it now?"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Qué volumen tiene ahora?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2095,6 +2407,12 @@
             "value" : "How loud is it right now?"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Qué volumen tiene en este momento?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2133,6 +2451,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "If it drives back into your head, notice it and tell yourself: it has a spot. You'll deal with it at Worry Time."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si vuelve a tu cabeza, nótalo y dite: ya tiene plaza. Te ocuparás de ella a la Hora de preocuparse."
           }
         },
         "ja" : {
@@ -2177,6 +2501,12 @@
             "value" : "If it kept coming back, try a short \"you already have a spot\" and return to what you were doing. If worry is getting in the way of your days, talking to a professional can really help."
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si sigue volviendo, prueba a decir un breve «ya tienes plaza» y vuelve a lo que estabas haciendo. Si la preocupación te estorba en el día a día, hablar con un profesional puede ayudarte mucho."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2215,6 +2545,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "IN"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ENTRADA"
           }
         },
         "ja" : {
@@ -2257,6 +2593,12 @@
             "value" : "It bothered me less"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Me molestó menos"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2295,6 +2637,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "It bothered me more"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Me molestó más"
           }
         },
         "ja" : {
@@ -2337,6 +2685,12 @@
             "value" : "It didn't happen"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No ocurrió"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2377,6 +2731,12 @@
             "value" : "It happened"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ocurrió"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2415,6 +2775,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "It was %lld when you parked it."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cuando la aparcaste era un %lld."
           }
         },
         "ja" : {
@@ -2459,6 +2825,12 @@
             "value" : "It's on my mind more"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Me ronda más la cabeza"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2497,6 +2869,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "It's only the first one. In studies, the effect built up over a few weeks. Park a few more and compare them in your Exit Log."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Solo es la primera. En los estudios, el efecto se fue acumulando a lo largo de unas semanas. Aparca algunas más y compáralas en tu registro de salidas."
           }
         },
         "ja" : {
@@ -2539,6 +2917,12 @@
             "value" : "It's out of the car park. Drive away."
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ya salió del parking. Déjala ir."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2577,6 +2961,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "It's parked until tomorrow's Worry Time. When it pops up again in the shower, just tell yourself: it already has a spot."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Está aparcada hasta la Hora de preocuparse de mañana. Cuando vuelva a aparecer en la ducha, dite: ya tiene plaza."
           }
         },
         "ja" : {
@@ -2619,6 +3009,12 @@
             "value" : "It's Worry Time. Give it %lld focused minutes, then decide what to do with it."
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Es la Hora de preocuparse. Dedícale %lld minutos de atención y luego decide qué hacer con ella."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2657,6 +3053,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Keep it parked"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mantener aparcada"
           }
         },
         "ja" : {
@@ -2699,6 +3101,12 @@
             "value" : "Keep parking. Patterns show up after a few exits."
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sigue aparcando. Los patrones aparecen tras unas cuantas salidas."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2737,6 +3145,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Later"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Más tarde"
           }
         },
         "ja" : {
@@ -2779,6 +3193,12 @@
             "value" : "Let it go"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dejarla ir"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2817,6 +3237,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "LEVEL"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NIVEL"
           }
         },
         "ja" : {
@@ -2859,6 +3285,12 @@
             "value" : "Level %lld of 5, %@"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nivel %lld de 5, %@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2897,6 +3329,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Level %lld → %lld"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nivel %lld → %lld"
           }
         },
         "ja" : {
@@ -2941,6 +3379,12 @@
             "value" : "Looking straight at a worry can make it feel bigger at first. You don't have to solve it now. Its only job is to wait for Worry Time."
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mirar una preocupación de frente puede hacer que al principio parezca más grande. No tienes que resolverla ahora. Su único trabajo es esperar a la Hora de preocuparse."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2979,6 +3423,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Car park"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parking"
           }
         },
         "ja" : {
@@ -3021,6 +3471,12 @@
             "value" : "Loud"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fuerte"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3059,6 +3515,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Made a plan"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plan hecho"
           }
         },
         "ja" : {
@@ -3101,6 +3563,12 @@
             "value" : "Make a plan"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hacer un plan"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3139,6 +3607,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Making a concrete plan stopped unfinished tasks from intruding on people's thoughts, and five minutes of writing before bed helped people fall asleep faster."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hacer un plan concreto evitó que las tareas pendientes invadieran los pensamientos, y escribir cinco minutos antes de dormir ayudó a la gente a conciliar el sueño más rápido."
           }
         },
         "ja" : {
@@ -3181,6 +3655,12 @@
             "value" : "Manage subscription"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gestionar suscripción"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3219,6 +3699,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nagging"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Persistente"
           }
         },
         "ja" : {
@@ -3261,6 +3747,12 @@
             "value" : "Next"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siguiente"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3299,6 +3791,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Next Worry Time"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Próxima Hora de preocuparse"
           }
         },
         "ja" : {
@@ -3341,6 +3839,12 @@
             "value" : "Next Worry Time: %@"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Próxima Hora de preocuparse: %@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3379,6 +3883,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "No exits yet"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aún no hay salidas"
           }
         },
         "ja" : {
@@ -3421,6 +3931,12 @@
             "value" : "Not now"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ahora no"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3461,6 +3977,12 @@
             "value" : "Not ready yet. Bring it back at the next Worry Time."
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aún no está lista. Recupérala en la próxima Hora de preocuparse."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3499,6 +4021,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Notifications are off"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Las notificaciones están desactivadas"
           }
         },
         "ja" : {
@@ -3543,6 +4071,12 @@
             "value" : "Now"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ahora"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3581,6 +4115,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Now that it's parked, how loud is it?"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ahora que está aparcada, ¿qué volumen tiene?"
           }
         },
         "ja" : {
@@ -3623,6 +4163,12 @@
             "value" : "One real worry, from 11:40 PM to Worry Time the next day."
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Una preocupación real, desde las 23:40 hasta la Hora de preocuparse del día siguiente."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3661,6 +4207,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "One small next step"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un pequeño paso siguiente"
           }
         },
         "ja" : {
@@ -3703,6 +4255,12 @@
             "value" : "Open iOS Settings"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abrir los Ajustes de iOS"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3741,6 +4299,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Overwhelming"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abrumadora"
           }
         },
         "ja" : {
@@ -3789,6 +4353,12 @@
             "value" : "P%lld is ready for pickup"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "P%lld está lista para salir"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3832,6 +4402,12 @@
             "value" : "P%lld · Ticket #%@"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "P%1$lld · Ticket n.º %2$@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3870,6 +4446,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Page %lld of %lld"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Página %1$lld de %2$lld"
           }
         },
         "ja" : {
@@ -3912,6 +4494,12 @@
             "value" : "Park"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aparcar"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3950,6 +4538,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Park a worry"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aparcar una preocupación"
           }
         },
         "ja" : {
@@ -3992,6 +4586,12 @@
             "value" : "Park at P%lld"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aparcar en P%lld"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4030,6 +4630,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Park every worry, not just three."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aparca todas tus preocupaciones, no solo tres."
           }
         },
         "ja" : {
@@ -4072,6 +4678,12 @@
             "value" : "Park it again"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aparcarla de nuevo"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4110,6 +4722,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Parked %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aparcada %@"
           }
         },
         "ja" : {
@@ -4152,6 +4770,12 @@
             "value" : "Parked at P%lld"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aparcada en P%lld"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4190,6 +4814,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Parked until %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aparcada hasta %@"
           }
         },
         "ja" : {
@@ -4232,6 +4862,12 @@
             "value" : "Parked worries stay hidden until their exit time. You don't have to carry them right now."
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Las preocupaciones aparcadas permanecen ocultas hasta su hora de salida. No tienes que cargar con ellas ahora."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4272,6 +4908,12 @@
             "value" : "Parked. Not your job right now."
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aparcada. Ahora no es cosa tuya."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4310,6 +4952,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Partly"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En parte"
           }
         },
         "ja" : {
@@ -4354,6 +5002,12 @@
             "value" : "People who moved their worrying to a short daily worry period spent less time worrying and reported less anxiety and fewer sleep problems."
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quienes trasladaron sus preocupaciones a un breve momento diario dedicaron menos tiempo a preocuparse y refirieron menos ansiedad y menos problemas de sueño."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4392,6 +5046,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pick your Worry Time"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elige tu Hora de preocuparse"
           }
         },
         "ja" : {
@@ -4434,6 +5094,12 @@
             "value" : "Postponing is working for you. Try parking the next one too."
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Posponer te está funcionando. Prueba a aparcar también la siguiente."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4472,6 +5138,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Postponing works best when you wait. Most worries feel smaller by Worry Time."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Posponer funciona mejor cuando esperas. A la Hora de preocuparse, la mayoría de las preocupaciones se sienten más pequeñas."
           }
         },
         "ja" : {
@@ -4514,6 +5186,12 @@
             "value" : "Privacy Policy"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Política de privacidad"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4552,6 +5230,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pro is active"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro activo"
           }
         },
         "ja" : {
@@ -4594,6 +5278,12 @@
             "value" : "Pro spot"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plaza Pro"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4632,6 +5322,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ready for pickup"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lista para salir"
           }
         },
         "ja" : {
@@ -4674,6 +5370,12 @@
             "value" : "Reminders"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avisos"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4712,6 +5414,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Research describes average effects, and results differ from person to person. Worry Parking is a self-help tool, not a medical device or a treatment."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Los estudios describen efectos medios y los resultados varían de una persona a otra. Parking de Preocupaciones es una herramienta de autoayuda, no un producto sanitario ni un tratamiento."
           }
         },
         "ja" : {
@@ -4754,6 +5462,12 @@
             "value" : "Research references"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Referencias de investigación"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4792,6 +5506,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Restore purchases"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restaurar compras"
           }
         },
         "ja" : {
@@ -4834,6 +5554,12 @@
             "value" : "Result"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resultado"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4872,6 +5598,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Retrieve early"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sacar antes"
           }
         },
         "ja" : {
@@ -4914,6 +5646,12 @@
             "value" : "Retrieve this worry early?"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Sacar esta preocupación antes de tiempo?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4952,6 +5690,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "See how many of your fears actually came true."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mira cuántos de tus miedos se cumplieron de verdad."
           }
         },
         "ja" : {
@@ -4994,6 +5738,12 @@
             "value" : "See how many of your worries actually happened"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mira cuántas de tus preocupaciones ocurrieron de verdad"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5032,6 +5782,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "See it in action"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verlo en acción"
           }
         },
         "ja" : {
@@ -5074,6 +5830,12 @@
             "value" : "Send it to the exit gate now"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enviarla ahora a la barrera de salida"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5112,6 +5874,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Settings"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajustes"
           }
         },
         "ja" : {
@@ -5154,6 +5922,12 @@
             "value" : "Skip for now"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Omitir por ahora"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5192,6 +5966,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Spot %lld. Empty. Park a worry here."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plaza %lld. Libre. Aparca aquí una preocupación."
           }
         },
         "ja" : {
@@ -5234,6 +6014,12 @@
             "value" : "Spot %lld. Pro spot, locked."
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plaza %lld. Plaza Pro, bloqueada."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5272,6 +6058,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Spot %lld. Worry parked until %@."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plaza %1$lld. Preocupación aparcada hasta %2$@."
           }
         },
         "ja" : {
@@ -5314,6 +6106,12 @@
             "value" : "Spot %lld. Worry ready for pickup."
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plaza %lld. Preocupación lista para salir."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5352,6 +6150,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Start"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Empezar"
           }
         },
         "ja" : {
@@ -5394,6 +6198,12 @@
             "value" : "Swipe along the dotted line to park"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desliza por la línea de puntos para aparcar"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5432,6 +6242,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Swipe along the dotted line. Once it tears off, this worry is parked until %@."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desliza por la línea de puntos. Cuando se rompa el ticket, esta preocupación quedará aparcada hasta %@."
           }
         },
         "ja" : {
@@ -5474,6 +6290,12 @@
             "value" : "Take one slow breath. There's nothing to do about it right now."
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Respira hondo y despacio una vez. Ahora mismo no hay nada que hacer con ella."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5512,6 +6334,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tear off the ticket to park"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rompe el ticket para aparcar"
           }
         },
         "ja" : {
@@ -5554,6 +6382,12 @@
             "value" : "Tear off your ticket"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rompe tu ticket"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5592,6 +6426,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Terms of Use"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Condiciones de uso"
           }
         },
         "ja" : {
@@ -5634,6 +6474,12 @@
             "value" : "That's completely normal. The effect usually builds over days, not minutes. When it pops back up, tell it \"you already have a spot\" and see how it feels at Worry Time."
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Es completamente normal. El efecto suele acumularse a lo largo de días, no de minutos. Cuando reaparezca, dile «ya tienes plaza» y observa cómo te sientes a la Hora de preocuparse."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5672,6 +6518,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "That's the first effect of postponing. Once a worry is written down and has a place, your mind doesn't have to hold on to it. See you at Worry Time."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ese es el primer efecto de posponer. Cuando una preocupación está escrita y tiene su sitio, tu mente no necesita aferrarse a ella. Nos vemos a la Hora de preocuparse."
           }
         },
         "ja" : {
@@ -5714,6 +6566,12 @@
             "value" : "The Worry Time after"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La Hora de preocuparse siguiente"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5752,6 +6610,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ticket #%@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ticket n.º %@"
           }
         },
         "ja" : {
@@ -5794,6 +6658,12 @@
             "value" : "today at %@"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hoy a las %@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5832,6 +6702,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "tomorrow at %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "mañana a las %@"
           }
         },
         "ja" : {
@@ -5874,6 +6750,12 @@
             "value" : "Too early to tell"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aún es pronto para saberlo"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5912,6 +6794,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Try it now"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pruébalo ahora"
           }
         },
         "ja" : {
@@ -5954,6 +6842,12 @@
             "value" : "Turn it into one small next step."
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conviértela en un pequeño paso siguiente."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5992,6 +6886,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Unlimited parking spots"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plazas de aparcamiento ilimitadas"
           }
         },
         "ja" : {
@@ -6034,6 +6934,12 @@
             "value" : "Unlimited spots, custom exit times, insights"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plazas ilimitadas, horas de salida personalizadas, información"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6072,6 +6978,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Unlock Insights with Pro"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desbloquea la información con Pro"
           }
         },
         "ja" : {
@@ -6114,6 +7026,12 @@
             "value" : "We'll tell you when a worry is ready for pickup."
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Te avisaremos cuando una preocupación esté lista para salir."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6152,6 +7070,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "What do you want to do with it?"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Qué quieres hacer con ella?"
           }
         },
         "ja" : {
@@ -6194,6 +7118,12 @@
             "value" : "What if I blank during tomorrow's presentation and everyone decides I'm not good enough?"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Y si me quedo en blanco en la presentación de mañana y todos piensan que no soy lo bastante bueno?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6232,6 +7162,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "What you feared didn't happen. Each exit like this goes into your Exit Log, so you can see how often your worries turn out wrong."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lo que temías no ocurrió. Cada salida así queda en tu registro de salidas, para que veas con qué frecuencia tus preocupaciones se equivocan."
           }
         },
         "ja" : {
@@ -6274,6 +7210,12 @@
             "value" : "What's circling in your head?"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Qué te da vueltas en la cabeza?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6312,6 +7254,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "When people with chronic worry tracked their worries, %lld%% of them didn't come true."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cuando personas con preocupación crónica anotaron sus preocupaciones, el %lld%% no se cumplió."
           }
         },
         "ja" : {
@@ -6354,6 +7302,12 @@
             "value" : "When should it come back?"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Cuándo debe volver?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6392,6 +7346,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "While it was parked, how did this worry feel?"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mientras estuvo aparcada, ¿cómo se sintió esta preocupación?"
           }
         },
         "ja" : {
@@ -6434,6 +7394,12 @@
             "value" : "Why it works"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Por qué funciona"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6474,6 +7440,12 @@
             "value" : "Without them, parked worries wait silently in the lot."
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sin ellos, las preocupaciones aparcadas esperan en silencio en el parking."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6512,6 +7484,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Worries don't have to ride with you all night.\nPark them here. We'll keep them until your Worry Time."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Las preocupaciones no tienen por qué acompañarte toda la noche.\nAparca tus preocupaciones aquí. Las guardaremos hasta tu Hora de preocuparse."
           }
         },
         "ja" : {
@@ -6556,6 +7534,12 @@
             "value" : "Worries show up anywhere: in bed, in the shower, on the way home. When worrying gets its own time, your brain learns that the rest of the day isn't for it. Psychologists call this stimulus control."
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Las preocupaciones aparecen en cualquier sitio: en la cama, en la ducha, de camino a casa. Cuando preocuparse tiene su propio momento, tu cerebro aprende que el resto del día no es para eso. Los psicólogos lo llaman control de estímulos."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6594,6 +7578,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Worries you review at the exit gate land here. Over time you'll see how many of them actually happened."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Las preocupaciones que revisas en la barrera de salida llegan aquí. Con el tiempo verás cuántas ocurrieron de verdad."
           }
         },
         "ja" : {
@@ -6636,6 +7626,12 @@
             "value" : "Worry at one set time"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preocuparse a una hora fija"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6674,6 +7670,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "WORRY PARKING"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PARKING DE PREOCUPACIONES"
           }
         },
         "ja" : {
@@ -6716,6 +7718,12 @@
             "value" : "Worry Parking"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parking de Preocupaciones"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6756,6 +7764,12 @@
             "value" : "Worry Parking is a self-help tool, not a medical device or a substitute for professional care. If you're struggling, please reach out to a mental health professional or local emergency services."
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parking de Preocupaciones es una herramienta de autoayuda, no un producto sanitario ni un sustituto de la atención profesional. Si lo estás pasando mal, acude a un profesional de la salud mental o a los servicios de emergencia de tu zona."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6794,6 +7808,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Worry Parking is built on worry postponement, a stimulus-control technique used in cognitive behavioral therapy (CBT): instead of fighting a worry, you schedule it for a set time and return to it then."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parking de Preocupaciones se basa en posponer la preocupación, una técnica de control de estímulos de la terapia cognitivo-conductual (TCC): en lugar de luchar contra una preocupación, le asignas una hora y vuelves a ella entonces."
           }
         },
         "ja" : {
@@ -6838,6 +7858,12 @@
             "value" : "Worry Parking is built on worry postponement, a technique from cognitive behavioral therapy (CBT) that has been studied for decades."
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parking de Preocupaciones se basa en posponer la preocupación, una técnica de la terapia cognitivo-conductual (TCC) estudiada durante décadas."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6876,6 +7902,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Worry Parking Pro"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parking de Preocupaciones Pro"
           }
         },
         "ja" : {
@@ -6918,6 +7950,12 @@
             "value" : "Worry predicts the future as worse than it usually turns out. At the exit gate you record whether it really happened, so over time your Exit Log shows how often your worries were wrong."
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La preocupación predice un futuro peor de lo que suele resultar. En la barrera de salida anotas si ocurrió de verdad, así que con el tiempo tu registro de salidas muestra con qué frecuencia te equivocabas al temer."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6958,6 +7996,12 @@
             "value" : "Worry Time"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hora de preocuparse"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6996,6 +8040,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Write"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escribir"
           }
         },
         "ja" : {
@@ -7040,6 +8090,12 @@
             "value" : "Write down one worry that's on your mind right now. It will really be parked and come back %@."
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escribe una preocupación que tengas ahora en la cabeza. Se aparcará de verdad y volverá %@."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7078,6 +8134,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Write it down to put it down"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escríbela para soltarla"
           }
         },
         "ja" : {
@@ -7120,6 +8182,12 @@
             "value" : "Write it exactly the way it sounds in your head."
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escríbela tal como suena en tu cabeza."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7160,6 +8228,12 @@
             "value" : "You don't need to carry this right now. We'll bring it back %@."
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No tienes que cargar con esto ahora. Te lo devolveremos %@."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7198,6 +8272,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "You postponed a worry and came back to it on purpose. That's the whole technique."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pospusiste una preocupación y volviste a ella a propósito. Esa es toda la técnica."
           }
         },
         "ja" : {
@@ -7242,6 +8322,12 @@
             "value" : "Your answers stay on this iPhone. You can look back at them in your Exit Log."
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tus respuestas se quedan en este iPhone. Puedes revisarlas en tu registro de salidas."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7280,6 +8366,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Your daily Worry Time is %@. You can change it in Settings."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu Hora de preocuparse diaria es a las %@. Puedes cambiarla en Ajustes."
           }
         },
         "ja" : {
@@ -7322,6 +8414,12 @@
             "value" : "Your experience"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu experiencia"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7362,6 +8460,12 @@
             "value" : "Your first exit"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu primera salida"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7400,6 +8504,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Your worry"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu preocupación"
           }
         },
         "ja" : {

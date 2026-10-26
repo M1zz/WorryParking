@@ -50,3 +50,10 @@ Now available in more languages
 Паркуйте столько тревог, сколько нужно
 Время выезда и аналитика тоже бесплатны
 Добавлено больше языков
+
+### App Store (Español)
+
+Todas las funciones ya son gratis
+Aparca cuantas preocupaciones quieras
+Horas de salida e información, gratis
+Ya disponible en más idiomas
