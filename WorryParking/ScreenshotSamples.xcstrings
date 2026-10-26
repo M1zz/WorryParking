@@ -65,6 +65,12 @@
             "value" : "ขอหัวหน้านัดคุยตัวต่อตัว"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xin sếp một buổi trao đổi riêng"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -141,6 +147,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ฉันจะจ่ายบิลบัตรเครดิตเดือนนี้ไหวจริง ๆ ไหม?"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tháng này mình có thực sự đủ tiền trả thẻ tín dụng không?"
           }
         },
         "zh-Hans" : {
@@ -221,6 +233,12 @@
             "value" : "ดูราคาค่าเช่าแถวนี้"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tìm hiểu giá thuê quanh khu này"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -297,6 +315,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "มุกที่ฉันเล่นตอนกินข้าวเมื่อกี้ล้ำเส้นไปหรือเปล่า?"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Câu đùa của mình trong bữa tối có quá đà không?"
           }
         },
         "zh-Hans" : {
@@ -377,6 +401,12 @@
             "value" : "ฉันรู้สึกว่าทำผลประเมินไตรมาสนี้พัง"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mình nghĩ mình làm hỏng đợt đánh giá quý này rồi."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -453,6 +483,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ประชุมวันจันทร์จะโดนทักอีกแน่"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cuộc họp thứ Hai mình lại bị nhắc nhở nữa."
           }
         },
         "zh-Hans" : {
@@ -533,6 +569,12 @@
             "value" : "ฉันจะส่งรายงานไม่ทันกำหนดแน่ ๆ"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mình sẽ không bao giờ kịp hạn nộp báo cáo."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -609,6 +651,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ถ้าพูดติดขัดตอนสัมภาษณ์ ฉันต้องตกแน่"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nếu mình nói lắp trong buổi phỏng vấn thì coi như rớt."
           }
         },
         "zh-Hans" : {
@@ -689,6 +737,12 @@
             "value" : "ถ้าแล็ปท็อปพัง ฉันจะเสียทุกอย่าง"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nếu laptop hỏng, mình mất hết mọi thứ."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -765,6 +819,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "รู้สึกเหมือนเพื่อนในกลุ่มแชตเมินแค่ข้อความของฉัน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mình có cảm giác bạn bè trong nhóm chat chỉ phớt lờ tin nhắn của mình."
           }
         },
         "zh-Hans" : {
@@ -845,6 +905,12 @@
             "value" : "ถ้าตกเครื่อง ทริปนี้ก็พังหมด"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lỡ chuyến bay thì cả chuyến đi hỏng hết."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -921,6 +987,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ผลตรวจสุขภาพของแม่ยังไม่ออก ถ้าเจออะไรร้ายแรงแล้วแม่ไม่บอกฉันล่ะ?"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kết quả khám của mẹ vẫn chưa có. Nếu họ phát hiện bệnh nặng mà mẹ không nói với mình thì sao?"
           }
         },
         "zh-Hans" : {
@@ -1001,6 +1073,12 @@
             "value" : "เจ้าของห้องจะขึ้นค่าเช่าแน่"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chủ nhà sẽ tăng tiền thuê."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1077,6 +1155,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "หัวหน้าตอบสั้นมากเลย ฉันทำอะไรผิดหรือเปล่า?"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tin nhắn trả lời của sếp ngắn quá. Mình có làm sai gì không?"
           }
         },
         "zh-Hans" : {
@@ -1157,6 +1241,12 @@
             "value" : "น้องสาวต้องเสียใจกับสิ่งที่ฉันพูดแน่"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chắc chị gái buồn vì điều mình nói."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1233,6 +1323,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ซ้อมตอบคำถามที่น่าจะถูกถามสามข้อออกเสียง"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Luyện nói to ba câu hỏi có khả năng bị hỏi"
           }
         },
         "zh-Hans" : {
@@ -1313,6 +1409,12 @@
             "value" : "เปิดการสำรองข้อมูลบนคลาวด์"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bật sao lưu đám mây"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1391,6 +1493,12 @@
             "value" : "ถ้าพรุ่งนี้ตอนนำเสนอฉันสมองว่างเปล่า แล้วทุกคนคิดว่าฉันไม่เก่งพอจะทำอย่างไร?"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nếu ngày mai thuyết trình tôi bị đứng hình và mọi người nghĩ tôi không đủ giỏi thì sao?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1467,6 +1575,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ถ้าผลตรวจเจออะไรขึ้นมาล่ะ?"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nếu kết quả khám phát hiện ra điều gì thì sao?"
           }
         },
         "zh-Hans" : {

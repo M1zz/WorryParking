@@ -92,3 +92,10 @@ Agora disponível em mais idiomas
 จอดความกังวลได้ไม่จำกัด
 กำหนดเวลาออกและดูข้อมูลเชิงลึกฟรี
 รองรับภาษาเพิ่มขึ้นแล้ว
+
+### App Store (Tiếng Việt)
+
+Giờ đây mọi tính năng đều miễn phí
+Đỗ bao nhiêu nỗi lo tùy bạn
+Giờ ra bãi và thông tin cũng miễn phí
+Đã có thêm nhiều ngôn ngữ

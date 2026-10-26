@@ -66,6 +66,12 @@
             "value" : "ใช้ช่องจอดแล้ว %1$lld จาก %2$lld ช่อง"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đã dùng %1$lld/%2$lld chỗ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -142,6 +148,12 @@
             "value" : "จอดอยู่ %lld เรื่อง"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đang đỗ %lld"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -216,6 +228,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ความกังวลที่คุณตรวจสอบแล้ว %lld%% ไม่ได้เกิดขึ้นจริง"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld%% nỗi sợ bạn đã kiểm chứng không xảy ra."
           }
         },
         "zh-Hans" : {
@@ -297,6 +315,12 @@
             "value" : "ห้าทุ่มสี่สิบ สมองยังวนคิดเรื่องพรุ่งนี้ไม่หยุด เขียนความกังวลตามที่ได้ยินในหัว แล้วเลือกว่ามันดังแค่ไหน"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "23:40 và đầu óc bạn cứ phát đi phát lại chuyện ngày mai. Hãy viết nỗi lo đúng như nó vang lên và chọn xem nó ồn đến đâu."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -371,6 +395,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "หกโมงเย็น การนำเสนอจบไปแล้ว สิ่งที่กังวลเกิดขึ้นไหม? ไม่เลย ระดับความกังวลลดจาก 4 เหลือ 1 คุณจึงปล่อยมันไป และมันถูกบันทึกในบันทึกการออกของคุณ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "18:00, buổi thuyết trình đã xong. Điều bạn lo có xảy ra không? Thật ra là không. Nỗi lo giảm từ 4 xuống 1, nên bạn buông nó đi, và nó được ghi vào nhật ký ra bãi."
           }
         },
         "zh-Hans" : {
@@ -449,6 +479,12 @@
             "value" : "ที่จอดที่กว้างขึ้น สำหรับวันที่ใจคิดเยอะ"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Một bãi đỗ rộng hơn cho một tâm trí bận rộn."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -523,6 +559,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ทุกวันวันละ 15 นาที ควรเป็นสักสองสามชั่วโมงก่อนนอน เราจะเตือนเบา ๆ เมื่อความกังวลพร้อมออกจากที่จอด"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mỗi ngày 15 phút, tốt nhất là vài giờ trước khi ngủ. Chúng tôi sẽ nhắc nhẹ khi một nỗi lo sẵn sàng ra bãi."
           }
         },
         "zh-Hans" : {
@@ -601,6 +643,12 @@
             "value" : "เบาขึ้นเล็กน้อย"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nhẹ đi một chút"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -675,6 +723,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เบาเหมือนเสียงกระซิบ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chỉ như tiếng thì thầm"
           }
         },
         "zh-Hans" : {
@@ -753,6 +807,12 @@
             "value" : "เกี่ยวกับ"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giới thiệu"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -827,6 +887,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เท่าเดิม"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gần như cũ"
           }
         },
         "zh-Hans" : {
@@ -905,6 +971,12 @@
             "value" : "หลังจากจอดไปแล้ว คุณรู้สึกอย่างไร?"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sau khi đỗ xong, bạn thấy thế nào?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -979,6 +1051,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "อนุญาตการเตือนออกจากที่จอด"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cho phép nhắc ra bãi"
           }
         },
         "zh-Hans" : {
@@ -1057,6 +1135,12 @@
             "value" : "อนุญาตการเตือนแล้วไปต่อ"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cho phép nhắc và tiếp tục"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1131,6 +1215,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ความกังวลที่ยังค้างจะวนซ้ำ เพราะใจกลัวว่าจะลืม การเขียนมันลงไปและกำหนดเวลากลับมาดู จะบอกสมองว่าตอนนี้มีที่จัดการแล้ว"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nỗi lo còn dang dở cứ lặp lại vì tâm trí sợ quên nó. Viết nó ra và hẹn giờ quay lại sẽ báo cho não biết là tạm thời đã có người lo."
           }
         },
         "zh-Hans" : {
@@ -1209,6 +1299,12 @@
             "value" : "อยากบอกอะไรเพิ่มไหม? (ไม่บังคับ)"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Còn gì muốn nói thêm không? (không bắt buộc)"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1283,6 +1379,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ระดับที่ลดลงเฉลี่ย"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mức giảm trung bình"
           }
         },
         "zh-Hans" : {
@@ -1361,6 +1463,12 @@
             "value" : "ก่อน"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trước"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1435,6 +1543,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เอาความกังวลกลับมา ในเวลาที่คุณพร้อมรับมือพอดี"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đưa nỗi lo trở lại đúng lúc bạn đủ sức đối diện."
           }
         },
         "zh-Hans" : {
@@ -1513,6 +1627,12 @@
             "value" : "ยกเลิก"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hủy"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1587,6 +1707,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ตรวจดูว่าเกิดอะไรขึ้นจริง"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xem điều gì đã thực sự xảy ra"
           }
         },
         "zh-Hans" : {
@@ -1665,6 +1791,12 @@
             "value" : "เลือกเวลาก่อนนอนสักสองสามชั่วโมง ความกังวลใหม่จะจอดอยู่จนถึงเวลานั้น ส่วนที่จอดอยู่แล้วจะยังคงเวลาออกเดิม"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chọn một giờ trước khi ngủ vài tiếng. Nỗi lo mới sẽ được đỗ đến lúc đó. Nỗi lo đã đỗ vẫn giữ giờ ra bãi cũ."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1739,6 +1871,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ปิด"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đóng"
           }
         },
         "zh-Hans" : {
@@ -1817,6 +1955,12 @@
             "value" : "ต่อไป"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiếp tục"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1891,6 +2035,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "จำนวน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Số lượng"
           }
         },
         "zh-Hans" : {
@@ -1969,6 +2119,12 @@
             "value" : "กำหนดเวลาออกเอง"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giờ ra bãi tùy chỉnh"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2043,6 +2199,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "กำหนดเวลาเอง"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giờ tùy chỉnh"
           }
         },
         "zh-Hans" : {
@@ -2121,6 +2283,12 @@
             "value" : "สิ่งที่คุณกลัวเกิดขึ้นจริงหรือเปล่า?"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Điều bạn sợ có thực sự xảy ra không?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2195,6 +2363,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ไม่ได้เกิดขึ้น"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không xảy ra"
           }
         },
         "zh-Hans" : {
@@ -2273,6 +2447,12 @@
             "value" : "เสร็จสิ้น"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xong"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2347,6 +2527,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ขับออก"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cho ra bãi"
           }
         },
         "zh-Hans" : {
@@ -2425,6 +2611,12 @@
             "value" : "แก้ไขความกังวลของฉัน"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sửa nỗi lo của tôi"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2499,6 +2691,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ว่าง"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trống"
           }
         },
         "zh-Hans" : {
@@ -2577,6 +2775,12 @@
             "value" : "ทุกอย่างที่คุณเขียนจะอยู่บนอุปกรณ์เครื่องนี้เท่านั้น การแจ้งเตือนจะไม่มีข้อความความกังวลของคุณเลย"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mọi thứ bạn viết chỉ nằm trên thiết bị này. Thông báo không bao giờ chứa nội dung nỗi lo của bạn."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2651,6 +2855,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ออก"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RA"
           }
         },
         "zh-Hans" : {
@@ -2729,6 +2939,12 @@
             "value" : "ออก"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ra bãi"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2803,6 +3019,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ด่านทางออก"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cổng ra"
           }
         },
         "zh-Hans" : {
@@ -2881,6 +3103,12 @@
             "value" : "ด่านทางออก · P%lld"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cổng ra · P%lld"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2955,6 +3183,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ด่านทางออก · P1"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cổng ra · P1"
           }
         },
         "zh-Hans" : {
@@ -3033,6 +3267,12 @@
             "value" : "ข้อมูลเชิงลึกการออก"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thông tin chi tiết về lần ra bãi"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3107,6 +3347,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "บันทึกการออก"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nhật ký ra bãi"
           }
         },
         "zh-Hans" : {
@@ -3185,6 +3431,12 @@
             "value" : "เวลาออก"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giờ ra bãi"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3259,6 +3511,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ออกแล้ว"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đã ra bãi"
           }
         },
         "zh-Hans" : {
@@ -3337,6 +3595,12 @@
             "value" : "ออกใน %@"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ra bãi sau %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3411,6 +3675,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "การออกครั้งแรก"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lần ra bãi đầu tiên"
           }
         },
         "zh-Hans" : {
@@ -3489,6 +3759,12 @@
             "value" : "ตอนจอดครั้งแรก"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lần đầu đỗ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3563,6 +3839,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ให้ความสนใจกับมันอย่างเต็มที่ ตอนนี้ไม่มีอย่างอื่นต้องทำ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hãy dành toàn bộ sự chú ý cho nó. Đó là việc duy nhất cần làm lúc này."
           }
         },
         "zh-Hans" : {
@@ -3641,6 +3923,12 @@
             "value" : "หายไปแล้ว"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Biến mất"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3715,6 +4003,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "หนัก"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nặng"
           }
         },
         "zh-Hans" : {
@@ -3793,6 +4087,12 @@
             "value" : "ประวัติ"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lịch sử"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3867,6 +4167,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "รู้สึกอย่างไรบ้าง?"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cảm giác thế nào?"
           }
         },
         "zh-Hans" : {
@@ -3945,6 +4251,12 @@
             "value" : "ตอนนี้มันดังแค่ไหน?"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bây giờ nó ồn đến đâu?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4021,6 +4333,12 @@
             "value" : "ตอนนี้มันดังแค่ไหน?"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ngay lúc này nó ồn đến đâu?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4095,6 +4413,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ถ้ามันกลับเข้ามาในหัวอีก ให้สังเกตมัน แล้วบอกตัวเองว่า มันมีที่จอดแล้ว เดี๋ยวค่อยจัดการตอนเวลากังวล"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nếu nó lại chạy vào đầu bạn, hãy nhận ra và tự nhủ: nó đã có chỗ đỗ rồi. Bạn sẽ xử lý nó vào Giờ lo lắng."
           }
         },
         "zh-Hans" : {
@@ -4175,6 +4499,12 @@
             "value" : "ถ้ามันวนกลับมาเรื่อย ๆ ลองพูดสั้น ๆ ว่า “เธอมีที่จอดแล้วนะ” แล้วกลับไปทำสิ่งที่ทำอยู่ ถ้าความกังวลรบกวนชีวิตประจำวัน การพูดคุยกับผู้เชี่ยวชาญช่วยได้มาก"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nếu nó cứ quay lại, hãy thử nói ngắn “bạn đã có chỗ đỗ rồi” rồi quay về việc đang làm. Nếu nỗi lo cản trở cuộc sống hằng ngày, trò chuyện với chuyên gia có thể giúp ích rất nhiều."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4249,6 +4579,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เข้า"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VÀO"
           }
         },
         "zh-Hans" : {
@@ -4327,6 +4663,12 @@
             "value" : "รบกวนใจน้อยลง"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ít bận tâm hơn"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4401,6 +4743,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "รบกวนใจมากขึ้น"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bận tâm hơn"
           }
         },
         "zh-Hans" : {
@@ -4479,6 +4827,12 @@
             "value" : "ไม่ได้เกิดขึ้น"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không xảy ra"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4555,6 +4909,12 @@
             "value" : "เกิดขึ้น"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đã xảy ra"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4629,6 +4989,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ตอนที่จอดมันอยู่ที่ %lld"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lúc bạn đỗ nó là %lld."
           }
         },
         "zh-Hans" : {
@@ -4709,6 +5075,12 @@
             "value" : "ยิ่งคิดถึงมากขึ้น"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tôi nghĩ về nó nhiều hơn"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4783,6 +5155,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "นี่เป็นแค่เรื่องแรก ในงานวิจัย ผลค่อย ๆ สะสมตลอดหลายสัปดาห์ ลองจอดเพิ่มอีกสองสามเรื่อง แล้วเปรียบเทียบกันในบันทึกการออก"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đây mới chỉ là nỗi lo đầu tiên. Trong các nghiên cứu, hiệu quả tích lũy dần qua vài tuần. Hãy đỗ thêm vài nỗi lo nữa và so sánh trong nhật ký ra bãi."
           }
         },
         "zh-Hans" : {
@@ -4861,6 +5239,12 @@
             "value" : "มันออกจากที่จอดแล้ว ปล่อยให้มันไปเถอะ"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nó đã rời khỏi bãi đỗ. Hãy để nó đi."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4935,6 +5319,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "มันจอดอยู่จนถึงเวลากังวลของพรุ่งนี้ ถ้ามันโผล่มาอีกตอนอาบน้ำ ก็บอกตัวเองว่า มันมีที่จอดแล้ว"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nó được đỗ đến Giờ lo lắng ngày mai. Khi nó lại hiện ra lúc bạn đang tắm, cứ tự nhủ: nó đã có chỗ đỗ rồi."
           }
         },
         "zh-Hans" : {
@@ -5013,6 +5403,12 @@
             "value" : "ถึงเวลากังวลแล้ว ให้เวลากับมัน %lld นาทีอย่างตั้งใจ แล้วตัดสินใจว่าจะทำอย่างไรต่อ"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đến Giờ lo lắng rồi. Hãy dành %lld phút tập trung cho nó, rồi quyết định sẽ làm gì với nó."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5087,6 +5483,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "จอดต่อไป"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiếp tục đỗ"
           }
         },
         "zh-Hans" : {
@@ -5165,6 +5567,12 @@
             "value" : "จอดต่อไปเรื่อย ๆ รูปแบบจะปรากฏหลังออกได้สองสามครั้ง"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cứ đỗ tiếp. Quy luật sẽ lộ ra sau vài lần ra bãi."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5239,6 +5647,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ไว้ทีหลัง"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Để sau"
           }
         },
         "zh-Hans" : {
@@ -5317,6 +5731,12 @@
             "value" : "ปล่อยไป"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buông đi"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5391,6 +5811,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ระดับ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MỨC"
           }
         },
         "zh-Hans" : {
@@ -5469,6 +5895,12 @@
             "value" : "ระดับ %lld จาก 5, %@"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mức %lld/5, %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5543,6 +5975,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ระดับ %lld → %lld"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mức %lld → %lld"
           }
         },
         "zh-Hans" : {
@@ -5623,6 +6061,12 @@
             "value" : "การมองตรง ๆ ที่ความกังวลอาจทำให้มันดูใหญ่ขึ้นในตอนแรก คุณไม่ต้องแก้มันตอนนี้ งานเดียวของมันคือรอถึงเวลากังวล"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nhìn thẳng vào nỗi lo có thể khiến nó có vẻ to hơn lúc đầu. Bạn không cần giải quyết nó ngay. Việc duy nhất của nó là chờ đến Giờ lo lắng."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5697,6 +6141,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ที่จอด"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bãi đỗ"
           }
         },
         "zh-Hans" : {
@@ -5775,6 +6225,12 @@
             "value" : "ดัง"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ồn"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5849,6 +6305,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "วางแผนแล้ว"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đã lập kế hoạch"
           }
         },
         "zh-Hans" : {
@@ -5927,6 +6389,12 @@
             "value" : "วางแผน"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lập kế hoạch"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6001,6 +6469,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "การวางแผนที่เป็นรูปธรรมช่วยไม่ให้งานค้างแทรกเข้ามาในความคิด และการเขียนห้านาทีก่อนนอนช่วยให้หลับเร็วขึ้น"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lập một kế hoạch cụ thể giúp những việc dang dở không còn xen vào suy nghĩ, và viết năm phút trước khi ngủ giúp mọi người ngủ nhanh hơn."
           }
         },
         "zh-Hans" : {
@@ -6079,6 +6553,12 @@
             "value" : "จัดการการสมัครสมาชิก"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quản lý gói đăng ký"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6153,6 +6633,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "วนเวียนไม่หาย"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dai dẳng"
           }
         },
         "zh-Hans" : {
@@ -6231,6 +6717,12 @@
             "value" : "ถัดไป"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiếp"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6305,6 +6797,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เวลากังวลครั้งถัดไป"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giờ lo lắng tiếp theo"
           }
         },
         "zh-Hans" : {
@@ -6383,6 +6881,12 @@
             "value" : "เวลากังวลครั้งถัดไป: %@"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giờ lo lắng tiếp theo: %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6457,6 +6961,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ยังไม่มีการออก"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chưa có lần ra bãi nào"
           }
         },
         "zh-Hans" : {
@@ -6535,6 +7045,12 @@
             "value" : "ไว้ก่อน"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Để sau"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6611,6 +7127,12 @@
             "value" : "ยังไม่พร้อม เอากลับมาในเวลากังวลครั้งถัดไป"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chưa sẵn sàng. Hãy đưa nó trở lại vào Giờ lo lắng tiếp theo."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6685,6 +7207,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "การแจ้งเตือนปิดอยู่"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thông báo đang tắt"
           }
         },
         "zh-Hans" : {
@@ -6765,6 +7293,12 @@
             "value" : "ตอนนี้"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bây giờ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6839,6 +7373,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ตอนนี้จอดแล้ว มันดังแค่ไหน?"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giờ nó đã được đỗ, nó ồn đến đâu?"
           }
         },
         "zh-Hans" : {
@@ -6917,6 +7457,12 @@
             "value" : "ความกังวลจริงหนึ่งเรื่อง ตั้งแต่ห้าทุ่มสี่สิบจนถึงเวลากังวลของวันรุ่งขึ้น"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Một nỗi lo có thật, từ 23:40 đến Giờ lo lắng ngày hôm sau."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6991,6 +7537,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ก้าวเล็ก ๆ ก้าวต่อไป"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Một bước nhỏ tiếp theo"
           }
         },
         "zh-Hans" : {
@@ -7069,6 +7621,12 @@
             "value" : "เปิดการตั้งค่า iOS"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mở Cài đặt iOS"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7143,6 +7701,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ท่วมท้น"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choáng ngợp"
           }
         },
         "zh-Hans" : {
@@ -7227,6 +7791,12 @@
             "value" : "P%lld พร้อมออกจากที่จอดแล้ว"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "P%lld sẵn sàng ra bãi"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7306,6 +7876,12 @@
             "value" : "P%1$lld · บัตรจอดเลขที่ %2$@"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "P%1$lld · Vé số %2$@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7380,6 +7956,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "หน้า %1$lld จาก %2$lld"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trang %1$lld/%2$lld"
           }
         },
         "zh-Hans" : {
@@ -7458,6 +8040,12 @@
             "value" : "จอด"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đỗ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7532,6 +8120,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "จอดความกังวล"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đỗ một nỗi lo"
           }
         },
         "zh-Hans" : {
@@ -7610,6 +8204,12 @@
             "value" : "จอดที่ P%lld"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đỗ tại P%lld"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7684,6 +8284,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "จอดได้ทุกความกังวล ไม่ใช่แค่สามเรื่อง"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đỗ mọi nỗi lo, không chỉ ba."
           }
         },
         "zh-Hans" : {
@@ -7762,6 +8368,12 @@
             "value" : "จอดอีกครั้ง"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đỗ lại"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7836,6 +8448,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "จอดเมื่อ %@"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đỗ %@"
           }
         },
         "zh-Hans" : {
@@ -7914,6 +8532,12 @@
             "value" : "จอดที่ P%lld แล้ว"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đã đỗ tại P%lld"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7988,6 +8612,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "จอดถึง %@"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đỗ đến %@"
           }
         },
         "zh-Hans" : {
@@ -8066,6 +8696,12 @@
             "value" : "ความกังวลที่จอดไว้จะถูกซ่อนจนถึงเวลาออก คุณไม่ต้องแบกมันไว้ตอนนี้"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nỗi lo đã đỗ sẽ được ẩn đến giờ ra bãi. Bạn không phải mang chúng theo lúc này."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8142,6 +8778,12 @@
             "value" : "จอดแล้ว ตอนนี้ไม่ใช่หน้าที่ของคุณ"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đã đỗ. Lúc này không phải việc của bạn."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8216,6 +8858,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "บางส่วน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Một phần"
           }
         },
         "zh-Hans" : {
@@ -8296,6 +8944,12 @@
             "value" : "คนที่ย้ายการกังวลไปไว้ในช่วงเวลาสั้น ๆ ประจำวัน ใช้เวลากังวลน้อยลง และรายงานว่ากังวลและมีปัญหาการนอนน้อยลง"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Những người chuyển việc lo lắng sang một khoảng ngắn mỗi ngày đã dành ít thời gian lo hơn và cho biết họ bớt lo âu cũng như ít gặp vấn đề về giấc ngủ hơn."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8370,6 +9024,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เลือกเวลากังวลของคุณ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chọn Giờ lo lắng của bạn"
           }
         },
         "zh-Hans" : {
@@ -8448,6 +9108,12 @@
             "value" : "การเลื่อนได้ผลกับคุณแล้ว ลองจอดเรื่องต่อไปด้วยสิ"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trì hoãn đang có tác dụng với bạn. Hãy thử đỗ cả nỗi lo tiếp theo nhé."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8522,6 +9188,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "การเลื่อนได้ผลดีที่สุดเมื่อคุณรอ ความกังวลส่วนใหญ่ดูเล็กลงเมื่อถึงเวลากังวล"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trì hoãn hiệu quả nhất khi bạn chờ đợi. Đến Giờ lo lắng, hầu hết nỗi lo đều thấy nhỏ hơn."
           }
         },
         "zh-Hans" : {
@@ -8600,6 +9272,12 @@
             "value" : "นโยบายความเป็นส่วนตัว"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chính sách quyền riêng tư"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8674,6 +9352,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pro ใช้งานอยู่"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro đang bật"
           }
         },
         "zh-Hans" : {
@@ -8752,6 +9436,12 @@
             "value" : "ช่องจอด Pro"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chỗ Pro"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8826,6 +9516,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "พร้อมออกจากที่จอด"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sẵn sàng ra bãi"
           }
         },
         "zh-Hans" : {
@@ -8904,6 +9600,12 @@
             "value" : "การเตือน"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nhắc nhở"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8978,6 +9680,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "งานวิจัยอธิบายผลโดยเฉลี่ย และผลลัพธ์ของแต่ละคนแตกต่างกัน ที่จอดความกังวลเป็นเครื่องมือดูแลตนเอง ไม่ใช่อุปกรณ์ทางการแพทย์หรือการรักษา"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nghiên cứu mô tả hiệu quả trung bình, kết quả mỗi người một khác. Bãi đỗ lo âu là công cụ tự chăm sóc, không phải thiết bị y tế hay phương pháp điều trị."
           }
         },
         "zh-Hans" : {
@@ -9056,6 +9764,12 @@
             "value" : "แหล่งอ้างอิงงานวิจัย"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nguồn nghiên cứu"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9130,6 +9844,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "กู้คืนการซื้อ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khôi phục giao dịch mua"
           }
         },
         "zh-Hans" : {
@@ -9208,6 +9928,12 @@
             "value" : "ผลลัพธ์"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kết quả"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9282,6 +10008,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เอาออกก่อนเวลา"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lấy ra sớm"
           }
         },
         "zh-Hans" : {
@@ -9360,6 +10092,12 @@
             "value" : "เอาความกังวลนี้ออกก่อนเวลาไหม?"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lấy nỗi lo này ra sớm?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9434,6 +10172,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ดูว่าสิ่งที่คุณกลัวเกิดขึ้นจริงมากแค่ไหน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xem bao nhiêu nỗi sợ của bạn thực sự đã xảy ra."
           }
         },
         "zh-Hans" : {
@@ -9512,6 +10256,12 @@
             "value" : "ดูว่าความกังวลของคุณเกิดขึ้นจริงมากแค่ไหน"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xem bao nhiêu nỗi lo của bạn thực sự đã xảy ra"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9586,6 +10336,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ดูตัวอย่างการใช้งาน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xem thử cách dùng"
           }
         },
         "zh-Hans" : {
@@ -9664,6 +10420,12 @@
             "value" : "ส่งไปที่ด่านทางออกตอนนี้"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gửi đến cổng ra ngay bây giờ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9738,6 +10500,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "การตั้งค่า"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cài đặt"
           }
         },
         "zh-Hans" : {
@@ -9816,6 +10584,12 @@
             "value" : "ข้ามไปก่อน"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bỏ qua lúc này"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9890,6 +10664,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ช่องจอด %lld ว่าง จอดความกังวลที่นี่ได้"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chỗ %lld. Trống. Hãy đỗ một nỗi lo ở đây."
           }
         },
         "zh-Hans" : {
@@ -9968,6 +10748,12 @@
             "value" : "ช่องจอด %lld ช่องจอด Pro ล็อกอยู่"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chỗ %lld. Chỗ Pro, đang khóa."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10042,6 +10828,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ช่องจอด %1$lld จอดความกังวลไว้ถึง %2$@"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chỗ %1$lld. Nỗi lo được đỗ đến %2$@."
           }
         },
         "zh-Hans" : {
@@ -10120,6 +10912,12 @@
             "value" : "ช่องจอด %lld ความกังวลพร้อมออกจากที่จอด"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chỗ %lld. Nỗi lo sẵn sàng ra bãi."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10194,6 +10992,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เริ่ม"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bắt đầu"
           }
         },
         "zh-Hans" : {
@@ -10272,6 +11076,12 @@
             "value" : "ปัดตามเส้นประเพื่อจอด"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vuốt theo đường chấm để đỗ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10346,6 +11156,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ปัดตามเส้นประ เมื่อบัตรฉีกขาด ความกังวลนี้จะจอดอยู่จนถึง %@"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vuốt theo đường chấm. Khi vé được xé ra, nỗi lo này sẽ được đỗ đến %@."
           }
         },
         "zh-Hans" : {
@@ -10424,6 +11240,12 @@
             "value" : "หายใจเข้าออกช้า ๆ หนึ่งครั้ง ตอนนี้ยังไม่มีอะไรต้องทำกับมัน"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hãy hít một hơi thật chậm. Lúc này bạn chưa cần làm gì với nó."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10498,6 +11320,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ฉีกบัตรเพื่อจอด"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xé vé để đỗ"
           }
         },
         "zh-Hans" : {
@@ -10576,6 +11404,12 @@
             "value" : "ฉีกบัตรของคุณ"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xé vé của bạn"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10650,6 +11484,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ข้อกำหนดการใช้งาน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Điều khoản sử dụng"
           }
         },
         "zh-Hans" : {
@@ -10728,6 +11568,12 @@
             "value" : "เป็นเรื่องปกติมาก ผลมักสะสมเป็นวัน ไม่ใช่เป็นนาที เมื่อมันโผล่กลับมา ให้บอกว่า “เธอมีที่จอดแล้วนะ” แล้วดูว่ารู้สึกอย่างไรตอนเวลากังวล"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Điều đó hoàn toàn bình thường. Hiệu quả thường tích lũy qua nhiều ngày, không phải vài phút. Khi nó hiện lại, hãy nói “bạn đã có chỗ đỗ rồi” và xem cảm giác của bạn vào Giờ lo lắng."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10802,6 +11648,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "นี่คือผลแรกของการเลื่อน เมื่อความกังวลถูกเขียนลงไปและมีที่ของมัน ใจก็ไม่ต้องกำมันไว้ แล้วเจอกันตอนเวลากังวล"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đó là tác dụng đầu tiên của việc trì hoãn. Khi nỗi lo đã được viết ra và có chỗ của nó, tâm trí không cần nắm chặt nó nữa. Hẹn gặp vào Giờ lo lắng."
           }
         },
         "zh-Hans" : {
@@ -10880,6 +11732,12 @@
             "value" : "เวลากังวลหลังจากนั้น"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giờ lo lắng sau đó"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10954,6 +11812,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "บัตรจอดเลขที่ %@"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vé số %@"
           }
         },
         "zh-Hans" : {
@@ -11032,6 +11896,12 @@
             "value" : "วันนี้ %@"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hôm nay lúc %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11106,6 +11976,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "พรุ่งนี้ %@"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ngày mai lúc %@"
           }
         },
         "zh-Hans" : {
@@ -11184,6 +12060,12 @@
             "value" : "ยังเร็วเกินไปที่จะบอก"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Còn quá sớm để nói"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11258,6 +12140,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ลองเลย"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thử ngay"
           }
         },
         "zh-Hans" : {
@@ -11336,6 +12224,12 @@
             "value" : "เปลี่ยนมันเป็นก้าวเล็ก ๆ ก้าวต่อไป"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Biến nó thành một bước nhỏ tiếp theo."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11410,6 +12304,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ช่องจอดไม่จำกัด"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chỗ đỗ không giới hạn"
           }
         },
         "zh-Hans" : {
@@ -11488,6 +12388,12 @@
             "value" : "ช่องจอดไม่จำกัด กำหนดเวลาออกเอง ข้อมูลเชิงลึก"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chỗ đỗ không giới hạn, giờ ra bãi tùy chỉnh, thông tin chi tiết"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11562,6 +12468,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ปลดล็อกข้อมูลเชิงลึกด้วย Pro"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mở khóa thông tin chi tiết với Pro"
           }
         },
         "zh-Hans" : {
@@ -11640,6 +12552,12 @@
             "value" : "เราจะบอกเมื่อความกังวลพร้อมออกจากที่จอด"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chúng tôi sẽ báo khi một nỗi lo sẵn sàng ra bãi."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11714,6 +12632,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "อยากทำอย่างไรกับมัน?"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bạn muốn làm gì với nó?"
           }
         },
         "zh-Hans" : {
@@ -11792,6 +12716,12 @@
             "value" : "ถ้าพรุ่งนี้ตอนนำเสนอฉันสมองว่างเปล่า แล้วทุกคนคิดว่าฉันไม่เก่งพอจะทำอย่างไร?"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nếu ngày mai thuyết trình tôi bị đứng hình và mọi người nghĩ tôi không đủ giỏi thì sao?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11866,6 +12796,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "สิ่งที่คุณกลัวไม่ได้เกิดขึ้น การออกจากที่จอดแบบนี้ทุกครั้งจะถูกบันทึกในบันทึกการออก เพื่อให้คุณเห็นว่าความกังวลของคุณคิดผิดบ่อยแค่ไหน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Điều bạn sợ đã không xảy ra. Mỗi lần ra bãi như thế này đều được ghi vào nhật ký ra bãi, để bạn thấy nỗi lo của mình sai thường xuyên đến mức nào."
           }
         },
         "zh-Hans" : {
@@ -11944,6 +12880,12 @@
             "value" : "อะไรวนอยู่ในหัวคุณ?"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Điều gì đang quanh quẩn trong đầu bạn?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12018,6 +12960,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เมื่อคนที่กังวลเรื้อรังบันทึกความกังวลของตัวเอง %lld%% ของมันไม่ได้เกิดขึ้นจริง"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khi những người hay lo âu kéo dài ghi lại nỗi lo của họ, %lld%% trong số đó không xảy ra."
           }
         },
         "zh-Hans" : {
@@ -12096,6 +13044,12 @@
             "value" : "ให้กลับมาตอนไหน?"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khi nào nên đưa nó trở lại?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12170,6 +13124,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ระหว่างที่จอดอยู่ ความกังวลนี้รู้สึกอย่างไร?"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trong lúc được đỗ, nỗi lo này cho bạn cảm giác thế nào?"
           }
         },
         "zh-Hans" : {
@@ -12248,6 +13208,12 @@
             "value" : "ทำไมถึงได้ผล"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vì sao hiệu quả"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12324,6 +13290,12 @@
             "value" : "ถ้าไม่มีการเตือน ความกังวลที่จอดไว้ก็จะรออยู่เงียบ ๆ ในที่จอด"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nếu không có nhắc nhở, nỗi lo đã đỗ chỉ lặng lẽ chờ trong bãi đỗ."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12398,6 +13370,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ความกังวลไม่จำเป็นต้องตามคุณไปทั้งคืน\nจอดไว้ที่นี่ เราจะเก็บไว้ให้จนถึงเวลากังวลของคุณ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nỗi lo không cần đi cùng bạn suốt đêm.\nHãy đỗ chúng ở đây. Chúng tôi sẽ giữ đến Giờ lo lắng của bạn."
           }
         },
         "zh-Hans" : {
@@ -12478,6 +13456,12 @@
             "value" : "ความกังวลโผล่มาได้ทุกที่ ทั้งบนเตียง ตอนอาบน้ำ ระหว่างทางกลับบ้าน เมื่อการกังวลมีเวลาเป็นของตัวเอง สมองจะเรียนรู้ว่าเวลาที่เหลือของวันไม่ใช่เวลาของมัน นักจิตวิทยาเรียกสิ่งนี้ว่าการควบคุมสิ่งเร้า"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nỗi lo xuất hiện ở bất cứ đâu: trên giường, trong lúc tắm, trên đường về nhà. Khi việc lo lắng có khung giờ riêng, não học được rằng phần còn lại của ngày không dành cho nó. Các nhà tâm lý học gọi đây là kiểm soát kích thích."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12552,6 +13536,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ความกังวลที่คุณทบทวนที่ด่านทางออกจะมารวมกันที่นี่ เมื่อเวลาผ่านไป คุณจะเห็นว่ามีกี่เรื่องที่เกิดขึ้นจริง"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Những nỗi lo bạn xem lại ở cổng ra sẽ được gom về đây. Theo thời gian, bạn sẽ thấy có bao nhiêu nỗi lo thực sự đã xảy ra."
           }
         },
         "zh-Hans" : {
@@ -12630,6 +13620,12 @@
             "value" : "กังวลในเวลาที่กำหนดเท่านั้น"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chỉ lo vào một giờ cố định"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12704,6 +13700,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ที่จอดความกังวล"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "BÃI ĐỖ LO ÂU"
           }
         },
         "zh-Hans" : {
@@ -12782,6 +13784,12 @@
             "value" : "ที่จอดความกังวล"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bãi đỗ lo âu"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12858,6 +13866,12 @@
             "value" : "ที่จอดความกังวลเป็นเครื่องมือดูแลตนเอง ไม่ใช่อุปกรณ์ทางการแพทย์และไม่ใช่ตัวแทนของการดูแลโดยผู้เชี่ยวชาญ หากคุณกำลังลำบาก โปรดติดต่อผู้เชี่ยวชาญด้านสุขภาพจิตหรือบริการฉุกเฉินในพื้นที่ของคุณ"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bãi đỗ lo âu là công cụ tự chăm sóc, không phải thiết bị y tế hay sự thay thế cho chăm sóc chuyên môn. Nếu bạn đang gặp khó khăn, hãy liên hệ chuyên gia sức khỏe tâm thần hoặc dịch vụ khẩn cấp tại nơi bạn sống."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12932,6 +13946,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ที่จอดความกังวลสร้างขึ้นจากการเลื่อนความกังวล เทคนิคการควบคุมสิ่งเร้าที่ใช้ในการบำบัดทางความคิดและพฤติกรรม (CBT) คือแทนที่จะสู้กับความกังวล คุณกำหนดเวลาให้มัน แล้วกลับมาจัดการตอนนั้น"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bãi đỗ lo âu dựa trên kỹ thuật trì hoãn lo lắng, một phương pháp kiểm soát kích thích trong liệu pháp nhận thức hành vi (CBT): thay vì chống lại nỗi lo, bạn hẹn cho nó một giờ cố định và quay lại với nó vào lúc đó."
           }
         },
         "zh-Hans" : {
@@ -13012,6 +14032,12 @@
             "value" : "ที่จอดความกังวลสร้างขึ้นจากการเลื่อนความกังวล เทคนิคจากการบำบัดทางความคิดและพฤติกรรม (CBT) ที่มีงานวิจัยมานานหลายสิบปี"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bãi đỗ lo âu dựa trên kỹ thuật trì hoãn lo lắng, một phương pháp của liệu pháp nhận thức hành vi (CBT) đã được nghiên cứu hàng chục năm."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13086,6 +14112,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ที่จอดความกังวล Pro"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bãi đỗ lo âu Pro"
           }
         },
         "zh-Hans" : {
@@ -13164,6 +14196,12 @@
             "value" : "ความกังวลมักทำนายอนาคตแย่กว่าที่เป็นจริง ที่ด่านทางออกคุณบันทึกว่ามันเกิดขึ้นจริงไหม เมื่อเวลาผ่านไป บันทึกการออกจะแสดงให้เห็นว่าความกังวลของคุณคิดผิดบ่อยแค่ไหน"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nỗi lo thường dự đoán tương lai tệ hơn thực tế. Tại cổng ra, bạn ghi lại điều đó có thật sự xảy ra không, nên theo thời gian nhật ký ra bãi sẽ cho thấy nỗi lo của bạn sai thường xuyên đến mức nào."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13240,6 +14278,12 @@
             "value" : "เวลากังวล"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giờ lo lắng"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13314,6 +14358,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เขียน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Viết"
           }
         },
         "zh-Hans" : {
@@ -13394,6 +14444,12 @@
             "value" : "เขียนความกังวลหนึ่งเรื่องที่อยู่ในใจตอนนี้ มันจะถูกจอดไว้จริง และกลับมา%@"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hãy viết một nỗi lo đang có trong đầu bạn lúc này. Nó sẽ thật sự được đỗ và quay lại %@."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13468,6 +14524,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เขียนลงไป เพื่อวางมันลง"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Viết ra để buông xuống"
           }
         },
         "zh-Hans" : {
@@ -13546,6 +14608,12 @@
             "value" : "เขียนตามที่ได้ยินในหัวเลย"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hãy viết đúng như nó vang lên trong đầu bạn."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13622,6 +14690,12 @@
             "value" : "คุณไม่ต้องแบกเรื่องนี้ไว้ตอนนี้ เราจะนำกลับมาให้%@"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bạn không cần mang điều này theo lúc này. Chúng tôi sẽ đưa nó trở lại %@."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13696,6 +14770,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "คุณเลื่อนความกังวลไว้ แล้วกลับมาเผชิญมันโดยตั้งใจ นี่คือเทคนิคทั้งหมดแล้ว"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bạn đã trì hoãn một nỗi lo và chủ động quay lại với nó. Đó là toàn bộ kỹ thuật."
           }
         },
         "zh-Hans" : {
@@ -13776,6 +14856,12 @@
             "value" : "คำตอบของคุณอยู่บน iPhone เครื่องนี้เท่านั้น ย้อนดูได้ในบันทึกการออก"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Câu trả lời của bạn chỉ nằm trên iPhone này. Bạn có thể xem lại trong nhật ký ra bãi."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13850,6 +14936,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เวลากังวลประจำวันของคุณคือ %@ เปลี่ยนได้ในการตั้งค่า"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giờ lo lắng hằng ngày của bạn là %@. Bạn có thể đổi trong Cài đặt."
           }
         },
         "zh-Hans" : {
@@ -13928,6 +15020,12 @@
             "value" : "ประสบการณ์ของคุณ"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trải nghiệm của bạn"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14004,6 +15102,12 @@
             "value" : "การออกครั้งแรกของคุณ"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lần ra bãi đầu tiên của bạn"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14078,6 +15182,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ความกังวลของคุณ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nỗi lo của bạn"
           }
         },
         "zh-Hans" : {

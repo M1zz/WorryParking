@@ -71,6 +71,12 @@
             "value" : "ที่จอดความกังวล"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bãi đỗ lo âu"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -153,6 +159,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ที่จอดความกังวล"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bãi đỗ lo âu"
           }
         },
         "zh-Hans" : {

@@ -922,3 +922,74 @@ https://m1zz.github.io/WorryParking/th/privacy.html
 ### 마케팅 URL
 
 https://m1zz.github.io/WorryParking/th/index.html
+
+## vi
+
+### 이름
+
+Bãi đỗ lo âu
+
+### 부제
+
+Gác nỗi lo trước khi ngủ
+
+### 키워드
+
+mất ngủ,giấc ngủ,căng thẳng,CBT,nhật ký,chánh niệm,thiền,thư giãn,bình tĩnh,tâm lý,nghĩ nhiều
+
+### 프로모션 텍스트
+
+Viết nỗi lo cứ quay vòng lên vé và đỗ nó lại. Đến Giờ lo lắng, chỉ cần dành 15 phút đối diện, phần còn lại của ngày sẽ nhẹ hơn. Dựa trên CBT.
+
+### 설명
+
+Đêm nào cũng có cùng một nỗi lo quanh quẩn trong đầu?
+Bãi đỗ lo âu cho nó một chỗ đỗ. Viết ra, đỗ lại, và đến Giờ lo lắng bạn đã chọn, chúng tôi sẽ đưa nó trở lại. Cho đến lúc đó, bạn không cần mang nó theo.
+
+CÁCH DÙNG
+1. Viết: viết nỗi lo đúng như nó vang lên và chọn từ 1 đến 5 xem nó ồn đến đâu.
+2. Đỗ: nỗi lo đã đỗ sẽ bị làm mờ. Nếu nó lại chạy vào đầu bạn, hãy nói với nó: bạn đã có chỗ đỗ rồi.
+3. Cổng ra: khi Giờ lo lắng đến, dành 15 phút tập trung cho nó. Xem điều bạn lo có thật sự xảy ra không, rồi buông nó đi, lập một kế hoạch nhỏ hoặc đỗ nó lại.
+
+VÌ SAO HIỆU QUẢ
+Bãi đỗ lo âu dựa trên kỹ thuật trì hoãn lo lắng, một phương pháp của liệu pháp nhận thức hành vi (CBT) đã được nghiên cứu hàng chục năm.
+
+• Chỉ lo vào một giờ cố định
+Nỗi lo xuất hiện ở bất cứ đâu: trên giường, trong lúc tắm, trên đường về nhà. Khi việc lo lắng có khung giờ riêng, não học được rằng phần còn lại của ngày không dành cho nó. Những người chuyển việc lo lắng sang một khoảng ngắn mỗi ngày đã dành ít thời gian lo hơn và cho biết họ bớt lo âu cũng như ít gặp vấn đề về giấc ngủ hơn. (Borkovec và cộng sự, 1983; McGowan & Behar, 2013)
+
+• Viết ra để buông xuống
+Nỗi lo còn dang dở cứ lặp lại vì tâm trí sợ quên nó. Lập một kế hoạch cụ thể giúp những việc dang dở không còn xen vào suy nghĩ, và viết năm phút trước khi ngủ giúp mọi người ngủ nhanh hơn. (Masicampo & Baumeister, 2011; Scullin và cộng sự, 2018)
+
+• Xem điều gì đã thực sự xảy ra
+Nỗi lo thường dự đoán tương lai tệ hơn thực tế. Khi những người hay lo âu kéo dài ghi lại nỗi lo của họ, 91% trong số đó không xảy ra. (LaFreniere & Newman, 2020)
+
+THỬ NGAY
+Trong phần làm quen, bạn đỗ một nỗi lo có thật và xem mức của nó thay đổi thế nào trước và sau khi đỗ. Cảm giác của bạn được lưu trong “Trải nghiệm của bạn” để xem lại sau.
+
+NHẬT KÝ RA BÃI
+Khi những nỗi lo đã xem lại tích lũy dần, bạn sẽ thấy tỷ lệ nỗi sợ thực sự đã xảy ra và mức giảm trung bình của chúng.
+
+RIÊNG TƯ TỪ THIẾT KẾ
+• Không tài khoản, không máy chủ, không quảng cáo, không công cụ phân tích. Mọi thứ bạn viết chỉ nằm trên iPhone của bạn.
+• Thông báo chỉ hiện số chỗ đỗ, như “P3 sẵn sàng ra bãi”. Nội dung nỗi lo của bạn không bao giờ xuất hiện.
+
+TRONG ỨNG DỤNG CÓ GÌ
+• Chỗ đỗ không giới hạn, giờ ra bãi tùy chỉnh, nhắc Giờ lo lắng mỗi ngày
+• Cổng ra, nhật ký ra bãi và thông tin chi tiết về lần ra bãi
+
+Điều khoản sử dụng: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Chính sách quyền riêng tư: https://m1zz.github.io/WorryParking/vi/privacy.html
+
+Bãi đỗ lo âu là công cụ tự chăm sóc. Đây không phải thiết bị y tế và không thay thế chẩn đoán hay điều trị chuyên môn. Nếu bạn đang gặp khó khăn, hãy liên hệ chuyên gia sức khỏe tâm thần hoặc dịch vụ khẩn cấp tại nơi bạn sống.
+
+### 지원 URL
+
+https://m1zz.github.io/WorryParking/vi/support.html
+
+### 개인정보처리방침 URL
+
+https://m1zz.github.io/WorryParking/vi/privacy.html
+
+### 마케팅 URL
+
+https://m1zz.github.io/WorryParking/vi/index.html
