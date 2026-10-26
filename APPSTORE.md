@@ -567,3 +567,74 @@ https://m1zz.github.io/WorryParking/es/privacy.html
 ### 마케팅 URL
 
 https://m1zz.github.io/WorryParking/es/index.html
+
+## de
+
+### 이름
+
+Sorgen-Parkplatz
+
+### 부제
+
+Grübeln auf später verschieben
+
+### 키워드
+
+Angst,Schlaf,Schlafstörung,KVT,CBT,Stress,Tagebuch,Achtsamkeit,Entspannung,Selbsthilfe,Ruhe
+
+### 프로모션 텍스트
+
+Schreib die kreisende Sorge auf und parke sie. Zur Sorgenzeit schenkst du ihr 15 Minuten, der Rest des Tages wird leichter. Basiert auf dem Sorgenaufschub der KVT.
+
+### 설명
+
+Kreist jeden Abend dieselbe Sorge in deinem Kopf?
+Sorgen-Parkplatz gibt ihr einen Stellplatz. Schreib sie auf, parke sie, und zu deiner Sorgenzeit bringen wir sie zurück. Bis dahin musst du sie nicht mit dir herumtragen.
+
+SO FUNKTIONIERT ES
+1. Aufschreiben: Bring die Sorge genau so in Worte, wie sie klingt, und gib auf einer Skala von 1 bis 5 an, wie laut sie ist.
+2. Parken: Geparkte Sorgen bleiben unscharf. Wenn eine dir wieder in den Kopf fährt, sag ihr: Du hast schon einen Platz.
+3. Ausfahrtschranke: Wenn die Sorgenzeit da ist, schenk ihr 15 Minuten volle Aufmerksamkeit. Prüfe, ob es wirklich eingetreten ist, und lass sie dann los, mach einen kleinen Plan oder parke sie erneut.
+
+WARUM ES WIRKT
+Sorgen-Parkplatz basiert auf dem Sorgenaufschub, einer Technik der kognitiven Verhaltenstherapie (KVT), die seit Jahrzehnten erforscht wird.
+
+• Sorgen zu einer festen Zeit
+Sorgen tauchen überall auf: im Bett, unter der Dusche, auf dem Heimweg. Wenn das Sorgenmachen eine eigene Zeit bekommt, lernt dein Gehirn, dass der Rest des Tages nicht dafür da ist. Menschen, die ihr Grübeln auf eine kurze tägliche Sorgenzeit verlegten, sorgten sich weniger lange und berichteten von weniger Angst und weniger Schlafproblemen. (Borkovec et al., 1983; McGowan & Behar, 2013)
+
+• Aufschreiben, um loszulassen
+Eine unerledigte Sorge läuft immer wieder ab, weil dein Kopf Angst hat, sie zu vergessen. Ein konkreter Plan hielt unerledigte Aufgaben aus den Gedanken heraus, und fünf Minuten Schreiben vor dem Schlafen halfen Menschen, schneller einzuschlafen. (Masicampo & Baumeister, 2011; Scullin et al., 2018)
+
+• Prüfen, was wirklich passiert ist
+Sorgen sagen die Zukunft schlimmer voraus, als sie meist wird. Als Menschen mit chronischer Sorgenneigung ihre Sorgen festhielten, trafen 91 % davon nicht ein. (LaFreniere & Newman, 2020)
+
+GLEICH AUSPROBIEREN
+Im Einstieg parkst du eine echte Sorge und siehst, wie sich ihre Stärke vor und nach dem Parken verändert. Wie es sich angefühlt hat, wird unter „Deine Erfahrung“ gespeichert, damit du später zurückblicken kannst.
+
+AUSFAHRTSJOURNAL
+Je mehr geprüfte Sorgen sich ansammeln, desto klarer siehst du, welcher Anteil deiner Befürchtungen wirklich eingetreten ist und wie stark ihre Stärke im Schnitt gesunken ist.
+
+PRIVAT ENTWORFEN
+• Kein Konto, keine Server, keine Werbung, keine Analyse. Alles, was du schreibst, bleibt auf deinem iPhone.
+• Mitteilungen zeigen nur die Platznummer, etwa „P3 ist abholbereit“. Der Text deiner Sorge ist nie enthalten.
+
+DAS ALLES IST DABEI
+• Unbegrenzte Stellplätze, eigene Ausfahrtszeiten, tägliche Erinnerungen zur Sorgenzeit
+• Ausfahrtschranke, Ausfahrtsjournal und Ausfahrt-Einblicke
+
+Nutzungsbedingungen: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Datenschutzerklärung: https://m1zz.github.io/WorryParking/de/privacy.html
+
+Sorgen-Parkplatz ist ein Selbsthilfe-Werkzeug. Es ist kein Medizinprodukt und ersetzt keine professionelle Diagnose oder Behandlung. Wenn es dir schlecht geht, wende dich an eine Fachperson für psychische Gesundheit oder den örtlichen Notruf.
+
+### 지원 URL
+
+https://m1zz.github.io/WorryParking/de/support.html
+
+### 개인정보처리방침 URL
+
+https://m1zz.github.io/WorryParking/de/privacy.html
+
+### 마케팅 URL
+
+https://m1zz.github.io/WorryParking/de/index.html

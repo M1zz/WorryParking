@@ -57,3 +57,10 @@ Todas las funciones ya son gratis
 Aparca cuantas preocupaciones quieras
 Horas de salida e información, gratis
 Ya disponible en más idiomas
+
+### App Store (Deutsch)
+
+Jetzt sind alle Funktionen kostenlos
+Parke so viele Sorgen, wie du willst
+Ausfahrtszeiten und Einblicke gratis
+Jetzt in mehr Sprachen verfügbar
