@@ -12,6 +12,12 @@
             "value" : "%lld of %lld spots used"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$lld/%2$lld 区画を使用中"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -40,6 +46,12 @@
             "value" : "%lld parked"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld 件を駐車中"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -66,6 +78,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld%% of the fears you checked didn't come true."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "確認した心配のうち、%lld%% は実際には起こりませんでした。"
           }
         },
         "ko" : {
@@ -99,6 +117,12 @@
             "value" : "11:40 PM and your brain won't stop replaying tomorrow. Write the worry exactly as it sounds, and rate how loud it is."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "夜の 11:40、明日のことが頭の中で再生され続けています。頭に浮かぶままに書いて、どれくらい強く響くか選びましょう。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -125,6 +149,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "6:00 PM, the presentation is over. Did it happen? Not really. The worry dropped from 4 to 1, so you let it go, and it's added to your Exit Log."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "午後 6:00、発表は終わりました。心配したことは起こった？ いいえ。強さは 4 から 1 に下がったので、手放して出庫ログに残しました。"
           }
         },
         "ko" : {
@@ -155,6 +185,12 @@
             "value" : "A bigger car park for a busier mind."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "考えごとが多い日は、広い駐車場を。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -181,6 +217,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "A daily 15-minute window, ideally a few hours before bed. We'll tap you on the shoulder when a worry is ready for pickup."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "毎日 15 分、できれば寝る数時間前に。心配が出庫できるときにそっとお知らせします。"
           }
         },
         "ko" : {
@@ -211,6 +253,12 @@
             "value" : "A little lighter"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "少し軽くなった"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -237,6 +285,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "A whisper"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ささやき程度"
           }
         },
         "ko" : {
@@ -267,6 +321,12 @@
             "value" : "About"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このアプリについて"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -293,6 +353,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "About the same"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ほぼ同じ"
           }
         },
         "ko" : {
@@ -323,6 +389,12 @@
             "value" : "After parking it, how do you feel?"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "駐車してみて、気分はどうですか？"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -349,6 +421,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Allow pickup reminders"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "出庫のお知らせを許可"
           }
         },
         "ko" : {
@@ -379,6 +457,12 @@
             "value" : "Allow reminders & continue"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "通知を許可して続ける"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -405,6 +489,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "An unfinished worry keeps replaying because your mind is afraid of forgetting it. Writing it down, with a set time to come back to it, tells your brain it's taken care of for now."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "終わっていない心配は、忘れてはいけないという緊張から何度も再生されます。書き出して、戻ってくる時間を決めておくと、脳は「今は任せて大丈夫」と受け取ります。"
           }
         },
         "ko" : {
@@ -435,6 +525,12 @@
             "value" : "Anything else? (optional)"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ほかに伝えたいことは？（任意）"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -461,6 +557,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Avg. level drop"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "強さの平均低下"
           }
         },
         "ko" : {
@@ -491,6 +593,12 @@
             "value" : "Before"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最初"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -517,6 +625,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bring a worry back exactly when you can handle it."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "向き合えるときに、ちょうどその時間に心配を取り出しましょう。"
           }
         },
         "ko" : {
@@ -547,6 +661,12 @@
             "value" : "Cancel"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キャンセル"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -573,6 +693,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Check what actually happened"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "実際に何が起きたか確かめる"
           }
         },
         "ko" : {
@@ -603,6 +729,12 @@
             "value" : "Choose a time a few hours before bed. New worries are parked until then. Already-parked worries keep their exit time."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "寝る数時間前の時間を選びましょう。新しい心配はその時間まで駐車されます。すでに駐車中の心配の出庫時間は変わりません。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -629,6 +761,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Close"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "閉じる"
           }
         },
         "ko" : {
@@ -659,6 +797,12 @@
             "value" : "Continue"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "続ける"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -685,6 +829,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Count"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "件数"
           }
         },
         "ko" : {
@@ -715,6 +865,12 @@
             "value" : "Custom exit times"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "出庫時間を自由に設定"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -741,6 +897,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Custom time"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "時間を指定"
           }
         },
         "ko" : {
@@ -771,6 +933,12 @@
             "value" : "Did what you feared actually happen?"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心配していたことは実際に起きましたか？"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -797,6 +965,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Didn't happen"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "起きなかった"
           }
         },
         "ko" : {
@@ -827,6 +1001,12 @@
             "value" : "Done"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "完了"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -853,6 +1033,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Drive out"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "出庫する"
           }
         },
         "ko" : {
@@ -883,6 +1069,12 @@
             "value" : "Edit my worry"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心配を書き直す"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -909,6 +1101,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Empty"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "空き"
           }
         },
         "ko" : {
@@ -939,6 +1137,12 @@
             "value" : "Everything you write stays on this device. Notifications never include your worry text."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "書いた内容はすべてこのデバイスだけに保存されます。通知に心配の内容が表示されることはありません。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -965,6 +1169,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "EXIT"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "出庫"
           }
         },
         "ko" : {
@@ -995,6 +1205,12 @@
             "value" : "Exit"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "出庫"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1021,6 +1237,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Exit gate"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "出庫ゲート"
           }
         },
         "ko" : {
@@ -1051,6 +1273,12 @@
             "value" : "Exit Gate · P%lld"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "出庫ゲート · P%lld"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1077,6 +1305,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Exit Gate · P1"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "出庫ゲート · P1"
           }
         },
         "ko" : {
@@ -1107,6 +1341,12 @@
             "value" : "Exit insights"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "出庫インサイト"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1133,6 +1373,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Exit Log"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "出庫ログ"
           }
         },
         "ko" : {
@@ -1163,6 +1409,12 @@
             "value" : "Exit time"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "出庫時間"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1189,6 +1441,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Exited"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "出庫済み"
           }
         },
         "ko" : {
@@ -1219,6 +1477,12 @@
             "value" : "Exits in %@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@後に出庫"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1245,6 +1509,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "First exit"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最初の出庫"
           }
         },
         "ko" : {
@@ -1275,6 +1545,12 @@
             "value" : "First time parking"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "初めて駐車したとき"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1301,6 +1577,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Give it your full attention. It's the only thing to do right now."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "全力で向き合いましょう。今やることはそれだけです。"
           }
         },
         "ko" : {
@@ -1331,6 +1613,12 @@
             "value" : "Gone"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "消えた"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1357,6 +1645,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Heavy"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重い"
           }
         },
         "ko" : {
@@ -1387,6 +1681,12 @@
             "value" : "History"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "履歴"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1413,6 +1713,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "How did that feel?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "やってみてどうでしたか？"
           }
         },
         "ko" : {
@@ -1443,6 +1749,12 @@
             "value" : "How loud is it now?"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今はどれくらい強く響きますか？"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1471,6 +1783,12 @@
             "value" : "How loud is it right now?"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今はどれくらい強く響きますか？"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1497,6 +1815,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "If it drives back into your head, notice it and tell yourself: it has a spot. You'll deal with it at Worry Time."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "また頭に戻ってきたら、気づいてこう伝えましょう。「もう場所はあるよ」。心配時間に向き合えば大丈夫です。"
           }
         },
         "ko" : {
@@ -1529,6 +1853,12 @@
             "value" : "If it kept coming back, try a short \"you already have a spot\" and return to what you were doing. If worry is getting in the way of your days, talking to a professional can really help."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "何度も戻ってくるときは、「もう場所はあるよ」と短く唱えて、していたことに戻りましょう。心配が毎日の妨げになっているなら、専門家に相談するのも大きな助けになります。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1555,6 +1885,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "IN"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "入庫"
           }
         },
         "ko" : {
@@ -1585,6 +1921,12 @@
             "value" : "It bothered me less"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "気にならなくなった"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1611,6 +1953,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "It bothered me more"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "前より気になった"
           }
         },
         "ko" : {
@@ -1641,6 +1989,12 @@
             "value" : "It didn't happen"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "起きなかった"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1669,6 +2023,12 @@
             "value" : "It happened"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "起きた"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1695,6 +2055,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "It was %lld when you parked it."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "駐車したときは %lld でした。"
           }
         },
         "ko" : {
@@ -1727,6 +2093,12 @@
             "value" : "It's on my mind more"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "かえって気になる"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1753,6 +2125,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "It's only the first one. In studies, the effect built up over a few weeks. Park a few more and compare them in your Exit Log."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "まだ最初の 1 件です。研究では、効果は数週間かけて積み重なっていきました。あと何件か駐車して、出庫ログで比べてみましょう。"
           }
         },
         "ko" : {
@@ -1783,6 +2161,12 @@
             "value" : "It's out of the car park. Drive away."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "駐車場から出ました。見送りましょう。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1809,6 +2193,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "It's parked until tomorrow's Worry Time. When it pops up again in the shower, just tell yourself: it already has a spot."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "明日の心配タイムまで駐車中です。お風呂でまた浮かんできたら、「もう場所はあるよ」と伝えるだけで大丈夫です。"
           }
         },
         "ko" : {
@@ -1839,6 +2229,12 @@
             "value" : "It's Worry Time. Give it %lld focused minutes, then decide what to do with it."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心配タイムです。%lld 分だけ集中して向き合い、どうするか決めましょう。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1865,6 +2261,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Keep it parked"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "そのまま駐車しておく"
           }
         },
         "ko" : {
@@ -1895,6 +2297,12 @@
             "value" : "Keep parking. Patterns show up after a few exits."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "駐車を続けましょう。何度か出庫すると、パターンが見えてきます。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1921,6 +2329,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Later"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "あとで"
           }
         },
         "ko" : {
@@ -1951,6 +2365,12 @@
             "value" : "Let it go"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "手放す"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1977,6 +2397,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "LEVEL"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "強さ"
           }
         },
         "ko" : {
@@ -2007,6 +2433,12 @@
             "value" : "Level %lld of 5, %@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "強さ 5 段階中 %lld、%@"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2033,6 +2465,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Level %lld → %lld"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "強さ %lld → %lld"
           }
         },
         "ko" : {
@@ -2065,6 +2503,12 @@
             "value" : "Looking straight at a worry can make it feel bigger at first. You don't have to solve it now. Its only job is to wait for Worry Time."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心配をまっすぐ見つめると、最初は大きく感じることがあります。今すぐ解決しなくて大丈夫。心配の仕事は、心配タイムまで待つことだけです。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2091,6 +2535,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Car park"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "駐車場"
           }
         },
         "ko" : {
@@ -2121,6 +2571,12 @@
             "value" : "Loud"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大きく響く"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2147,6 +2603,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Made a plan"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "計画を立てた"
           }
         },
         "ko" : {
@@ -2177,6 +2639,12 @@
             "value" : "Make a plan"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "計画を立てる"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2203,6 +2671,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Making a concrete plan stopped unfinished tasks from intruding on people's thoughts, and five minutes of writing before bed helped people fall asleep faster."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "具体的な計画を立てると、やり残したことが頭に入り込みにくくなり、寝る前に 5 分書き出した人は早く眠りにつけました。"
           }
         },
         "ko" : {
@@ -2233,6 +2707,12 @@
             "value" : "Manage subscription"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "サブスクリプションを管理"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2259,6 +2739,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nagging"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "しつこく残る"
           }
         },
         "ko" : {
@@ -2289,6 +2775,12 @@
             "value" : "Next"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "次へ"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2315,6 +2807,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Next Worry Time"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "次の心配タイム"
           }
         },
         "ko" : {
@@ -2345,6 +2843,12 @@
             "value" : "Next Worry Time: %@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "次の心配タイム：%@"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2371,6 +2875,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "No exits yet"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "まだ出庫はありません"
           }
         },
         "ko" : {
@@ -2401,6 +2911,12 @@
             "value" : "Not now"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今はしない"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2429,6 +2945,12 @@
             "value" : "Not ready yet. Bring it back at the next Worry Time."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "まだ準備ができていません。次の心配タイムにまた取り出しましょう。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2455,6 +2977,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Notifications are off"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "通知がオフです"
           }
         },
         "ko" : {
@@ -2487,6 +3015,12 @@
             "value" : "Now"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2513,6 +3047,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Now that it's parked, how loud is it?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "駐車してみて、今はどれくらい強く響きますか？"
           }
         },
         "ko" : {
@@ -2543,6 +3083,12 @@
             "value" : "One real worry, from 11:40 PM to Worry Time the next day."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "実際にある心配ひとつを、夜 11:40 から翌日の心配タイムまで追います。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2569,6 +3115,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "One small next step"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "小さな次の一歩"
           }
         },
         "ko" : {
@@ -2599,6 +3151,12 @@
             "value" : "Open iOS Settings"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iOS の設定を開く"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2625,6 +3183,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Overwhelming"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "圧倒される"
           }
         },
         "ko" : {
@@ -2661,6 +3225,12 @@
             "value" : "P%lld is ready for pickup"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "P%lld が出庫できます"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2692,6 +3262,12 @@
             "value" : "P%lld · Ticket #%@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "P%1$lld · 駐車券 #%2$@"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2718,6 +3294,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Page %lld of %lld"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$lld/%2$lld ページ"
           }
         },
         "ko" : {
@@ -2748,6 +3330,12 @@
             "value" : "Park"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "駐車"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2774,6 +3362,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Park a worry"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心配を駐車する"
           }
         },
         "ko" : {
@@ -2804,6 +3398,12 @@
             "value" : "Park at P%lld"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "P%lld に駐車"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2830,6 +3430,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Park every worry, not just three."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3 つまでではなく、すべての心配を駐車できます。"
           }
         },
         "ko" : {
@@ -2860,6 +3466,12 @@
             "value" : "Park it again"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "もう一度駐車する"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2886,6 +3498,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Parked %@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@に駐車"
           }
         },
         "ko" : {
@@ -2916,6 +3534,12 @@
             "value" : "Parked at P%lld"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "P%lld に駐車しました"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2942,6 +3566,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Parked until %@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@まで駐車中"
           }
         },
         "ko" : {
@@ -2972,6 +3602,12 @@
             "value" : "Parked worries stay hidden until their exit time. You don't have to carry them right now."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "駐車した心配は、出庫時間まで隠れています。今は抱えていなくて大丈夫です。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3000,6 +3636,12 @@
             "value" : "Parked. Not your job right now."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "駐車中。今はあなたの仕事ではありません。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3026,6 +3668,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Partly"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一部だけ"
           }
         },
         "ko" : {
@@ -3058,6 +3706,12 @@
             "value" : "People who moved their worrying to a short daily worry period spent less time worrying and reported less anxiety and fewer sleep problems."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心配する時間を毎日の短い時間に移した人は、心配に費やす時間が減り、不安や睡眠の問題も軽くなったと報告しています。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3084,6 +3738,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pick your Worry Time"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心配タイムを選ぼう"
           }
         },
         "ko" : {
@@ -3114,6 +3774,12 @@
             "value" : "Postponing is working for you. Try parking the next one too."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "先延ばしが効いています。次の心配もここに駐車してみましょう。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3140,6 +3806,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Postponing works best when you wait. Most worries feel smaller by Worry Time."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "先延ばしは、待つほどよく効きます。たいていの心配は、心配タイムには小さく感じられます。"
           }
         },
         "ko" : {
@@ -3170,6 +3842,12 @@
             "value" : "Privacy Policy"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プライバシーポリシー"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3196,6 +3874,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pro is active"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro を利用中"
           }
         },
         "ko" : {
@@ -3226,6 +3910,12 @@
             "value" : "Pro spot"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro 専用区画"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3252,6 +3942,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ready for pickup"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "出庫できます"
           }
         },
         "ko" : {
@@ -3282,6 +3978,12 @@
             "value" : "Reminders"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "通知"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3308,6 +4010,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Research describes average effects, and results differ from person to person. Worry Parking is a self-help tool, not a medical device or a treatment."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "研究が示すのは平均的な効果で、結果には個人差があります。心配パーキングはセルフケアのためのツールであり、医療機器でも治療でもありません。"
           }
         },
         "ko" : {
@@ -3338,6 +4046,12 @@
             "value" : "Research references"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "研究の出典"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3364,6 +4078,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Restore purchases"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "購入を復元"
           }
         },
         "ko" : {
@@ -3394,6 +4114,12 @@
             "value" : "Result"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "結果"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3420,6 +4146,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Retrieve early"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "早めに取り出す"
           }
         },
         "ko" : {
@@ -3450,6 +4182,12 @@
             "value" : "Retrieve this worry early?"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "この心配を早めに取り出しますか？"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3476,6 +4214,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "See how many of your fears actually came true."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心配したことが実際にどれくらい起きたか確かめましょう。"
           }
         },
         "ko" : {
@@ -3506,6 +4250,12 @@
             "value" : "See how many of your worries actually happened"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心配のうち実際に起きたものがどれくらいか確かめましょう"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3532,6 +4282,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "See it in action"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使い方を見る"
           }
         },
         "ko" : {
@@ -3562,6 +4318,12 @@
             "value" : "Send it to the exit gate now"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今すぐ出庫ゲートへ送る"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3588,6 +4350,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Settings"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "設定"
           }
         },
         "ko" : {
@@ -3618,6 +4386,12 @@
             "value" : "Skip for now"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今はスキップ"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3644,6 +4418,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Spot %lld. Empty. Park a worry here."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld 番の区画。空きです。ここに心配を駐車しましょう。"
           }
         },
         "ko" : {
@@ -3674,6 +4454,12 @@
             "value" : "Spot %lld. Pro spot, locked."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld 番の区画。Pro 専用で、ロックされています。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3700,6 +4486,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Spot %lld. Worry parked until %@."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$lld 番の区画。心配を %2$@ まで駐車中。"
           }
         },
         "ko" : {
@@ -3730,6 +4522,12 @@
             "value" : "Spot %lld. Worry ready for pickup."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld 番の区画。心配を出庫できます。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3756,6 +4554,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Start"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "はじめる"
           }
         },
         "ko" : {
@@ -3786,6 +4590,12 @@
             "value" : "Swipe along the dotted line to park"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "点線に沿ってなぞって駐車"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3812,6 +4622,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Swipe along the dotted line. Once it tears off, this worry is parked until %@."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "点線に沿ってなぞりましょう。切り離すと、この心配は %@ まで駐車されます。"
           }
         },
         "ko" : {
@@ -3842,6 +4658,12 @@
             "value" : "Take one slow breath. There's nothing to do about it right now."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ゆっくり深呼吸をひとつ。今はこの心配について、することはありません。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3868,6 +4690,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tear off the ticket to park"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "駐車券を切り離して駐車"
           }
         },
         "ko" : {
@@ -3898,6 +4726,12 @@
             "value" : "Tear off your ticket"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "駐車券を切り離そう"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3924,6 +4758,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Terms of Use"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "利用規約"
           }
         },
         "ko" : {
@@ -3954,6 +4794,12 @@
             "value" : "That's completely normal. The effect usually builds over days, not minutes. When it pops back up, tell it \"you already have a spot\" and see how it feels at Worry Time."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "それはごく自然なことです。効果は数分ではなく、数日かけて積み重なります。また浮かんできたら「もう場所はあるよ」と伝えて、心配タイムにどう感じるか見てみましょう。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3980,6 +4826,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "That's the first effect of postponing. Once a worry is written down and has a place, your mind doesn't have to hold on to it. See you at Worry Time."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "それが先延ばしの最初の効果です。心配を書き出して居場所ができると、頭はそれを握りしめておかなくて済みます。心配タイムにまた会いましょう。"
           }
         },
         "ko" : {
@@ -4010,6 +4862,12 @@
             "value" : "The Worry Time after"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "その次の心配タイム"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4036,6 +4894,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ticket #%@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "駐車券 #%@"
           }
         },
         "ko" : {
@@ -4066,6 +4930,12 @@
             "value" : "today at %@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今日 %@"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4092,6 +4962,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "tomorrow at %@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "明日 %@"
           }
         },
         "ko" : {
@@ -4122,6 +4998,12 @@
             "value" : "Too early to tell"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "まだわからない"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4148,6 +5030,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Try it now"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今すぐ試す"
           }
         },
         "ko" : {
@@ -4178,6 +5066,12 @@
             "value" : "Turn it into one small next step."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "小さな次の一歩にしましょう。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4204,6 +5098,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Unlimited parking spots"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "駐車区画は無制限"
           }
         },
         "ko" : {
@@ -4234,6 +5134,12 @@
             "value" : "Unlimited spots, custom exit times, insights"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "区画は無制限、出庫時間の指定、インサイト"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4260,6 +5166,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Unlock Insights with Pro"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro でインサイトを開放"
           }
         },
         "ko" : {
@@ -4290,6 +5202,12 @@
             "value" : "We'll tell you when a worry is ready for pickup."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心配が出庫できるときにお知らせします。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4316,6 +5234,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "What do you want to do with it?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "この心配をどうしますか？"
           }
         },
         "ko" : {
@@ -4346,6 +5270,12 @@
             "value" : "What if I blank during tomorrow's presentation and everyone decides I'm not good enough?"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "明日の発表で頭が真っ白になって、みんなに力不足だと思われたらどうしよう。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4372,6 +5302,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "What you feared didn't happen. Each exit like this goes into your Exit Log, so you can see how often your worries turn out wrong."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心配していたことは起きませんでした。こうした出庫は出庫ログに残るので、心配がどれくらい外れるか見えてきます。"
           }
         },
         "ko" : {
@@ -4402,6 +5338,12 @@
             "value" : "What's circling in your head?"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "頭の中で何がぐるぐるしていますか？"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4428,6 +5370,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "When people with chronic worry tracked their worries, %lld%% of them didn't come true."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "慢性的に心配しやすい人が自分の心配を記録したところ、%lld%% は実際には起こりませんでした。"
           }
         },
         "ko" : {
@@ -4458,6 +5406,12 @@
             "value" : "When should it come back?"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "いつ戻しますか？"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4484,6 +5438,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "While it was parked, how did this worry feel?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "駐車していた間、この心配はどう感じましたか？"
           }
         },
         "ko" : {
@@ -4514,6 +5474,12 @@
             "value" : "Why it works"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "なぜ効くの？"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4542,6 +5508,12 @@
             "value" : "Without them, parked worries wait silently in the lot."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "通知がないと、駐車した心配は駐車場で静かに待つだけになります。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4568,6 +5540,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Worries don't have to ride with you all night.\nPark them here. We'll keep them until your Worry Time."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心配を一晩中連れ回さなくていいんです。\nここに駐車してください。心配タイムまで預かります。"
           }
         },
         "ko" : {
@@ -4600,6 +5578,12 @@
             "value" : "Worries show up anywhere: in bed, in the shower, on the way home. When worrying gets its own time, your brain learns that the rest of the day isn't for it. Psychologists call this stimulus control."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心配はどこにでも現れます。ベッドの中、お風呂、帰り道。心配に専用の時間を与えると、脳は一日の残りの時間はその出番ではないと学びます。心理学ではこれを刺激統制と呼びます。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4626,6 +5610,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Worries you review at the exit gate land here. Over time you'll see how many of them actually happened."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "出庫ゲートで振り返った心配はここに積み重なります。続けるうちに、実際に起きたものがどれくらいあるかが見えてきます。"
           }
         },
         "ko" : {
@@ -4656,6 +5646,12 @@
             "value" : "Worry at one set time"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "決めた時間にだけ心配する"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4682,6 +5678,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "WORRY PARKING"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心配パーキング"
           }
         },
         "ko" : {
@@ -4712,6 +5714,12 @@
             "value" : "Worry Parking"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心配パーキング"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4740,6 +5748,12 @@
             "value" : "Worry Parking is a self-help tool, not a medical device or a substitute for professional care. If you're struggling, please reach out to a mental health professional or local emergency services."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心配パーキングはセルフケアのためのツールであり、医療機器でも専門的なケアの代わりでもありません。つらいときは、メンタルヘルスの専門家や地域の緊急窓口に相談してください。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4766,6 +5780,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Worry Parking is built on worry postponement, a stimulus-control technique used in cognitive behavioral therapy (CBT): instead of fighting a worry, you schedule it for a set time and return to it then."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心配パーキングは「心配の先延ばし」に基づいています。これは認知行動療法（CBT）で使われる刺激統制の技法で、心配と戦うのではなく、決めた時間に回して、その時間に向き合います。"
           }
         },
         "ko" : {
@@ -4798,6 +5818,12 @@
             "value" : "Worry Parking is built on worry postponement, a technique from cognitive behavioral therapy (CBT) that has been studied for decades."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心配パーキングは、認知行動療法（CBT）で数十年にわたり研究されてきた「心配の先延ばし」に基づいています。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4824,6 +5850,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Worry Parking Pro"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心配パーキング Pro"
           }
         },
         "ko" : {
@@ -4854,6 +5886,12 @@
             "value" : "Worry predicts the future as worse than it usually turns out. At the exit gate you record whether it really happened, so over time your Exit Log shows how often your worries were wrong."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心配は、実際より悪い未来を予想しがちです。出庫ゲートで本当に起きたかを記録すると、心配がどれくらい外れたかが出庫ログに見えてきます。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4882,6 +5920,12 @@
             "value" : "Worry Time"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心配タイム"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4908,6 +5952,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Write"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "書く"
           }
         },
         "ko" : {
@@ -4940,6 +5990,12 @@
             "value" : "Write down one worry that's on your mind right now. It will really be parked and come back %@."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今、頭にある心配をひとつ書いてみましょう。実際に駐車されて、%@に戻ってきます。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4966,6 +6022,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Write it down to put it down"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "書き出して、手放す"
           }
         },
         "ko" : {
@@ -4996,6 +6058,12 @@
             "value" : "Write it exactly the way it sounds in your head."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "頭の中で聞こえるとおりに書いてみましょう。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5024,6 +6092,12 @@
             "value" : "You don't need to carry this right now. We'll bring it back %@."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今は抱えていなくて大丈夫です。%@にお届けします。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5050,6 +6124,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "You postponed a worry and came back to it on purpose. That's the whole technique."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心配を先延ばしにして、決めた時間にあえて向き合いました。これがこの方法のすべてです。"
           }
         },
         "ko" : {
@@ -5082,6 +6162,12 @@
             "value" : "Your answers stay on this iPhone. You can look back at them in your Exit Log."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "回答はこの iPhone にだけ保存されます。出庫ログであとから見返せます。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5108,6 +6194,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Your daily Worry Time is %@. You can change it in Settings."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "毎日の心配タイムは %@ です。設定で変更できます。"
           }
         },
         "ko" : {
@@ -5138,6 +6230,12 @@
             "value" : "Your experience"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "あなたの体験"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5166,6 +6264,12 @@
             "value" : "Your first exit"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最初の出庫"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5192,6 +6296,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Your worry"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "私の心配"
           }
         },
         "ko" : {

@@ -11,6 +11,12 @@
             "value" : "Ask my manager for a 1:1"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "上司に 1on1 をお願いする"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -39,6 +45,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Can I actually cover this month's card bill?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今月のカードの支払い、本当に払えるかな？"
           }
         },
         "ko" : {
@@ -71,6 +83,12 @@
             "value" : "Check rents in the neighbourhood"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "近所の家賃相場を調べる"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -99,6 +117,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Did my joke at dinner go too far?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "飲み会での冗談、言いすぎたかな？"
           }
         },
         "ko" : {
@@ -131,6 +155,12 @@
             "value" : "I think I blew this quarter's review."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今期の評価、失敗した気がする。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -159,6 +189,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "I'll get called out again at Monday's meeting."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "月曜の会議でまた指摘される気がする。"
           }
         },
         "ko" : {
@@ -191,6 +227,12 @@
             "value" : "I'll never make the report deadline."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "報告書の締め切りに間に合わない。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -219,6 +261,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "If I stutter in the interview, I'm out."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "面接で噛んだら落ちる。"
           }
         },
         "ko" : {
@@ -251,6 +299,12 @@
             "value" : "If my laptop dies, I lose everything."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "パソコンが壊れたら、全部なくなる。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -279,6 +333,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "It feels like my friends ignore only my messages in the group chat."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "グループチャットで、私のメッセージだけ無視されている気がする。"
           }
         },
         "ko" : {
@@ -311,6 +371,12 @@
             "value" : "Missing the flight would ruin the whole trip."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "飛行機に乗り遅れたら、旅行が台無しになる。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -339,6 +405,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mum's checkup results still aren't back. What if they found something serious and she's not telling me?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "母の検査結果がまだ出ない。重い病気が見つかって、私に隠していたらどうしよう。"
           }
         },
         "ko" : {
@@ -371,6 +443,12 @@
             "value" : "My landlord is going to raise the rent."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大家さんに家賃を上げられそう。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -399,6 +477,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "My manager's reply was so short. Did I do something wrong?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "上司の返信が短すぎる。私、何かした？"
           }
         },
         "ko" : {
@@ -431,6 +515,12 @@
             "value" : "My sister must be hurt by what I said."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "私の言ったことで、妹はきっと傷ついてる。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -459,6 +549,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Practise three likely questions out loud"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "聞かれそうな質問を 3 つ、声に出して練習する"
           }
         },
         "ko" : {
@@ -491,6 +587,12 @@
             "value" : "Turn on cloud backup"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "クラウドバックアップをオンにする"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -521,6 +623,12 @@
             "value" : "What if I blank during tomorrow's presentation and everyone decides I'm not good enough?"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "明日の発表で頭が真っ白になって、みんなに力不足だと思われたらどうしよう。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -549,6 +657,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "What if the checkup finds something?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "検査で何か見つかったらどうしよう。"
           }
         },
         "ko" : {
