@@ -12,6 +12,12 @@
             "value" : "Obsazeno %1$lld z %2$lld míst"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$lld af %2$lld pladser i brug"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -100,6 +106,12 @@
             "value" : "Zaparkováno: %lld"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld parkeret"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -186,6 +198,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld %% obav, které jsi ověřil(a), se nesplnilo."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld %% af de frygter, du har tjekket, skete ikke."
           }
         },
         "de" : {
@@ -279,6 +297,12 @@
             "value" : "23:40 a hlava ti pořád přehrává zítřek. Napiš starost přesně tak, jak zní, a ohodnoť, jak hlasitá je."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kl. 23.40, og din hjerne bliver ved med at afspille i morgen. Skriv bekymringen, præcis som den lyder, og vurder, hvor høj den er."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -365,6 +389,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "18:00, prezentace je za tebou. Stalo se, čeho ses bál(a)? Vlastně ne. Starost klesla ze 4 na 1, tak ses jí zbavil(a) a zapsala se do tvého deníku výjezdů."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kl. 18.00, præsentationen er overstået. Skete det? Ikke rigtigt. Bekymringen faldt fra 4 til 1, så du lod den gå, og den er føjet til din udkørselslog."
           }
         },
         "de" : {
@@ -455,6 +485,12 @@
             "value" : "Větší parkoviště pro rušnější hlavu."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En større parkeringsplads til et travlt hoved."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -541,6 +577,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Každý den 15 minut, nejlépe pár hodin před spaním. Jemně ti dáme vědět, až bude starost připravená k vyzvednutí."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "15 minutter hver dag, helst et par timer før sengetid. Vi giver dig et lille puf, når en bekymring er klar til afhentning."
           }
         },
         "de" : {
@@ -631,6 +673,12 @@
             "value" : "Trochu lehčí"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lidt lettere"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -717,6 +765,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Šepot"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En hvisken"
           }
         },
         "de" : {
@@ -807,6 +861,12 @@
             "value" : "O aplikaci"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Om"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -893,6 +953,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Skoro stejné"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Omtrent det samme"
           }
         },
         "de" : {
@@ -983,6 +1049,12 @@
             "value" : "Jak se cítíš po zaparkování?"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvordan har du det, nu hvor du har parkeret den?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1069,6 +1141,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Povolit upozornění na vyzvednutí"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tillad afhentningspåmindelser"
           }
         },
         "de" : {
@@ -1159,6 +1237,12 @@
             "value" : "Povolit upozornění a pokračovat"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tillad påmindelser og fortsæt"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1245,6 +1329,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nedořešená starost se přehrává dokola, protože se mysl bojí, že na ni zapomene. Když ji zapíšeš a určíš čas, kdy se k ní vrátíš, mozek pochopí, že je zatím vyřízená."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En uafsluttet bekymring bliver ved med at køre rundt, fordi dit sind er bange for at glemme den. Når du skriver den ned og aftaler et tidspunkt at vende tilbage til den, fortæller du hjernen, at den er taget hånd om for nu."
           }
         },
         "de" : {
@@ -1335,6 +1425,12 @@
             "value" : "Ještě něco? (nepovinné)"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Noget andet? (valgfrit)"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1421,6 +1517,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Průměrný pokles intenzity"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gns. fald i styrke"
           }
         },
         "de" : {
@@ -1511,6 +1613,12 @@
             "value" : "Předtím"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Før"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1597,6 +1705,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vyzvedni starost přesně ve chvíli, kdy ji zvládneš."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hent en bekymring frem, præcis når du kan klare den."
           }
         },
         "de" : {
@@ -1687,6 +1801,12 @@
             "value" : "Zrušit"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Annuller"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1773,6 +1893,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zkontroluj, co se doopravdy stalo"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tjek, hvad der faktisk skete"
           }
         },
         "de" : {
@@ -1863,6 +1989,12 @@
             "value" : "Vyber čas několik hodin před spaním. Nové starosti zůstanou zaparkované do té doby. Už zaparkované si ponechají svůj čas výjezdu."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vælg et tidspunkt et par timer før sengetid. Nye bekymringer er parkeret, indtil da. Allerede parkerede bekymringer beholder deres udkørselstid."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1949,6 +2081,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zavřít"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Luk"
           }
         },
         "de" : {
@@ -2039,6 +2177,12 @@
             "value" : "Pokračovat"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fortsæt"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2125,6 +2269,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Počet"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Antal"
           }
         },
         "de" : {
@@ -2215,6 +2365,12 @@
             "value" : "Vlastní časy výjezdu"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Egne udkørselstider"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2301,6 +2457,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vlastní čas"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eget tidspunkt"
           }
         },
         "de" : {
@@ -2391,6 +2553,12 @@
             "value" : "Stalo se doopravdy to, čeho ses bál(a)?"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skete det, du frygtede, faktisk?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2477,6 +2645,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nestalo se"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skete ikke"
           }
         },
         "de" : {
@@ -2567,6 +2741,12 @@
             "value" : "Hotovo"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Færdig"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2653,6 +2833,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vyjet"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kør ud"
           }
         },
         "de" : {
@@ -2743,6 +2929,12 @@
             "value" : "Upravit moji starost"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Redigér min bekymring"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2829,6 +3021,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Volné"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ledig"
           }
         },
         "de" : {
@@ -2919,6 +3117,12 @@
             "value" : "Vše, co napíšeš, zůstává v tomto zařízení. Upozornění nikdy neobsahují text tvé starosti."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alt, hvad du skriver, bliver på denne enhed. Notifikationer indeholder aldrig teksten fra din bekymring."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3005,6 +3209,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "VÝJEZD"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UD"
           }
         },
         "de" : {
@@ -3095,6 +3305,12 @@
             "value" : "Výjezd"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Udkørsel"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3181,6 +3397,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Výjezdová závora"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Udkørselsbom"
           }
         },
         "de" : {
@@ -3271,6 +3493,12 @@
             "value" : "Výjezdová závora · P%lld"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Udkørselsbom · P%lld"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3357,6 +3585,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Výjezdová závora · P1"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Udkørselsbom · P1"
           }
         },
         "de" : {
@@ -3447,6 +3681,12 @@
             "value" : "Přehledy výjezdů"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indsigt i udkørsler"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3533,6 +3773,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Deník výjezdů"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Udkørselslog"
           }
         },
         "de" : {
@@ -3623,6 +3869,12 @@
             "value" : "Čas výjezdu"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Udkørselstid"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3709,6 +3961,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vyjela"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kørt ud"
           }
         },
         "de" : {
@@ -3799,6 +4057,12 @@
             "value" : "Výjezd za %@"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Udkørsel om %@"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3885,6 +4149,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "První výjezd"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Første udkørsel"
           }
         },
         "de" : {
@@ -3975,6 +4245,12 @@
             "value" : "Při prvním zaparkování"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Første gang du parkerede"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4061,6 +4337,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Věnuj jí plnou pozornost. Teď není nic jiného, co bys měl(a) dělat."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giv den din fulde opmærksomhed. Det er det eneste, du skal lige nu."
           }
         },
         "de" : {
@@ -4151,6 +4433,12 @@
             "value" : "Zmizela"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Væk"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4237,6 +4525,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Těžká"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tung"
           }
         },
         "de" : {
@@ -4327,6 +4621,12 @@
             "value" : "Historie"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Historik"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4413,6 +4713,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jaké to bylo?"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvordan føltes det?"
           }
         },
         "de" : {
@@ -4503,6 +4809,12 @@
             "value" : "Jak hlasitá je teď?"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvor høj er den nu?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4591,6 +4903,12 @@
             "value" : "Jak hlasitá je právě teď?"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvor høj er den lige nu?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4677,6 +4995,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Když se ti vrátí do hlavy, všimni si toho a řekni si: už má své místo. Zabývat se jí budeš v Čase na starosti."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvis den kører ind i dit hoved igen, så læg mærke til det og sig til dig selv: den har en plads. Du tager dig af den til bekymringstid."
           }
         },
         "de" : {
@@ -4769,6 +5093,12 @@
             "value" : "Pokud se pořád vracela, zkus krátké „už máš své místo“ a vrať se k tomu, co jsi dělal(a). Jestli ti starosti zasahují do běžných dnů, může hodně pomoct rozhovor s odborníkem."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvis den blev ved med at vende tilbage, så prøv at sige et kort „du har allerede en plads“ og gå tilbage til det, du lavede. Hvis bekymringer står i vejen for dine dage, kan det hjælpe meget at tale med en professionel."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4855,6 +5185,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "VJEZD"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "IND"
           }
         },
         "de" : {
@@ -4945,6 +5281,12 @@
             "value" : "Trápila mě méně"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Den fyldte mindre"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5031,6 +5373,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Trápila mě víc"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Den fyldte mere"
           }
         },
         "de" : {
@@ -5121,6 +5469,12 @@
             "value" : "Nestalo se"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skete ikke"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5209,6 +5563,12 @@
             "value" : "Stalo se"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skete"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5295,6 +5655,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Při zaparkování byla na %lld."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Den var %lld, da du parkerede den."
           }
         },
         "de" : {
@@ -5387,6 +5753,12 @@
             "value" : "Myslím na ni víc"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jeg tænker mere på den"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5473,6 +5845,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Je to teprve první. Ve studiích se účinek budoval několik týdnů. Zaparkuj dalších pár a porovnej je v deníku výjezdů."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det er kun den første. I studier voksede effekten over nogle uger. Parkér et par flere, og sammenlign dem i din udkørselslog."
           }
         },
         "de" : {
@@ -5563,6 +5941,12 @@
             "value" : "Odjela z parkoviště. Nech ji jet."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Den er kørt ud af parkeringspladsen. Lad den køre."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5649,6 +6033,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Je zaparkovaná do zítřejšího Času na starosti. Až se ve sprše znovu vynoří, prostě si řekni: už má své místo."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Den er parkeret indtil i morgen til bekymringstid. Når den dukker op igen i bruseren, så sig bare til dig selv: den har allerede en plads."
           }
         },
         "de" : {
@@ -5739,6 +6129,12 @@
             "value" : "Je Čas na starosti. Věnuj jí %lld minut soustředěné pozornosti a pak se rozhodni, co s ní."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det er bekymringstid. Giv den %lld minutters fuld opmærksomhed, og beslut så, hvad du vil gøre ved den."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5825,6 +6221,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nechat zaparkovanou"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hold den parkeret"
           }
         },
         "de" : {
@@ -5915,6 +6317,12 @@
             "value" : "Parkuj dál. Vzorce se ukážou po několika výjezdech."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bliv ved med at parkere. Mønstre viser sig efter nogle udkørsler."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6001,6 +6409,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Později"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Senere"
           }
         },
         "de" : {
@@ -6091,6 +6505,12 @@
             "value" : "Nechat odejít"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lad den gå"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6177,6 +6597,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ÚROVEŇ"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "STYRKE"
           }
         },
         "de" : {
@@ -6267,6 +6693,12 @@
             "value" : "Úroveň %lld z 5, %@"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Styrke %lld af 5, %@"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6353,6 +6785,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Úroveň %lld → %lld"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Styrke %lld → %lld"
           }
         },
         "de" : {
@@ -6445,6 +6883,12 @@
             "value" : "Podívat se na starost zpříma ji zpočátku může zvětšit. Nemusíš ji řešit hned. Jejím jediným úkolem je čekat na Čas na starosti."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "At se en bekymring direkte i øjnene kan få den til at føles større i starten. Du behøver ikke løse den nu. Dens eneste opgave er at vente til bekymringstid."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6531,6 +6975,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Parkoviště"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parkering"
           }
         },
         "de" : {
@@ -6621,6 +7071,12 @@
             "value" : "Hlasitá"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Høj"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6707,6 +7163,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Plán hotov"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lavet en plan"
           }
         },
         "de" : {
@@ -6797,6 +7259,12 @@
             "value" : "Udělat plán"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lav en plan"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6883,6 +7351,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Konkrétní plán zabránil nedokončeným úkolům, aby se vtíraly do myšlenek, a pět minut psaní před spaním pomohlo lidem rychleji usnout."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En konkret plan stoppede, at ufærdige opgaver trængte sig ind i tankerne, og fem minutters skrivning før sengetid hjalp folk med at falde hurtigere i søvn."
           }
         },
         "de" : {
@@ -6973,6 +7447,12 @@
             "value" : "Spravovat předplatné"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Administrér abonnement"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7059,6 +7539,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dotěrná"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nagende"
           }
         },
         "de" : {
@@ -7149,6 +7635,12 @@
             "value" : "Další"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Næste"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7235,6 +7727,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Příští Čas na starosti"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Næste bekymringstid"
           }
         },
         "de" : {
@@ -7325,6 +7823,12 @@
             "value" : "Příští Čas na starosti: %@"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Næste bekymringstid: %@"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7411,6 +7915,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zatím žádné výjezdy"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ingen udkørsler endnu"
           }
         },
         "de" : {
@@ -7501,6 +8011,12 @@
             "value" : "Teď ne"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ikke nu"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7589,6 +8105,12 @@
             "value" : "Ještě není připravená. Vyzvedni ji při příštím Času na starosti."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ikke klar endnu. Hent den frem igen til næste bekymringstid."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7675,6 +8197,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Upozornění jsou vypnutá"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notifikationer er slået fra"
           }
         },
         "de" : {
@@ -7767,6 +8295,12 @@
             "value" : "Teď"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nu"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7853,6 +8387,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Teď, když je zaparkovaná, jak je hlasitá?"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nu hvor den er parkeret, hvor høj er den så?"
           }
         },
         "de" : {
@@ -7943,6 +8483,12 @@
             "value" : "Jedna skutečná starost, od 23:40 do Času na starosti následujícího dne."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Én rigtig bekymring, fra kl. 23.40 til bekymringstid næste dag."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8029,6 +8575,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jeden malý další krok"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ét lille næste skridt"
           }
         },
         "de" : {
@@ -8119,6 +8671,12 @@
             "value" : "Otevřít Nastavení iOS"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Åbn indstillinger i iOS"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8205,6 +8763,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ohromující"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Overvældende"
           }
         },
         "de" : {
@@ -8301,6 +8865,12 @@
             "value" : "P%lld je připraveno k vyzvednutí"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "P%lld er klar til afhentning"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8392,6 +8962,12 @@
             "value" : "P%1$lld · Lístek č. %2$@"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "P%1$lld · Billet nr. %2$@"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8478,6 +9054,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Strana %1$lld z %2$lld"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Side %1$lld af %2$lld"
           }
         },
         "de" : {
@@ -8568,6 +9150,12 @@
             "value" : "Zaparkovat"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parkér"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8654,6 +9242,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zaparkovat starost"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parkér en bekymring"
           }
         },
         "de" : {
@@ -8744,6 +9338,12 @@
             "value" : "Zaparkovat na P%lld"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parkér på P%lld"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8830,6 +9430,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Parkuj každou starost, ne jen tři."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parkér alle bekymringer, ikke kun tre."
           }
         },
         "de" : {
@@ -8920,6 +9526,12 @@
             "value" : "Zaparkovat znovu"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parkér igen"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9006,6 +9618,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zaparkováno %@"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parkeret %@"
           }
         },
         "de" : {
@@ -9096,6 +9714,12 @@
             "value" : "Zaparkováno na P%lld"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parkeret på P%lld"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9182,6 +9806,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zaparkováno do %@"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parkeret indtil %@"
           }
         },
         "de" : {
@@ -9272,6 +9902,12 @@
             "value" : "Zaparkované starosti zůstávají skryté do času výjezdu. Teď je nemusíš nosit s sebou."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parkerede bekymringer er skjult, indtil deres udkørselstid. Du behøver ikke bære rundt på dem lige nu."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9360,6 +9996,12 @@
             "value" : "Zaparkováno. Teď to není tvoje starost."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parkeret. Ikke dit ansvar lige nu."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9446,6 +10088,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Částečně"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delvist"
           }
         },
         "de" : {
@@ -9538,6 +10186,12 @@
             "value" : "Lidé, kteří přesunuli své starosti do krátkého denního úseku, strávili starostmi méně času a uváděli méně úzkosti a méně problémů se spánkem."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Folk, der flyttede deres bekymringer til en kort daglig bekymringsperiode, brugte mindre tid på at bekymre sig og rapporterede mindre angst og færre søvnproblemer."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9624,6 +10278,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vyber svůj Čas na starosti"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vælg din bekymringstid"
           }
         },
         "de" : {
@@ -9714,6 +10374,12 @@
             "value" : "Odkládání ti funguje. Zkus zaparkovat i další starost."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Udskydelse virker for dig. Prøv også at parkere den næste."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9800,6 +10466,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Odkládání funguje nejlépe, když počkáš. V Čase na starosti se většina starostí zdá menší."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Udskydelse virker bedst, når du venter. Til bekymringstid føles de fleste bekymringer mindre."
           }
         },
         "de" : {
@@ -9890,6 +10562,12 @@
             "value" : "Zásady ochrany osobních údajů"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privatlivspolitik"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9976,6 +10654,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pro je aktivní"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro er aktiv"
           }
         },
         "de" : {
@@ -10066,6 +10750,12 @@
             "value" : "Místo Pro"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro-plads"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10152,6 +10842,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Připraveno k vyzvednutí"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klar til afhentning"
           }
         },
         "de" : {
@@ -10242,6 +10938,12 @@
             "value" : "Připomínky"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Påmindelser"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10328,6 +11030,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Výzkumy popisují průměrné účinky a výsledky se u každého liší. Parkoviště starostí je nástroj k sebepomoci, ne zdravotnický prostředek ani léčba."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forskning beskriver gennemsnitlige effekter, og resultaterne varierer fra person til person. Bekymringsparkering er et selvhjælpsværktøj, ikke et medicinsk udstyr eller en behandling."
           }
         },
         "de" : {
@@ -10418,6 +11126,12 @@
             "value" : "Odkazy na výzkumy"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forskningsreferencer"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10504,6 +11218,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Obnovit nákupy"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gendan køb"
           }
         },
         "de" : {
@@ -10594,6 +11314,12 @@
             "value" : "Výsledek"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resultat"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10680,6 +11406,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vyzvednout dřív"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hent tidligt"
           }
         },
         "de" : {
@@ -10770,6 +11502,12 @@
             "value" : "Vyzvednout tuto starost dřív?"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hent denne bekymring tidligt?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10856,6 +11594,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Podívej se, kolik tvých obav se doopravdy splnilo."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se, hvor mange af dine frygter der faktisk blev til noget."
           }
         },
         "de" : {
@@ -10946,6 +11690,12 @@
             "value" : "Podívej se, kolik tvých starostí se doopravdy stalo"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se, hvor mange af dine bekymringer der faktisk skete"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11032,6 +11782,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Podívat se, jak to funguje"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se det i praksis"
           }
         },
         "de" : {
@@ -11122,6 +11878,12 @@
             "value" : "Poslat ji hned k výjezdové závoře"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Send den til udkørselsbommen nu"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11208,6 +11970,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nastavení"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indstillinger"
           }
         },
         "de" : {
@@ -11298,6 +12066,12 @@
             "value" : "Prozatím přeskočit"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spring over for nu"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11384,6 +12158,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Místo %lld. Volné. Zaparkuj tu starost."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plads %lld. Ledig. Parkér en bekymring her."
           }
         },
         "de" : {
@@ -11474,6 +12254,12 @@
             "value" : "Místo %lld. Místo Pro, uzamčeno."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plads %lld. Pro-plads, låst."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11560,6 +12346,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Místo %1$lld. Starost zaparkovaná do %2$@."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plads %1$lld. Bekymring parkeret indtil %2$@."
           }
         },
         "de" : {
@@ -11650,6 +12442,12 @@
             "value" : "Místo %lld. Starost připravená k vyzvednutí."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plads %lld. Bekymring klar til afhentning."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11736,6 +12534,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Začít"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start"
           }
         },
         "de" : {
@@ -11826,6 +12630,12 @@
             "value" : "Přejeď po tečkované čáře a zaparkuj"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stryg langs den stiplede linje for at parkere"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11912,6 +12722,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Přejeď po tečkované čáře. Jakmile se lístek utrhne, tato starost bude zaparkovaná do %@."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stryg langs den stiplede linje. Når billetten er revet af, er denne bekymring parkeret indtil %@."
           }
         },
         "de" : {
@@ -12002,6 +12818,12 @@
             "value" : "Jednou se pomalu nadechni. Teď s tím nemusíš nic dělat."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tag ét langsomt åndedrag. Der er ikke noget at gøre ved den lige nu."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12088,6 +12910,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Utrhni lístek a zaparkuj"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riv billetten af for at parkere"
           }
         },
         "de" : {
@@ -12178,6 +13006,12 @@
             "value" : "Utrhni si lístek"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riv din billet af"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12264,6 +13098,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Podmínky použití"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brugsvilkår"
           }
         },
         "de" : {
@@ -12354,6 +13194,12 @@
             "value" : "To je úplně normální. Účinek se obvykle buduje dny, ne minuty. Až se znovu vynoří, řekni jí „už máš své místo“ a sleduj, jak se budeš cítit v Čase na starosti."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det er helt normalt. Effekten opbygges som regel over dage, ikke minutter. Når den dukker op igen, så sig „du har allerede en plads“, og se, hvordan det føles til bekymringstid."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12440,6 +13286,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "To je první účinek odkládání. Když je starost zapsaná a má své místo, mysl se jí nemusí držet. Uvidíme se v Čase na starosti."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det er den første effekt af udskydelse. Når en bekymring er skrevet ned og har en plads, behøver dit sind ikke holde fast i den. Vi ses til bekymringstid."
           }
         },
         "de" : {
@@ -12530,6 +13382,12 @@
             "value" : "Čas na starosti poté"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bekymringstiden derefter"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12616,6 +13474,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lístek č. %@"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Billet nr. %@"
           }
         },
         "de" : {
@@ -12706,6 +13570,12 @@
             "value" : "dnes v %@"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "i dag kl. %@"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12792,6 +13662,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "zítra v %@"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "i morgen kl. %@"
           }
         },
         "de" : {
@@ -12882,6 +13758,12 @@
             "value" : "Je příliš brzy to říct"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "For tidligt at sige"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12968,6 +13850,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vyzkoušej to hned"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prøv det nu"
           }
         },
         "de" : {
@@ -13058,6 +13946,12 @@
             "value" : "Přeměň ji na jeden malý další krok."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gør den til ét lille næste skridt."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13144,6 +14038,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Neomezený počet míst"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ubegrænsede parkeringspladser"
           }
         },
         "de" : {
@@ -13234,6 +14134,12 @@
             "value" : "Neomezený počet míst, vlastní časy výjezdu, přehledy"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ubegrænsede pladser, egne udkørselstider, indsigt"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13320,6 +14226,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Odemkni přehledy s Pro"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lås op for indsigt med Pro"
           }
         },
         "de" : {
@@ -13410,6 +14322,12 @@
             "value" : "Dáme ti vědět, až bude starost připravená k vyzvednutí."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vi giver dig besked, når en bekymring er klar til afhentning."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13496,6 +14414,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Co s ní chceš udělat?"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvad vil du gøre med den?"
           }
         },
         "de" : {
@@ -13586,6 +14510,12 @@
             "value" : "Co když mi při zítřejší prezentaci vypadne text a všichni si budou myslet, že nejsem dost dobrý?"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvad hvis jeg går i stå under præsentationen i morgen, og alle tror, jeg ikke er god nok?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13672,6 +14602,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "To, čeho ses bál(a), se nestalo. Každý takový výjezd se zapíše do deníku výjezdů, takže vidíš, jak často se tvé starosti mýlí."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det, du frygtede, skete ikke. Hver udkørsel som denne føjes til din udkørselslog, så du kan se, hvor ofte dine bekymringer tager fejl."
           }
         },
         "de" : {
@@ -13762,6 +14698,12 @@
             "value" : "Co ti běhá hlavou?"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvad kører rundt i dit hoved?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13848,6 +14790,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Když lidé s chronickými starostmi sledovali své starosti, %lld %% z nich se nesplnilo."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Da folk med kroniske bekymringer registrerede deres bekymringer, skete %lld %% af dem ikke."
           }
         },
         "de" : {
@@ -13938,6 +14886,12 @@
             "value" : "Kdy se má vrátit?"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvornår skal den komme tilbage?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14024,6 +14978,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jaká tato starost byla, když byla zaparkovaná?"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvordan føltes bekymringen, mens den var parkeret?"
           }
         },
         "de" : {
@@ -14114,6 +15074,12 @@
             "value" : "Proč to funguje"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvorfor det virker"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14202,6 +15168,12 @@
             "value" : "Bez nich zaparkované starosti tiše čekají na parkovišti."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uden dem venter parkerede bekymringer bare stille på parkeringspladsen."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14288,6 +15260,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Starosti tě nemusí vozit celou noc.\nZaparkuj je tady. Schováme je do tvého Času na starosti."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bekymringer behøver ikke køre med dig hele natten.\nParkér dem her. Vi opbevarer dem, indtil din bekymringstid."
           }
         },
         "de" : {
@@ -14380,6 +15358,12 @@
             "value" : "Starosti se objevují kdekoli: v posteli, ve sprše, cestou domů. Když dostane trápení vlastní čas, mozek se naučí, že zbytek dne mu nepatří. Psychologové tomu říkají kontrola podnětů."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bekymringer dukker op overalt: i sengen, i bruseren, på vej hjem. Når det at bekymre sig får sit eget tidspunkt, lærer din hjerne, at resten af dagen ikke er til det. Psykologer kalder det stimuluskontrol."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14466,6 +15450,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Starosti, které zkontroluješ u výjezdové závory, skončí tady. Časem uvidíš, kolik se jich doopravdy stalo."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bekymringer, du gennemgår ved udkørselsbommen, havner her. Med tiden kan du se, hvor mange af dem der faktisk skete."
           }
         },
         "de" : {
@@ -14556,6 +15546,12 @@
             "value" : "Starosti jen v určený čas"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bekymr dig på ét fast tidspunkt"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14642,6 +15638,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "PARKOVIŠTĚ STAROSTÍ"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "BEKYMRINGSPARKERING"
           }
         },
         "de" : {
@@ -14732,6 +15734,12 @@
             "value" : "Parkoviště starostí"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bekymringsparkering"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14820,6 +15828,12 @@
             "value" : "Parkoviště starostí je nástroj k sebepomoci, ne zdravotnický prostředek ani náhrada odborné péče. Pokud je ti těžko, obrať se na odborníka na duševní zdraví nebo na místní tísňové služby."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bekymringsparkering er et selvhjælpsværktøj, ikke et medicinsk udstyr eller en erstatning for professionel hjælp. Hvis du har det svært, så kontakt en psykolog eller læge eller de lokale nødtjenester."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14906,6 +15920,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Parkoviště starostí vychází z odkládání starostí, techniky kontroly podnětů používané v kognitivně-behaviorální terapii (KBT): místo boje se starostí jí určíš čas a vrátíš se k ní až tehdy."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bekymringsparkering bygger på bekymringsudskydelse, en stimuluskontrolteknik fra kognitiv adfærdsterapi (KAT): I stedet for at kæmpe imod en bekymring giver du den et fast tidspunkt og vender tilbage til den dér."
           }
         },
         "de" : {
@@ -14998,6 +16018,12 @@
             "value" : "Parkoviště starostí vychází z odkládání starostí, techniky kognitivně-behaviorální terapie (KBT), která se zkoumá desítky let."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bekymringsparkering bygger på bekymringsudskydelse, en teknik fra kognitiv adfærdsterapi (KAT), som er blevet undersøgt i årtier."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15084,6 +16110,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Parkoviště starostí Pro"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bekymringsparkering Pro"
           }
         },
         "de" : {
@@ -15174,6 +16206,12 @@
             "value" : "Starost předpovídá budoucnost horší, než obvykle bývá. U výjezdové závory zapíšeš, zda se to doopravdy stalo, takže ti deník výjezdů časem ukáže, jak často se tvé starosti mýlily."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bekymring forudsiger fremtiden værre, end den som regel bliver. Ved udkørselsbommen noterer du, om det faktisk skete, så din udkørselslog med tiden viser, hvor ofte dine bekymringer tog fejl."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15262,6 +16300,12 @@
             "value" : "Čas na starosti"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bekymringstid"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15348,6 +16392,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zapsat"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skriv"
           }
         },
         "de" : {
@@ -15440,6 +16490,12 @@
             "value" : "Napiš jednu starost, která ti teď leží v hlavě. Opravdu se zaparkuje a vrátí se %@."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skriv én bekymring, der fylder i dit hoved lige nu. Den bliver rigtig parkeret og kommer tilbage %@."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15526,6 +16582,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zapiš ji, abys ji pustil(a)"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skriv det ned for at give slip"
           }
         },
         "de" : {
@@ -15616,6 +16678,12 @@
             "value" : "Napiš ji přesně tak, jak zní ve tvé hlavě."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skriv den præcis, som den lyder i dit hoved."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15704,6 +16772,12 @@
             "value" : "Teď to nemusíš nosit s sebou. Přineseme ti to zpátky %@."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du behøver ikke bære rundt på det her lige nu. Vi bringer den tilbage %@."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15790,6 +16864,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Odložil(a) jsi starost a záměrně ses k ní vrátil(a). To je celá technika."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du udskød en bekymring og vendte bevidst tilbage til den. Det er hele teknikken."
           }
         },
         "de" : {
@@ -15882,6 +16962,12 @@
             "value" : "Tvé odpovědi zůstávají v tomto iPhonu. Můžeš se k nim vrátit v deníku výjezdů."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dine svar bliver på denne iPhone. Du kan se dem igen i din udkørselslog."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15968,6 +17054,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tvůj denní Čas na starosti je %@. Můžeš ho změnit v Nastavení."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Din daglige bekymringstid er %@. Du kan ændre den i Indstillinger."
           }
         },
         "de" : {
@@ -16058,6 +17150,12 @@
             "value" : "Tvoje zkušenost"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Din oplevelse"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16146,6 +17244,12 @@
             "value" : "Tvůj první výjezd"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Din første udkørsel"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16232,6 +17336,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tvoje starost"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Din bekymring"
           }
         },
         "de" : {

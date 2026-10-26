@@ -106,3 +106,10 @@ Všechny funkce jsou nově zdarma
 Parkuj tolik starostí, kolik potřebuješ
 Časy výjezdu i přehledy zdarma
 Nově ve více jazycích
+
+### App Store (Dansk)
+
+Alle funktioner er nu gratis
+Parkér så mange bekymringer, du vil
+Udkørselstider og indsigt er gratis
+Nu på flere sprog

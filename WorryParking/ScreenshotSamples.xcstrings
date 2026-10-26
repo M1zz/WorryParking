@@ -11,6 +11,12 @@
             "value" : "Požádat šéfa o schůzku mezi čtyřma očima"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bede min chef om en samtale på tomandshånd"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -99,6 +105,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zvládnu tento měsíc doopravdy zaplatit výpis z karty?"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kan jeg overhovedet betale denne måneds kreditkortregning?"
           }
         },
         "de" : {
@@ -191,6 +203,12 @@
             "value" : "Zjistit nájmy v okolí"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tjekke huslejen i kvarteret"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -279,6 +297,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zašel můj vtip u večeře příliš daleko?"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gik min joke til middagen for langt?"
           }
         },
         "de" : {
@@ -371,6 +395,12 @@
             "value" : "Myslím, že jsem pokazil(a) hodnocení za tohle čtvrtletí."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jeg tror, jeg ødelagde kvartalets vurdering."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -459,6 +489,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Na pondělním jednání mě zase zkritizují."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jeg får ballade igen til mødet på mandag."
           }
         },
         "de" : {
@@ -551,6 +587,12 @@
             "value" : "Termín reportu nikdy nestihnu."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jeg når aldrig deadline på rapporten."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -639,6 +681,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Když se u pohovoru zadrhnu, jsem out."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvis jeg stammer til samtalen, er jeg ude."
           }
         },
         "de" : {
@@ -731,6 +779,12 @@
             "value" : "Když mi odejde notebook, přijdu o všechno."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvis min computer går ned, mister jeg alt."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -819,6 +873,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Připadá mi, že přátelé ve skupinovém chatu ignorují jen moje zprávy."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det føles, som om mine venner kun ignorerer mine beskeder i gruppechatten."
           }
         },
         "de" : {
@@ -911,6 +971,12 @@
             "value" : "Zmeškání letu by zničilo celý výlet."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvis jeg misser flyet, er hele turen ødelagt."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -999,6 +1065,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Výsledky maminčiny prohlídky pořád nejsou. Co když našli něco vážného a ona mi to neříká?"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mors undersøgelsesresultater er stadig ikke kommet. Hvad hvis de fandt noget alvorligt, og hun ikke fortæller mig det?"
           }
         },
         "de" : {
@@ -1091,6 +1163,12 @@
             "value" : "Pronajímatel mi zvýší nájem."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Min udlejer vil hæve huslejen."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1179,6 +1257,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Odpověď šéfa byla tak krátká. Udělal(a) jsem něco špatně?"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Min chefs svar var så kort. Gjorde jeg noget forkert?"
           }
         },
         "de" : {
@@ -1271,6 +1355,12 @@
             "value" : "Moje sestra je určitě zraněná tím, co jsem řekl(a)."
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Min søster er sikkert ked af det, jeg sagde."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1359,6 +1449,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nahlas si procvičit tři pravděpodobné otázky"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Øv tre sandsynlige spørgsmål højt"
           }
         },
         "de" : {
@@ -1451,6 +1547,12 @@
             "value" : "Zapnout zálohování do cloudu"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Slå cloud-backup til"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1541,6 +1643,12 @@
             "value" : "Co když mi při zítřejší prezentaci vypadne text a všichni si budou myslet, že nejsem dost dobrý?"
           }
         },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvad hvis jeg går i stå under præsentationen i morgen, og alle tror, jeg ikke er god nok?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1629,6 +1737,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Co když prohlídka něco odhalí?"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvad hvis undersøgelsen finder noget?"
           }
         },
         "de" : {
