@@ -83,6 +83,12 @@
             "value" : "걱정 주차장"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bekymringsparkering"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -201,6 +207,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "걱정 주차장"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bekymringsparkering"
           }
         },
         "pt-BR" : {

@@ -78,6 +78,12 @@
             "value" : "%1$lld/%2$lld칸 사용 중"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$lld av %2$lld plasser i bruk"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -190,6 +196,12 @@
             "value" : "%lld대 주차 중"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld parkert"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -300,6 +312,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "확인한 걱정 중 %lld%%는 실제로 일어나지 않았어요."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld %% av frykten du sjekket, inntraff ikke."
           }
         },
         "pt-BR" : {
@@ -417,6 +435,12 @@
             "value" : "밤 11시 40분, 내일 일이 머릿속에서 계속 재생돼요. 떠오르는 그대로 적고, 얼마나 크게 울리는지 골라요."
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klokka 23.40, og hodet ditt spiller av i morgen om og om igjen. Skriv bekymringen akkurat slik den høres ut, og vurder hvor høy den er."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -527,6 +551,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "오후 6시, 발표는 끝났어요. 걱정한 일이 일어났나요? 아니요. 강도가 4에서 1로 내려가서 떠나보냈고, 출차 기록에 남았어요."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klokka 18.00, presentasjonen er over. Skjedde det? Egentlig ikke. Bekymringen sank fra 4 til 1, så du lot den gå, og den ble lagt til i utkjøringsloggen din."
           }
         },
         "pt-BR" : {
@@ -641,6 +671,12 @@
             "value" : "생각이 많은 날엔, 더 넓은 주차장."
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En større parkeringsplass for et travelt hode."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -751,6 +787,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "매일 15분, 잠들기 몇 시간 전이 좋아요. 걱정이 출차 준비가 되면 살짝 알려드릴게요."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "15 minutter hver dag, helst et par timer før leggetid. Vi gir deg en liten dytt når en bekymring er klar til henting."
           }
         },
         "pt-BR" : {
@@ -865,6 +907,12 @@
             "value" : "조금 가벼워졌어요"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Litt lettere"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -975,6 +1023,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "속삭이는 정도"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En hvisking"
           }
         },
         "pt-BR" : {
@@ -1089,6 +1143,12 @@
             "value" : "정보"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Om"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1199,6 +1259,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "비슷해요"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Omtrent det samme"
           }
         },
         "pt-BR" : {
@@ -1313,6 +1379,12 @@
             "value" : "주차하고 나니 기분이 어때요?"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvordan har du det nå som du har parkert den?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1423,6 +1495,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "출차 알림 허용"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tillat hentepåminnelser"
           }
         },
         "pt-BR" : {
@@ -1537,6 +1615,12 @@
             "value" : "알림 허용하고 계속"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tillat påminnelser og fortsett"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1647,6 +1731,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "끝나지 않은 걱정은 잊으면 안 된다는 긴장 때문에 머릿속에서 계속 되감겨요. 다시 볼 시간을 정해 두고 적어 두면, 뇌는 ‘일단 맡겨 뒀다’고 받아들여요."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En uferdig bekymring spiller seg om igjen fordi sinnet ditt er redd for å glemme den. Når du skriver den ned og avtaler et tidspunkt for å komme tilbake til den, forteller du hjernen at den er tatt hånd om for nå."
           }
         },
         "pt-BR" : {
@@ -1761,6 +1851,12 @@
             "value" : "더 하고 싶은 말이 있나요? (선택)"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Noe mer? (valgfritt)"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1871,6 +1967,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "평균 강도 감소"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gj.snittlig fall i styrke"
           }
         },
         "pt-BR" : {
@@ -1985,6 +2087,12 @@
             "value" : "처음"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Før"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2095,6 +2203,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "감당할 수 있을 때 정확히 그 시간에 꺼내요."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hent frem en bekymring akkurat når du klarer å ta den."
           }
         },
         "pt-BR" : {
@@ -2209,6 +2323,12 @@
             "value" : "취소"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avbryt"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2319,6 +2439,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "실제로 일어났는지 확인하기"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sjekk hva som faktisk skjedde"
           }
         },
         "pt-BR" : {
@@ -2433,6 +2559,12 @@
             "value" : "잠들기 몇 시간 전으로 정해 주세요. 새 걱정은 이 시간까지 주차돼요. 이미 주차된 걱정은 원래 출차 시간을 유지해요."
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Velg et tidspunkt et par timer før leggetid. Nye bekymringer blir stående parkert til da. Bekymringer som allerede er parkert, beholder utkjøringstiden sin."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2543,6 +2675,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "닫기"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lukk"
           }
         },
         "pt-BR" : {
@@ -2657,6 +2795,12 @@
             "value" : "계속"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fortsett"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2767,6 +2911,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "개수"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Antall"
           }
         },
         "pt-BR" : {
@@ -2881,6 +3031,12 @@
             "value" : "출차 시간 직접 지정"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Egne utkjøringstider"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2991,6 +3147,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "직접 지정"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eget tidspunkt"
           }
         },
         "pt-BR" : {
@@ -3105,6 +3267,12 @@
             "value" : "걱정했던 일이 실제로 일어났나요?"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skjedde det du fryktet, egentlig?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3215,6 +3383,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "안 일어남"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skjedde ikke"
           }
         },
         "pt-BR" : {
@@ -3329,6 +3503,12 @@
             "value" : "완료"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ferdig"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3439,6 +3619,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "출차하기"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kjør ut"
           }
         },
         "pt-BR" : {
@@ -3553,6 +3739,12 @@
             "value" : "걱정 다시 쓰기"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rediger bekymringen min"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3663,6 +3855,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "빈자리"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ledig"
           }
         },
         "pt-BR" : {
@@ -3777,6 +3975,12 @@
             "value" : "작성한 내용은 모두 이 기기에만 저장돼요. 알림에는 걱정 내용이 절대 표시되지 않아요."
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alt du skriver, blir på denne enheten. Varsler inneholder aldri teksten fra bekymringen din."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3887,6 +4091,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "출차"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UT"
           }
         },
         "pt-BR" : {
@@ -4001,6 +4211,12 @@
             "value" : "출차"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utkjøring"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4111,6 +4327,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "출차 게이트"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utkjørselsbom"
           }
         },
         "pt-BR" : {
@@ -4225,6 +4447,12 @@
             "value" : "출차 게이트 · P%lld"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utkjørselsbom · P%lld"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4335,6 +4563,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "출차 게이트 · P1"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utkjørselsbom · P1"
           }
         },
         "pt-BR" : {
@@ -4449,6 +4683,12 @@
             "value" : "출차 인사이트"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Innsikt om utkjøringer"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4559,6 +4799,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "출차 기록"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utkjøringslogg"
           }
         },
         "pt-BR" : {
@@ -4673,6 +4919,12 @@
             "value" : "출차 시간"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utkjøringstid"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4783,6 +5035,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "출차 완료"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kjørt ut"
           }
         },
         "pt-BR" : {
@@ -4897,6 +5155,12 @@
             "value" : "%@ 후 출차"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utkjøring om %@"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5007,6 +5271,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "첫 출차"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Første utkjøring"
           }
         },
         "pt-BR" : {
@@ -5121,6 +5391,12 @@
             "value" : "처음 주차했을 때"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Første gang du parkerte"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5231,6 +5507,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "지금은 이것만 온전히 들여다보세요."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gi den hele oppmerksomheten din. Det er det eneste du skal gjøre akkurat nå."
           }
         },
         "pt-BR" : {
@@ -5345,6 +5627,12 @@
             "value" : "사라짐"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Borte"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5455,6 +5743,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "무거움"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tung"
           }
         },
         "pt-BR" : {
@@ -5569,6 +5863,12 @@
             "value" : "이력"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Historikk"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5679,6 +5979,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "해 보니 어땠어요?"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvordan føltes det?"
           }
         },
         "pt-BR" : {
@@ -5793,6 +6099,12 @@
             "value" : "지금은 얼마나 크게 울리나요?"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvor høy er den nå?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5905,6 +6217,12 @@
             "value" : "지금 얼마나 크게 울리나요?"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvor høy er den akkurat nå?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6015,6 +6333,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "다시 머릿속으로 들어오면 알아차리고 이렇게 말해 주세요. '이미 자리가 있어. 걱정 시간에 다룰 거야.'"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvis den kjører inn i hodet ditt igjen, legg merke til det og si til deg selv: den har en plass. Du tar den ved bekymringstid."
           }
         },
         "pt-BR" : {
@@ -6131,6 +6455,12 @@
             "value" : "걱정이 자꾸 돌아왔다면, 떠오를 때마다 짧게 “이미 자리가 있어”라고 말하고 하던 일로 돌아가 보세요. 걱정이 일상을 크게 방해한다면 전문가와 이야기해 보는 것이 큰 도움이 될 수 있어요."
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvis den fortsatte å komme tilbake, prøv å si et kort «du har allerede en plass» og gå tilbake til det du holdt på med. Hvis bekymringer står i veien for dagene dine, kan det hjelpe mye å snakke med en fagperson."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6241,6 +6571,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "입차"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "INN"
           }
         },
         "pt-BR" : {
@@ -6355,6 +6691,12 @@
             "value" : "덜 신경 쓰였어요"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Den plaget meg mindre"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6465,6 +6807,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "더 신경 쓰였어요"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Den plaget meg mer"
           }
         },
         "pt-BR" : {
@@ -6579,6 +6927,12 @@
             "value" : "일어나지 않았어요"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skjedde ikke"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6691,6 +7045,12 @@
             "value" : "일어났어요"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skjedde"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6801,6 +7161,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "주차할 때는 %lld였어요."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Den var %lld da du parkerte den."
           }
         },
         "pt-BR" : {
@@ -6917,6 +7283,12 @@
             "value" : "오히려 더 신경 쓰여요"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jeg tenker mer på den"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7027,6 +7399,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이제 첫 번째일 뿐이에요. 연구에서도 효과는 몇 주에 걸쳐 쌓였어요. 몇 번 더 주차해 보고 출차 기록에서 비교해 보세요."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dette er bare den første. I studier bygde effekten seg opp over noen uker. Parker noen flere, og sammenlign dem i utkjøringsloggen din."
           }
         },
         "pt-BR" : {
@@ -7141,6 +7519,12 @@
             "value" : "주차장을 떠났어요. 이제 보내주세요."
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Den har kjørt ut av parkeringsplassen. La den kjøre."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7251,6 +7635,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "내일 걱정 시간까지 주차해 뒀어요. 샤워하다 다시 떠오르면 '이미 자리가 있어'라고만 말해 주세요."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Den er parkert til bekymringstid i morgen. Når den dukker opp igjen i dusjen, si bare til deg selv: den har allerede en plass."
           }
         },
         "pt-BR" : {
@@ -7365,6 +7755,12 @@
             "value" : "걱정 시간이에요. %lld분만 집중해서 들여다보고 어떻게 할지 정해요."
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det er bekymringstid. Gi den %lld minutter med full oppmerksomhet, og bestem så hva du vil gjøre med den."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7475,6 +7871,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "계속 주차해 두기"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Behold den parkert"
           }
         },
         "pt-BR" : {
@@ -7589,6 +7991,12 @@
             "value" : "계속 주차해 보세요. 몇 번 출차하면 패턴이 보여요."
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fortsett å parkere. Mønstre viser seg etter noen utkjøringer."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7699,6 +8107,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "나중에"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Senere"
           }
         },
         "pt-BR" : {
@@ -7813,6 +8227,12 @@
             "value" : "떠나보내기"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La den gå"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7923,6 +8343,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "강도"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "STYRKE"
           }
         },
         "pt-BR" : {
@@ -8037,6 +8463,12 @@
             "value" : "강도 5 중 %1$lld, %2$@"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Styrke %lld av 5, %@"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8147,6 +8579,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "강도 %1$lld → %2$lld"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Styrke %lld → %lld"
           }
         },
         "pt-BR" : {
@@ -8263,6 +8701,12 @@
             "value" : "걱정을 똑바로 들여다보면 처음엔 더 크게 느껴질 수 있어요. 지금 해결하지 않아도 돼요. 이 걱정이 할 일은 걱정 시간까지 기다리는 것뿐이에요."
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Å se en bekymring rett i øynene kan få den til å føles større i starten. Du trenger ikke løse den nå. Eneste oppgave den har, er å vente til bekymringstid."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8373,6 +8817,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "주차장"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parkering"
           }
         },
         "pt-BR" : {
@@ -8487,6 +8937,12 @@
             "value" : "크게 울림"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Høy"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8597,6 +9053,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "계획 세움"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Laget en plan"
           }
         },
         "pt-BR" : {
@@ -8711,6 +9173,12 @@
             "value" : "계획 세우기"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lag en plan"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8821,6 +9289,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "구체적인 계획을 세우면 끝나지 않은 일이 생각에 덜 끼어들었고, 자기 전 5분 동안 할 일을 적은 사람들은 더 빨리 잠들었어요."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En konkret plan hindret uferdige oppgaver i å trenge seg inn i tankene, og fem minutters skriving før leggetid hjalp folk å sovne raskere."
           }
         },
         "pt-BR" : {
@@ -8935,6 +9409,12 @@
             "value" : "구독 관리"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Administrer abonnement"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9045,6 +9525,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "계속 신경 쓰임"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plagsom"
           }
         },
         "pt-BR" : {
@@ -9159,6 +9645,12 @@
             "value" : "다음"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neste"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9269,6 +9761,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "다음 걱정 시간"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neste bekymringstid"
           }
         },
         "pt-BR" : {
@@ -9383,6 +9881,12 @@
             "value" : "다음 걱정 시간: %@"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neste bekymringstid: %@"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9493,6 +9997,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "아직 출차한 걱정이 없어요"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ingen utkjøringer ennå"
           }
         },
         "pt-BR" : {
@@ -9607,6 +10117,12 @@
             "value" : "나중에"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ikke nå"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9719,6 +10235,12 @@
             "value" : "아직 준비가 안 됐어요. 다음 걱정 시간에 다시 꺼내요."
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ikke klar ennå. Hent den frem igjen ved neste bekymringstid."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9829,6 +10351,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "알림이 꺼져 있어요"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Varsler er slått av"
           }
         },
         "pt-BR" : {
@@ -9945,6 +10473,12 @@
             "value" : "지금"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nå"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10055,6 +10589,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "주차하고 나니, 지금은 얼마나 크게 울리나요?"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nå som den er parkert, hvor høy er den?"
           }
         },
         "pt-BR" : {
@@ -10169,6 +10709,12 @@
             "value" : "실제 걱정 하나가 밤 11시 40분부터 다음 날 걱정 시간까지 가는 과정이에요."
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Én ekte bekymring, fra klokka 23.40 til bekymringstid dagen etter."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10279,6 +10825,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "작은 다음 행동 하나"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ett lite neste steg"
           }
         },
         "pt-BR" : {
@@ -10393,6 +10945,12 @@
             "value" : "iOS 설정 열기"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Åpne innstillinger i iOS"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10503,6 +11061,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "압도됨"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Overveldende"
           }
         },
         "pt-BR" : {
@@ -10623,6 +11187,12 @@
             "value" : "P%lld 출차 준비 완료"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "P%lld er klar til henting"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10738,6 +11308,12 @@
             "value" : "P%1$lld · 주차권 #%2$@"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "P%1$lld · Billett nr. %2$@"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10848,6 +11424,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%1$lld/%2$lld 페이지"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Side %1$lld av %2$lld"
           }
         },
         "pt-BR" : {
@@ -10962,6 +11544,12 @@
             "value" : "주차"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parker"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11072,6 +11660,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "걱정 주차하기"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parker en bekymring"
           }
         },
         "pt-BR" : {
@@ -11186,6 +11780,12 @@
             "value" : "P%lld에 주차"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parker på P%lld"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11296,6 +11896,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "3개 제한 없이 모든 걱정을 주차해요."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parker alle bekymringer, ikke bare tre."
           }
         },
         "pt-BR" : {
@@ -11410,6 +12016,12 @@
             "value" : "다시 주차하기"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parker på nytt"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11520,6 +12132,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ 주차"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parkert %@"
           }
         },
         "pt-BR" : {
@@ -11634,6 +12252,12 @@
             "value" : "P%lld에 주차했어요"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parkert på P%lld"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11744,6 +12368,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@까지 주차 중"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parkert til %@"
           }
         },
         "pt-BR" : {
@@ -11858,6 +12488,12 @@
             "value" : "주차된 걱정은 출차 시간까지 숨겨져 있어요. 지금 짊어지고 있지 않아도 돼요."
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parkerte bekymringer er skjult til utkjøringstiden. Du trenger ikke bære på dem akkurat nå."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11970,6 +12606,12 @@
             "value" : "주차 중. 지금은 네 일이 아니야."
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parkert. Ikke din jobb akkurat nå."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12080,6 +12722,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "일부만"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delvis"
           }
         },
         "pt-BR" : {
@@ -12196,6 +12844,12 @@
             "value" : "걱정을 매일 짧은 걱정 시간으로 옮긴 사람들은 걱정하는 시간이 줄고, 불안과 수면 문제도 덜 겪었다고 보고했어요."
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Folk som flyttet bekymringene til en kort daglig bekymringsperiode, brukte mindre tid på å bekymre seg og rapporterte mindre angst og færre søvnproblemer."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12306,6 +12960,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "걱정 시간을 정해요"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Velg bekymringstiden din"
           }
         },
         "pt-BR" : {
@@ -12420,6 +13080,12 @@
             "value" : "걱정 미루기가 효과를 내고 있어요. 다음 걱정도 여기에 주차해 보세요."
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utsettelse fungerer for deg. Prøv å parkere den neste også."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12530,6 +13196,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "미루기는 기다릴 때 가장 효과가 좋아요. 대부분의 걱정은 걱정 시간이 되면 작아져 있어요."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utsettelse fungerer best når du venter. Ved bekymringstid føles de fleste bekymringer mindre."
           }
         },
         "pt-BR" : {
@@ -12644,6 +13316,12 @@
             "value" : "개인정보 처리방침"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Personvernerklæring"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12754,6 +13432,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pro 사용 중"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro er aktiv"
           }
         },
         "pt-BR" : {
@@ -12868,6 +13552,12 @@
             "value" : "Pro 전용 칸"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro-plass"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12978,6 +13668,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "출차 준비 완료"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klar til henting"
           }
         },
         "pt-BR" : {
@@ -13092,6 +13788,12 @@
             "value" : "알림"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Påminnelser"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13202,6 +13904,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "연구 결과는 평균적인 경향이며, 효과는 사람마다 다를 수 있어요. 걱정 주차장은 스스로 돌보기 위한 도구이며 의료기기나 치료가 아니에요."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forskning beskriver gjennomsnittlige effekter, og resultatene varierer fra person til person. Bekymringsparkering er et selvhjelpsverktøy, ikke et medisinsk utstyr eller en behandling."
           }
         },
         "pt-BR" : {
@@ -13316,6 +14024,12 @@
             "value" : "연구 출처"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forskningsreferanser"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13426,6 +14140,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "구매 복원"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gjenopprett kjøp"
           }
         },
         "pt-BR" : {
@@ -13540,6 +14260,12 @@
             "value" : "결과"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resultat"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13650,6 +14376,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "일찍 꺼내기"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hent tidlig"
           }
         },
         "pt-BR" : {
@@ -13764,6 +14496,12 @@
             "value" : "이 걱정을 일찍 꺼낼까요?"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hente denne bekymringen tidlig?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13874,6 +14612,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "걱정한 일 중 실제로 일어난 게 얼마나 되는지 확인해요."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se hvor mye av frykten din som faktisk inntraff."
           }
         },
         "pt-BR" : {
@@ -13988,6 +14732,12 @@
             "value" : "걱정 중 실제로 일어난 게 얼마나 되는지 확인해 보세요"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se hvor mange av bekymringene dine som faktisk skjedde"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14098,6 +14848,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "예시로 살펴보기"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se hvordan det fungerer"
           }
         },
         "pt-BR" : {
@@ -14212,6 +14968,12 @@
             "value" : "지금 출차 게이트로 보내기"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Send den til utkjørselsbommen nå"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14322,6 +15084,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "설정"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Innstillinger"
           }
         },
         "pt-BR" : {
@@ -14436,6 +15204,12 @@
             "value" : "나중에 해 볼게요"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hopp over for nå"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14546,6 +15320,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld번 칸. 비어 있음. 여기에 걱정을 주차하세요."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plass %lld. Ledig. Parker en bekymring her."
           }
         },
         "pt-BR" : {
@@ -14660,6 +15440,12 @@
             "value" : "%lld번 칸. Pro 전용, 잠김."
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plass %lld. Pro-plass, låst."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14770,6 +15556,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%1$lld번 칸. %2$@까지 걱정 주차 중."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plass %1$lld. Bekymring parkert til %2$@."
           }
         },
         "pt-BR" : {
@@ -14884,6 +15676,12 @@
             "value" : "%lld번 칸. 출차 준비 완료."
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plass %lld. Bekymring klar til henting."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14994,6 +15792,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "시작하기"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start"
           }
         },
         "pt-BR" : {
@@ -15108,6 +15912,12 @@
             "value" : "점선을 따라 쓱 그어서 주차하세요"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sveip langs den stiplede linjen for å parkere"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15218,6 +16028,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "점선을 따라 쓱 그어 보세요. 티켓이 끊기는 순간, 이 걱정은 %@까지 주차돼요."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sveip langs den stiplede linjen. Når billetten er revet av, er denne bekymringen parkert til %@."
           }
         },
         "pt-BR" : {
@@ -15332,6 +16148,12 @@
             "value" : "천천히 숨을 한 번 쉬어 보세요. 지금은 이 걱정에 대해 할 일이 없어요."
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ta ett langsomt åndedrag. Det er ingenting å gjøre med den akkurat nå."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15442,6 +16264,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "티켓을 끊어서 주차하기"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riv av billetten for å parkere"
           }
         },
         "pt-BR" : {
@@ -15556,6 +16384,12 @@
             "value" : "티켓을 끊어요"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riv av billetten din"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15666,6 +16500,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이용약관"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bruksvilkår"
           }
         },
         "pt-BR" : {
@@ -15780,6 +16620,12 @@
             "value" : "충분히 그럴 수 있어요. 효과는 몇 분이 아니라 며칠에 걸쳐 쌓여요. 다시 떠오르면 “이미 자리가 있어”라고 말해 주고, 걱정 시간에 어떻게 느껴지는지 확인해 보세요."
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det er helt normalt. Effekten bygger seg vanligvis opp over dager, ikke minutter. Når den dukker opp igjen, si «du har allerede en plass» og se hvordan det føles ved bekymringstid."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15890,6 +16736,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "그게 걱정 미루기의 첫 효과예요. 적어서 자리를 정해 주면 머리가 더 이상 붙잡고 있지 않아도 돼요. 걱정 시간에 다시 만나요."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det er den første effekten av utsettelse. Når en bekymring er skrevet ned og har en plass, trenger ikke sinnet ditt å holde fast i den. Vi sees ved bekymringstid."
           }
         },
         "pt-BR" : {
@@ -16004,6 +16856,12 @@
             "value" : "그다음 걱정 시간"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bekymringstiden etter det"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16114,6 +16972,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "주차권 #%@"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Billett nr. %@"
           }
         },
         "pt-BR" : {
@@ -16228,6 +17092,12 @@
             "value" : "오늘 %@"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "i dag kl. %@"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16338,6 +17208,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "내일 %@"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "i morgen kl. %@"
           }
         },
         "pt-BR" : {
@@ -16452,6 +17328,12 @@
             "value" : "아직 모르겠어요"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "For tidlig å si"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16562,6 +17444,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "직접 해 봐요"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prøv nå"
           }
         },
         "pt-BR" : {
@@ -16676,6 +17564,12 @@
             "value" : "작은 다음 행동 하나로 바꿔요."
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gjør den om til ett lite neste steg."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16786,6 +17680,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "주차 칸 무제한"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ubegrenset med parkeringsplasser"
           }
         },
         "pt-BR" : {
@@ -16900,6 +17800,12 @@
             "value" : "무제한 주차 칸, 출차 시간 지정, 인사이트"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ubegrenset med plasser, egne utkjøringstider, innsikt"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17010,6 +17916,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pro로 인사이트 잠금 해제"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lås opp innsikt med Pro"
           }
         },
         "pt-BR" : {
@@ -17124,6 +18036,12 @@
             "value" : "걱정이 출차 준비되면 알려드릴게요."
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vi gir deg beskjed når en bekymring er klar til henting."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17234,6 +18152,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이 걱정을 어떻게 할까요?"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hva vil du gjøre med den?"
           }
         },
         "pt-BR" : {
@@ -17348,6 +18272,12 @@
             "value" : "내일 발표 때 머리가 하얘져서 다들 내가 무능하다고 생각하면 어떡하지?"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hva om jeg stopper helt opp under presentasjonen i morgen, og alle tror jeg ikke er flink nok?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17458,6 +18388,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "걱정한 일이 일어나지 않았어요. 이런 출차가 출차 기록에 쌓이면, 내 걱정이 얼마나 자주 빗나가는지 눈으로 볼 수 있어요."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det du fryktet, skjedde ikke. Hver utkjøring som denne havner i utkjøringsloggen din, så du ser hvor ofte bekymringene dine tar feil."
           }
         },
         "pt-BR" : {
@@ -17572,6 +18508,12 @@
             "value" : "머릿속에 맴도는 게 뭔가요?"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hva går rundt i hodet ditt?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17682,6 +18624,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "만성적으로 걱정하는 사람들이 자기 걱정을 기록해 보니, %lld%%는 실제로 일어나지 않았어요."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Da folk med kroniske bekymringer registrerte bekymringene sine, inntraff %lld %% av dem ikke."
           }
         },
         "pt-BR" : {
@@ -17796,6 +18744,12 @@
             "value" : "언제 다시 꺼낼까요?"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Når skal den komme tilbake?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17906,6 +18860,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "주차해 둔 동안, 이 걱정은 어땠어요?"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvordan føltes denne bekymringen mens den sto parkert?"
           }
         },
         "pt-BR" : {
@@ -18020,6 +18980,12 @@
             "value" : "왜 효과가 있을까요?"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvorfor det virker"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18132,6 +19098,12 @@
             "value" : "알림이 없으면 주차된 걱정이 주차장에서 조용히 기다리기만 해요."
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uten dem venter parkerte bekymringer bare stille på parkeringsplassen."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18242,6 +19214,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "걱정을 밤새 태우고 다닐 필요는 없어요.\n여기에 주차해 두세요. 걱정 시간까지 맡아둘게요."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bekymringer trenger ikke å kjøre med deg hele natten.\nParker dem her. Vi tar vare på dem til bekymringstiden din."
           }
         },
         "pt-BR" : {
@@ -18358,6 +19336,12 @@
             "value" : "걱정은 침대에서, 샤워하다가, 퇴근길에 어디서든 튀어나와요. 걱정에 따로 시간을 정해 주면, 뇌는 나머지 시간은 걱정할 때가 아니라는 걸 배워요. 심리학에서는 이를 ‘자극 통제’라고 불러요."
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bekymringer dukker opp overalt: i sengen, i dusjen, på vei hjem. Når bekymring får sin egen tid, lærer hjernen at resten av dagen ikke er til det. Psykologer kaller dette stimuluskontroll."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18468,6 +19452,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "출차 게이트에서 돌아본 걱정이 여기에 쌓여요. 시간이 지나면 실제로 일어난 게 얼마나 되는지 보여요."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bekymringer du går gjennom ved utkjørselsbommen, havner her. Over tid ser du hvor mange av dem som faktisk skjedde."
           }
         },
         "pt-BR" : {
@@ -18582,6 +19572,12 @@
             "value" : "정해진 시간에만 걱정하기"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bekymre deg til ett fast tidspunkt"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18692,6 +19688,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "걱정 주차장"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "BEKYMRINGSPARKERING"
           }
         },
         "pt-BR" : {
@@ -18806,6 +19808,12 @@
             "value" : "걱정 주차장"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bekymringsparkering"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18918,6 +19926,12 @@
             "value" : "걱정 주차장은 셀프 케어 도구이며 의료기기나 전문 치료를 대신하지 않아요. 많이 힘들다면 정신건강 전문가나 가까운 응급 기관(정신건강 위기상담 109)에 도움을 요청하세요."
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bekymringsparkering er et selvhjelpsverktøy, ikke et medisinsk utstyr eller en erstatning for profesjonell hjelp. Hvis du har det vanskelig, ta kontakt med en fagperson innen psykisk helse eller lokale nødtjenester."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19028,6 +20042,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "걱정 주차장은 인지행동치료(CBT)에서 쓰는 자극 통제 기법인 '걱정 미루기'를 바탕으로 해요. 걱정과 싸우는 대신 정해진 시간으로 미뤄두고, 그때 다시 들여다봐요."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bekymringsparkering bygger på bekymringsutsettelse, en stimuluskontrollteknikk fra kognitiv atferdsterapi (KAT): I stedet for å kjempe mot en bekymring gir du den et fast tidspunkt og vender tilbake til den da."
           }
         },
         "pt-BR" : {
@@ -19144,6 +20164,12 @@
             "value" : "걱정 주차장은 인지행동치료(CBT)에서 수십 년간 연구된 ‘걱정 미루기’ 기법을 바탕으로 만들었어요."
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bekymringsparkering bygger på bekymringsutsettelse, en teknikk fra kognitiv atferdsterapi (KAT) som har vært forsket på i flere tiår."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19254,6 +20280,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "걱정 주차장 Pro"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bekymringsparkering Pro"
           }
         },
         "pt-BR" : {
@@ -19368,6 +20400,12 @@
             "value" : "걱정은 미래를 실제보다 나쁘게 예측해요. 출차 게이트에서 정말 일어났는지 기록하다 보면, 출차 기록이 내 걱정이 얼마나 자주 빗나갔는지 보여 줘요."
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bekymring forutsier fremtiden verre enn den som regel blir. Ved utkjørselsbommen noterer du om det faktisk skjedde, så utkjøringsloggen din over tid viser hvor ofte bekymringene dine tok feil."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19480,6 +20518,12 @@
             "value" : "걱정 시간"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bekymringstid"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19590,6 +20634,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "적기"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skriv"
           }
         },
         "pt-BR" : {
@@ -19706,6 +20756,12 @@
             "value" : "지금 머릿속에 있는 걱정 하나를 적어 보세요. 실제로 주차되고, %@에 다시 돌아와요."
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skriv én bekymring som opptar deg akkurat nå. Den blir virkelig parkert og kommer tilbake %@."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19816,6 +20872,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "적어서 내려놓기"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skriv det ned for å slippe taket"
           }
         },
         "pt-BR" : {
@@ -19930,6 +20992,12 @@
             "value" : "머릿속에서 들리는 그대로 적어 보세요."
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skriv den akkurat slik den høres ut i hodet ditt."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20042,6 +21110,12 @@
             "value" : "지금은 이걸 짊어지지 않아도 돼요. %@에 다시 가져다 드릴게요."
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du trenger ikke bære på dette akkurat nå. Vi tar den med tilbake %@."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20152,6 +21226,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "걱정을 미뤄 두었다가 정해 둔 때에 다시 마주했어요. 이게 이 기법의 전부예요."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du utsatte en bekymring og vendte bevisst tilbake til den. Det er hele teknikken."
           }
         },
         "pt-BR" : {
@@ -20268,6 +21348,12 @@
             "value" : "답변은 이 iPhone에만 저장돼요. 출차 기록에서 다시 볼 수 있어요."
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Svarene dine blir på denne iPhonen. Du kan se dem igjen i utkjøringsloggen din."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20378,6 +21464,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "매일 걱정 시간은 %@예요. 설정에서 바꿀 수 있어요."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Din daglige bekymringstid er %@. Du kan endre den i Innstillinger."
           }
         },
         "pt-BR" : {
@@ -20492,6 +21584,12 @@
             "value" : "내 체험 기록"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Din opplevelse"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20604,6 +21702,12 @@
             "value" : "첫 출차를 마쳤어요"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Din første utkjøring"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20714,6 +21818,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "내 걱정"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bekymringen din"
           }
         },
         "pt-BR" : {

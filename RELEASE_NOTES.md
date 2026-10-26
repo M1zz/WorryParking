@@ -134,3 +134,10 @@ Semua fitur kini gratis
 Parkir sebanyak apa pun kekhawatiranmu
 Waktu keluar dan wawasan juga gratis
 Kini tersedia dalam lebih banyak bahasa
+
+### App Store (Norsk bokmål)
+
+Alle funksjoner er nå gratis
+Parker så mange bekymringer du vil
+Utkjøringstider og innsikt er gratis
+Nå på flere språk

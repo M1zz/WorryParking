@@ -1348,3 +1348,74 @@ https://m1zz.github.io/WorryParking/id/privacy.html
 ### 마케팅 URL
 
 https://m1zz.github.io/WorryParking/id/index.html
+
+## nb
+
+### 이름
+
+Bekymringsparkering
+
+### 부제
+
+Gjem tankene til senere
+
+### 키워드
+
+angst,søvn,søvnløshet,KAT,CBT,stress,dagbok,mindfulness,avslapning,selvhjelp,ro,grubling,velvære
+
+### 프로모션 텍스트
+
+Skriv ned bekymringen som går i ring, og parker den. Gi den 15 minutter ved bekymringstid, så blir resten av dagen lettere. Bygger på KAT.
+
+### 설명
+
+Går den samme bekymringen i ring i hodet ditt hver kveld?
+Bekymringsparkering gir den en plass. Skriv den ned, parker den, så tar vi den med tilbake til bekymringstiden din. Til da trenger du ikke bære på den.
+
+SLIK FUNGERER DET
+1. Skriv: sett ord på bekymringen akkurat slik den høres ut, og vurder fra 1 til 5 hvor høy den er.
+2. Parker: parkerte bekymringer blir uskarpe. Hvis en kjører inn i hodet ditt igjen, si til den: du har allerede en plass.
+3. Utkjørselsbom: når bekymringstiden kommer, gi den 15 minutter med full oppmerksomhet. Sjekk om det faktisk skjedde, og la den så gå, lag en liten plan eller parker den på nytt.
+
+HVORFOR DET VIRKER
+Bekymringsparkering bygger på bekymringsutsettelse, en teknikk fra kognitiv atferdsterapi (KAT) som har vært forsket på i flere tiår.
+
+• Bekymre deg til ett fast tidspunkt
+Bekymringer dukker opp overalt: i sengen, i dusjen, på vei hjem. Når bekymring får sin egen tid, lærer hjernen at resten av dagen ikke er til det. Folk som flyttet bekymringene til en kort daglig bekymringsperiode, brukte mindre tid på å bekymre seg og rapporterte mindre angst og færre søvnproblemer. (Borkovec m.fl., 1983; McGowan & Behar, 2013)
+
+• Skriv det ned for å slippe taket
+En uferdig bekymring spiller seg om igjen fordi sinnet ditt er redd for å glemme den. En konkret plan hindret uferdige oppgaver i å trenge seg inn i tankene, og fem minutters skriving før leggetid hjalp folk å sovne raskere. (Masicampo & Baumeister, 2011; Scullin m.fl., 2018)
+
+• Sjekk hva som faktisk skjedde
+Bekymring forutsier fremtiden verre enn den som regel blir. Da folk med kroniske bekymringer registrerte bekymringene sine, inntraff 91 % av dem ikke. (LaFreniere & Newman, 2020)
+
+PRØV DET UMIDDELBART
+Under introduksjonen parkerer du en ekte bekymring og ser hvordan styrken endrer seg før og etter. Hvordan det føltes, lagres under «Din opplevelse», så du kan se tilbake senere.
+
+UTKJØRINGSLOGG
+Etter hvert som gjennomgåtte bekymringer samler seg, ser du hvor stor del av frykten din som faktisk inntraff, og hvor mye styrken i gjennomsnitt falt.
+
+PRIVAT FRA GRUNNEN AV
+• Ingen konto, ingen servere, ingen reklame, ingen analyse. Alt du skriver, blir på iPhonen din.
+• Varsler viser bare plassnummeret, for eksempel «P3 er klar til henting». Teksten fra bekymringen din er aldri med.
+
+DET ER MED I APPEN
+• Ubegrenset med plasser, egne utkjøringstider, daglige påminnelser om bekymringstid
+• Utkjørselsbom, utkjøringslogg og innsikt om utkjøringer
+
+Bruksvilkår: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Personvernerklæring: https://m1zz.github.io/WorryParking/nb/privacy.html
+
+Bekymringsparkering er et selvhjelpsverktøy. Det er ikke et medisinsk utstyr og erstatter ikke profesjonell diagnose eller behandling. Hvis du har det vanskelig, ta kontakt med en fagperson innen psykisk helse eller lokale nødtjenester.
+
+### 지원 URL
+
+https://m1zz.github.io/WorryParking/nb/support.html
+
+### 개인정보처리방침 URL
+
+https://m1zz.github.io/WorryParking/nb/privacy.html
+
+### 마케팅 URL
+
+https://m1zz.github.io/WorryParking/nb/index.html
