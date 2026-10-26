@@ -1,6 +1,9 @@
 import Foundation
 
 enum AppConfig {
+    /// While false, every Pro feature is free and no purchase UI is shown.
+    /// Flip back on once the subscription is approved in App Store Connect.
+    static let subscriptionsEnabled = false
     /// Free users can park this many worries at once. Pro is unlimited.
     static let freeSpotLimit = 3
     /// Length of a Worry Time session at the exit gate.

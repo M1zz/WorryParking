@@ -9,11 +9,12 @@ final class StoreManager {
     static let proMonthlyID = "com.devkoan.worryparking.pro.monthly"
     static let productIDs = [proMonthlyID]
 
-    private(set) var isPro = false
+    private(set) var isPro = !AppConfig.subscriptionsEnabled
 
     @ObservationIgnored private var updatesTask: Task<Void, Never>?
 
     func start() async {
+        guard AppConfig.subscriptionsEnabled else { return }
         if updatesTask == nil {
             updatesTask = Task { [weak self] in
                 for await update in Transaction.updates {

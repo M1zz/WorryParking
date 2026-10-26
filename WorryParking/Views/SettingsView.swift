@@ -31,20 +31,22 @@ struct SettingsView: View {
                     notificationRow
                 }
 
-                Section("Worry Parking Pro") {
-                    if store.isPro {
-                        Label("Pro is active", systemImage: "checkmark.seal.fill")
-                            .foregroundStyle(Theme.readyGreen)
-                        Button("Manage subscription") { showingManageSubscription = true }
-                    } else {
-                        Button {
-                            showingPaywall = true
-                        } label: {
-                            Label("Unlimited spots, custom exit times, insights", systemImage: "sparkles")
+                if AppConfig.subscriptionsEnabled {
+                    Section("Worry Parking Pro") {
+                        if store.isPro {
+                            Label("Pro is active", systemImage: "checkmark.seal.fill")
+                                .foregroundStyle(Theme.readyGreen)
+                            Button("Manage subscription") { showingManageSubscription = true }
+                        } else {
+                            Button {
+                                showingPaywall = true
+                            } label: {
+                                Label("Unlimited spots, custom exit times, insights", systemImage: "sparkles")
+                            }
                         }
-                    }
-                    Button("Restore purchases") {
-                        Task { await store.restorePurchases() }
+                        Button("Restore purchases") {
+                            Task { await store.restorePurchases() }
+                        }
                     }
                 }
 
