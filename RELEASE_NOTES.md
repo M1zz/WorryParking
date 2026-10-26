@@ -162,3 +162,10 @@ Nu är alla funktioner gratis
 Parkera så många oror du vill
 Utfartstider och insikter är gratis
 Nu på fler språk
+
+### App Store (Türkçe)
+
+Tüm özellikler artık ücretsiz
+İstediğin kadar endişe park et
+Çıkış saatleri ve içgörüler ücretsiz
+Artık daha fazla dilde

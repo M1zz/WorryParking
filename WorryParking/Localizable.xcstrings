@@ -120,6 +120,12 @@
             "value" : "ใช้ช่องจอดแล้ว %1$lld จาก %2$lld ช่อง"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%2$lld yerin %1$lld tanesi dolu"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -256,6 +262,12 @@
             "value" : "จอดอยู่ %lld เรื่อง"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld park edildi"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -390,6 +402,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ความกังวลที่คุณตรวจสอบแล้ว %lld%% ไม่ได้เกิดขึ้นจริง"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kontrol ettiğin korkuların %%%lld kadarı gerçekleşmedi."
           }
         },
         "vi" : {
@@ -531,6 +549,12 @@
             "value" : "ห้าทุ่มสี่สิบ สมองยังวนคิดเรื่องพรุ่งนี้ไม่หยุด เขียนความกังวลตามที่ได้ยินในหัว แล้วเลือกว่ามันดังแค่ไหน"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saat 23.40 ve zihnin yarını tekrar tekrar oynatıyor. Endişeyi kafanda duyulduğu gibi yaz ve sesinin ne kadar yüksek olduğunu seç."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -665,6 +689,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "หกโมงเย็น การนำเสนอจบไปแล้ว สิ่งที่กังวลเกิดขึ้นไหม? ไม่เลย ระดับความกังวลลดจาก 4 เหลือ 1 คุณจึงปล่อยมันไป และมันถูกบันทึกในบันทึกการออกของคุณ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saat 18.00, sunum bitti. Korktuğun şey oldu mu? Pek sayılmaz. Endişe 4'ten 1'e düştü, sen de gitmesine izin verdin ve Çıkış Günlüğü'ne eklendi."
           }
         },
         "vi" : {
@@ -803,6 +833,12 @@
             "value" : "ที่จอดที่กว้างขึ้น สำหรับวันที่ใจคิดเยอะ"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meşgul bir zihin için daha geniş bir otopark."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -937,6 +973,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ทุกวันวันละ 15 นาที ควรเป็นสักสองสามชั่วโมงก่อนนอน เราจะเตือนเบา ๆ เมื่อความกังวลพร้อมออกจากที่จอด"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Her gün 15 dakika, tercihen uyumadan birkaç saat önce. Bir endişe alınmaya hazır olduğunda seni nazikçe uyaracağız."
           }
         },
         "vi" : {
@@ -1075,6 +1117,12 @@
             "value" : "เบาขึ้นเล็กน้อย"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Biraz daha hafif"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1209,6 +1257,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เบาเหมือนเสียงกระซิบ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fısıltı gibi"
           }
         },
         "vi" : {
@@ -1347,6 +1401,12 @@
             "value" : "เกี่ยวกับ"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hakkında"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1481,6 +1541,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เท่าเดิม"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aşağı yukarı aynı"
           }
         },
         "vi" : {
@@ -1619,6 +1685,12 @@
             "value" : "หลังจากจอดไปแล้ว คุณรู้สึกอย่างไร?"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Park ettikten sonra nasıl hissediyorsun?"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1753,6 +1825,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "อนุญาตการเตือนออกจากที่จอด"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Teslim alma hatırlatıcılarına izin ver"
           }
         },
         "vi" : {
@@ -1891,6 +1969,12 @@
             "value" : "อนุญาตการเตือนแล้วไปต่อ"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hatırlatıcılara izin ver ve devam et"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2025,6 +2109,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ความกังวลที่ยังค้างจะวนซ้ำ เพราะใจกลัวว่าจะลืม การเขียนมันลงไปและกำหนดเวลากลับมาดู จะบอกสมองว่าตอนนี้มีที่จัดการแล้ว"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bitmemiş bir endişe tekrar tekrar oynar, çünkü zihnin onu unutmaktan korkar. Yazıp geri dönmek için bir zaman belirlemek beynine şimdilik halledildiğini söyler."
           }
         },
         "vi" : {
@@ -2163,6 +2253,12 @@
             "value" : "อยากบอกอะไรเพิ่มไหม? (ไม่บังคับ)"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eklemek istediğin bir şey var mı? (isteğe bağlı)"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2297,6 +2393,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ระดับที่ลดลงเฉลี่ย"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ort. şiddet düşüşü"
           }
         },
         "vi" : {
@@ -2435,6 +2537,12 @@
             "value" : "ก่อน"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Önce"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2569,6 +2677,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เอาความกังวลกลับมา ในเวลาที่คุณพร้อมรับมือพอดี"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bir endişeyi tam başa çıkabileceğin zaman geri getir."
           }
         },
         "vi" : {
@@ -2707,6 +2821,12 @@
             "value" : "ยกเลิก"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "İptal"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2841,6 +2961,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ตรวจดูว่าเกิดอะไรขึ้นจริง"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gerçekte ne olduğunu kontrol et"
           }
         },
         "vi" : {
@@ -2979,6 +3105,12 @@
             "value" : "เลือกเวลาก่อนนอนสักสองสามชั่วโมง ความกังวลใหม่จะจอดอยู่จนถึงเวลานั้น ส่วนที่จอดอยู่แล้วจะยังคงเวลาออกเดิม"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uyumadan birkaç saat öncesinden bir saat seç. Yeni endişeler o zamana kadar park halinde kalır. Zaten park edilmiş olanlar çıkış saatlerini korur."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3113,6 +3245,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ปิด"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kapat"
           }
         },
         "vi" : {
@@ -3251,6 +3389,12 @@
             "value" : "ต่อไป"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Devam"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3385,6 +3529,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "จำนวน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sayı"
           }
         },
         "vi" : {
@@ -3523,6 +3673,12 @@
             "value" : "กำหนดเวลาออกเอง"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Özel çıkış saatleri"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3657,6 +3813,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "กำหนดเวลาเอง"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Özel saat"
           }
         },
         "vi" : {
@@ -3795,6 +3957,12 @@
             "value" : "สิ่งที่คุณกลัวเกิดขึ้นจริงหรือเปล่า?"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Korktuğun şey gerçekten oldu mu?"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3929,6 +4097,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ไม่ได้เกิดขึ้น"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Olmadı"
           }
         },
         "vi" : {
@@ -4067,6 +4241,12 @@
             "value" : "เสร็จสิ้น"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bitti"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4201,6 +4381,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ขับออก"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Çıkar"
           }
         },
         "vi" : {
@@ -4339,6 +4525,12 @@
             "value" : "แก้ไขความกังวลของฉัน"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Endişemi düzenle"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4473,6 +4665,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ว่าง"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Boş"
           }
         },
         "vi" : {
@@ -4611,6 +4809,12 @@
             "value" : "ทุกอย่างที่คุณเขียนจะอยู่บนอุปกรณ์เครื่องนี้เท่านั้น การแจ้งเตือนจะไม่มีข้อความความกังวลของคุณเลย"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yazdığın her şey bu cihazda kalır. Bildirimler endişenin metnini asla içermez."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4745,6 +4949,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ออก"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ÇIKIŞ"
           }
         },
         "vi" : {
@@ -4883,6 +5093,12 @@
             "value" : "ออก"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Çıkış"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5017,6 +5233,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ด่านทางออก"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Çıkış bariyeri"
           }
         },
         "vi" : {
@@ -5155,6 +5377,12 @@
             "value" : "ด่านทางออก · P%lld"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Çıkış bariyeri · P%lld"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5289,6 +5517,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ด่านทางออก · P1"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Çıkış bariyeri · P1"
           }
         },
         "vi" : {
@@ -5427,6 +5661,12 @@
             "value" : "ข้อมูลเชิงลึกการออก"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Çıkış içgörüleri"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5561,6 +5801,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "บันทึกการออก"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Çıkış Günlüğü"
           }
         },
         "vi" : {
@@ -5699,6 +5945,12 @@
             "value" : "เวลาออก"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Çıkış saati"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5833,6 +6085,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ออกแล้ว"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Çıktı"
           }
         },
         "vi" : {
@@ -5971,6 +6229,12 @@
             "value" : "ออกใน %@"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ sonra çıkış"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6105,6 +6369,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "การออกครั้งแรก"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "İlk çıkış"
           }
         },
         "vi" : {
@@ -6243,6 +6513,12 @@
             "value" : "ตอนจอดครั้งแรก"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "İlk park ettiğinde"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6377,6 +6653,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ให้ความสนใจกับมันอย่างเต็มที่ ตอนนี้ไม่มีอย่างอื่นต้องทำ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ona tüm dikkatini ver. Şu anda yapılacak tek şey bu."
           }
         },
         "vi" : {
@@ -6515,6 +6797,12 @@
             "value" : "หายไปแล้ว"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gitti"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6649,6 +6937,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "หนัก"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ağır"
           }
         },
         "vi" : {
@@ -6787,6 +7081,12 @@
             "value" : "ประวัติ"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geçmiş"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6921,6 +7221,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "รู้สึกอย่างไรบ้าง?"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nasıl hissettirdi?"
           }
         },
         "vi" : {
@@ -7059,6 +7365,12 @@
             "value" : "ตอนนี้มันดังแค่ไหน?"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Şimdi sesi ne kadar yüksek?"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7195,6 +7507,12 @@
             "value" : "ตอนนี้มันดังแค่ไหน?"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Şu anda sesi ne kadar yüksek?"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7329,6 +7647,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ถ้ามันกลับเข้ามาในหัวอีก ให้สังเกตมัน แล้วบอกตัวเองว่า มันมีที่จอดแล้ว เดี๋ยวค่อยจัดการตอนเวลากังวล"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zihnine geri dönerse fark et ve kendine şunu söyle: onun bir yeri var. Onunla Endişe Saati'nde ilgilenirsin."
           }
         },
         "vi" : {
@@ -7469,6 +7793,12 @@
             "value" : "ถ้ามันวนกลับมาเรื่อย ๆ ลองพูดสั้น ๆ ว่า “เธอมีที่จอดแล้วนะ” แล้วกลับไปทำสิ่งที่ทำอยู่ ถ้าความกังวลรบกวนชีวิตประจำวัน การพูดคุยกับผู้เชี่ยวชาญช่วยได้มาก"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sürekli geri geliyorsa kısaca “zaten bir yerin var” demeyi dene ve yaptığın işe dön. Endişeler günlerine engel oluyorsa bir uzmanla konuşmak gerçekten yardımcı olabilir."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7603,6 +7933,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เข้า"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GİRİŞ"
           }
         },
         "vi" : {
@@ -7741,6 +8077,12 @@
             "value" : "รบกวนใจน้อยลง"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beni daha az rahatsız etti"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7875,6 +8217,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "รบกวนใจมากขึ้น"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beni daha çok rahatsız etti"
           }
         },
         "vi" : {
@@ -8013,6 +8361,12 @@
             "value" : "ไม่ได้เกิดขึ้น"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Olmadı"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8149,6 +8503,12 @@
             "value" : "เกิดขึ้น"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oldu"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8283,6 +8643,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ตอนที่จอดมันอยู่ที่ %lld"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Park ettiğinde %lld idi."
           }
         },
         "vi" : {
@@ -8423,6 +8789,12 @@
             "value" : "ยิ่งคิดถึงมากขึ้น"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aklımdan daha çok geçiyor"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8557,6 +8929,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "นี่เป็นแค่เรื่องแรก ในงานวิจัย ผลค่อย ๆ สะสมตลอดหลายสัปดาห์ ลองจอดเพิ่มอีกสองสามเรื่อง แล้วเปรียบเทียบกันในบันทึกการออก"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bu daha ilki. Çalışmalarda etki birkaç hafta içinde birikti. Birkaç tane daha park et ve Çıkış Günlüğü'nde karşılaştır."
           }
         },
         "vi" : {
@@ -8695,6 +9073,12 @@
             "value" : "มันออกจากที่จอดแล้ว ปล่อยให้มันไปเถอะ"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Otoparktan çıktı. Gitmesine izin ver."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8829,6 +9213,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "มันจอดอยู่จนถึงเวลากังวลของพรุ่งนี้ ถ้ามันโผล่มาอีกตอนอาบน้ำ ก็บอกตัวเองว่า มันมีที่จอดแล้ว"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yarınki Endişe Saati'ne kadar park halinde. Duşta yeniden aklına gelirse kendine şunu söyle: zaten bir yeri var."
           }
         },
         "vi" : {
@@ -8967,6 +9357,12 @@
             "value" : "ถึงเวลากังวลแล้ว ให้เวลากับมัน %lld นาทีอย่างตั้งใจ แล้วตัดสินใจว่าจะทำอย่างไรต่อ"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Endişe Saati geldi. Ona %lld dakika odaklan, sonra onunla ne yapacağına karar ver."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9101,6 +9497,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "จอดต่อไป"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Park halinde tut"
           }
         },
         "vi" : {
@@ -9239,6 +9641,12 @@
             "value" : "จอดต่อไปเรื่อย ๆ รูปแบบจะปรากฏหลังออกได้สองสามครั้ง"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Park etmeye devam et. Birkaç çıkıştan sonra örüntüler görünür."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9373,6 +9781,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ไว้ทีหลัง"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sonra"
           }
         },
         "vi" : {
@@ -9511,6 +9925,12 @@
             "value" : "ปล่อยไป"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bırak gitsin"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9645,6 +10065,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ระดับ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ŞİDDET"
           }
         },
         "vi" : {
@@ -9783,6 +10209,12 @@
             "value" : "ระดับ %lld จาก 5, %@"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Şiddet 5 üzerinden %lld, %@"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9917,6 +10349,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ระดับ %lld → %lld"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Şiddet %lld → %lld"
           }
         },
         "vi" : {
@@ -10057,6 +10495,12 @@
             "value" : "การมองตรง ๆ ที่ความกังวลอาจทำให้มันดูใหญ่ขึ้นในตอนแรก คุณไม่ต้องแก้มันตอนนี้ งานเดียวของมันคือรอถึงเวลากังวล"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bir endişenin gözünün içine bakmak, başta onu daha büyük gösterebilir. Onu şimdi çözmen gerekmiyor. Tek görevi Endişe Saati'ni beklemek."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10191,6 +10635,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ที่จอด"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Otopark"
           }
         },
         "vi" : {
@@ -10329,6 +10779,12 @@
             "value" : "ดัง"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yüksek sesli"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10463,6 +10919,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "วางแผนแล้ว"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plan yapıldı"
           }
         },
         "vi" : {
@@ -10601,6 +11063,12 @@
             "value" : "วางแผน"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plan yap"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10735,6 +11203,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "การวางแผนที่เป็นรูปธรรมช่วยไม่ให้งานค้างแทรกเข้ามาในความคิด และการเขียนห้านาทีก่อนนอนช่วยให้หลับเร็วขึ้น"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Somut bir plan yapmak bitmemiş işlerin düşüncelere karışmasını engelledi; uyumadan önce beş dakika yazmak insanların daha hızlı uykuya dalmasına yardım etti."
           }
         },
         "vi" : {
@@ -10873,6 +11347,12 @@
             "value" : "จัดการการสมัครสมาชิก"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aboneliği yönet"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11007,6 +11487,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "วนเวียนไม่หาย"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Can sıkıcı"
           }
         },
         "vi" : {
@@ -11145,6 +11631,12 @@
             "value" : "ถัดไป"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "İleri"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11279,6 +11771,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เวลากังวลครั้งถัดไป"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sonraki Endişe Saati"
           }
         },
         "vi" : {
@@ -11417,6 +11915,12 @@
             "value" : "เวลากังวลครั้งถัดไป: %@"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sonraki Endişe Saati: %@"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11551,6 +12055,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ยังไม่มีการออก"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Henüz çıkış yok"
           }
         },
         "vi" : {
@@ -11689,6 +12199,12 @@
             "value" : "ไว้ก่อน"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Şimdi değil"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11825,6 +12341,12 @@
             "value" : "ยังไม่พร้อม เอากลับมาในเวลากังวลครั้งถัดไป"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Henüz hazır değil. Sonraki Endişe Saati'nde geri getir."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11959,6 +12481,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "การแจ้งเตือนปิดอยู่"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bildirimler kapalı"
           }
         },
         "vi" : {
@@ -12099,6 +12627,12 @@
             "value" : "ตอนนี้"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Şimdi"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12233,6 +12767,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ตอนนี้จอดแล้ว มันดังแค่ไหน?"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Park edildiğine göre sesi ne kadar yüksek?"
           }
         },
         "vi" : {
@@ -12371,6 +12911,12 @@
             "value" : "ความกังวลจริงหนึ่งเรื่อง ตั้งแต่ห้าทุ่มสี่สิบจนถึงเวลากังวลของวันรุ่งขึ้น"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gerçek bir endişe; gece 23.40'tan ertesi günün Endişe Saati'ne kadar."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12505,6 +13051,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ก้าวเล็ก ๆ ก้าวต่อไป"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Küçük bir sonraki adım"
           }
         },
         "vi" : {
@@ -12643,6 +13195,12 @@
             "value" : "เปิดการตั้งค่า iOS"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iOS Ayarları'nı aç"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12777,6 +13335,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ท่วมท้น"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bunaltıcı"
           }
         },
         "vi" : {
@@ -12921,6 +13485,12 @@
             "value" : "P%lld พร้อมออกจากที่จอดแล้ว"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "P%lld alınmaya hazır"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13060,6 +13630,12 @@
             "value" : "P%1$lld · บัตรจอดเลขที่ %2$@"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "P%1$lld · Bilet no. %2$@"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13194,6 +13770,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "หน้า %1$lld จาก %2$lld"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sayfa %1$lld / %2$lld"
           }
         },
         "vi" : {
@@ -13332,6 +13914,12 @@
             "value" : "จอด"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Park et"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13466,6 +14054,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "จอดความกังวล"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bir endişeyi park et"
           }
         },
         "vi" : {
@@ -13604,6 +14198,12 @@
             "value" : "จอดที่ P%lld"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "P%lld'e park et"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13738,6 +14338,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "จอดได้ทุกความกังวล ไม่ใช่แค่สามเรื่อง"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sadece üç değil, her endişeni park et."
           }
         },
         "vi" : {
@@ -13876,6 +14482,12 @@
             "value" : "จอดอีกครั้ง"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tekrar park et"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14010,6 +14622,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "จอดเมื่อ %@"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ park edildi"
           }
         },
         "vi" : {
@@ -14148,6 +14766,12 @@
             "value" : "จอดที่ P%lld แล้ว"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "P%lld'e park edildi"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14282,6 +14906,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "จอดถึง %@"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ tarihine kadar park halinde"
           }
         },
         "vi" : {
@@ -14420,6 +15050,12 @@
             "value" : "ความกังวลที่จอดไว้จะถูกซ่อนจนถึงเวลาออก คุณไม่ต้องแบกมันไว้ตอนนี้"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Park edilen endişeler çıkış saatlerine kadar gizli kalır. Onları şu anda taşımak zorunda değilsin."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14556,6 +15192,12 @@
             "value" : "จอดแล้ว ตอนนี้ไม่ใช่หน้าที่ของคุณ"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Park edildi. Şu anda senin işin değil."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14690,6 +15332,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "บางส่วน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kısmen"
           }
         },
         "vi" : {
@@ -14830,6 +15478,12 @@
             "value" : "คนที่ย้ายการกังวลไปไว้ในช่วงเวลาสั้น ๆ ประจำวัน ใช้เวลากังวลน้อยลง และรายงานว่ากังวลและมีปัญหาการนอนน้อยลง"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Endişelerini kısa bir günlük endişe zamanına taşıyan kişiler endişelenerek daha az zaman harcadı; daha az kaygı ve daha az uyku sorunu bildirdi."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14964,6 +15618,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เลือกเวลากังวลของคุณ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Endişe Saatini seç"
           }
         },
         "vi" : {
@@ -15102,6 +15762,12 @@
             "value" : "การเลื่อนได้ผลกับคุณแล้ว ลองจอดเรื่องต่อไปด้วยสิ"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erteleme senin için işe yarıyor. Sıradakini de park etmeyi dene."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15236,6 +15902,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "การเลื่อนได้ผลดีที่สุดเมื่อคุณรอ ความกังวลส่วนใหญ่ดูเล็กลงเมื่อถึงเวลากังวล"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erteleme beklediğinde en iyi sonucu verir. Endişe Saati geldiğinde çoğu endişe daha küçük hissedilir."
           }
         },
         "vi" : {
@@ -15374,6 +16046,12 @@
             "value" : "นโยบายความเป็นส่วนตัว"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gizlilik Politikası"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15508,6 +16186,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pro ใช้งานอยู่"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro etkin"
           }
         },
         "vi" : {
@@ -15646,6 +16330,12 @@
             "value" : "ช่องจอด Pro"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro yeri"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15780,6 +16470,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "พร้อมออกจากที่จอด"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alınmaya hazır"
           }
         },
         "vi" : {
@@ -15918,6 +16614,12 @@
             "value" : "การเตือน"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hatırlatıcılar"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16052,6 +16754,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "งานวิจัยอธิบายผลโดยเฉลี่ย และผลลัพธ์ของแต่ละคนแตกต่างกัน ที่จอดความกังวลเป็นเครื่องมือดูแลตนเอง ไม่ใช่อุปกรณ์ทางการแพทย์หรือการรักษา"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Araştırmalar ortalama etkileri anlatır ve sonuçlar kişiden kişiye değişir. Endişe Otoparkı bir kendi kendine yardım aracıdır; tıbbi cihaz veya tedavi değildir."
           }
         },
         "vi" : {
@@ -16190,6 +16898,12 @@
             "value" : "แหล่งอ้างอิงงานวิจัย"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Araştırma kaynakları"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16324,6 +17038,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "กู้คืนการซื้อ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Satın alımları geri yükle"
           }
         },
         "vi" : {
@@ -16462,6 +17182,12 @@
             "value" : "ผลลัพธ์"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sonuç"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16596,6 +17322,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เอาออกก่อนเวลา"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erken al"
           }
         },
         "vi" : {
@@ -16734,6 +17466,12 @@
             "value" : "เอาความกังวลนี้ออกก่อนเวลาไหม?"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bu endişe erken alınsın mı?"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16868,6 +17606,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ดูว่าสิ่งที่คุณกลัวเกิดขึ้นจริงมากแค่ไหน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Korkularının ne kadarının gerçekten gerçekleştiğini gör."
           }
         },
         "vi" : {
@@ -17006,6 +17750,12 @@
             "value" : "ดูว่าความกังวลของคุณเกิดขึ้นจริงมากแค่ไหน"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Endişelerinin ne kadarının gerçekten olduğunu gör"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17140,6 +17890,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ดูตัวอย่างการใช้งาน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Çalışırken gör"
           }
         },
         "vi" : {
@@ -17278,6 +18034,12 @@
             "value" : "ส่งไปที่ด่านทางออกตอนนี้"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Şimdi çıkış bariyerine gönder"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17412,6 +18174,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "การตั้งค่า"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ayarlar"
           }
         },
         "vi" : {
@@ -17550,6 +18318,12 @@
             "value" : "ข้ามไปก่อน"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Şimdilik atla"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17684,6 +18458,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ช่องจอด %lld ว่าง จอดความกังวลที่นี่ได้"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld. yer. Boş. Buraya bir endişe park et."
           }
         },
         "vi" : {
@@ -17822,6 +18602,12 @@
             "value" : "ช่องจอด %lld ช่องจอด Pro ล็อกอยู่"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld. yer. Pro yeri, kilitli."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17956,6 +18742,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ช่องจอด %1$lld จอดความกังวลไว้ถึง %2$@"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$lld. yer. Endişe %2$@ tarihine kadar park halinde."
           }
         },
         "vi" : {
@@ -18094,6 +18886,12 @@
             "value" : "ช่องจอด %lld ความกังวลพร้อมออกจากที่จอด"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld. yer. Endişe alınmaya hazır."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18228,6 +19026,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เริ่ม"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Başla"
           }
         },
         "vi" : {
@@ -18366,6 +19170,12 @@
             "value" : "ปัดตามเส้นประเพื่อจอด"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Park etmek için noktalı çizgi boyunca kaydır"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18500,6 +19310,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ปัดตามเส้นประ เมื่อบัตรฉีกขาด ความกังวลนี้จะจอดอยู่จนถึง %@"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Noktalı çizgi boyunca kaydır. Bilet yırtılınca bu endişe %@ tarihine kadar park edilir."
           }
         },
         "vi" : {
@@ -18638,6 +19454,12 @@
             "value" : "หายใจเข้าออกช้า ๆ หนึ่งครั้ง ตอนนี้ยังไม่มีอะไรต้องทำกับมัน"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yavaşça bir nefes al. Şu anda bununla ilgili yapacak bir şey yok."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18772,6 +19594,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ฉีกบัตรเพื่อจอด"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Park etmek için bileti yırt"
           }
         },
         "vi" : {
@@ -18910,6 +19738,12 @@
             "value" : "ฉีกบัตรของคุณ"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Biletini yırt"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19044,6 +19878,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ข้อกำหนดการใช้งาน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kullanım Koşulları"
           }
         },
         "vi" : {
@@ -19182,6 +20022,12 @@
             "value" : "เป็นเรื่องปกติมาก ผลมักสะสมเป็นวัน ไม่ใช่เป็นนาที เมื่อมันโผล่กลับมา ให้บอกว่า “เธอมีที่จอดแล้วนะ” แล้วดูว่ารู้สึกอย่างไรตอนเวลากังวล"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bu çok normal. Etki genellikle dakikalarda değil, günler içinde birikir. Yeniden aklına gelince “zaten bir yerin var” de ve Endişe Saati'nde nasıl hissettiğine bak."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19316,6 +20162,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "นี่คือผลแรกของการเลื่อน เมื่อความกังวลถูกเขียนลงไปและมีที่ของมัน ใจก็ไม่ต้องกำมันไว้ แล้วเจอกันตอนเวลากังวล"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bu, ertelemenin ilk etkisi. Bir endişe yazılıp bir yere konunca zihnin onu tutmak zorunda kalmaz. Endişe Saati'nde görüşürüz."
           }
         },
         "vi" : {
@@ -19454,6 +20306,12 @@
             "value" : "เวลากังวลหลังจากนั้น"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ondan sonraki Endişe Saati"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19588,6 +20446,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "บัตรจอดเลขที่ %@"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bilet no. %@"
           }
         },
         "vi" : {
@@ -19726,6 +20590,12 @@
             "value" : "วันนี้ %@"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "bugün %@"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19860,6 +20730,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "พรุ่งนี้ %@"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "yarın %@"
           }
         },
         "vi" : {
@@ -19998,6 +20874,12 @@
             "value" : "ยังเร็วเกินไปที่จะบอก"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Söylemek için henüz erken"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20132,6 +21014,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ลองเลย"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Şimdi dene"
           }
         },
         "vi" : {
@@ -20270,6 +21158,12 @@
             "value" : "เปลี่ยนมันเป็นก้าวเล็ก ๆ ก้าวต่อไป"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Onu küçük bir sonraki adıma dönüştür."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20404,6 +21298,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ช่องจอดไม่จำกัด"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sınırsız park yeri"
           }
         },
         "vi" : {
@@ -20542,6 +21442,12 @@
             "value" : "ช่องจอดไม่จำกัด กำหนดเวลาออกเอง ข้อมูลเชิงลึก"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sınırsız yer, özel çıkış saatleri, içgörüler"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20676,6 +21582,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ปลดล็อกข้อมูลเชิงลึกด้วย Pro"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro ile içgörülerin kilidini aç"
           }
         },
         "vi" : {
@@ -20814,6 +21726,12 @@
             "value" : "เราจะบอกเมื่อความกังวลพร้อมออกจากที่จอด"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bir endişe alınmaya hazır olduğunda sana haber vereceğiz."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20948,6 +21866,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "อยากทำอย่างไรกับมัน?"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Onunla ne yapmak istersin?"
           }
         },
         "vi" : {
@@ -21086,6 +22010,12 @@
             "value" : "ถ้าพรุ่งนี้ตอนนำเสนอฉันสมองว่างเปล่า แล้วทุกคนคิดว่าฉันไม่เก่งพอจะทำอย่างไร?"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ya yarınki sunumda aklım boşalırsa ve herkes yeterince iyi olmadığımı düşünürse?"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21220,6 +22150,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "สิ่งที่คุณกลัวไม่ได้เกิดขึ้น การออกจากที่จอดแบบนี้ทุกครั้งจะถูกบันทึกในบันทึกการออก เพื่อให้คุณเห็นว่าความกังวลของคุณคิดผิดบ่อยแค่ไหน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Korktuğun şey olmadı. Bunun gibi her çıkış Çıkış Günlüğü'ne eklenir; böylece endişelerinin ne sıklıkla yanıldığını görürsün."
           }
         },
         "vi" : {
@@ -21358,6 +22294,12 @@
             "value" : "อะไรวนอยู่ในหัวคุณ?"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kafanda ne dönüp duruyor?"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21492,6 +22434,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เมื่อคนที่กังวลเรื้อรังบันทึกความกังวลของตัวเอง %lld%% ของมันไม่ได้เกิดขึ้นจริง"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kronik endişesi olan kişiler endişelerini kaydettiğinde bunların %%%lld kadarı gerçekleşmedi."
           }
         },
         "vi" : {
@@ -21630,6 +22578,12 @@
             "value" : "ให้กลับมาตอนไหน?"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ne zaman geri dönsün?"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21764,6 +22718,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ระหว่างที่จอดอยู่ ความกังวลนี้รู้สึกอย่างไร?"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Park halindeyken bu endişe nasıl hissettirdi?"
           }
         },
         "vi" : {
@@ -21902,6 +22862,12 @@
             "value" : "ทำไมถึงได้ผล"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neden işe yarar"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22038,6 +23004,12 @@
             "value" : "ถ้าไม่มีการเตือน ความกังวลที่จอดไว้ก็จะรออยู่เงียบ ๆ ในที่จอด"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bunlar olmadan park edilen endişeler otoparkta sessizce bekler."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22172,6 +23144,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ความกังวลไม่จำเป็นต้องตามคุณไปทั้งคืน\nจอดไว้ที่นี่ เราจะเก็บไว้ให้จนถึงเวลากังวลของคุณ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Endişelerin bütün gece seninle gezmek zorunda değil.\nBurada park et. Endişe Saati'ne kadar biz saklayalım."
           }
         },
         "vi" : {
@@ -22312,6 +23290,12 @@
             "value" : "ความกังวลโผล่มาได้ทุกที่ ทั้งบนเตียง ตอนอาบน้ำ ระหว่างทางกลับบ้าน เมื่อการกังวลมีเวลาเป็นของตัวเอง สมองจะเรียนรู้ว่าเวลาที่เหลือของวันไม่ใช่เวลาของมัน นักจิตวิทยาเรียกสิ่งนี้ว่าการควบคุมสิ่งเร้า"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Endişeler her yerde karşına çıkar: yatakta, duşta, eve dönerken. Endişe etmenin kendi zamanı olunca beynin günün geri kalanının buna ait olmadığını öğrenir. Psikologlar buna uyaran kontrolü der."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22446,6 +23430,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ความกังวลที่คุณทบทวนที่ด่านทางออกจะมารวมกันที่นี่ เมื่อเวลาผ่านไป คุณจะเห็นว่ามีกี่เรื่องที่เกิดขึ้นจริง"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Çıkış bariyerinde gözden geçirdiğin endişeler burada birikir. Zamanla bunların kaç tanesinin gerçekten olduğunu göreceksin."
           }
         },
         "vi" : {
@@ -22584,6 +23574,12 @@
             "value" : "กังวลในเวลาที่กำหนดเท่านั้น"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Endişeni belirli bir saatte yap"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22718,6 +23714,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ที่จอดความกังวล"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ENDİŞE OTOPARKI"
           }
         },
         "vi" : {
@@ -22856,6 +23858,12 @@
             "value" : "ที่จอดความกังวล"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Endişe Otoparkı"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22992,6 +24000,12 @@
             "value" : "ที่จอดความกังวลเป็นเครื่องมือดูแลตนเอง ไม่ใช่อุปกรณ์ทางการแพทย์และไม่ใช่ตัวแทนของการดูแลโดยผู้เชี่ยวชาญ หากคุณกำลังลำบาก โปรดติดต่อผู้เชี่ยวชาญด้านสุขภาพจิตหรือบริการฉุกเฉินในพื้นที่ของคุณ"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Endişe Otoparkı bir kendi kendine yardım aracıdır; tıbbi cihaz veya profesyonel bakımın yerine geçen bir şey değildir. Zorlanıyorsan lütfen bir ruh sağlığı uzmanına veya yerel acil servislere başvur."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23126,6 +24140,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ที่จอดความกังวลสร้างขึ้นจากการเลื่อนความกังวล เทคนิคการควบคุมสิ่งเร้าที่ใช้ในการบำบัดทางความคิดและพฤติกรรม (CBT) คือแทนที่จะสู้กับความกังวล คุณกำหนดเวลาให้มัน แล้วกลับมาจัดการตอนนั้น"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Endişe Otoparkı, bilişsel davranışçı terapide (BDT) kullanılan bir uyaran kontrolü tekniği olan endişe ertelemeye dayanır: Endişeyle savaşmak yerine ona belirli bir saat verir ve o saatte ona dönersin."
           }
         },
         "vi" : {
@@ -23266,6 +24286,12 @@
             "value" : "ที่จอดความกังวลสร้างขึ้นจากการเลื่อนความกังวล เทคนิคจากการบำบัดทางความคิดและพฤติกรรม (CBT) ที่มีงานวิจัยมานานหลายสิบปี"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Endişe Otoparkı, onlarca yıldır araştırılan bir bilişsel davranışçı terapi (BDT) tekniği olan endişe ertelemeye dayanır."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23400,6 +24426,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ที่จอดความกังวล Pro"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Endişe Otoparkı Pro"
           }
         },
         "vi" : {
@@ -23538,6 +24570,12 @@
             "value" : "ความกังวลมักทำนายอนาคตแย่กว่าที่เป็นจริง ที่ด่านทางออกคุณบันทึกว่ามันเกิดขึ้นจริงไหม เมื่อเวลาผ่านไป บันทึกการออกจะแสดงให้เห็นว่าความกังวลของคุณคิดผิดบ่อยแค่ไหน"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Endişe geleceği genellikle olduğundan daha kötü tahmin eder. Çıkış bariyerinde gerçekten olup olmadığını kaydedersin; böylece Çıkış Günlüğü zamanla endişelerinin ne sıklıkla yanıldığını gösterir."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23674,6 +24712,12 @@
             "value" : "เวลากังวล"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Endişe Saati"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23808,6 +24852,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เขียน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yaz"
           }
         },
         "vi" : {
@@ -23948,6 +24998,12 @@
             "value" : "เขียนความกังวลหนึ่งเรื่องที่อยู่ในใจตอนนี้ มันจะถูกจอดไว้จริง และกลับมา%@"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Şu an aklında olan bir endişeyi yaz. Gerçekten park edilecek ve %@ geri gelecek."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24082,6 +25138,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เขียนลงไป เพื่อวางมันลง"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bırakmak için yaz"
           }
         },
         "vi" : {
@@ -24220,6 +25282,12 @@
             "value" : "เขียนตามที่ได้ยินในหัวเลย"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kafanda duyulduğu gibi yaz."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24356,6 +25424,12 @@
             "value" : "คุณไม่ต้องแบกเรื่องนี้ไว้ตอนนี้ เราจะนำกลับมาให้%@"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bunu şu anda taşımana gerek yok. %@ geri getireceğiz."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24490,6 +25564,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "คุณเลื่อนความกังวลไว้ แล้วกลับมาเผชิญมันโดยตั้งใจ นี่คือเทคนิคทั้งหมดแล้ว"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bir endişeyi erteledin ve bilerek ona geri döndün. Tekniğin tamamı bu."
           }
         },
         "vi" : {
@@ -24630,6 +25710,12 @@
             "value" : "คำตอบของคุณอยู่บน iPhone เครื่องนี้เท่านั้น ย้อนดูได้ในบันทึกการออก"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yanıtların bu iPhone'da kalır. Çıkış Günlüğü'nde tekrar bakabilirsin."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24764,6 +25850,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เวลากังวลประจำวันของคุณคือ %@ เปลี่ยนได้ในการตั้งค่า"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Günlük Endişe Saatin %@. Ayarlar'dan değiştirebilirsin."
           }
         },
         "vi" : {
@@ -24902,6 +25994,12 @@
             "value" : "ประสบการณ์ของคุณ"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deneyimin"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25038,6 +26136,12 @@
             "value" : "การออกครั้งแรกของคุณ"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "İlk çıkışın"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25172,6 +26276,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ความกังวลของคุณ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Endişen"
           }
         },
         "vi" : {

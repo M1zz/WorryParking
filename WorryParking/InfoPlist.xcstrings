@@ -125,6 +125,12 @@
             "value" : "ที่จอดความกังวล"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Endişe Otoparkı"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -267,6 +273,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ที่จอดความกังวล"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Endişe Otoparkı"
           }
         },
         "vi" : {

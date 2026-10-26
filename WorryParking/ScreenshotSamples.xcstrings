@@ -119,6 +119,12 @@
             "value" : "ขอหัวหน้านัดคุยตัวต่อตัว"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yöneticimden bire bir görüşme istemek"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -255,6 +261,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ฉันจะจ่ายบิลบัตรเครดิตเดือนนี้ไหวจริง ๆ ไหม?"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bu ayki kart borcunu gerçekten ödeyebilecek miyim?"
           }
         },
         "vi" : {
@@ -395,6 +407,12 @@
             "value" : "ดูราคาค่าเช่าแถวนี้"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mahalledeki kiralara bakmak"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -531,6 +549,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "มุกที่ฉันเล่นตอนกินข้าวเมื่อกี้ล้ำเส้นไปหรือเปล่า?"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Akşam yemeğindeki şakam fazla mı kaçtı?"
           }
         },
         "vi" : {
@@ -671,6 +695,12 @@
             "value" : "ฉันรู้สึกว่าทำผลประเมินไตรมาสนี้พัง"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bu çeyreğin değerlendirmesini batırdığımı düşünüyorum."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -807,6 +837,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ประชุมวันจันทร์จะโดนทักอีกแน่"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pazartesi toplantısında yine uyarı alacağım."
           }
         },
         "vi" : {
@@ -947,6 +983,12 @@
             "value" : "ฉันจะส่งรายงานไม่ทันกำหนดแน่ ๆ"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rapor teslim tarihini asla yetiştiremeyeceğim."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1083,6 +1125,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ถ้าพูดติดขัดตอนสัมภาษณ์ ฉันต้องตกแน่"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mülakatta kekelersem elenirim."
           }
         },
         "vi" : {
@@ -1223,6 +1271,12 @@
             "value" : "ถ้าแล็ปท็อปพัง ฉันจะเสียทุกอย่าง"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dizüstü bilgisayarım bozulursa her şeyi kaybederim."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1359,6 +1413,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "รู้สึกเหมือนเพื่อนในกลุ่มแชตเมินแค่ข้อความของฉัน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grup sohbetinde arkadaşlarım sadece benim mesajlarımı görmezden geliyor gibi."
           }
         },
         "vi" : {
@@ -1499,6 +1559,12 @@
             "value" : "ถ้าตกเครื่อง ทริปนี้ก็พังหมด"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uçağı kaçırmak bütün tatili mahveder."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1635,6 +1701,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ผลตรวจสุขภาพของแม่ยังไม่ออก ถ้าเจออะไรร้ายแรงแล้วแม่ไม่บอกฉันล่ะ?"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Annemin tahlil sonuçları hâlâ çıkmadı. Ya ciddi bir şey bulduysalar da bana söylemiyorsa?"
           }
         },
         "vi" : {
@@ -1775,6 +1847,12 @@
             "value" : "เจ้าของห้องจะขึ้นค่าเช่าแน่"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ev sahibim kirayı artıracak."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1911,6 +1989,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "หัวหน้าตอบสั้นมากเลย ฉันทำอะไรผิดหรือเปล่า?"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yöneticimin cevabı çok kısaydı. Bir şey mi yanlış yaptım?"
           }
         },
         "vi" : {
@@ -2051,6 +2135,12 @@
             "value" : "น้องสาวต้องเสียใจกับสิ่งที่ฉันพูดแน่"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Söylediğim şeye kız kardeşim kesin kırılmıştır."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2187,6 +2277,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ซ้อมตอบคำถามที่น่าจะถูกถามสามข้อออกเสียง"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Muhtemel üç soruyu yüksek sesle prova etmek"
           }
         },
         "vi" : {
@@ -2327,6 +2423,12 @@
             "value" : "เปิดการสำรองข้อมูลบนคลาวด์"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bulut yedeklemeyi açmak"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2465,6 +2567,12 @@
             "value" : "ถ้าพรุ่งนี้ตอนนำเสนอฉันสมองว่างเปล่า แล้วทุกคนคิดว่าฉันไม่เก่งพอจะทำอย่างไร?"
           }
         },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ya yarınki sunumda aklım boşalırsa ve herkes yeterince iyi olmadığımı düşünürse?"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2601,6 +2709,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ถ้าผลตรวจเจออะไรขึ้นมาล่ะ?"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ya tetkikte bir şey çıkarsa?"
           }
         },
         "vi" : {
