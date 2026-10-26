@@ -780,3 +780,74 @@ https://m1zz.github.io/WorryParking/it/privacy.html
 ### 마케팅 URL
 
 https://m1zz.github.io/WorryParking/it/index.html
+
+## pt-BR
+
+### 이름
+
+Estacionamento de Preocupações
+
+### 부제
+
+Deixe as aflições para depois
+
+### 키워드
+
+ansiedade,sono,insônia,TCC,CBT,estresse,ruminação,diário,mindfulness,calma,pensamentos,autoajuda
+
+### 프로모션 텍스트
+
+Escreva a preocupação que não para e estacione. Na Hora de se preocupar, dê 15 minutos a ela e o resto do dia fica mais leve. Baseado no adiamento da preocupação, da TCC.
+
+### 설명
+
+A mesma preocupação fica rondando a sua cabeça toda noite?
+O Estacionamento de Preocupações dá uma vaga para ela. Escreva, estacione, e nós a devolvemos na sua Hora de se preocupar. Até lá, você não precisa carregá-la.
+
+COMO FUNCIONA
+1. Escrever: ponha a preocupação em palavras do jeito que ela soa e diga de 1 a 5 o quanto ela está alta.
+2. Estacionar: as preocupações estacionadas ficam desfocadas. Se uma voltar à sua cabeça, diga a ela: você já tem uma vaga.
+3. Cancela de saída: quando chegar a Hora de se preocupar, dê 15 minutos de atenção a ela. Confira se aconteceu mesmo e depois deixe-a ir, faça um pequeno plano ou estacione de novo.
+
+POR QUE FUNCIONA
+O Estacionamento de Preocupações é baseado no adiamento da preocupação, uma técnica da terapia cognitivo-comportamental (TCC) estudada há décadas.
+
+• Preocupar-se em um horário fixo
+As preocupações aparecem em qualquer lugar: na cama, no banho, no caminho para casa. Quando se preocupar ganha um horário próprio, seu cérebro aprende que o resto do dia não é para isso. Pessoas que passaram suas preocupações para um breve período diário gastaram menos tempo se preocupando e relataram menos ansiedade e menos problemas de sono. (Borkovec et al., 1983; McGowan e Behar, 2013)
+
+• Escreva para soltar
+Uma preocupação em aberto fica se repetindo porque sua mente tem medo de esquecer. Fazer um plano concreto impediu que tarefas inacabadas invadissem os pensamentos, e cinco minutos de escrita antes de dormir ajudaram as pessoas a pegar no sono mais rápido. (Masicampo e Baumeister, 2011; Scullin et al., 2018)
+
+• Confira o que realmente aconteceu
+A preocupação prevê um futuro pior do que ele costuma ser. Quando pessoas com preocupação crônica registraram suas preocupações, 91% delas não aconteceram. (LaFreniere e Newman, 2020)
+
+EXPERIMENTE NA HORA
+Na introdução, você estaciona uma preocupação real e vê como a intensidade muda antes e depois. O que você sentiu fica salvo em “Sua experiência” para rever depois.
+
+REGISTRO DE SAÍDAS
+À medida que as preocupações revisadas se acumulam, você vê qual parte dos seus medos aconteceu de verdade e o quanto a intensidade caiu em média.
+
+PRIVADO POR PROJETO
+• Sem conta, sem servidores, sem anúncios e sem análises. Tudo o que você escreve fica no seu iPhone.
+• As notificações mostram só o número da vaga, como “A P3 está pronta para sair”. O texto da sua preocupação nunca é incluído.
+
+O QUE VEM NO APP
+• Vagas ilimitadas, horários de saída personalizados, lembretes diários da Hora de se preocupar
+• Cancela de saída, registro de saídas e insights de saídas
+
+Termos de Uso: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Política de Privacidade: https://m1zz.github.io/WorryParking/pt-BR/privacy.html
+
+O Estacionamento de Preocupações é uma ferramenta de autoajuda. Não é um dispositivo médico e não substitui diagnóstico nem tratamento profissional. Se você está passando por um momento difícil, procure um profissional de saúde mental ou os serviços de emergência da sua região.
+
+### 지원 URL
+
+https://m1zz.github.io/WorryParking/pt-BR/support.html
+
+### 개인정보처리방침 URL
+
+https://m1zz.github.io/WorryParking/pt-BR/privacy.html
+
+### 마케팅 URL
+
+https://m1zz.github.io/WorryParking/pt-BR/index.html

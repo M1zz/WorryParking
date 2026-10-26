@@ -78,3 +78,10 @@ Ora tutte le funzioni sono gratuite
 Parcheggia quante preoccupazioni vuoi
 Orari di uscita e approfondimenti gratis
 Ora disponibile in più lingue
+
+### App Store (Português Brasil)
+
+Agora todos os recursos são gratuitos
+Estacione quantas preocupações quiser
+Horários de saída e insights grátis
+Agora disponível em mais idiomas

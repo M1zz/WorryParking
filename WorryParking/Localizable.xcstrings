@@ -48,6 +48,12 @@
             "value" : "%1$lld/%2$lld칸 사용 중"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$lld de %2$lld vagas usadas"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -112,6 +118,12 @@
             "value" : "%lld대 주차 중"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld estacionadas"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -174,6 +186,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "확인한 걱정 중 %lld%%는 실제로 일어나지 않았어요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld%% dos medos que você conferiu não aconteceram."
           }
         },
         "ru" : {
@@ -243,6 +261,12 @@
             "value" : "밤 11시 40분, 내일 일이 머릿속에서 계속 재생돼요. 떠오르는 그대로 적고, 얼마나 크게 울리는지 골라요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "23h40 e sua cabeça não para de repassar o dia de amanhã. Escreva a preocupação do jeito que ela soa e diga o quanto ela está alta."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -305,6 +329,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "오후 6시, 발표는 끝났어요. 걱정한 일이 일어났나요? 아니요. 강도가 4에서 1로 내려가서 떠나보냈고, 출차 기록에 남았어요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "18h, a apresentação acabou. Aconteceu? Na verdade, não. A preocupação caiu de 4 para 1, então você a deixou ir, e ela foi para o seu registro de saídas."
           }
         },
         "ru" : {
@@ -371,6 +401,12 @@
             "value" : "생각이 많은 날엔, 더 넓은 주차장."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Um estacionamento maior para uma mente agitada."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -433,6 +469,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "매일 15분, 잠들기 몇 시간 전이 좋아요. 걱정이 출차 준비가 되면 살짝 알려드릴게요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "15 minutos por dia, de preferência algumas horas antes de dormir. Avisamos com delicadeza quando uma preocupação estiver pronta para sair."
           }
         },
         "ru" : {
@@ -499,6 +541,12 @@
             "value" : "조금 가벼워졌어요"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Um pouco mais leve"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -561,6 +609,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "속삭이는 정도"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Um sussurro"
           }
         },
         "ru" : {
@@ -627,6 +681,12 @@
             "value" : "정보"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sobre"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -689,6 +749,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "비슷해요"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mais ou menos igual"
           }
         },
         "ru" : {
@@ -755,6 +821,12 @@
             "value" : "주차하고 나니 기분이 어때요?"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Depois de estacionar, como você se sente?"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -817,6 +889,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "출차 알림 허용"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Permitir lembretes de saída"
           }
         },
         "ru" : {
@@ -883,6 +961,12 @@
             "value" : "알림 허용하고 계속"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Permitir lembretes e continuar"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -945,6 +1029,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "끝나지 않은 걱정은 잊으면 안 된다는 긴장 때문에 머릿속에서 계속 되감겨요. 다시 볼 시간을 정해 두고 적어 두면, 뇌는 ‘일단 맡겨 뒀다’고 받아들여요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uma preocupação em aberto fica se repetindo porque sua mente tem medo de esquecer. Escrever e marcar um horário para voltar a ela avisa ao cérebro que, por enquanto, está resolvido."
           }
         },
         "ru" : {
@@ -1011,6 +1101,12 @@
             "value" : "더 하고 싶은 말이 있나요? (선택)"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mais alguma coisa? (opcional)"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1073,6 +1169,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "평균 강도 감소"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Queda média de intensidade"
           }
         },
         "ru" : {
@@ -1139,6 +1241,12 @@
             "value" : "처음"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Antes"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1201,6 +1309,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "감당할 수 있을 때 정확히 그 시간에 꺼내요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Traga uma preocupação de volta exatamente quando você der conta dela."
           }
         },
         "ru" : {
@@ -1267,6 +1381,12 @@
             "value" : "취소"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancelar"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1329,6 +1449,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "실제로 일어났는지 확인하기"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confira o que realmente aconteceu"
           }
         },
         "ru" : {
@@ -1395,6 +1521,12 @@
             "value" : "잠들기 몇 시간 전으로 정해 주세요. 새 걱정은 이 시간까지 주차돼요. 이미 주차된 걱정은 원래 출차 시간을 유지해요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escolha um horário algumas horas antes de dormir. As novas preocupações ficam estacionadas até lá. As que já estão estacionadas mantêm o horário de saída."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1457,6 +1589,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "닫기"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fechar"
           }
         },
         "ru" : {
@@ -1523,6 +1661,12 @@
             "value" : "계속"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continuar"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1585,6 +1729,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "개수"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quantidade"
           }
         },
         "ru" : {
@@ -1651,6 +1801,12 @@
             "value" : "출차 시간 직접 지정"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Horários de saída personalizados"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1713,6 +1869,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "직접 지정"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Horário personalizado"
           }
         },
         "ru" : {
@@ -1779,6 +1941,12 @@
             "value" : "걱정했던 일이 실제로 일어났나요?"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O que você temia aconteceu mesmo?"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1841,6 +2009,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "안 일어남"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Não aconteceu"
           }
         },
         "ru" : {
@@ -1907,6 +2081,12 @@
             "value" : "완료"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Concluir"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1969,6 +2149,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "출차하기"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sair"
           }
         },
         "ru" : {
@@ -2035,6 +2221,12 @@
             "value" : "걱정 다시 쓰기"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Editar minha preocupação"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2097,6 +2289,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "빈자리"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Livre"
           }
         },
         "ru" : {
@@ -2163,6 +2361,12 @@
             "value" : "작성한 내용은 모두 이 기기에만 저장돼요. 알림에는 걱정 내용이 절대 표시되지 않아요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tudo o que você escreve fica neste aparelho. As notificações nunca incluem o texto da sua preocupação."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2225,6 +2429,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "출차"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SAÍDA"
           }
         },
         "ru" : {
@@ -2291,6 +2501,12 @@
             "value" : "출차"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saída"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2353,6 +2569,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "출차 게이트"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancela de saída"
           }
         },
         "ru" : {
@@ -2419,6 +2641,12 @@
             "value" : "출차 게이트 · P%lld"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancela de saída · P%lld"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2481,6 +2709,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "출차 게이트 · P1"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancela de saída · P1"
           }
         },
         "ru" : {
@@ -2547,6 +2781,12 @@
             "value" : "출차 인사이트"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Insights de saídas"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2609,6 +2849,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "출차 기록"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registro de saídas"
           }
         },
         "ru" : {
@@ -2675,6 +2921,12 @@
             "value" : "출차 시간"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Horário de saída"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2737,6 +2989,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "출차 완료"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saiu"
           }
         },
         "ru" : {
@@ -2803,6 +3061,12 @@
             "value" : "%@ 후 출차"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sai em %@"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2865,6 +3129,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "첫 출차"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Primeira saída"
           }
         },
         "ru" : {
@@ -2931,6 +3201,12 @@
             "value" : "처음 주차했을 때"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Na primeira vez que estacionou"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2993,6 +3269,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "지금은 이것만 온전히 들여다보세요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dê toda a sua atenção a ela. É a única coisa a fazer agora."
           }
         },
         "ru" : {
@@ -3059,6 +3341,12 @@
             "value" : "사라짐"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sumiu"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3121,6 +3409,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "무거움"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pesada"
           }
         },
         "ru" : {
@@ -3187,6 +3481,12 @@
             "value" : "이력"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Histórico"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3249,6 +3549,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "해 보니 어땠어요?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Como foi?"
           }
         },
         "ru" : {
@@ -3315,6 +3621,12 @@
             "value" : "지금은 얼마나 크게 울리나요?"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O quanto ela está alta agora?"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3379,6 +3691,12 @@
             "value" : "지금 얼마나 크게 울리나요?"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O quanto ela está alta neste momento?"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3441,6 +3759,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "다시 머릿속으로 들어오면 알아차리고 이렇게 말해 주세요. '이미 자리가 있어. 걱정 시간에 다룰 거야.'"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se ela voltar à sua cabeça, perceba e diga a si mesmo: ela tem uma vaga. Você cuida disso na Hora de se preocupar."
           }
         },
         "ru" : {
@@ -3509,6 +3833,12 @@
             "value" : "걱정이 자꾸 돌아왔다면, 떠오를 때마다 짧게 “이미 자리가 있어”라고 말하고 하던 일로 돌아가 보세요. 걱정이 일상을 크게 방해한다면 전문가와 이야기해 보는 것이 큰 도움이 될 수 있어요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se ela continuou voltando, tente dizer um breve “você já tem uma vaga” e volte ao que estava fazendo. Se a preocupação atrapalha o seu dia a dia, conversar com um profissional pode ajudar muito."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3571,6 +3901,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "입차"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ENTRADA"
           }
         },
         "ru" : {
@@ -3637,6 +3973,12 @@
             "value" : "덜 신경 쓰였어요"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Me incomodou menos"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3699,6 +4041,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "더 신경 쓰였어요"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Me incomodou mais"
           }
         },
         "ru" : {
@@ -3765,6 +4113,12 @@
             "value" : "일어나지 않았어요"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Não aconteceu"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3829,6 +4183,12 @@
             "value" : "일어났어요"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aconteceu"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3891,6 +4251,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "주차할 때는 %lld였어요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quando você estacionou, estava em %lld."
           }
         },
         "ru" : {
@@ -3959,6 +4325,12 @@
             "value" : "오히려 더 신경 쓰여요"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Está mais na minha cabeça"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4021,6 +4393,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이제 첫 번째일 뿐이에요. 연구에서도 효과는 몇 주에 걸쳐 쌓였어요. 몇 번 더 주차해 보고 출차 기록에서 비교해 보세요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "É só a primeira. Nos estudos, o efeito foi se acumulando ao longo de algumas semanas. Estacione mais algumas e compare no seu registro de saídas."
           }
         },
         "ru" : {
@@ -4087,6 +4465,12 @@
             "value" : "주차장을 떠났어요. 이제 보내주세요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ela saiu do estacionamento. Deixe-a ir."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4149,6 +4533,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "내일 걱정 시간까지 주차해 뒀어요. 샤워하다 다시 떠오르면 '이미 자리가 있어'라고만 말해 주세요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ela está estacionada até a Hora de se preocupar de amanhã. Quando ela aparecer de novo no banho, diga a si mesmo: ela já tem uma vaga."
           }
         },
         "ru" : {
@@ -4215,6 +4605,12 @@
             "value" : "걱정 시간이에요. %lld분만 집중해서 들여다보고 어떻게 할지 정해요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "É a Hora de se preocupar. Dê %lld minutos de atenção a ela e depois decida o que fazer."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4277,6 +4673,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "계속 주차해 두기"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manter estacionada"
           }
         },
         "ru" : {
@@ -4343,6 +4745,12 @@
             "value" : "계속 주차해 보세요. 몇 번 출차하면 패턴이 보여요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue estacionando. Os padrões aparecem depois de algumas saídas."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4405,6 +4813,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "나중에"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mais tarde"
           }
         },
         "ru" : {
@@ -4471,6 +4885,12 @@
             "value" : "떠나보내기"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deixar ir"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4533,6 +4953,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "강도"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "INTENSIDADE"
           }
         },
         "ru" : {
@@ -4599,6 +5025,12 @@
             "value" : "강도 5 중 %1$lld, %2$@"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Intensidade %lld de 5, %@"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4661,6 +5093,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "강도 %1$lld → %2$lld"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Intensidade %lld → %lld"
           }
         },
         "ru" : {
@@ -4729,6 +5167,12 @@
             "value" : "걱정을 똑바로 들여다보면 처음엔 더 크게 느껴질 수 있어요. 지금 해결하지 않아도 돼요. 이 걱정이 할 일은 걱정 시간까지 기다리는 것뿐이에요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Encarar uma preocupação de frente pode fazê-la parecer maior no início. Você não precisa resolvê-la agora. O único trabalho dela é esperar a Hora de se preocupar."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4791,6 +5235,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "주차장"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estacionamento"
           }
         },
         "ru" : {
@@ -4857,6 +5307,12 @@
             "value" : "크게 울림"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alta"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4919,6 +5375,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "계획 세움"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plano feito"
           }
         },
         "ru" : {
@@ -4985,6 +5447,12 @@
             "value" : "계획 세우기"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fazer um plano"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5047,6 +5515,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "구체적인 계획을 세우면 끝나지 않은 일이 생각에 덜 끼어들었고, 자기 전 5분 동안 할 일을 적은 사람들은 더 빨리 잠들었어요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fazer um plano concreto impediu que tarefas inacabadas invadissem os pensamentos, e cinco minutos de escrita antes de dormir ajudaram as pessoas a pegar no sono mais rápido."
           }
         },
         "ru" : {
@@ -5113,6 +5587,12 @@
             "value" : "구독 관리"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gerenciar assinatura"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5175,6 +5655,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "계속 신경 쓰임"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Insistente"
           }
         },
         "ru" : {
@@ -5241,6 +5727,12 @@
             "value" : "다음"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avançar"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5303,6 +5795,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "다음 걱정 시간"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Próxima Hora de se preocupar"
           }
         },
         "ru" : {
@@ -5369,6 +5867,12 @@
             "value" : "다음 걱정 시간: %@"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Próxima Hora de se preocupar: %@"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5431,6 +5935,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "아직 출차한 걱정이 없어요"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nenhuma saída ainda"
           }
         },
         "ru" : {
@@ -5497,6 +6007,12 @@
             "value" : "나중에"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agora não"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5561,6 +6077,12 @@
             "value" : "아직 준비가 안 됐어요. 다음 걱정 시간에 다시 꺼내요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ainda não está pronta. Traga-a de volta na próxima Hora de se preocupar."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5623,6 +6145,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "알림이 꺼져 있어요"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "As notificações estão desativadas"
           }
         },
         "ru" : {
@@ -5691,6 +6219,12 @@
             "value" : "지금"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agora"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5753,6 +6287,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "주차하고 나니, 지금은 얼마나 크게 울리나요?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agora que ela está estacionada, o quanto ela está alta?"
           }
         },
         "ru" : {
@@ -5819,6 +6359,12 @@
             "value" : "실제 걱정 하나가 밤 11시 40분부터 다음 날 걱정 시간까지 가는 과정이에요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uma preocupação real, das 23h40 até a Hora de se preocupar do dia seguinte."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5881,6 +6427,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "작은 다음 행동 하나"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Um pequeno próximo passo"
           }
         },
         "ru" : {
@@ -5947,6 +6499,12 @@
             "value" : "iOS 설정 열기"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abrir os Ajustes do iOS"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6009,6 +6567,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "압도됨"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esmagadora"
           }
         },
         "ru" : {
@@ -6081,6 +6645,12 @@
             "value" : "P%lld 출차 준비 완료"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A P%lld está pronta para sair"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6148,6 +6718,12 @@
             "value" : "P%1$lld · 주차권 #%2$@"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "P%1$lld · Ticket n.º %2$@"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6210,6 +6786,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%1$lld/%2$lld 페이지"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Página %1$lld de %2$lld"
           }
         },
         "ru" : {
@@ -6276,6 +6858,12 @@
             "value" : "주차"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estacionar"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6338,6 +6926,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "걱정 주차하기"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estacionar uma preocupação"
           }
         },
         "ru" : {
@@ -6404,6 +6998,12 @@
             "value" : "P%lld에 주차"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estacionar na P%lld"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6466,6 +7066,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "3개 제한 없이 모든 걱정을 주차해요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estacione todas as preocupações, não só três."
           }
         },
         "ru" : {
@@ -6532,6 +7138,12 @@
             "value" : "다시 주차하기"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estacionar de novo"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6594,6 +7206,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ 주차"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estacionada %@"
           }
         },
         "ru" : {
@@ -6660,6 +7278,12 @@
             "value" : "P%lld에 주차했어요"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estacionada na P%lld"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6722,6 +7346,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@까지 주차 중"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estacionada até %@"
           }
         },
         "ru" : {
@@ -6788,6 +7418,12 @@
             "value" : "주차된 걱정은 출차 시간까지 숨겨져 있어요. 지금 짊어지고 있지 않아도 돼요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "As preocupações estacionadas ficam ocultas até o horário de saída. Você não precisa carregá-las agora."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6852,6 +7488,12 @@
             "value" : "주차 중. 지금은 네 일이 아니야."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estacionada. Agora não é problema seu."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6914,6 +7556,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "일부만"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Em parte"
           }
         },
         "ru" : {
@@ -6982,6 +7630,12 @@
             "value" : "걱정을 매일 짧은 걱정 시간으로 옮긴 사람들은 걱정하는 시간이 줄고, 불안과 수면 문제도 덜 겪었다고 보고했어요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pessoas que passaram suas preocupações para um breve período diário gastaram menos tempo se preocupando e relataram menos ansiedade e menos problemas de sono."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7044,6 +7698,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "걱정 시간을 정해요"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escolha sua Hora de se preocupar"
           }
         },
         "ru" : {
@@ -7110,6 +7770,12 @@
             "value" : "걱정 미루기가 효과를 내고 있어요. 다음 걱정도 여기에 주차해 보세요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adiar está funcionando para você. Tente estacionar a próxima também."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7172,6 +7838,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "미루기는 기다릴 때 가장 효과가 좋아요. 대부분의 걱정은 걱정 시간이 되면 작아져 있어요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adiar funciona melhor quando você espera. Na Hora de se preocupar, a maioria das preocupações parece menor."
           }
         },
         "ru" : {
@@ -7238,6 +7910,12 @@
             "value" : "개인정보 처리방침"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Política de Privacidade"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7300,6 +7978,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pro 사용 중"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro ativo"
           }
         },
         "ru" : {
@@ -7366,6 +8050,12 @@
             "value" : "Pro 전용 칸"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vaga Pro"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7428,6 +8118,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "출차 준비 완료"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pronta para sair"
           }
         },
         "ru" : {
@@ -7494,6 +8190,12 @@
             "value" : "알림"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lembretes"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7556,6 +8258,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "연구 결과는 평균적인 경향이며, 효과는 사람마다 다를 수 있어요. 걱정 주차장은 스스로 돌보기 위한 도구이며 의료기기나 치료가 아니에요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "As pesquisas descrevem efeitos médios, e os resultados variam de pessoa para pessoa. O Estacionamento de Preocupações é uma ferramenta de autoajuda, não um dispositivo médico nem um tratamento."
           }
         },
         "ru" : {
@@ -7622,6 +8330,12 @@
             "value" : "연구 출처"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Referências de pesquisa"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7684,6 +8398,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "구매 복원"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restaurar compras"
           }
         },
         "ru" : {
@@ -7750,6 +8470,12 @@
             "value" : "결과"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resultado"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7812,6 +8538,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "일찍 꺼내기"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Retirar antes"
           }
         },
         "ru" : {
@@ -7878,6 +8610,12 @@
             "value" : "이 걱정을 일찍 꺼낼까요?"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Retirar esta preocupação antes da hora?"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7940,6 +8678,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "걱정한 일 중 실제로 일어난 게 얼마나 되는지 확인해요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veja quantos dos seus medos aconteceram de verdade."
           }
         },
         "ru" : {
@@ -8006,6 +8750,12 @@
             "value" : "걱정 중 실제로 일어난 게 얼마나 되는지 확인해 보세요"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veja quantas das suas preocupações realmente aconteceram"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8068,6 +8818,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "예시로 살펴보기"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ver em ação"
           }
         },
         "ru" : {
@@ -8134,6 +8890,12 @@
             "value" : "지금 출차 게이트로 보내기"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enviar agora para a cancela de saída"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8196,6 +8958,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "설정"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajustes"
           }
         },
         "ru" : {
@@ -8262,6 +9030,12 @@
             "value" : "나중에 해 볼게요"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pular por enquanto"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8324,6 +9098,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld번 칸. 비어 있음. 여기에 걱정을 주차하세요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vaga %lld. Livre. Estacione uma preocupação aqui."
           }
         },
         "ru" : {
@@ -8390,6 +9170,12 @@
             "value" : "%lld번 칸. Pro 전용, 잠김."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vaga %lld. Vaga Pro, bloqueada."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8452,6 +9238,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%1$lld번 칸. %2$@까지 걱정 주차 중."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vaga %1$lld. Preocupação estacionada até %2$@."
           }
         },
         "ru" : {
@@ -8518,6 +9310,12 @@
             "value" : "%lld번 칸. 출차 준비 완료."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vaga %lld. Preocupação pronta para sair."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8580,6 +9378,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "시작하기"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Começar"
           }
         },
         "ru" : {
@@ -8646,6 +9450,12 @@
             "value" : "점선을 따라 쓱 그어서 주차하세요"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deslize pela linha pontilhada para estacionar"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8708,6 +9518,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "점선을 따라 쓱 그어 보세요. 티켓이 끊기는 순간, 이 걱정은 %@까지 주차돼요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deslize pela linha pontilhada. Quando o ticket se soltar, esta preocupação ficará estacionada até %@."
           }
         },
         "ru" : {
@@ -8774,6 +9590,12 @@
             "value" : "천천히 숨을 한 번 쉬어 보세요. 지금은 이 걱정에 대해 할 일이 없어요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Respire fundo uma vez, devagar. Por enquanto, não há nada a fazer sobre isso."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8836,6 +9658,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "티켓을 끊어서 주차하기"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Destaque o ticket para estacionar"
           }
         },
         "ru" : {
@@ -8902,6 +9730,12 @@
             "value" : "티켓을 끊어요"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Destaque o seu ticket"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8964,6 +9798,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이용약관"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Termos de Uso"
           }
         },
         "ru" : {
@@ -9030,6 +9870,12 @@
             "value" : "충분히 그럴 수 있어요. 효과는 몇 분이 아니라 며칠에 걸쳐 쌓여요. 다시 떠오르면 “이미 자리가 있어”라고 말해 주고, 걱정 시간에 어떻게 느껴지는지 확인해 보세요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Isso é completamente normal. O efeito costuma se acumular ao longo de dias, não de minutos. Quando ela voltar, diga “você já tem uma vaga” e veja como se sente na Hora de se preocupar."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9092,6 +9938,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "그게 걱정 미루기의 첫 효과예요. 적어서 자리를 정해 주면 머리가 더 이상 붙잡고 있지 않아도 돼요. 걱정 시간에 다시 만나요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esse é o primeiro efeito de adiar. Quando uma preocupação está escrita e tem um lugar, sua mente não precisa segurá-la. Até a Hora de se preocupar."
           }
         },
         "ru" : {
@@ -9158,6 +10010,12 @@
             "value" : "그다음 걱정 시간"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A Hora de se preocupar seguinte"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9220,6 +10078,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "주차권 #%@"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ticket n.º %@"
           }
         },
         "ru" : {
@@ -9286,6 +10150,12 @@
             "value" : "오늘 %@"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hoje às %@"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9348,6 +10218,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "내일 %@"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "amanhã às %@"
           }
         },
         "ru" : {
@@ -9414,6 +10290,12 @@
             "value" : "아직 모르겠어요"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cedo demais para dizer"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9476,6 +10358,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "직접 해 봐요"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Experimente agora"
           }
         },
         "ru" : {
@@ -9542,6 +10430,12 @@
             "value" : "작은 다음 행동 하나로 바꿔요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Transforme-a em um pequeno próximo passo."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9604,6 +10498,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "주차 칸 무제한"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vagas ilimitadas"
           }
         },
         "ru" : {
@@ -9670,6 +10570,12 @@
             "value" : "무제한 주차 칸, 출차 시간 지정, 인사이트"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vagas ilimitadas, horários de saída personalizados, insights"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9732,6 +10638,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pro로 인사이트 잠금 해제"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desbloqueie os insights com o Pro"
           }
         },
         "ru" : {
@@ -9798,6 +10710,12 @@
             "value" : "걱정이 출차 준비되면 알려드릴게요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avisaremos quando uma preocupação estiver pronta para sair."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9860,6 +10778,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이 걱정을 어떻게 할까요?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O que você quer fazer com ela?"
           }
         },
         "ru" : {
@@ -9926,6 +10850,12 @@
             "value" : "내일 발표 때 머리가 하얘져서 다들 내가 무능하다고 생각하면 어떡하지?"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E se eu der branco na apresentação de amanhã e todo mundo achar que eu não sou bom o bastante?"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9988,6 +10918,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "걱정한 일이 일어나지 않았어요. 이런 출차가 출차 기록에 쌓이면, 내 걱정이 얼마나 자주 빗나가는지 눈으로 볼 수 있어요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O que você temia não aconteceu. Cada saída como esta vai para o seu registro de saídas, para você ver com que frequência suas preocupações erram."
           }
         },
         "ru" : {
@@ -10054,6 +10990,12 @@
             "value" : "머릿속에 맴도는 게 뭔가요?"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O que está rondando a sua cabeça?"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10116,6 +11058,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "만성적으로 걱정하는 사람들이 자기 걱정을 기록해 보니, %lld%%는 실제로 일어나지 않았어요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quando pessoas com preocupação crônica registraram suas preocupações, %lld%% delas não aconteceram."
           }
         },
         "ru" : {
@@ -10182,6 +11130,12 @@
             "value" : "언제 다시 꺼낼까요?"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quando ela deve voltar?"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10244,6 +11198,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "주차해 둔 동안, 이 걱정은 어땠어요?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enquanto estava estacionada, como esta preocupação pareceu?"
           }
         },
         "ru" : {
@@ -10310,6 +11270,12 @@
             "value" : "왜 효과가 있을까요?"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Por que funciona"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10374,6 +11340,12 @@
             "value" : "알림이 없으면 주차된 걱정이 주차장에서 조용히 기다리기만 해요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sem eles, as preocupações estacionadas esperam em silêncio no estacionamento."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10436,6 +11408,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "걱정을 밤새 태우고 다닐 필요는 없어요.\n여기에 주차해 두세요. 걱정 시간까지 맡아둘게요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "As preocupações não precisam acompanhar você a noite toda.\nEstacione-as aqui. Guardamos tudo até a sua Hora de se preocupar."
           }
         },
         "ru" : {
@@ -10504,6 +11482,12 @@
             "value" : "걱정은 침대에서, 샤워하다가, 퇴근길에 어디서든 튀어나와요. 걱정에 따로 시간을 정해 주면, 뇌는 나머지 시간은 걱정할 때가 아니라는 걸 배워요. 심리학에서는 이를 ‘자극 통제’라고 불러요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "As preocupações aparecem em qualquer lugar: na cama, no banho, no caminho para casa. Quando se preocupar ganha um horário próprio, seu cérebro aprende que o resto do dia não é para isso. Os psicólogos chamam isso de controle de estímulos."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10566,6 +11550,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "출차 게이트에서 돌아본 걱정이 여기에 쌓여요. 시간이 지나면 실제로 일어난 게 얼마나 되는지 보여요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "As preocupações que você revisa na cancela de saída vêm parar aqui. Com o tempo, você vai ver quantas delas aconteceram de verdade."
           }
         },
         "ru" : {
@@ -10632,6 +11622,12 @@
             "value" : "정해진 시간에만 걱정하기"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preocupar-se em um horário fixo"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10694,6 +11690,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "걱정 주차장"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ESTACIONAMENTO DE PREOCUPAÇÕES"
           }
         },
         "ru" : {
@@ -10760,6 +11762,12 @@
             "value" : "걱정 주차장"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estacionamento de Preocupações"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10824,6 +11832,12 @@
             "value" : "걱정 주차장은 셀프 케어 도구이며 의료기기나 전문 치료를 대신하지 않아요. 많이 힘들다면 정신건강 전문가나 가까운 응급 기관(정신건강 위기상담 109)에 도움을 요청하세요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O Estacionamento de Preocupações é uma ferramenta de autoajuda, não um dispositivo médico nem um substituto do cuidado profissional. Se você está passando por um momento difícil, procure um profissional de saúde mental ou os serviços de emergência da sua região."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10886,6 +11900,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "걱정 주차장은 인지행동치료(CBT)에서 쓰는 자극 통제 기법인 '걱정 미루기'를 바탕으로 해요. 걱정과 싸우는 대신 정해진 시간으로 미뤄두고, 그때 다시 들여다봐요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O Estacionamento de Preocupações é baseado no adiamento da preocupação, uma técnica de controle de estímulos usada na terapia cognitivo-comportamental (TCC): em vez de lutar contra uma preocupação, você marca um horário para ela e volta a ela nessa hora."
           }
         },
         "ru" : {
@@ -10954,6 +11974,12 @@
             "value" : "걱정 주차장은 인지행동치료(CBT)에서 수십 년간 연구된 ‘걱정 미루기’ 기법을 바탕으로 만들었어요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O Estacionamento de Preocupações é baseado no adiamento da preocupação, uma técnica da terapia cognitivo-comportamental (TCC) estudada há décadas."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11016,6 +12042,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "걱정 주차장 Pro"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estacionamento de Preocupações Pro"
           }
         },
         "ru" : {
@@ -11082,6 +12114,12 @@
             "value" : "걱정은 미래를 실제보다 나쁘게 예측해요. 출차 게이트에서 정말 일어났는지 기록하다 보면, 출차 기록이 내 걱정이 얼마나 자주 빗나갔는지 보여 줘요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A preocupação prevê um futuro pior do que ele costuma ser. Na cancela de saída, você registra se aconteceu de verdade, e com o tempo seu registro de saídas mostra com que frequência suas preocupações erraram."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11146,6 +12184,12 @@
             "value" : "걱정 시간"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hora de se preocupar"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11208,6 +12252,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "적기"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escrever"
           }
         },
         "ru" : {
@@ -11276,6 +12326,12 @@
             "value" : "지금 머릿속에 있는 걱정 하나를 적어 보세요. 실제로 주차되고, %@에 다시 돌아와요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escreva uma preocupação que está na sua cabeça agora. Ela será estacionada de verdade e voltará %@."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11338,6 +12394,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "적어서 내려놓기"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escreva para soltar"
           }
         },
         "ru" : {
@@ -11404,6 +12466,12 @@
             "value" : "머릿속에서 들리는 그대로 적어 보세요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escreva exatamente do jeito que soa na sua cabeça."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11468,6 +12536,12 @@
             "value" : "지금은 이걸 짊어지지 않아도 돼요. %@에 다시 가져다 드릴게요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Você não precisa carregar isso agora. Vamos trazê-la de volta %@."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11530,6 +12604,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "걱정을 미뤄 두었다가 정해 둔 때에 다시 마주했어요. 이게 이 기법의 전부예요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Você adiou uma preocupação e voltou a ela de propósito. Essa é a técnica inteira."
           }
         },
         "ru" : {
@@ -11598,6 +12678,12 @@
             "value" : "답변은 이 iPhone에만 저장돼요. 출차 기록에서 다시 볼 수 있어요."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suas respostas ficam neste iPhone. Você pode revê-las no seu registro de saídas."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11660,6 +12746,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "매일 걱정 시간은 %@예요. 설정에서 바꿀 수 있어요."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sua Hora de se preocupar diária é às %@. Você pode mudar nos Ajustes."
           }
         },
         "ru" : {
@@ -11726,6 +12818,12 @@
             "value" : "내 체험 기록"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sua experiência"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11790,6 +12888,12 @@
             "value" : "첫 출차를 마쳤어요"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sua primeira saída"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11852,6 +12956,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "내 걱정"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sua preocupação"
           }
         },
         "ru" : {

@@ -53,6 +53,12 @@
             "value" : "걱정 주차장"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estacionamento de Preocupações"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -123,6 +129,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "걱정 주차장"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estacionamento de Preocupações"
           }
         },
         "ru" : {

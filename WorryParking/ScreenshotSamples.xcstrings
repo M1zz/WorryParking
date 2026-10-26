@@ -47,6 +47,12 @@
             "value" : "팀장님께 1:1 요청하기"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pedir uma reunião individual ao meu chefe"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -111,6 +117,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이번 달 카드값을 감당할 수 있을까?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Será que consigo pagar a fatura do cartão deste mês?"
           }
         },
         "ru" : {
@@ -179,6 +191,12 @@
             "value" : "주변 시세 알아보기"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pesquisar aluguéis no bairro"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -243,6 +261,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "모임에서 한 농담이 선을 넘었나?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minha piada no jantar passou do limite?"
           }
         },
         "ru" : {
@@ -311,6 +335,12 @@
             "value" : "이번 분기 평가를 망친 것 같아."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acho que estraguei a avaliação deste trimestre."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -375,6 +405,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "월요일 회의에서 또 지적받을 거야."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vão me chamar a atenção de novo na reunião de segunda."
           }
         },
         "ru" : {
@@ -443,6 +479,12 @@
             "value" : "보고서 마감을 못 맞추면 어쩌지."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nunca vou cumprir o prazo do relatório."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -507,6 +549,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "면접에서 말을 더듬으면 떨어질 거야."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se eu gaguejar na entrevista, estou fora."
           }
         },
         "ru" : {
@@ -575,6 +623,12 @@
             "value" : "노트북이 고장 나면 작업물이 다 날아가."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se meu notebook quebrar, perco tudo."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -639,6 +693,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "단톡방에서 친구들이 내 말만 무시하는 것 같아."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parece que meus amigos ignoram só as minhas mensagens no grupo."
           }
         },
         "ru" : {
@@ -707,6 +767,12 @@
             "value" : "비행기를 놓치면 여행을 다 망칠 거야."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perder o voo estragaria a viagem inteira."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -771,6 +837,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "엄마 건강검진 재검 결과가 아직 안 나왔어. 혹시 큰 병인데 나한테 말을 안 하시는 거면 어떡하지?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O resultado dos exames da mamãe ainda não saiu. E se acharam algo sério e ela não me conta?"
           }
         },
         "ru" : {
@@ -839,6 +911,12 @@
             "value" : "집주인이 월세를 올릴 것 같아."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O proprietário vai aumentar o aluguel."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -903,6 +981,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "팀장님 답장이 너무 짧았어. 내가 뭘 잘못한 걸까?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A resposta do meu chefe foi tão curta. Será que fiz algo errado?"
           }
         },
         "ru" : {
@@ -971,6 +1055,12 @@
             "value" : "동생이 내 말에 서운했을 거야."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minha irmã deve ter ficado magoada com o que eu disse."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1035,6 +1125,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "예상 질문 3개 소리 내어 연습하기"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Treinar em voz alta três perguntas prováveis"
           }
         },
         "ru" : {
@@ -1103,6 +1199,12 @@
             "value" : "클라우드 백업 켜기"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ativar o backup na nuvem"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1169,6 +1271,12 @@
             "value" : "내일 발표하다 머리가 하얘지면, 다들 내가 무능하다고 생각할 거야."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E se eu der branco na apresentação de amanhã e todo mundo achar que eu não sou bom o bastante?"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1233,6 +1341,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "건강검진에서 뭐라도 나오면 어떡하지."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E se o exame encontrar alguma coisa?"
           }
         },
         "ru" : {
