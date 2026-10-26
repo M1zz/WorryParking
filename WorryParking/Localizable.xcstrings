@@ -6,6 +6,12 @@
     },
     "%lld of %lld spots used" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obsazeno %1$lld z %2$lld míst"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -88,6 +94,12 @@
     },
     "%lld parked" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zaparkováno: %lld"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -170,6 +182,12 @@
     },
     "%lld%% of the fears you checked didn't come true." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld %% obav, které jsi ověřil(a), se nesplnilo."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -255,6 +273,12 @@
     },
     "11:40 PM and your brain won't stop replaying tomorrow. Write the worry exactly as it sounds, and rate how loud it is." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "23:40 a hlava ti pořád přehrává zítřek. Napiš starost přesně tak, jak zní, a ohodnoť, jak hlasitá je."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -337,6 +361,12 @@
     },
     "6:00 PM, the presentation is over. Did it happen? Not really. The worry dropped from 4 to 1, so you let it go, and it's added to your Exit Log." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "18:00, prezentace je za tebou. Stalo se, čeho ses bál(a)? Vlastně ne. Starost klesla ze 4 na 1, tak ses jí zbavil(a) a zapsala se do tvého deníku výjezdů."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -419,6 +449,12 @@
     },
     "A bigger lot for a busier mind." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Větší parkoviště pro rušnější hlavu."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -501,6 +537,12 @@
     },
     "A daily 15-minute window, ideally a few hours before bed. We'll tap you on the shoulder when a worry is ready for pickup." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Každý den 15 minut, nejlépe pár hodin před spaním. Jemně ti dáme vědět, až bude starost připravená k vyzvednutí."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -583,6 +625,12 @@
     },
     "A little lighter" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trochu lehčí"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -665,6 +713,12 @@
     },
     "A whisper" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Šepot"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -747,6 +801,12 @@
     },
     "About" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O aplikaci"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -829,6 +889,12 @@
     },
     "About the same" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skoro stejné"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -911,6 +977,12 @@
     },
     "After parking it, how do you feel?" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jak se cítíš po zaparkování?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -993,6 +1065,12 @@
     },
     "Allow pickup reminders" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Povolit upozornění na vyzvednutí"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1075,6 +1153,12 @@
     },
     "Allow reminders & continue" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Povolit upozornění a pokračovat"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1157,6 +1241,12 @@
     },
     "An unfinished worry keeps replaying because your mind is afraid of forgetting it. Writing it down, with a set time to come back to it, tells your brain it's taken care of for now." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nedořešená starost se přehrává dokola, protože se mysl bojí, že na ni zapomene. Když ji zapíšeš a určíš čas, kdy se k ní vrátíš, mozek pochopí, že je zatím vyřízená."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1239,6 +1329,12 @@
     },
     "Anything else? (optional)" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ještě něco? (nepovinné)"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1321,6 +1417,12 @@
     },
     "Avg. level drop" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Průměrný pokles intenzity"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1403,6 +1505,12 @@
     },
     "Before" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Předtím"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1485,6 +1593,12 @@
     },
     "Bring a worry back exactly when you can handle it." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyzvedni starost přesně ve chvíli, kdy ji zvládneš."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1567,6 +1681,12 @@
     },
     "Cancel" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zrušit"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1649,6 +1769,12 @@
     },
     "Check what actually happened" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zkontroluj, co se doopravdy stalo"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1731,6 +1857,12 @@
     },
     "Choose a time a few hours before bed. New worries are parked until then. Already-parked worries keep their exit time." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyber čas několik hodin před spaním. Nové starosti zůstanou zaparkované do té doby. Už zaparkované si ponechají svůj čas výjezdu."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1813,6 +1945,12 @@
     },
     "Close" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zavřít"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1895,6 +2033,12 @@
     },
     "Continue" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pokračovat"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1977,6 +2121,12 @@
     },
     "Count" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Počet"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2059,6 +2209,12 @@
     },
     "Custom exit times" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vlastní časy výjezdu"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2141,6 +2297,12 @@
     },
     "Custom time" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vlastní čas"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2223,6 +2385,12 @@
     },
     "Did what you feared actually happen?" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stalo se doopravdy to, čeho ses bál(a)?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2305,6 +2473,12 @@
     },
     "Didn't happen" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nestalo se"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2387,6 +2561,12 @@
     },
     "Done" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hotovo"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2469,6 +2649,12 @@
     },
     "Drive out" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyjet"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2551,6 +2737,12 @@
     },
     "Edit my worry" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Upravit moji starost"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2633,6 +2825,12 @@
     },
     "Empty" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Volné"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2715,6 +2913,12 @@
     },
     "Everything you write stays on this device. Notifications never include your worry text." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vše, co napíšeš, zůstává v tomto zařízení. Upozornění nikdy neobsahují text tvé starosti."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2797,6 +3001,12 @@
     },
     "EXIT" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VÝJEZD"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2879,6 +3089,12 @@
     },
     "Exit" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Výjezd"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2961,6 +3177,12 @@
     },
     "Exit gate" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Výjezdová závora"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3043,6 +3265,12 @@
     },
     "Exit Gate · P%lld" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Výjezdová závora · P%lld"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3125,6 +3353,12 @@
     },
     "Exit Gate · P1" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Výjezdová závora · P1"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3207,6 +3441,12 @@
     },
     "Exit insights" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Přehledy výjezdů"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3289,6 +3529,12 @@
     },
     "Exit Log" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deník výjezdů"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3371,6 +3617,12 @@
     },
     "Exit time" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Čas výjezdu"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3453,6 +3705,12 @@
     },
     "Exited" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyjela"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3535,6 +3793,12 @@
     },
     "Exits in %@" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Výjezd za %@"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3617,6 +3881,12 @@
     },
     "First exit" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "První výjezd"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3699,6 +3969,12 @@
     },
     "First time parking" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Při prvním zaparkování"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3781,6 +4057,12 @@
     },
     "Give it your full attention. It's the only thing to do right now." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Věnuj jí plnou pozornost. Teď není nic jiného, co bys měl(a) dělat."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3863,6 +4145,12 @@
     },
     "Gone" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zmizela"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3945,6 +4233,12 @@
     },
     "Heavy" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Těžká"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4027,6 +4321,12 @@
     },
     "History" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Historie"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4109,6 +4409,12 @@
     },
     "How did that feel?" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jaké to bylo?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4191,6 +4497,12 @@
     },
     "How loud is it now?" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jak hlasitá je teď?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4273,6 +4585,12 @@
     },
     "How loud is it right now?" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jak hlasitá je právě teď?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4355,6 +4673,12 @@
     },
     "If it drives back into your head, notice it and tell yourself: it has a spot. You'll deal with it at Worry Time." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Když se ti vrátí do hlavy, všimni si toho a řekni si: už má své místo. Zabývat se jí budeš v Čase na starosti."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4439,6 +4763,12 @@
       "comment" : "Response to a user's \"heavier\" feedback on postponing.",
       "isCommentAutoGenerated" : true,
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pokud se pořád vracela, zkus krátké „už máš své místo“ a vrať se k tomu, co jsi dělal(a). Jestli ti starosti zasahují do běžných dnů, může hodně pomoct rozhovor s odborníkem."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4521,6 +4851,12 @@
     },
     "IN" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VJEZD"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4603,6 +4939,12 @@
     },
     "It bothered me less" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trápila mě méně"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4685,6 +5027,12 @@
     },
     "It bothered me more" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trápila mě víc"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4767,6 +5115,12 @@
     },
     "It didn't happen" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nestalo se"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4849,6 +5203,12 @@
     },
     "It happened" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stalo se"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4931,6 +5291,12 @@
     },
     "It was %lld when you parked it." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Při zaparkování byla na %lld."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5015,6 +5381,12 @@
       "comment" : "Feedback text for a user who found postponing a hassle.",
       "isCommentAutoGenerated" : true,
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Myslím na ni víc"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5097,6 +5469,12 @@
     },
     "It's only the first one. In studies, the effect built up over a few weeks. Park a few more and compare them in your Exit Log." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Je to teprve první. Ve studiích se účinek budoval několik týdnů. Zaparkuj dalších pár a porovnej je v deníku výjezdů."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5179,6 +5557,12 @@
     },
     "It's out of the lot. Drive away." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odjela z parkoviště. Nech ji jet."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5261,6 +5645,12 @@
     },
     "It's parked until tomorrow's Worry Time. When it pops up again in the shower, just tell yourself: it already has a spot." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Je zaparkovaná do zítřejšího Času na starosti. Až se ve sprše znovu vynoří, prostě si řekni: už má své místo."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5343,6 +5733,12 @@
     },
     "It's Worry Time. Give it %lld focused minutes, then decide what to do with it." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Je Čas na starosti. Věnuj jí %lld minut soustředěné pozornosti a pak se rozhodni, co s ní."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5425,6 +5821,12 @@
     },
     "Keep it parked" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nechat zaparkovanou"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5507,6 +5909,12 @@
     },
     "Keep parking. Patterns show up after a few exits." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parkuj dál. Vzorce se ukážou po několika výjezdech."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5589,6 +5997,12 @@
     },
     "Later" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Později"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5671,6 +6085,12 @@
     },
     "Let it go" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nechat odejít"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5753,6 +6173,12 @@
     },
     "LEVEL" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ÚROVEŇ"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5835,6 +6261,12 @@
     },
     "Level %lld of 5, %@" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Úroveň %lld z 5, %@"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5917,6 +6349,12 @@
     },
     "Level %lld → %lld" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Úroveň %lld → %lld"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6001,6 +6439,12 @@
       "comment" : "Feedback response for a user who chose \"heavier\" for the \"How postponing felt\" question.",
       "isCommentAutoGenerated" : true,
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Podívat se na starost zpříma ji zpočátku může zvětšit. Nemusíš ji řešit hned. Jejím jediným úkolem je čekat na Čas na starosti."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6083,6 +6527,12 @@
     },
     "Lot" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parkoviště"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6165,6 +6615,12 @@
     },
     "Loud" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hlasitá"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6247,6 +6703,12 @@
     },
     "Made a plan" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plán hotov"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6329,6 +6791,12 @@
     },
     "Make a plan" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Udělat plán"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6411,6 +6879,12 @@
     },
     "Making a concrete plan stopped unfinished tasks from intruding on people's thoughts, and five minutes of writing before bed helped people fall asleep faster." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Konkrétní plán zabránil nedokončeným úkolům, aby se vtíraly do myšlenek, a pět minut psaní před spaním pomohlo lidem rychleji usnout."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6493,6 +6967,12 @@
     },
     "Manage subscription" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spravovat předplatné"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6575,6 +7055,12 @@
     },
     "Nagging" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dotěrná"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6657,6 +7143,12 @@
     },
     "Next" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Další"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6739,6 +7231,12 @@
     },
     "Next Worry Time" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Příští Čas na starosti"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6821,6 +7319,12 @@
     },
     "Next Worry Time: %@" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Příští Čas na starosti: %@"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6903,6 +7407,12 @@
     },
     "No exits yet" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zatím žádné výjezdy"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6985,6 +7495,12 @@
     },
     "Not now" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Teď ne"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7067,6 +7583,12 @@
     },
     "Not ready yet. Bring it back at the next Worry Time." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ještě není připravená. Vyzvedni ji při příštím Času na starosti."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7149,6 +7671,12 @@
     },
     "Notifications are off" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Upozornění jsou vypnutá"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7233,6 +7761,12 @@
       "comment" : "A label for the current value of a level.",
       "isCommentAutoGenerated" : true,
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Teď"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7315,6 +7849,12 @@
     },
     "Now that it's parked, how loud is it?" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Teď, když je zaparkovaná, jak je hlasitá?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7397,6 +7937,12 @@
     },
     "One real worry, from 11:40 PM to Worry Time the next day." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jedna skutečná starost, od 23:40 do Času na starosti následujícího dne."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7479,6 +8025,12 @@
     },
     "One small next step" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jeden malý další krok"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7561,6 +8113,12 @@
     },
     "Open iOS Settings" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Otevřít Nastavení iOS"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7643,6 +8201,12 @@
     },
     "Overwhelming" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ohromující"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7731,6 +8295,12 @@
     },
     "P%lld is ready for pickup" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "P%lld je připraveno k vyzvednutí"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7816,6 +8386,12 @@
     },
     "P%lld · Ticket #%@" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "P%1$lld · Lístek č. %2$@"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7898,6 +8474,12 @@
     },
     "Page %lld of %lld" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Strana %1$lld z %2$lld"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7980,6 +8562,12 @@
     },
     "Park" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zaparkovat"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8062,6 +8650,12 @@
     },
     "Park a worry" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zaparkovat starost"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8144,6 +8738,12 @@
     },
     "Park at P%lld" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zaparkovat na P%lld"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8226,6 +8826,12 @@
     },
     "Park every worry, not just three." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parkuj každou starost, ne jen tři."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8308,6 +8914,12 @@
     },
     "Park it again" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zaparkovat znovu"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8390,6 +9002,12 @@
     },
     "Parked %@" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zaparkováno %@"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8472,6 +9090,12 @@
     },
     "Parked at P%lld" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zaparkováno na P%lld"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8554,6 +9178,12 @@
     },
     "Parked until %@" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zaparkováno do %@"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8636,6 +9266,12 @@
     },
     "Parked worries stay hidden until their exit time. You don't have to carry them right now." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zaparkované starosti zůstávají skryté do času výjezdu. Teď je nemusíš nosit s sebou."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8718,6 +9354,12 @@
     },
     "Parked. Not your job right now." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zaparkováno. Teď to není tvoje starost."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8800,6 +9442,12 @@
     },
     "Partly" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Částečně"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8884,6 +9532,12 @@
       "comment" : "Research study showing that people who moved their worrying to a short daily worry period spent less time worrying and reported less anxiety and fewer sleep problems.",
       "isCommentAutoGenerated" : true,
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lidé, kteří přesunuli své starosti do krátkého denního úseku, strávili starostmi méně času a uváděli méně úzkosti a méně problémů se spánkem."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8966,6 +9620,12 @@
     },
     "Pick your Worry Time" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyber svůj Čas na starosti"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9048,6 +9708,12 @@
     },
     "Postponing is working for you. Try parking the next one too." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odkládání ti funguje. Zkus zaparkovat i další starost."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9130,6 +9796,12 @@
     },
     "Postponing works best when you wait. Most worries feel smaller by Worry Time." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odkládání funguje nejlépe, když počkáš. V Čase na starosti se většina starostí zdá menší."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9212,6 +9884,12 @@
     },
     "Privacy Policy" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zásady ochrany osobních údajů"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9294,6 +9972,12 @@
     },
     "Pro is active" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro je aktivní"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9376,6 +10060,12 @@
     },
     "Pro spot" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Místo Pro"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9458,6 +10148,12 @@
     },
     "Ready for pickup" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Připraveno k vyzvednutí"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9540,6 +10236,12 @@
     },
     "Reminders" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Připomínky"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9622,6 +10324,12 @@
     },
     "Research describes average effects, and results differ from person to person. Worry Parking is a self-help tool, not a medical device or a treatment." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Výzkumy popisují průměrné účinky a výsledky se u každého liší. Parkoviště starostí je nástroj k sebepomoci, ne zdravotnický prostředek ani léčba."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9704,6 +10412,12 @@
     },
     "Research references" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odkazy na výzkumy"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9786,6 +10500,12 @@
     },
     "Restore purchases" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obnovit nákupy"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9868,6 +10588,12 @@
     },
     "Result" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Výsledek"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9950,6 +10676,12 @@
     },
     "Retrieve early" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyzvednout dřív"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10032,6 +10764,12 @@
     },
     "Retrieve this worry early?" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyzvednout tuto starost dřív?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10114,6 +10852,12 @@
     },
     "See how many of your fears actually came true." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Podívej se, kolik tvých obav se doopravdy splnilo."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10196,6 +10940,12 @@
     },
     "See how many of your worries actually happened" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Podívej se, kolik tvých starostí se doopravdy stalo"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10278,6 +11028,12 @@
     },
     "See it in action" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Podívat se, jak to funguje"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10360,6 +11116,12 @@
     },
     "Send it to the exit gate now" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Poslat ji hned k výjezdové závoře"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10442,6 +11204,12 @@
     },
     "Settings" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nastavení"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10524,6 +11292,12 @@
     },
     "Skip for now" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prozatím přeskočit"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10606,6 +11380,12 @@
     },
     "Spot %lld. Empty. Park a worry here." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Místo %lld. Volné. Zaparkuj tu starost."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10688,6 +11468,12 @@
     },
     "Spot %lld. Pro spot, locked." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Místo %lld. Místo Pro, uzamčeno."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10770,6 +11556,12 @@
     },
     "Spot %lld. Worry parked until %@." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Místo %1$lld. Starost zaparkovaná do %2$@."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10852,6 +11644,12 @@
     },
     "Spot %lld. Worry ready for pickup." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Místo %lld. Starost připravená k vyzvednutí."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10934,6 +11732,12 @@
     },
     "Start" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Začít"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11016,6 +11820,12 @@
     },
     "Swipe along the dotted line to park" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Přejeď po tečkované čáře a zaparkuj"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11098,6 +11908,12 @@
     },
     "Swipe along the dotted line. Once it tears off, this worry is parked until %@." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Přejeď po tečkované čáře. Jakmile se lístek utrhne, tato starost bude zaparkovaná do %@."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11180,6 +11996,12 @@
     },
     "Take one slow breath. There's nothing to do about it right now." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jednou se pomalu nadechni. Teď s tím nemusíš nic dělat."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11262,6 +12084,12 @@
     },
     "Tear off the ticket to park" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utrhni lístek a zaparkuj"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11344,6 +12172,12 @@
     },
     "Tear off your ticket" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utrhni si lístek"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11426,6 +12260,12 @@
     },
     "Terms of Use" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Podmínky použití"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11508,6 +12348,12 @@
     },
     "That's completely normal. The effect usually builds over days, not minutes. When it pops back up, tell it \"you already have a spot\" and see how it feels at Worry Time." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To je úplně normální. Účinek se obvykle buduje dny, ne minuty. Až se znovu vynoří, řekni jí „už máš své místo“ a sleduj, jak se budeš cítit v Čase na starosti."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11590,6 +12436,12 @@
     },
     "That's the first effect of postponing. Once a worry is written down and has a place, your mind doesn't have to hold on to it. See you at Worry Time." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To je první účinek odkládání. Když je starost zapsaná a má své místo, mysl se jí nemusí držet. Uvidíme se v Čase na starosti."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11672,6 +12524,12 @@
     },
     "The Worry Time after" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Čas na starosti poté"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11754,6 +12612,12 @@
     },
     "Ticket #%@" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lístek č. %@"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11836,6 +12700,12 @@
     },
     "today at %@" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "dnes v %@"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11918,6 +12788,12 @@
     },
     "tomorrow at %@" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "zítra v %@"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12000,6 +12876,12 @@
     },
     "Too early to tell" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Je příliš brzy to říct"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12082,6 +12964,12 @@
     },
     "Try it now" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyzkoušej to hned"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12164,6 +13052,12 @@
     },
     "Turn it into one small next step." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Přeměň ji na jeden malý další krok."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12246,6 +13140,12 @@
     },
     "Unlimited parking spots" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neomezený počet míst"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12328,6 +13228,12 @@
     },
     "Unlimited spots, custom exit times, insights" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neomezený počet míst, vlastní časy výjezdu, přehledy"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12410,6 +13316,12 @@
     },
     "Unlock Insights with Pro" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odemkni přehledy s Pro"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12492,6 +13404,12 @@
     },
     "We'll tell you when a worry is ready for pickup." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dáme ti vědět, až bude starost připravená k vyzvednutí."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12574,6 +13492,12 @@
     },
     "What do you want to do with it?" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Co s ní chceš udělat?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12656,6 +13580,12 @@
     },
     "What if I blank during tomorrow's presentation and everyone decides I'm not good enough?" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Co když mi při zítřejší prezentaci vypadne text a všichni si budou myslet, že nejsem dost dobrý?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12738,6 +13668,12 @@
     },
     "What you feared didn't happen. Each exit like this goes into your Exit Log, so you can see how often your worries turn out wrong." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To, čeho ses bál(a), se nestalo. Každý takový výjezd se zapíše do deníku výjezdů, takže vidíš, jak často se tvé starosti mýlí."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12820,6 +13756,12 @@
     },
     "What's circling in your head?" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Co ti běhá hlavou?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12902,6 +13844,12 @@
     },
     "When people with chronic worry tracked their worries, %lld%% of them didn't come true." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Když lidé s chronickými starostmi sledovali své starosti, %lld %% z nich se nesplnilo."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12984,6 +13932,12 @@
     },
     "When should it come back?" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kdy se má vrátit?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13066,6 +14020,12 @@
     },
     "While it was parked, how did this worry feel?" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jaká tato starost byla, když byla zaparkovaná?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13148,6 +14108,12 @@
     },
     "Why it works" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proč to funguje"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13230,6 +14196,12 @@
     },
     "Without them, parked worries wait silently in the lot." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bez nich zaparkované starosti tiše čekají na parkovišti."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13312,6 +14284,12 @@
     },
     "Worries don't have to ride with you all night.\nPark them here. We'll keep them until your Worry Time." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Starosti tě nemusí vozit celou noc.\nZaparkuj je tady. Schováme je do tvého Času na starosti."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13396,6 +14374,12 @@
       "comment" : "Explanation of the mechanism of worry postponement, based on cognitive behavioral therapy.",
       "isCommentAutoGenerated" : true,
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Starosti se objevují kdekoli: v posteli, ve sprše, cestou domů. Když dostane trápení vlastní čas, mozek se naučí, že zbytek dne mu nepatří. Psychologové tomu říkají kontrola podnětů."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13478,6 +14462,12 @@
     },
     "Worries you review at the exit gate land here. Over time you'll see how many of them actually happened." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Starosti, které zkontroluješ u výjezdové závory, skončí tady. Časem uvidíš, kolik se jich doopravdy stalo."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13560,6 +14550,12 @@
     },
     "Worry at one set time" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Starosti jen v určený čas"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13642,6 +14638,12 @@
     },
     "WORRY PARKING" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PARKOVIŠTĚ STAROSTÍ"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13724,6 +14726,12 @@
     },
     "Worry Parking" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parkoviště starostí"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13806,6 +14814,12 @@
     },
     "Worry Parking is a self-help tool, not a medical device or a substitute for professional care. If you're struggling, please reach out to a mental health professional or local emergency services." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parkoviště starostí je nástroj k sebepomoci, ne zdravotnický prostředek ani náhrada odborné péče. Pokud je ti těžko, obrať se na odborníka na duševní zdraví nebo na místní tísňové služby."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13888,6 +14902,12 @@
     },
     "Worry Parking is built on worry postponement, a stimulus-control technique used in cognitive behavioral therapy (CBT): instead of fighting a worry, you schedule it for a set time and return to it then." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parkoviště starostí vychází z odkládání starostí, techniky kontroly podnětů používané v kognitivně-behaviorální terapii (KBT): místo boje se starostí jí určíš čas a vrátíš se k ní až tehdy."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13972,6 +14992,12 @@
       "comment" : "A description of the research behind worry postponement.",
       "isCommentAutoGenerated" : true,
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parkoviště starostí vychází z odkládání starostí, techniky kognitivně-behaviorální terapie (KBT), která se zkoumá desítky let."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14054,6 +15080,12 @@
     },
     "Worry Parking Pro" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parkoviště starostí Pro"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14136,6 +15168,12 @@
     },
     "Worry predicts the future as worse than it usually turns out. At the exit gate you record whether it really happened, so over time your Exit Log shows how often your worries were wrong." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Starost předpovídá budoucnost horší, než obvykle bývá. U výjezdové závory zapíšeš, zda se to doopravdy stalo, takže ti deník výjezdů časem ukáže, jak často se tvé starosti mýlily."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14218,6 +15256,12 @@
     },
     "Worry Time" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Čas na starosti"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14300,6 +15344,12 @@
     },
     "Write" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zapsat"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14384,6 +15434,12 @@
       "comment" : "A description of the onboarding step where the user writes down a worry.",
       "isCommentAutoGenerated" : true,
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Napiš jednu starost, která ti teď leží v hlavě. Opravdu se zaparkuje a vrátí se %@."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14466,6 +15522,12 @@
     },
     "Write it down to put it down" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zapiš ji, abys ji pustil(a)"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14548,6 +15610,12 @@
     },
     "Write it exactly the way it sounds in your head." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Napiš ji přesně tak, jak zní ve tvé hlavě."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14630,6 +15698,12 @@
     },
     "You don't need to carry this right now. We'll bring it back %@." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Teď to nemusíš nosit s sebou. Přineseme ti to zpátky %@."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14712,6 +15786,12 @@
     },
     "You postponed a worry and came back to it on purpose. That's the whole technique." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odložil(a) jsi starost a záměrně ses k ní vrátil(a). To je celá technika."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14796,6 +15876,12 @@
       "comment" : "A description of how the user's feedback is stored.",
       "isCommentAutoGenerated" : true,
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tvé odpovědi zůstávají v tomto iPhonu. Můžeš se k nim vrátit v deníku výjezdů."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14878,6 +15964,12 @@
     },
     "Your daily Worry Time is %@. You can change it in Settings." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tvůj denní Čas na starosti je %@. Můžeš ho změnit v Nastavení."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14960,6 +16052,12 @@
     },
     "Your experience" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tvoje zkušenost"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15042,6 +16140,12 @@
     },
     "Your first exit" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tvůj první výjezd"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15124,6 +16228,12 @@
     },
     "Your worry" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tvoje starost"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",

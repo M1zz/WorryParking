@@ -5,6 +5,12 @@
       "comment" : "Bundle display name",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parkoviště starostí"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -95,6 +101,12 @@
       "comment" : "Bundle name",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parkoviště starostí"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",

@@ -5,6 +5,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Požádat šéfa o schůzku mezi čtyřma očima"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -89,6 +95,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zvládnu tento měsíc doopravdy zaplatit výpis z karty?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -173,6 +185,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zjistit nájmy v okolí"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -257,6 +275,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zašel můj vtip u večeře příliš daleko?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -341,6 +365,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Myslím, že jsem pokazil(a) hodnocení za tohle čtvrtletí."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -425,6 +455,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Na pondělním jednání mě zase zkritizují."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -509,6 +545,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Termín reportu nikdy nestihnu."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -593,6 +635,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Když se u pohovoru zadrhnu, jsem out."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -677,6 +725,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Když mi odejde notebook, přijdu o všechno."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -761,6 +815,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Připadá mi, že přátelé ve skupinovém chatu ignorují jen moje zprávy."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -845,6 +905,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zmeškání letu by zničilo celý výlet."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -929,6 +995,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Výsledky maminčiny prohlídky pořád nejsou. Co když našli něco vážného a ona mi to neříká?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1013,6 +1085,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pronajímatel mi zvýší nájem."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1097,6 +1175,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odpověď šéfa byla tak krátká. Udělal(a) jsem něco špatně?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1181,6 +1265,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Moje sestra je určitě zraněná tím, co jsem řekl(a)."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1265,6 +1355,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nahlas si procvičit tři pravděpodobné otázky"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1349,6 +1445,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zapnout zálohování do cloudu"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1433,6 +1535,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Co když mi při zítřejší prezentaci vypadne text a všichni si budou myslet, že nejsem dost dobrý?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1517,6 +1625,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Co když prohlídka něco odhalí?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",

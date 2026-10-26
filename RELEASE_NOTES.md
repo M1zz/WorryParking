@@ -99,3 +99,10 @@ Giờ đây mọi tính năng đều miễn phí
 Đỗ bao nhiêu nỗi lo tùy bạn
 Giờ ra bãi và thông tin cũng miễn phí
 Đã có thêm nhiều ngôn ngữ
+
+### App Store (Čeština)
+
+Všechny funkce jsou nově zdarma
+Parkuj tolik starostí, kolik potřebuješ
+Časy výjezdu i přehledy zdarma
+Nově ve více jazycích
