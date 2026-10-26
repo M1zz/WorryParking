@@ -24,6 +24,12 @@
             "value" : "%1$lld von %2$lld Stellplätzen belegt"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$lld από %2$lld θέσεις σε χρήση"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -118,6 +124,12 @@
             "value" : "%lld geparkt"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld σταθμευμένες"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -210,6 +222,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld %% der Befürchtungen, die du geprüft hast, sind nicht eingetreten."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το %lld%% των φόβων που έλεγξες δεν επαληθεύτηκε."
           }
         },
         "en-GB" : {
@@ -309,6 +327,12 @@
             "value" : "23:40 Uhr, und dein Kopf spielt das Morgen immer wieder ab. Schreib die Sorge so auf, wie sie klingt, und gib an, wie laut sie ist."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "23:40 και το μυαλό σου συνεχίζει να παίζει το αύριο. Γράψε την ανησυχία όπως ακριβώς ακούγεται και βαθμολόγησε πόσο δυνατή είναι."
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -401,6 +425,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "18:00 Uhr, die Präsentation ist vorbei. Ist es eingetreten? Nicht wirklich. Die Sorge ist von 4 auf 1 gesunken, also lässt du sie los – und sie landet in deinem Ausfahrtsjournal."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "18:00, η παρουσίαση τελείωσε. Έγινε αυτό που φοβόσουν; Όχι πραγματικά. Η ανησυχία έπεσε από το 4 στο 1, οπότε την άφησες να φύγει και προστέθηκε στο αρχείο εξόδων σου."
           }
         },
         "en-GB" : {
@@ -497,6 +527,12 @@
             "value" : "Ein größerer Parkplatz für einen vollen Kopf."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μεγαλύτερο πάρκινγκ για πιο γεμάτο μυαλό."
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -589,6 +625,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Täglich 15 Minuten, am besten ein paar Stunden vor dem Schlafen. Wir geben dir sanft Bescheid, wenn eine Sorge abholbereit ist."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "15 λεπτά κάθε μέρα, ιδανικά λίγες ώρες πριν τον ύπνο. Θα σε ειδοποιήσουμε διακριτικά όταν μια ανησυχία είναι έτοιμη για παραλαβή."
           }
         },
         "en-GB" : {
@@ -685,6 +727,12 @@
             "value" : "Etwas leichter"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Λίγο πιο ελαφριά"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -777,6 +825,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ein Flüstern"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ψίθυρος"
           }
         },
         "en-GB" : {
@@ -873,6 +927,12 @@
             "value" : "Info"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Σχετικά"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -965,6 +1025,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ungefähr gleich"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Περίπου ίδια"
           }
         },
         "en-GB" : {
@@ -1061,6 +1127,12 @@
             "value" : "Wie fühlst du dich, nachdem du sie geparkt hast?"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αφού την παρκάρισες, πώς νιώθεις;"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1153,6 +1225,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Abholhinweise erlauben"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Να επιτρέπονται οι υπενθυμίσεις παραλαβής"
           }
         },
         "en-GB" : {
@@ -1249,6 +1327,12 @@
             "value" : "Hinweise erlauben und weiter"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Να επιτρέπονται οι υπενθυμίσεις και συνέχεια"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1341,6 +1425,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Eine unerledigte Sorge läuft immer wieder ab, weil dein Kopf Angst hat, sie zu vergessen. Wenn du sie aufschreibst und eine feste Zeit zum Wiederkommen festlegst, weiß dein Gehirn: Das ist vorerst geregelt."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μια ανοιχτή ανησυχία επαναλαμβάνεται επειδή το μυαλό φοβάται ότι θα την ξεχάσει. Όταν τη γράφεις και ορίζεις ώρα να επιστρέψεις σε αυτήν, λες στον εγκέφαλο ότι προς το παρόν είναι υπό έλεγχο."
           }
         },
         "en-GB" : {
@@ -1437,6 +1527,12 @@
             "value" : "Noch etwas? (optional)"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κάτι άλλο; (προαιρετικό)"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1529,6 +1625,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ø Rückgang der Stärke"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μέση πτώση έντασης"
           }
         },
         "en-GB" : {
@@ -1625,6 +1727,12 @@
             "value" : "Vorher"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πριν"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1717,6 +1825,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hol eine Sorge genau dann zurück, wenn du dich ihr stellen kannst."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Φέρε μια ανησυχία πίσω ακριβώς όταν μπορείς να την αντιμετωπίσεις."
           }
         },
         "en-GB" : {
@@ -1813,6 +1927,12 @@
             "value" : "Abbrechen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ακύρωση"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1905,6 +2025,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Prüfe, was wirklich passiert ist"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Έλεγξε τι έγινε πραγματικά"
           }
         },
         "en-GB" : {
@@ -2001,6 +2127,12 @@
             "value" : "Wähle eine Uhrzeit ein paar Stunden vor dem Schlafen. Neue Sorgen bleiben bis dahin geparkt. Bereits geparkte Sorgen behalten ihre Ausfahrtszeit."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Διάλεξε μια ώρα λίγες ώρες πριν τον ύπνο. Οι νέες ανησυχίες παραμένουν σταθμευμένες μέχρι τότε. Οι ήδη σταθμευμένες κρατούν την ώρα εξόδου τους."
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2093,6 +2225,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Schließen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κλείσιμο"
           }
         },
         "en-GB" : {
@@ -2189,6 +2327,12 @@
             "value" : "Weiter"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Συνέχεια"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2281,6 +2425,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Anzahl"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πλήθος"
           }
         },
         "en-GB" : {
@@ -2377,6 +2527,12 @@
             "value" : "Eigene Ausfahrtszeiten"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Προσαρμοσμένες ώρες εξόδου"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2469,6 +2625,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Eigene Zeit"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Προσαρμοσμένη ώρα"
           }
         },
         "en-GB" : {
@@ -2565,6 +2727,12 @@
             "value" : "Ist das, wovor du Angst hattest, wirklich eingetreten?"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Έγινε πραγματικά αυτό που φοβόσουν;"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2657,6 +2825,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nicht eingetreten"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δεν έγινε"
           }
         },
         "en-GB" : {
@@ -2753,6 +2927,12 @@
             "value" : "Fertig"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τέλος"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2845,6 +3025,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ausfahren"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Έξοδος"
           }
         },
         "en-GB" : {
@@ -2941,6 +3127,12 @@
             "value" : "Meine Sorge bearbeiten"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Επεξεργασία της ανησυχίας μου"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3033,6 +3225,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Frei"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ελεύθερη"
           }
         },
         "en-GB" : {
@@ -3129,6 +3327,12 @@
             "value" : "Alles, was du schreibst, bleibt auf diesem Gerät. Hinweise enthalten nie den Text deiner Sorge."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Όσα γράφεις μένουν σε αυτή τη συσκευή. Οι ειδοποιήσεις δεν περιλαμβάνουν ποτέ το κείμενο της ανησυχίας σου."
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3221,6 +3425,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "AUSFAHRT"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ΕΞΟΔΟΣ"
           }
         },
         "en-GB" : {
@@ -3317,6 +3527,12 @@
             "value" : "Ausfahrt"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Έξοδος"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3409,6 +3625,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ausfahrtschranke"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μπάρα εξόδου"
           }
         },
         "en-GB" : {
@@ -3505,6 +3727,12 @@
             "value" : "Ausfahrtschranke · P%lld"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μπάρα εξόδου · P%lld"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3597,6 +3825,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ausfahrtschranke · P1"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μπάρα εξόδου · P1"
           }
         },
         "en-GB" : {
@@ -3693,6 +3927,12 @@
             "value" : "Ausfahrt-Einblicke"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Στατιστικά εξόδων"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3785,6 +4025,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ausfahrtsjournal"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αρχείο εξόδων"
           }
         },
         "en-GB" : {
@@ -3881,6 +4127,12 @@
             "value" : "Ausfahrtszeit"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ώρα εξόδου"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3973,6 +4225,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ausgefahren"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Βγήκε"
           }
         },
         "en-GB" : {
@@ -4069,6 +4327,12 @@
             "value" : "Ausfahrt in %@"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Έξοδος σε %@"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4161,6 +4425,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Erste Ausfahrt"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πρώτη έξοδος"
           }
         },
         "en-GB" : {
@@ -4257,6 +4527,12 @@
             "value" : "Beim ersten Parken"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Την πρώτη φορά που πάρκαρες"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4349,6 +4625,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Schenk ihr deine volle Aufmerksamkeit. Mehr gibt es jetzt nicht zu tun."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δώσ’ της όλη σου την προσοχή. Είναι το μόνο που έχεις να κάνεις τώρα."
           }
         },
         "en-GB" : {
@@ -4445,6 +4727,12 @@
             "value" : "Weg"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Χάθηκε"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4537,6 +4825,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Schwer"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Βαριά"
           }
         },
         "en-GB" : {
@@ -4633,6 +4927,12 @@
             "value" : "Verlauf"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ιστορικό"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4725,6 +5025,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wie war das?"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πώς ήταν;"
           }
         },
         "en-GB" : {
@@ -4821,6 +5127,12 @@
             "value" : "Wie laut ist sie jetzt?"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πόσο δυνατή είναι τώρα;"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4915,6 +5227,12 @@
             "value" : "Wie laut ist sie gerade?"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πόσο δυνατή είναι αυτή τη στιγμή;"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5007,6 +5325,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wenn sie dir wieder in den Kopf fährt, nimm es wahr und sag dir: Sie hat einen Platz. Zur Sorgenzeit kümmerst du dich darum."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αν ξαναμπεί στο μυαλό σου, πρόσεξέ το και πες στον εαυτό σου: έχει θέση. Θα ασχοληθείς μαζί της στην Ώρα ανησυχίας."
           }
         },
         "en-GB" : {
@@ -5105,6 +5429,12 @@
             "value" : "Wenn sie immer wieder kam, sag dir kurz „Du hast schon einen Platz“ und wende dich wieder dem zu, was du gerade getan hast. Wenn Sorgen deinen Alltag beeinträchtigen, kann ein Gespräch mit einer Fachperson sehr helfen."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αν συνέχιζε να επιστρέφει, δοκίμασε ένα σύντομο «έχεις ήδη θέση» και γύρισε σε αυτό που έκανες. Αν οι ανησυχίες σού δυσκολεύουν τις μέρες, η συζήτηση με έναν ειδικό μπορεί να βοηθήσει πολύ."
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5197,6 +5527,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "EIN"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ΕΙΣΟΔΟΣ"
           }
         },
         "en-GB" : {
@@ -5293,6 +5629,12 @@
             "value" : "Hat mich weniger beschäftigt"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Με απασχόλησε λιγότερο"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5385,6 +5727,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hat mich mehr beschäftigt"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Με απασχόλησε περισσότερο"
           }
         },
         "en-GB" : {
@@ -5481,6 +5829,12 @@
             "value" : "Ist nicht eingetreten"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δεν έγινε"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5575,6 +5929,12 @@
             "value" : "Ist eingetreten"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Έγινε"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5667,6 +6027,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Beim Parken war sie bei %lld."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Όταν την πάρκαρες, ήταν στο %lld."
           }
         },
         "en-GB" : {
@@ -5765,6 +6131,12 @@
             "value" : "Sie beschäftigt mich mehr"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τη σκέφτομαι περισσότερο"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5857,6 +6229,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Das ist erst die erste. In Studien baute sich die Wirkung über einige Wochen auf. Parke ein paar weitere und vergleiche sie in deinem Ausfahrtsjournal."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Είναι μόνο η πρώτη. Στις μελέτες, το αποτέλεσμα χτιζόταν σε μερικές εβδομάδες. Πάρκαρε μερικές ακόμη και σύγκρινέ τες στο αρχείο εξόδων σου."
           }
         },
         "en-GB" : {
@@ -5953,6 +6331,12 @@
             "value" : "Sie hat den Parkplatz verlassen. Lass sie ziehen."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Βγήκε από το πάρκινγκ. Άφησέ την να φύγει."
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6045,6 +6429,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sie ist bis zur Sorgenzeit morgen geparkt. Wenn sie unter der Dusche wieder auftaucht, sag dir einfach: Sie hat schon einen Platz."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Είναι σταθμευμένη μέχρι την Ώρα ανησυχίας του αύριο. Όταν ξαναεμφανιστεί στο ντους, πες απλώς στον εαυτό σου: έχει ήδη θέση."
           }
         },
         "en-GB" : {
@@ -6141,6 +6531,12 @@
             "value" : "Es ist Sorgenzeit. Schenk ihr %lld Minuten volle Aufmerksamkeit und entscheide dann, was du damit machst."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Είναι Ώρα ανησυχίας. Δώσ’ της %lld λεπτά προσοχής και μετά αποφάσισε τι θα κάνεις μαζί της."
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6233,6 +6629,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Geparkt lassen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Να μείνει σταθμευμένη"
           }
         },
         "en-GB" : {
@@ -6329,6 +6731,12 @@
             "value" : "Park weiter. Muster zeigen sich nach ein paar Ausfahrten."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Συνέχισε να παρκάρεις. Τα μοτίβα φαίνονται μετά από μερικές εξόδους."
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6421,6 +6829,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Später"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αργότερα"
           }
         },
         "en-GB" : {
@@ -6517,6 +6931,12 @@
             "value" : "Loslassen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Άφησέ την να φύγει"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6609,6 +7029,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "STÄRKE"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ΕΝΤΑΣΗ"
           }
         },
         "en-GB" : {
@@ -6705,6 +7131,12 @@
             "value" : "Stärke %lld von 5, %@"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ένταση %lld στα 5, %@"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6797,6 +7229,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Stärke %lld → %lld"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ένταση %lld → %lld"
           }
         },
         "en-GB" : {
@@ -6895,6 +7333,12 @@
             "value" : "Eine Sorge direkt anzusehen, kann sie zunächst größer wirken lassen. Du musst sie jetzt nicht lösen. Ihre einzige Aufgabe ist, bis zur Sorgenzeit zu warten."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αν κοιτάξεις μια ανησυχία κατάματα, στην αρχή μπορεί να σου φανεί μεγαλύτερη. Δεν χρειάζεται να τη λύσεις τώρα. Η μόνη της δουλειά είναι να περιμένει την Ώρα ανησυχίας."
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6987,6 +7431,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Parkplatz"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πάρκινγκ"
           }
         },
         "en-GB" : {
@@ -7083,6 +7533,12 @@
             "value" : "Laut"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δυνατή"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7175,6 +7631,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Plan gemacht"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Έκανα σχέδιο"
           }
         },
         "en-GB" : {
@@ -7271,6 +7733,12 @@
             "value" : "Plan machen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Φτιάξε σχέδιο"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7363,6 +7831,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ein konkreter Plan hielt unerledigte Aufgaben aus den Gedanken heraus, und fünf Minuten Schreiben vor dem Schlafen halfen Menschen, schneller einzuschlafen."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ένα συγκεκριμένο σχέδιο εμπόδισε τις ημιτελείς εργασίες να παρεισφρέουν στις σκέψεις, και πέντε λεπτά γραψίματος πριν τον ύπνο βοήθησαν τους ανθρώπους να κοιμηθούν πιο γρήγορα."
           }
         },
         "en-GB" : {
@@ -7459,6 +7933,12 @@
             "value" : "Abo verwalten"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Διαχείριση συνδρομής"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7551,6 +8031,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hartnäckig"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Επίμονη"
           }
         },
         "en-GB" : {
@@ -7647,6 +8133,12 @@
             "value" : "Weiter"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Επόμενο"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7739,6 +8231,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nächste Sorgenzeit"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Επόμενη Ώρα ανησυχίας"
           }
         },
         "en-GB" : {
@@ -7835,6 +8333,12 @@
             "value" : "Nächste Sorgenzeit: %@"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Επόμενη Ώρα ανησυχίας: %@"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7927,6 +8431,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Noch keine Ausfahrten"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Καμία έξοδος ακόμη"
           }
         },
         "en-GB" : {
@@ -8023,6 +8533,12 @@
             "value" : "Jetzt nicht"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Όχι τώρα"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8117,6 +8633,12 @@
             "value" : "Noch nicht bereit. Hol sie zur nächsten Sorgenzeit zurück."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δεν είναι έτοιμη ακόμη. Φέρ’ την πίσω στην επόμενη Ώρα ανησυχίας."
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8209,6 +8731,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mitteilungen sind aus"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Οι ειδοποιήσεις είναι απενεργοποιημένες"
           }
         },
         "en-GB" : {
@@ -8307,6 +8835,12 @@
             "value" : "Jetzt"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τώρα"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8399,6 +8933,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jetzt, wo sie geparkt ist: Wie laut ist sie?"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τώρα που είναι σταθμευμένη, πόσο δυνατή είναι;"
           }
         },
         "en-GB" : {
@@ -8495,6 +9035,12 @@
             "value" : "Eine echte Sorge, von 23:40 Uhr bis zur Sorgenzeit am nächsten Tag."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μια πραγματική ανησυχία, από τις 23:40 μέχρι την Ώρα ανησυχίας της επόμενης μέρας."
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8587,6 +9133,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ein kleiner nächster Schritt"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ένα μικρό επόμενο βήμα"
           }
         },
         "en-GB" : {
@@ -8683,6 +9235,12 @@
             "value" : "iOS-Einstellungen öffnen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Άνοιγμα Ρυθμίσεων iOS"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8775,6 +9333,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Überwältigend"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Συντριπτική"
           }
         },
         "en-GB" : {
@@ -8877,6 +9441,12 @@
             "value" : "P%lld ist abholbereit"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η P%lld είναι έτοιμη για παραλαβή"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8974,6 +9544,12 @@
             "value" : "P%1$lld · Parkticket Nr. %2$@"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "P%1$lld · Εισιτήριο αρ. %2$@"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9066,6 +9642,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Seite %1$lld von %2$lld"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Σελίδα %1$lld από %2$lld"
           }
         },
         "en-GB" : {
@@ -9162,6 +9744,12 @@
             "value" : "Parken"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πάρκαρε"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9254,6 +9842,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sorge parken"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πάρκαρε μια ανησυχία"
           }
         },
         "en-GB" : {
@@ -9350,6 +9944,12 @@
             "value" : "Auf P%lld parken"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πάρκαρε στη P%lld"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9442,6 +10042,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Parke jede Sorge, nicht nur drei."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πάρκαρε κάθε ανησυχία, όχι μόνο τρεις."
           }
         },
         "en-GB" : {
@@ -9538,6 +10144,12 @@
             "value" : "Erneut parken"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πάρκαρέ την ξανά"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9630,6 +10242,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ geparkt"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Σταθμεύτηκε %@"
           }
         },
         "en-GB" : {
@@ -9726,6 +10344,12 @@
             "value" : "Auf P%lld geparkt"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Σταθμεύτηκε στη P%lld"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9818,6 +10442,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Geparkt bis %@"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Σταθμευμένη μέχρι %@"
           }
         },
         "en-GB" : {
@@ -9914,6 +10544,12 @@
             "value" : "Geparkte Sorgen bleiben bis zu ihrer Ausfahrtszeit verborgen. Du musst sie jetzt nicht mit dir herumtragen."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Οι σταθμευμένες ανησυχίες μένουν κρυφές μέχρι την ώρα εξόδου τους. Δεν χρειάζεται να τις κουβαλάς τώρα."
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10008,6 +10644,12 @@
             "value" : "Geparkt. Gerade nicht dein Job."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Σταθμευμένη. Προς το παρόν δεν είναι δουλειά σου."
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10100,6 +10742,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Teilweise"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Εν μέρει"
           }
         },
         "en-GB" : {
@@ -10198,6 +10846,12 @@
             "value" : "Menschen, die ihr Grübeln auf eine kurze tägliche Sorgenzeit verlegten, sorgten sich weniger lange und berichteten von weniger Angst und weniger Schlafproblemen."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Άνθρωποι που μετέφεραν την ανησυχία τους σε μια σύντομη καθημερινή περίοδο ανησυχίας ξόδεψαν λιγότερο χρόνο σε αυτήν και ανέφεραν λιγότερο άγχος και λιγότερα προβλήματα ύπνου."
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10290,6 +10944,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lege deine Sorgenzeit fest"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Διάλεξε την Ώρα ανησυχίας σου"
           }
         },
         "en-GB" : {
@@ -10386,6 +11046,12 @@
             "value" : "Aufschieben wirkt bei dir. Probier es auch mit der nächsten Sorge."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η αναβολή δουλεύει για σένα. Δοκίμασε να παρκάρεις και την επόμενη."
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10478,6 +11144,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aufschieben wirkt am besten, wenn du wartest. Die meisten Sorgen fühlen sich zur Sorgenzeit kleiner an."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η αναβολή δουλεύει καλύτερα όταν περιμένεις. Στην Ώρα ανησυχίας οι περισσότερες ανησυχίες φαίνονται μικρότερες."
           }
         },
         "en-GB" : {
@@ -10574,6 +11246,12 @@
             "value" : "Datenschutzerklärung"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πολιτική απορρήτου"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10666,6 +11344,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pro ist aktiv"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το Pro είναι ενεργό"
           }
         },
         "en-GB" : {
@@ -10762,6 +11446,12 @@
             "value" : "Pro-Stellplatz"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Θέση Pro"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10854,6 +11544,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Abholbereit"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Έτοιμη για παραλαβή"
           }
         },
         "en-GB" : {
@@ -10950,6 +11646,12 @@
             "value" : "Erinnerungen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Υπενθυμίσεις"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11042,6 +11744,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Studien beschreiben durchschnittliche Effekte, und die Ergebnisse unterscheiden sich von Mensch zu Mensch. Sorgen-Parkplatz ist ein Selbsthilfe-Werkzeug, kein Medizinprodukt und keine Behandlung."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η έρευνα περιγράφει μέσα αποτελέσματα και τα αποτελέσματα διαφέρουν από άτομο σε άτομο. Το Πάρκινγκ Ανησυχιών είναι εργαλείο αυτοβοήθειας, όχι ιατροτεχνολογικό προϊόν ή θεραπεία."
           }
         },
         "en-GB" : {
@@ -11138,6 +11846,12 @@
             "value" : "Quellen zur Forschung"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Βιβλιογραφία"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11230,6 +11944,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Käufe wiederherstellen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Επαναφορά αγορών"
           }
         },
         "en-GB" : {
@@ -11326,6 +12046,12 @@
             "value" : "Ergebnis"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αποτέλεσμα"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11418,6 +12144,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Früher abholen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Παραλαβή νωρίτερα"
           }
         },
         "en-GB" : {
@@ -11514,6 +12246,12 @@
             "value" : "Diese Sorge früher abholen?"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Να παραλάβεις νωρίτερα αυτή την ανησυχία;"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11606,6 +12344,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sieh nach, wie viele deiner Befürchtungen wirklich eingetreten sind."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δες πόσοι από τους φόβους σου επαληθεύτηκαν πραγματικά."
           }
         },
         "en-GB" : {
@@ -11702,6 +12446,12 @@
             "value" : "Sieh nach, wie viele deiner Sorgen wirklich eingetreten sind"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δες πόσες από τις ανησυχίες σου έγιναν πραγματικά"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11794,6 +12544,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "In Aktion ansehen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δες το σε δράση"
           }
         },
         "en-GB" : {
@@ -11890,6 +12646,12 @@
             "value" : "Jetzt zur Ausfahrtschranke schicken"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Στείλ’ την τώρα στη μπάρα εξόδου"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11982,6 +12744,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Einstellungen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ρυθμίσεις"
           }
         },
         "en-GB" : {
@@ -12078,6 +12846,12 @@
             "value" : "Vorerst überspringen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Παράλειψη προς το παρόν"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12170,6 +12944,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Stellplatz %lld. Frei. Parke hier eine Sorge."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Θέση %lld. Ελεύθερη. Πάρκαρε εδώ μια ανησυχία."
           }
         },
         "en-GB" : {
@@ -12266,6 +13046,12 @@
             "value" : "Stellplatz %lld. Pro-Stellplatz, gesperrt."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Θέση %lld. Θέση Pro, κλειδωμένη."
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12358,6 +13144,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Stellplatz %1$lld. Sorge geparkt bis %2$@."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Θέση %1$lld. Ανησυχία σταθμευμένη μέχρι %2$@."
           }
         },
         "en-GB" : {
@@ -12454,6 +13246,12 @@
             "value" : "Stellplatz %lld. Sorge abholbereit."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Θέση %lld. Ανησυχία έτοιμη για παραλαβή."
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12546,6 +13344,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Los geht’s"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Έναρξη"
           }
         },
         "en-GB" : {
@@ -12642,6 +13446,12 @@
             "value" : "Zum Parken am gepunkteten Strich entlangwischen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Σύρε κατά μήκος της διακεκομμένης γραμμής για να παρκάρεις"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12734,6 +13544,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wische am gepunkteten Strich entlang. Sobald das Ticket abgerissen ist, ist diese Sorge bis %@ geparkt."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Σύρε κατά μήκος της διακεκομμένης γραμμής. Μόλις σκιστεί το εισιτήριο, αυτή η ανησυχία σταθμεύεται μέχρι %@."
           }
         },
         "en-GB" : {
@@ -12830,6 +13646,12 @@
             "value" : "Atme einmal langsam durch. Im Moment gibt es nichts, was du dagegen tun müsstest."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πάρε μια αργή ανάσα. Αυτή τη στιγμή δεν υπάρχει κάτι να κάνεις γι’ αυτήν."
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12922,6 +13744,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ticket abreißen und parken"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Σκίσε το εισιτήριο για να παρκάρεις"
           }
         },
         "en-GB" : {
@@ -13018,6 +13846,12 @@
             "value" : "Reiß dein Ticket ab"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Σκίσε το εισιτήριό σου"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13110,6 +13944,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nutzungsbedingungen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Όροι χρήσης"
           }
         },
         "en-GB" : {
@@ -13206,6 +14046,12 @@
             "value" : "Das ist völlig normal. Die Wirkung baut sich meist über Tage auf, nicht in Minuten. Wenn sie wieder auftaucht, sag ihr „Du hast schon einen Platz“ und schau, wie es sich zur Sorgenzeit anfühlt."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Είναι απολύτως φυσιολογικό. Το αποτέλεσμα συνήθως χτίζεται σε μέρες, όχι σε λεπτά. Όταν ξαναβγεί, πες της «έχεις ήδη θέση» και δες πώς νιώθεις στην Ώρα ανησυχίας."
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13298,6 +14144,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Das ist der erste Effekt des Aufschiebens. Sobald eine Sorge aufgeschrieben ist und einen Platz hat, muss dein Kopf sie nicht festhalten. Bis zur Sorgenzeit."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αυτό είναι το πρώτο αποτέλεσμα της αναβολής. Όταν μια ανησυχία είναι γραμμένη και έχει θέση, το μυαλό σου δεν χρειάζεται να την κρατά. Τα λέμε στην Ώρα ανησυχίας."
           }
         },
         "en-GB" : {
@@ -13394,6 +14246,12 @@
             "value" : "Die Sorgenzeit danach"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η Ώρα ανησυχίας μετά"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13486,6 +14344,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Parkticket Nr. %@"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Εισιτήριο αρ. %@"
           }
         },
         "en-GB" : {
@@ -13582,6 +14446,12 @@
             "value" : "heute um %@"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "σήμερα στις %@"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13674,6 +14544,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "morgen um %@"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "αύριο στις %@"
           }
         },
         "en-GB" : {
@@ -13770,6 +14646,12 @@
             "value" : "Noch zu früh, um das zu sagen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Είναι νωρίς για να πεις"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13862,6 +14744,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jetzt ausprobieren"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δοκίμασέ το τώρα"
           }
         },
         "en-GB" : {
@@ -13958,6 +14846,12 @@
             "value" : "Mach daraus einen kleinen nächsten Schritt."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μετάτρεψέ την σε ένα μικρό επόμενο βήμα."
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14050,6 +14944,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Unbegrenzte Stellplätze"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Απεριόριστες θέσεις στάθμευσης"
           }
         },
         "en-GB" : {
@@ -14146,6 +15046,12 @@
             "value" : "Unbegrenzte Stellplätze, eigene Ausfahrtszeiten, Einblicke"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Απεριόριστες θέσεις, προσαρμοσμένες ώρες εξόδου, στατιστικά"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14238,6 +15144,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Einblicke mit Pro freischalten"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ξεκλείδωσε τα στατιστικά με το Pro"
           }
         },
         "en-GB" : {
@@ -14334,6 +15246,12 @@
             "value" : "Wir sagen dir Bescheid, wenn eine Sorge abholbereit ist."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Θα σε ειδοποιήσουμε όταν μια ανησυχία είναι έτοιμη για παραλαβή."
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14426,6 +15344,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Was möchtest du damit machen?"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τι θέλεις να κάνεις μαζί της;"
           }
         },
         "en-GB" : {
@@ -14522,6 +15446,12 @@
             "value" : "Was, wenn ich bei der Präsentation morgen einen Blackout habe und alle denken, ich sei nicht gut genug?"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κι αν κολλήσω στην αυριανή παρουσίαση και όλοι νομίσουν ότι δεν είμαι αρκετά καλός;"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14614,6 +15544,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Was du befürchtet hast, ist nicht eingetreten. Jede solche Ausfahrt landet in deinem Ausfahrtsjournal, sodass du siehst, wie oft deine Sorgen danebenliegen."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αυτό που φοβόσουν δεν έγινε. Κάθε τέτοια έξοδος καταγράφεται στο αρχείο εξόδων σου, ώστε να βλέπεις πόσο συχνά οι ανησυχίες σου βγαίνουν λανθασμένες."
           }
         },
         "en-GB" : {
@@ -14710,6 +15646,12 @@
             "value" : "Was geht dir gerade im Kopf herum?"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τι σου γυρνάει στο μυαλό;"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14802,6 +15744,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Als Menschen mit chronischer Sorgenneigung ihre Sorgen festhielten, trafen %lld %% davon nicht ein."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Όταν άνθρωποι με χρόνια ανησυχία κατέγραψαν τις ανησυχίες τους, το %lld%% δεν επαληθεύτηκε."
           }
         },
         "en-GB" : {
@@ -14898,6 +15846,12 @@
             "value" : "Wann soll sie zurückkommen?"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πότε να επιστρέψει;"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14990,6 +15944,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wie hat sich diese Sorge angefühlt, während sie geparkt war?"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Όσο ήταν σταθμευμένη, πώς ένιωθες αυτή την ανησυχία;"
           }
         },
         "en-GB" : {
@@ -15086,6 +16046,12 @@
             "value" : "Warum es wirkt"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Γιατί δουλεύει"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15180,6 +16146,12 @@
             "value" : "Ohne sie warten geparkte Sorgen still auf dem Parkplatz."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Χωρίς αυτές, οι σταθμευμένες ανησυχίες περιμένουν σιωπηλά στο πάρκινγκ."
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15272,6 +16244,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sorgen müssen dich nicht die ganze Nacht begleiten.\nParke sie hier. Wir bewahren sie bis zu deiner Sorgenzeit auf."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Οι ανησυχίες δεν χρειάζεται να σε ακολουθούν όλη νύχτα.\nΠάρκαρέ τις εδώ. Θα τις κρατήσουμε μέχρι την Ώρα ανησυχίας σου."
           }
         },
         "en-GB" : {
@@ -15370,6 +16348,12 @@
             "value" : "Sorgen tauchen überall auf: im Bett, unter der Dusche, auf dem Heimweg. Wenn das Sorgenmachen eine eigene Zeit bekommt, lernt dein Gehirn, dass der Rest des Tages nicht dafür da ist. Psychologen nennen das Stimuluskontrolle."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Οι ανησυχίες εμφανίζονται παντού: στο κρεβάτι, στο ντους, στον δρόμο για το σπίτι. Όταν η ανησυχία αποκτά τη δική της ώρα, ο εγκέφαλός σου μαθαίνει ότι η υπόλοιπη μέρα δεν είναι γι’ αυτήν. Οι ψυχολόγοι το λένε έλεγχο ερεθισμάτων."
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15462,6 +16446,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sorgen, die du an der Ausfahrtschranke durchgehst, landen hier. Mit der Zeit siehst du, wie viele davon wirklich eingetreten sind."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Οι ανησυχίες που εξετάζεις στη μπάρα εξόδου καταλήγουν εδώ. Με τον καιρό θα δεις πόσες από αυτές έγιναν πραγματικά."
           }
         },
         "en-GB" : {
@@ -15558,6 +16548,12 @@
             "value" : "Sorgen zu einer festen Zeit"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ανησύχησε σε μία συγκεκριμένη ώρα"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15650,6 +16646,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "SORGEN-PARKPLATZ"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ΠΑΡΚΙΝΓΚ ΑΝΗΣΥΧΙΩΝ"
           }
         },
         "en-GB" : {
@@ -15746,6 +16748,12 @@
             "value" : "Sorgen-Parkplatz"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πάρκινγκ Ανησυχιών"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15840,6 +16848,12 @@
             "value" : "Sorgen-Parkplatz ist ein Selbsthilfe-Werkzeug, kein Medizinprodukt und kein Ersatz für professionelle Hilfe. Wenn es dir schlecht geht, wende dich an eine Fachperson für psychische Gesundheit oder den örtlichen Notruf."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το Πάρκινγκ Ανησυχιών είναι εργαλείο αυτοβοήθειας, όχι ιατροτεχνολογικό προϊόν ούτε υποκατάστατο της επαγγελματικής φροντίδας. Αν δυσκολεύεσαι, απευθύνσου σε επαγγελματία ψυχικής υγείας ή στις τοπικές υπηρεσίες έκτακτης ανάγκης."
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15932,6 +16946,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sorgen-Parkplatz basiert auf dem Sorgenaufschub, einer Technik der Stimuluskontrolle aus der kognitiven Verhaltenstherapie (KVT): Statt gegen eine Sorge anzukämpfen, legst du ihr eine feste Zeit zu und kehrst dann zu ihr zurück."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το Πάρκινγκ Ανησυχιών βασίζεται στην αναβολή της ανησυχίας, μια τεχνική ελέγχου ερεθισμάτων της γνωσιακής συμπεριφορικής θεραπείας (ΓΣΘ): αντί να παλεύεις με μια ανησυχία, της ορίζεις συγκεκριμένη ώρα και επιστρέφεις σε αυτήν τότε."
           }
         },
         "en-GB" : {
@@ -16030,6 +17050,12 @@
             "value" : "Sorgen-Parkplatz basiert auf dem Sorgenaufschub, einer Technik der kognitiven Verhaltenstherapie (KVT), die seit Jahrzehnten erforscht wird."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το Πάρκινγκ Ανησυχιών βασίζεται στην αναβολή της ανησυχίας, μια τεχνική της γνωσιακής συμπεριφορικής θεραπείας (ΓΣΘ) που μελετάται εδώ και δεκαετίες."
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16122,6 +17148,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sorgen-Parkplatz Pro"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πάρκινγκ Ανησυχιών Pro"
           }
         },
         "en-GB" : {
@@ -16218,6 +17250,12 @@
             "value" : "Sorgen sagen die Zukunft schlimmer voraus, als sie meist wird. An der Ausfahrtschranke hältst du fest, ob es wirklich eingetreten ist – so zeigt dir dein Ausfahrtsjournal mit der Zeit, wie oft deine Sorgen danebenlagen."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η ανησυχία προβλέπει το μέλλον χειρότερο απ’ ό,τι συνήθως βγαίνει. Στη μπάρα εξόδου καταγράφεις αν έγινε πραγματικά, και με τον καιρό το αρχείο εξόδων σου δείχνει πόσο συχνά έκαναν λάθος οι ανησυχίες σου."
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16312,6 +17350,12 @@
             "value" : "Sorgenzeit"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ώρα ανησυχίας"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16404,6 +17448,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Schreiben"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Γράψε"
           }
         },
         "en-GB" : {
@@ -16502,6 +17552,12 @@
             "value" : "Schreib eine Sorge auf, die dich gerade beschäftigt. Sie wird wirklich geparkt und kommt %@ zurück."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Γράψε μια ανησυχία που σου απασχολεί το μυαλό τώρα. Θα σταθμευτεί πραγματικά και θα επιστρέψει %@."
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16594,6 +17650,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aufschreiben, um loszulassen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Γράψ’ το για να το αφήσεις"
           }
         },
         "en-GB" : {
@@ -16690,6 +17752,12 @@
             "value" : "Schreib sie genau so auf, wie sie in deinem Kopf klingt."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Γράψε την ακριβώς όπως ακούγεται στο μυαλό σου."
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16784,6 +17852,12 @@
             "value" : "Du musst das gerade nicht mit dir herumtragen. Wir bringen es dir %@ zurück."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δεν χρειάζεται να το κουβαλάς τώρα. Θα σου το φέρουμε πίσω %@."
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16876,6 +17950,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Du hast eine Sorge aufgeschoben und bist bewusst zu ihr zurückgekehrt. Das ist die ganze Technik."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ανέβαλες μια ανησυχία και επέστρεψες σε αυτήν σκόπιμα. Αυτή είναι ολόκληρη η τεχνική."
           }
         },
         "en-GB" : {
@@ -16974,6 +18054,12 @@
             "value" : "Deine Antworten bleiben auf diesem iPhone. Du kannst sie in deinem Ausfahrtsjournal nachlesen."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Οι απαντήσεις σου μένουν σε αυτό το iPhone. Μπορείς να τις δεις ξανά στο αρχείο εξόδων σου."
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17066,6 +18152,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Deine tägliche Sorgenzeit ist %@. Du kannst sie in den Einstellungen ändern."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η καθημερινή Ώρα ανησυχίας σου είναι %@. Μπορείς να την αλλάξεις στις Ρυθμίσεις."
           }
         },
         "en-GB" : {
@@ -17162,6 +18254,12 @@
             "value" : "Deine Erfahrung"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η εμπειρία σου"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17256,6 +18354,12 @@
             "value" : "Deine erste Ausfahrt"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η πρώτη σου έξοδος"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17348,6 +18452,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Deine Sorge"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η ανησυχία σου"
           }
         },
         "en-GB" : {

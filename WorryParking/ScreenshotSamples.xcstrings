@@ -23,6 +23,12 @@
             "value" : "Meine Chefin um ein Einzelgespräch bitten"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Να ζητήσω από τον διευθυντή μου μια ατομική συζήτηση"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -117,6 +123,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kann ich die Kreditkartenabrechnung diesen Monat wirklich bezahlen?"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Θα μπορέσω πραγματικά να πληρώσω τον λογαριασμό της κάρτας αυτόν τον μήνα;"
           }
         },
         "en-GB" : {
@@ -215,6 +227,12 @@
             "value" : "Mieten in der Gegend recherchieren"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Να δω τα ενοίκια στη γειτονιά"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -309,6 +327,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "War mein Witz beim Abendessen zu weit gegangen?"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το αστείο μου στο δείπνο ξεπέρασε τα όρια;"
           }
         },
         "en-GB" : {
@@ -407,6 +431,12 @@
             "value" : "Ich glaube, ich habe die Beurteilung dieses Quartals vermasselt."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Νομίζω ότι χάλασα την αξιολόγηση του τριμήνου."
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -501,6 +531,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "In der Montagsrunde werde ich wieder zurechtgewiesen."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Θα με επιπλήξουν ξανά στη σύσκεψη της Δευτέρας."
           }
         },
         "en-GB" : {
@@ -599,6 +635,12 @@
             "value" : "Ich schaffe die Abgabefrist für den Bericht nie."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δεν θα προλάβω ποτέ την προθεσμία της αναφοράς."
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -693,6 +735,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wenn ich im Vorstellungsgespräch stottere, bin ich raus."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αν κομπιάσω στη συνέντευξη, έχασα."
           }
         },
         "en-GB" : {
@@ -791,6 +839,12 @@
             "value" : "Wenn mein Laptop kaputtgeht, ist alles weg."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αν χαλάσει ο υπολογιστής μου, χάνω τα πάντα."
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -885,6 +939,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Es fühlt sich an, als würden meine Freunde im Gruppenchat nur meine Nachrichten ignorieren."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Νιώθω ότι οι φίλοι μου αγνοούν μόνο τα δικά μου μηνύματα στην ομαδική συνομιλία."
           }
         },
         "en-GB" : {
@@ -983,6 +1043,12 @@
             "value" : "Wenn ich den Flug verpasse, ist die ganze Reise ruiniert."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αν χάσω την πτήση, θα καταστραφεί όλο το ταξίδι."
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1077,6 +1143,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Die Untersuchungsergebnisse von Mama sind immer noch nicht da. Was, wenn sie etwas Ernstes gefunden haben und sie es mir nicht sagt?"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τα αποτελέσματα των εξετάσεων της μαμάς δεν έχουν βγει ακόμη. Κι αν βρήκαν κάτι σοβαρό και δεν μου το λέει;"
           }
         },
         "en-GB" : {
@@ -1175,6 +1247,12 @@
             "value" : "Mein Vermieter wird die Miete erhöhen."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ο ιδιοκτήτης θα αυξήσει το ενοίκιο."
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1269,6 +1347,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Die Antwort meines Chefs war so kurz. Habe ich etwas falsch gemacht?"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η απάντηση του προϊσταμένου μου ήταν τόσο σύντομη. Έκανα κάτι λάθος;"
           }
         },
         "en-GB" : {
@@ -1367,6 +1451,12 @@
             "value" : "Meine Schwester ist bestimmt verletzt von dem, was ich gesagt habe."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η αδερφή μου πρέπει να πληγώθηκε από αυτά που είπα."
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1461,6 +1551,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Drei wahrscheinliche Fragen laut üben"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Εξάσκηση φωναχτά σε τρεις πιθανές ερωτήσεις"
           }
         },
         "en-GB" : {
@@ -1559,6 +1655,12 @@
             "value" : "Cloud-Backup einschalten"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ενεργοποίηση αντιγράφου ασφαλείας στο cloud"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1655,6 +1757,12 @@
             "value" : "Was, wenn ich bei der Präsentation morgen einen Blackout habe und alle denken, ich sei nicht gut genug?"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κι αν κολλήσω στην αυριανή παρουσίαση και όλοι νομίσουν ότι δεν είμαι αρκετά καλός;"
+          }
+        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1749,6 +1857,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Was, wenn bei der Untersuchung etwas gefunden wird?"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κι αν οι εξετάσεις βρουν κάτι;"
           }
         },
         "en-GB" : {

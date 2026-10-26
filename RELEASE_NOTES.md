@@ -113,3 +113,10 @@ Alle funktioner er nu gratis
 Parkér så mange bekymringer, du vil
 Udkørselstider og indsigt er gratis
 Nu på flere sprog
+
+### App Store (Ελληνικά)
+
+Όλες οι λειτουργίες είναι πλέον δωρεάν
+Πάρκαρε όσες ανησυχίες χρειάζεσαι
+Ώρες εξόδου και στατιστικά δωρεάν
+Διαθέσιμο σε περισσότερες γλώσσες

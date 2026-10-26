@@ -23,6 +23,12 @@
             "value" : "Sorgen-Parkplatz"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πάρκινγκ Ανησυχιών"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
@@ -123,6 +129,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sorgen-Parkplatz"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πάρκινγκ Ανησυχιών"
           }
         },
         "en" : {
