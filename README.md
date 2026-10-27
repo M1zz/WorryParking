@@ -56,7 +56,8 @@ docs/            GitHub Pages — 루트는 언어 자동 이동, <언어>/{inde
 ```
 
 ## 앱스토어 스크린샷
-`AppStore/capture_screenshots.sh` — 시뮬레이터(iPhone 18 Pro Max)에서 DEBUG 스크린샷 모드(`-screenshotScene lot|park|ticket|gate|log`)로 샘플 데이터를 띄워 캡처하고, `AppStore/Screenshots/<언어>/`에 1242×2688(6.5") 이미지를 만듭니다(24개 언어, 한·중·일·태국어는 글꼴 확인 필요). 문구는 `AppStore/compose_screenshots.py`의 `COPY`, 크기는 `W, H`에서 수정합니다.
+`AppStore/capture_screenshots.sh` — 시뮬레이터(iPhone 18 Pro Max)에서 DEBUG 스크린샷 모드(`-screenshotScene lot|park|ticket|gate|log`)로 샘플 데이터를 띄워 `docs/screenshots/raw/<언어>/`에 캡처하고, `docs/screenshots/marketing/<언어>/01-….png`에 1242×2688(6.5") 제출본을 만듭니다(24개 언어). 문구는 `AppStore/compose_screenshots.py`의 `COPY`, 크기는 `W, H`에서 수정합니다.
+`scripts/make_creative_assets.py` — 같은 캡처로 제품 페이지 헤더(3840×1646)·검색 결과(3840×2560)를 `docs/screenshots/creative/<언어>/`에 만듭니다. DeployBar 가 배포할 때 두 폴더를 그대로 올립니다.
 
 ## 출시 전 TODO
 - App Store Connect에 구독 그룹/상품 생성

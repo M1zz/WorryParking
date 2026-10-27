@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """Compose App Store marketing screenshots (6.5", 1242x2688) from raw simulator captures.
 
-Usage: python3 compose_screenshots.py <raw_dir> <out_dir>
+Usage: python3 compose_screenshots.py <raw_dir> <out_dir> [lang ...]
   raw_dir contains <lang>/{lot,park,ticket,gate,log}.png for every language in COPY captured by capture_screenshots.sh
 """
+import glob
 import sys
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFilter, ImageFont
@@ -201,21 +202,31 @@ COPY = {
 # Script-specific fonts (macOS). Candidates are tried in order; the first that loads wins.
 # Latin, Cyrillic, Greek and Vietnamese use SF; Hangul, CJK and Thai need their own faces.
 # (path, index when heavy, index when normal) -- check the rendered images on the Mac.
+# PingFang is a downloadable system asset: its folder name changes between macOS builds.
+PINGFANG = sorted(glob.glob("/System/Library/AssetsV2/com_apple_MobileAsset_Font*/*/AssetData/PingFang.ttc"))
+HIRAGINO_GB = "/System/Library/Fonts/Hiragino Sans GB.ttc"
+
 FONTS = {
     "ko": [(SD_GOTHIC, 14, 2)],
     "ja": [("/System/Library/Fonts/ヒラギノ角ゴシック W8.ttc", 0, 0), ("/System/Library/Fonts/ヒラギノ角ゴシック W6.ttc", 0, 0)],
-    "zh-Hans": [("/System/Library/Fonts/PingFang.ttc", 0, 0)],
-    "zh-Hant": [("/System/Library/Fonts/PingFang.ttc", 0, 0)],
-    "th": [("/System/Library/Fonts/Supplemental/Thonburi.ttc", 0, 0), ("/System/Library/Fonts/Thonburi.ttc", 0, 0)],
+    "zh-Hans": [(p, 11, 3) for p in PINGFANG] + [(HIRAGINO_GB, 1, 0)],
+    "zh-Hant": [(p, 10, 2) for p in PINGFANG],
+    # Pillow here has no text shaping (raqm), so Thai needs a face whose marks sit right without it.
+    # Sukhumvit Set does; Thonburi draws every vowel and tone mark beside its consonant.
+    "th": [("/System/Library/Fonts/Supplemental/SukhumvitSet.ttc", 5, 3)],
 }
 
 
 def font(lang, size, heavy):
-    for path, heavy_index, normal_index in FONTS.get(lang, []):
+    candidates = FONTS.get(lang)
+    for path, heavy_index, normal_index in candidates or []:
         try:
             return ImageFont.truetype(path, size, index=heavy_index if heavy else normal_index)
         except OSError:
             continue
+    if candidates:
+        # Falling back to SF would draw empty boxes for this script.
+        raise SystemExit(f"No font for {lang}: install one of {[c[0] for c in candidates]}")
     f = ImageFont.truetype(SF, size)
     f.set_variation_by_name("Heavy" if heavy else "Medium")
     return f
@@ -234,6 +245,15 @@ def segments(line):
     if buf:
         out.append((buf, hi))
     return out
+
+
+def fit(draw, lines, lang, size, heavy, max_w):
+    """Largest font up to `size` whose widest line fits in max_w."""
+    while True:
+        fnt = font(lang, size, heavy)
+        if size <= 40 or all(draw.textlength(l.replace("{", "").replace("}", ""), font=fnt) <= max_w for l in lines):
+            return fnt
+        size -= 2
 
 
 def draw_centered_rich(draw, y, line, fnt):
@@ -265,8 +285,9 @@ def compose(lang, shot, headline, subtitle, raw_dir):
     draw = ImageDraw.Draw(img)
 
     # Headline + subtitle
-    head_font = font(lang, px(112 if lang in ("ko", "ja", "zh-Hans", "zh-Hant") else 108), heavy=True)
-    sub_font = font(lang, px(46), heavy=False)
+    max_w = W - px(120)
+    head_font = fit(draw, headline.split("\n"), lang, px(112 if lang in ("ko", "ja", "zh-Hans", "zh-Hant") else 108), True, max_w)
+    sub_font = fit(draw, [subtitle], lang, px(46), False, max_w)
     y = px(150)
     for line in headline.split("\n"):
         draw_centered_rich(draw, y, line, head_font)
@@ -316,11 +337,13 @@ def compose(lang, shot, headline, subtitle, raw_dir):
 
 
 def main():
-    raw_dir, out_dir = Path(sys.argv[1]), Path(sys.argv[2])
+    raw_dir, out_dir, only = Path(sys.argv[1]), Path(sys.argv[2]), set(sys.argv[3:])
     for lang, items in COPY.items():
+        if only and lang not in only:
+            continue
         (out_dir / lang).mkdir(parents=True, exist_ok=True)
         for index, (shot, headline, subtitle) in enumerate(items, start=1):
-            path = out_dir / lang / f"{index:02d}_{shot}.png"
+            path = out_dir / lang / f"{index:02d}-{shot}.png"
             compose(lang, shot, headline, subtitle, raw_dir).save(path, optimize=True)
             print(path)
 

@@ -16,7 +16,7 @@ Park as many worries as you need
 Set exit times and see insights for free
 Now available in more languages
 
-### App Store (English UK)
+### App Store (en-GB)
 
 Every feature is now free
 Park as many worries as you need

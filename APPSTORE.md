@@ -171,7 +171,7 @@ HOW IT WORKS
 3. Exit gate: when Worry Time comes, give it 15 focused minutes. Check whether it really happened, then let it go, make one small plan, or park it again.
 
 WHY IT WORKS
-Worry Parking is built on worry postponement, a technique from cognitive behavioral therapy (CBT) that has been studied for decades.
+Worry Parking is built on worry postponement, a technique from cognitive behavioural therapy (CBT) that has been studied for decades.
 
 • Worry at one set time
 Worries show up anywhere: in bed, in the shower, on the way home. When worrying gets its own time, your brain learns that the rest of the day isn't for it. People who moved their worrying to a short daily worry period spent less time worrying and reported less anxiety and fewer sleep problems. (Borkovec et al., 1983; McGowan & Behar, 2013)
