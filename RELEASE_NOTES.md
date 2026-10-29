@@ -1,5 +1,175 @@
 # 걱정 주차장 릴리즈 노트
 
+## 1.0.2
+
+### 앱스토어 (한국어)
+
+고마울 때 개발자에게 작은 팁을 보낼 수 있어요
+VoiceOver와 음성 제어로 더 쉽게 쓸 수 있어요
+큰 글씨에서도 화면이 깔끔하게 보여요
+동작 줄이기를 켜면 움직임이 차분해져요
+
+### App Store (English)
+
+Send the developer a small tip of thanks
+Improved VoiceOver and Voice Control
+Looks tidy even with larger text sizes
+Calmer animations with Reduce Motion on
+
+### App Store (en-GB)
+
+Send the developer a small tip of thanks
+Improved VoiceOver and Voice Control
+Looks tidy even with larger text sizes
+Calmer animations with Reduce Motion on
+
+### App Store (简体中文)
+
+现在可以给开发者送上一点小费表达感谢
+VoiceOver 和语音控制更好用了
+使用大字体时界面也清晰整齐
+开启减弱动态效果后动画更柔和
+
+### App Store (繁體中文)
+
+現在可以給開發者一點小費表達感謝
+VoiceOver 與語音控制更好用了
+使用大字體時畫面也清楚整齊
+開啟減少動態效果後動畫更柔和
+
+### App Store (日本語)
+
+開発者にちょっとしたチップを送れるようになりました
+VoiceOverや音声コントロールで使いやすくなりました
+大きな文字でも画面がすっきり見やすくなりました
+視差効果を減らす設定で動きが控えめになります
+
+### App Store (Русский)
+
+Можно отправить разработчику чаевые
+Лучше с VoiceOver и управлением голосом
+Аккуратный вид даже с крупным шрифтом
+Мягче анимация при уменьшении движения
+
+### App Store (Español)
+
+Puedes dar propina al desarrollador
+Mejor con VoiceOver y Control por voz
+Se ve bien incluso con texto grande
+Menos animación con Reducir movimiento
+
+### App Store (Deutsch)
+
+Du kannst dem Entwickler Trinkgeld geben
+Besser mit VoiceOver und Sprachsteuerung
+Auch mit großer Schrift übersichtlich
+Sanftere Effekte mit Bewegung reduzieren
+
+### App Store (Français)
+
+Offrez un petit pourboire au développeur
+VoiceOver et Commande vocale améliorés
+Bien lisible avec un texte agrandi
+Plus calme avec Réduire les animations
+
+### App Store (Italiano)
+
+Puoi dare una mancia allo sviluppatore
+Meglio con VoiceOver e Controllo vocale
+Ordinata anche con testo più grande
+Più calma con Riduci movimento
+
+### App Store (Português Brasil)
+
+Dê uma gorjetinha ao desenvolvedor
+Melhor com VoiceOver e Controle por Voz
+Fica bem organizado com texto grande
+Mais calmo com Reduzir Movimento
+
+### App Store (ไทย)
+
+ส่งทิปเล็กๆ ให้นักพัฒนาได้แล้ว
+ใช้ VoiceOver และสั่งงานด้วยเสียงได้ดีขึ้น
+ตัวอักษรใหญ่ก็ยังดูเป็นระเบียบ
+เปิดลดการเคลื่อนไหวแล้วภาพจะนิ่งขึ้น
+
+### App Store (Tiếng Việt)
+
+Gửi chút tiền tip cho nhà phát triển
+Dùng tốt hơn với VoiceOver và Khẩu lệnh
+Gọn gàng ngay cả khi dùng chữ lớn
+Nhẹ nhàng hơn khi bật Giảm chuyển động
+
+### App Store (Čeština)
+
+Můžete poslat vývojáři malé spropitné
+Lepší s VoiceOverem a Ovládáním hlasem
+Přehledné i s větším písmem
+Klidnější animace při omezení pohybu
+
+### App Store (Dansk)
+
+Du kan give udvikleren lidt drikkepenge
+Bedre med VoiceOver og Stemmestyring
+Overskuelig selv med stor tekst
+Roligere med Reducer bevægelse
+
+### App Store (Ελληνικά)
+
+Δώστε ένα φιλοδώρημα στον δημιουργό
+Καλύτερο VoiceOver και Φωνητικός έλεγχος
+Καθαρή εμφάνιση και με μεγάλο κείμενο
+Πιο ήρεμη κίνηση με τη Μείωση κίνησης
+
+### App Store (Suomi)
+
+Voit nyt antaa kehittäjälle pienen tipin
+Parempi VoiceOverilla ja puheohjauksella
+Selkeä myös suurella tekstillä
+Vähennä liikettä rauhoittaa animaatiot
+
+### App Store (Bahasa Indonesia)
+
+Kini bisa kirim tip untuk pengembang
+VoiceOver dan Kontrol Suara makin nyaman
+Tetap rapi meski memakai teks besar
+Lebih tenang dengan Kurangi Gerakan
+
+### App Store (Norsk bokmål)
+
+Du kan gi utvikleren litt tips
+Bedre med VoiceOver og Stemmekontroll
+Ryddig også med stor tekst
+Roligere med Reduser bevegelse
+
+### App Store (Nederlands)
+
+Geef de ontwikkelaar een kleine fooi
+Beter met VoiceOver en Stembediening
+Ook met grote tekst overzichtelijk
+Rustiger met Verminder beweging
+
+### App Store (Polski)
+
+Możesz dać twórcy aplikacji napiwek
+Lepiej z VoiceOver i Sterowaniem głosem
+Przejrzyście nawet z dużym tekstem
+Spokojniej z opcją Ogranicz ruch
+
+### App Store (Svenska)
+
+Du kan ge utvecklaren lite dricks
+Bättre med VoiceOver och Röststyrning
+Tydligt även med stor text
+Lugnare med Minska rörelse
+
+### App Store (Türkçe)
+
+Geliştiriciye bahşiş gönderebilirsiniz
+VoiceOver ve Sesle Denetim ile daha iyi
+Büyük metinde de düzenli görünüm
+Hareketi Azalt açıkken daha sakin
+
 ## 1.0.1
 
 ### 앱스토어 (한국어)
