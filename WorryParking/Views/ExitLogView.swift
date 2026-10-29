@@ -1,6 +1,7 @@
 import SwiftUI
 import SwiftData
 import Charts
+import LeeoKit
 
 struct ExitLogView: View {
     @Environment(\.modelContext) private var modelContext
@@ -29,6 +30,14 @@ struct ExitLogView: View {
                     )
                 } else {
                     List {
+                        // 출차한 걱정이 쌓였을 때, 이미 Pro 인 사람에게만 드물게 응원을 부탁한다.
+                        // 아직 Pro 가 아닌 사람에게는 페이월이 맞는 길이다.
+                        if store.isPro {
+                            LeeoTipAskSlot<WorryParkingSpec>(tipJar: WorryParkingSpec.tipJar,
+                                                             reached: WorryParkingTipMoments.reached(exitedCount: history.count))
+                                .listRowInsets(EdgeInsets())
+                                .listRowBackground(Color.clear)
+                        }
                         if !history.isEmpty {
                             Section {
                                 InsightsCard(

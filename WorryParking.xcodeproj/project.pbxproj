@@ -25,6 +25,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				16479D0D9BE6496FB613FCD7 /* LeeoKit in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -69,6 +70,7 @@
 			);
 			name = WorryParking;
 			packageProductDependencies = (
+				653292EE5CA84E1FA883052E /* LeeoKit */,
 			);
 			productName = WorryParking;
 			productReference = 7A0000000000000000000001 /* WorryParking.app */;
@@ -121,6 +123,9 @@
 			);
 			mainGroup = 7A0000000000000000000004;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				14DE1FA05ED5406A8264575A /* XCRemoteSwiftPackageReference "LeeoKit" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 7A0000000000000000000005 /* Products */;
 			projectDirPath = "";
@@ -353,6 +358,29 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin PBXBuildFile section */
+		16479D0D9BE6496FB613FCD7 /* LeeoKit in Frameworks */ = {isa = PBXBuildFile; productRef = 653292EE5CA84E1FA883052E /* LeeoKit */; };
+/* End PBXBuildFile section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		14DE1FA05ED5406A8264575A /* XCRemoteSwiftPackageReference "LeeoKit" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/M1zz/LeeoKit.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 3.25.1;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		653292EE5CA84E1FA883052E /* LeeoKit */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 14DE1FA05ED5406A8264575A /* XCRemoteSwiftPackageReference "LeeoKit" */;
+			productName = LeeoKit;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 7A0000000000000000000009 /* Project object */;
 }

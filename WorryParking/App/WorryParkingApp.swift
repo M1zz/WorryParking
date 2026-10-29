@@ -1,5 +1,6 @@
 import SwiftUI
 import SwiftData
+import LeeoKit
 
 @main
 struct WorryParkingApp: App {
@@ -13,6 +14,8 @@ struct WorryParkingApp: App {
                 .preferredColorScheme(.dark)
                 .tint(Theme.lineYellow)
                 .task { await store.start() }
+                // 팁 상품을 불러오고 끝나지 않은 팁을 마저 센다 (LeeoStore 없이 혼자)
+                .task { await WorryParkingSpec.tipJar.startStandalone() }
         }
         .modelContainer(for: [Worry.self, ExperienceFeedback.self])
     }

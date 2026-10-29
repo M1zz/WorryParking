@@ -18,7 +18,8 @@ final class StoreManager {
         if updatesTask == nil {
             updatesTask = Task { [weak self] in
                 for await update in Transaction.updates {
-                    if case .verified(let transaction) = update {
+                    // 구독만 여기서 닫는다. 팁은 LeeoTipJar 가 세고 닫는다(기능을 열지 않는다).
+                    if case .verified(let transaction) = update, Self.productIDs.contains(transaction.productID) {
                         await transaction.finish()
                     }
                     await self?.refreshEntitlements()

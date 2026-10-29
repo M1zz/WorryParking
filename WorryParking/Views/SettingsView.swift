@@ -1,6 +1,7 @@
 import SwiftUI
 import StoreKit
 import UIKit
+import LeeoKit
 import UserNotifications
 
 struct SettingsView: View {
@@ -48,6 +49,11 @@ struct SettingsView: View {
                             Task { await store.restorePurchases() }
                         }
                     }
+                }
+
+                // 개발자 응원하기 — 판매 중인 팁이 있어야 선다.
+                Section {
+                    LeeoTipJarLink<WorryParkingSpec>(tipJar: WorryParkingSpec.tipJar)
                 }
 
                 Section("About") {
