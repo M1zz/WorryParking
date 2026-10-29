@@ -1,0 +1,171 @@
+{
+  "title": "Worry Parking: a place to park your worries before bed",
+  "description": "Write down the worry that keeps circling, park it, and face it for 15 minutes at your Worry Time. Built on worry postponement from CBT. All free.",
+  "hero": {
+    "headline": "Park the worry.\nGet it back later.",
+    "lead": "Write down whatever keeps circling at bedtime and leave it on a parking ticket. We'll bring it back at your Worry Time. Until then, you don't have to carry it.",
+    "cta": "Get it free on the App Store",
+    "note": "Every feature is free. No ads, no account."
+  },
+  "demo": {
+    "title": "Park one worry",
+    "lead": "Keep the example or type what's on your mind right now. Once it's parked it blurs out, and you take it back out at Worry Time.",
+    "skip": "Skip ahead to Worry Time",
+    "again": "Park another worry",
+    "note": "What you type here never leaves this page. In the app, it stays on your iPhone.",
+    "ask": "What's circling in your head?",
+    "placeholder": "Write it exactly the way it sounds in your head.",
+    "loud": "How loud is it right now?",
+    "park": "Park at P{n}",
+    "parked": "Parked at P{n}",
+    "back": "You don't need to carry this right now. We'll bring it back {t}.",
+    "today": "today at {t}",
+    "tomorrow": "tomorrow at {t}",
+    "gate": "Exit Gate · P{n}",
+    "fear": "Did what you feared actually happen?",
+    "loudNow": "How loud is it now?",
+    "was": "It was {n} when you parked it.",
+    "letGo": "Let it go",
+    "repark": "Park it again",
+    "gone": "It's out of the lot. Drive away.",
+    "levels": [
+      "Gone",
+      "A whisper",
+      "Nagging",
+      "Loud",
+      "Heavy",
+      "Overwhelming"
+    ],
+    "results": [
+      "It happened",
+      "Partly",
+      "It didn't happen",
+      "Too early to tell"
+    ],
+    "sample": "My manager's reply was so short. Did I do something wrong?"
+  },
+  "problem": {
+    "title": "Lights off, worries on?",
+    "text": "The second your head hits the pillow, it starts: something you said today, tomorrow's meeting, the text that still hasn't come back. Telling yourself to stop thinking only makes it louder. Worry Parking doesn't ask you to push it away. You write it down, give it a spot, and set aside a time to deal with it."
+  },
+  "features": [
+    {
+      "title": "Write it down, and it gets out of your head",
+      "text": "Write it exactly the way it sounds in your head, then rate how loud it is from 1 to 5. Tear off the ticket and the worry stays in the lot, blurred out.\nIf it drives back into your head, tell it: you already have a spot. There's a time for it, and it isn't now.",
+      "shot": "park"
+    },
+    {
+      "title": "Face it for 15 minutes at Worry Time",
+      "text": "Every day at your Worry Time, you get a reminder. At the Exit Gate you read the worry again, check whether it actually happened, and see how loud it is now.\nThen let it go, turn it into one small next step, or park it again until the next Worry Time.",
+      "shot": "gate"
+    },
+    {
+      "title": "See how often your worries came true",
+      "text": "As reviewed worries add up, the Exit Log shows what share actually happened and how much their level dropped.\nWorry tends to predict the future as worse than it turns out. The more you log, the less you believe the next one.",
+      "shot": "log"
+    }
+  ],
+  "steps": {
+    "title": "Three steps to start",
+    "items": [
+      {
+        "title": "Pick your Worry Time",
+        "text": "The first time you open it, choose when you'll face your worries each day. You can change it later in Settings."
+      },
+      {
+        "title": "Park one real worry",
+        "text": "Park something on your mind right away and notice how its level changes before and after."
+      },
+      {
+        "title": "Allow pickup reminders",
+        "text": "At Worry Time you get a reminder with just the spot number."
+      }
+    ]
+  },
+  "reference": {
+    "title": "Why it works",
+    "rows": [
+      [
+        "Worry at one set time",
+        "People who moved their worrying to a short daily worry period spent less time worrying and reported less anxiety and fewer sleep problems. (Borkovec et al., 1983; McGowan & Behar, 2013)"
+      ],
+      [
+        "Write it down to put it down",
+        "Making a concrete plan stopped unfinished tasks from intruding on people's thoughts, and five minutes of writing before bed helped people fall asleep faster. (Masicampo & Baumeister, 2011; Scullin et al., 2018)"
+      ],
+      [
+        "Check what actually happened",
+        "When people with chronic worry tracked their worries, 91% of them didn't come true. (LaFreniere & Newman, 2020)"
+      ]
+    ],
+    "note": "Worry Parking is built on worry postponement, a technique from cognitive behavioral therapy (CBT) that has been studied for decades."
+  },
+  "pricing": {
+    "title": "Everything is free",
+    "free": {
+      "name": "Free",
+      "items": [
+        "Unlimited parking spots",
+        "Daily Worry Time reminders and custom exit times",
+        "The Exit Gate and Exit Log",
+        "Exit insights: how many came true, how much the level dropped"
+      ]
+    },
+    "pro": {
+      "name": "Tips, if you like",
+      "items": [
+        "If it helped, you can send the developer a small tip",
+        "Pick a small, medium or large tip"
+      ],
+      "note": "Tips don't unlock anything. Every feature works the same without one."
+    },
+    "note": "No ads, no account, no servers, no analytics. Everything you write stays on your iPhone."
+  },
+  "faq": {
+    "title": "Questions",
+    "items": [
+      {
+        "q": "How do I change my Worry Time?",
+        "a": "Go to Worry Time in the Settings tab. The new time applies to worries you park from then on. Worries already parked keep their original exit time."
+      },
+      {
+        "q": "I'm not getting pickup reminders.",
+        "a": "Check Notifications in the Settings tab. If it says notifications are off, tap Open iOS Settings and turn them on. With a Focus or Do Not Disturb on, reminders may arrive silently. Even without a reminder, worries that are due show as ready for pickup in the lot."
+      },
+      {
+        "q": "Can people see my worry in the notification?",
+        "a": "No. Notifications only show the spot number, like \"P3 is ready for pickup\". The worry itself only appears once you open the app and enter the Exit Gate."
+      },
+      {
+        "q": "Can I look at a worry before Worry Time?",
+        "a": "Tap its car in the lot and choose Send it to the exit gate now. Postponing works best when you wait, though. Most worries feel smaller by Worry Time."
+      },
+      {
+        "q": "Can I move my records to a new iPhone?",
+        "a": "Everything is stored only on your iPhone, with no account or sync. Restoring a new iPhone from an iCloud or computer backup, or using Quick Start, brings it over along with your other app data."
+      },
+      {
+        "q": "How do I delete my records?",
+        "a": "In the Exit Log tab, swipe left on an entry to delete it. Deleting the app removes everything."
+      },
+      {
+        "q": "Is this a treatment?",
+        "a": "Worry Parking is a self-help tool based on worry postponement from CBT. It is not a medical device and does not replace professional diagnosis or treatment."
+      },
+      {
+        "q": "What if I'm really struggling?",
+        "a": "If worry is getting in the way of daily life, or you're having thoughts of hurting yourself, please don't carry it alone. Reach out to a mental health professional, call or text 988 in the US, or contact your local emergency services."
+      }
+    ]
+  },
+  "closing": {
+    "headline": "Tonight, leave\nthe worry in the lot",
+    "cta": "Get it free on the App Store"
+  },
+  "ui": {
+    "skip": "Skip to content",
+    "languages": "Languages",
+    "privacy": "Privacy Policy",
+    "contact": "Questions or feedback? Write to {email}."
+  }
+}

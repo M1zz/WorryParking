@@ -1,0 +1,171 @@
+{
+  "title": "Oroparkeringen: parkera oron innan du sover",
+  "description": "Skriv ner oron som snurrar, parkera den och ge den 15 minuter på din orotid. Bygger på en teknik från KBT. Allt är gratis.",
+  "hero": {
+    "headline": "Parkera oron.\nHämta den senare.",
+    "lead": "Skriv ner det som snurrar i huvudet vid läggdags och lämna det på en parkeringsbiljett. Du får tillbaka det på din orotid. Tills dess behöver du inte bära på det.",
+    "cta": "Hämta gratis i App Store",
+    "note": "Alla funktioner är gratis. Ingen reklam, inget konto."
+  },
+  "demo": {
+    "title": "Parkera en oro",
+    "lead": "Behåll exemplet eller skriv det som är i ditt huvud just nu. Parkerad blir den suddig, och på orotiden tar du fram den igen.",
+    "skip": "Hoppa fram till orotiden",
+    "again": "Parkera en oro till",
+    "note": "Det du skriver här lämnar aldrig sidan. I appen stannar allt på din iPhone.",
+    "ask": "Vad snurrar i huvudet?",
+    "placeholder": "Skriv den precis som den låter i huvudet.",
+    "loud": "Hur högljudd är den just nu?",
+    "park": "Parkera på P{n}",
+    "parked": "Parkerad på P{n}",
+    "back": "Du behöver inte bära på det här just nu. Vi tar med den tillbaka {t}.",
+    "today": "i dag kl. {t}",
+    "tomorrow": "i morgon kl. {t}",
+    "gate": "Utfartsbom · P{n}",
+    "fear": "Hände det du fruktade på riktigt?",
+    "loudNow": "Hur högljudd är den nu?",
+    "was": "Den var {n} när du parkerade den.",
+    "letGo": "Släpp taget",
+    "repark": "Parkera igen",
+    "gone": "Den har lämnat parkeringen. Låt den åka.",
+    "levels": [
+      "Borta",
+      "En viskning",
+      "Gnagande",
+      "Högljudd",
+      "Tung",
+      "Överväldigande"
+    ],
+    "results": [
+      "Hände",
+      "Delvis",
+      "Hände inte",
+      "För tidigt att säga"
+    ],
+    "sample": "Chefens svar var så kort. Gjorde jag något fel?"
+  },
+  "problem": {
+    "title": "Lampan släckt, tankarna tända?",
+    "text": "Så fort huvudet når kudden sätter det igång: något du sa i dag, mötet i morgon, meddelandet som ingen svarat på. Ju mer du försöker låta bli att tänka, desto högre låter det. Oroparkeringen ber dig inte att knuffa bort oron. Du skriver ner den, ger den en plats och avsätter en tid att ta hand om den."
+  },
+  "features": [
+    {
+      "title": "Nerskriven är den ute ur huvudet",
+      "text": "Skriv den precis som den låter i huvudet och ange hur stark den är just nu, från 1 till 5. Riv av biljetten, så står oron kvar på parkeringen, suddig.\nOm den kör in i huvudet igen, säg till den: du har redan en plats. Din tid kommer, men inte nu.",
+      "shot": "park"
+    },
+    {
+      "title": "15 minuter på orotiden",
+      "text": "Varje dag på din orotid får du en påminnelse. Vid utfartsbommen läser du oron igen, kollar om den faktiskt hände och hur stark den är nu.\nSedan släpper du den, gör om den till ett litet nästa steg eller parkerar den till nästa orotid.",
+      "shot": "gate"
+    },
+    {
+      "title": "Se hur ofta oron fick rätt",
+      "text": "Ju fler orosmoln som kört ut, desto tydligare visar utfartsloggen hur många som faktiskt hände och hur mycket styrkan sjönk.\nOro målar ofta upp framtiden värre än den blir. Ju mer du loggar, desto mindre tror du på nästa.",
+      "shot": "log"
+    }
+  ],
+  "steps": {
+    "title": "Kom igång i tre steg",
+    "items": [
+      {
+        "title": "Välj din orotid",
+        "text": "Första gången du öppnar appen väljer du när du ska ta hand om din oro varje dag. Du kan ändra det senare i Inställningar."
+      },
+      {
+        "title": "Parkera en verklig oro",
+        "text": "Parkera direkt något som gnager och känn efter hur styrkan förändras före och efter."
+      },
+      {
+        "title": "Tillåt påminnelser om hämtning",
+        "text": "På orotiden får du en påminnelse med bara platsnumret."
+      }
+    ]
+  },
+  "reference": {
+    "title": "Varför det fungerar",
+    "rows": [
+      [
+        "Oroa dig bara vid en bestämd tid",
+        "De som flyttade sin oro till en kort daglig stund oroade sig mindre och rapporterade mindre ångest och färre sömnproblem. (Borkovec m.fl., 1983; McGowan & Behar, 2013)"
+      ],
+      [
+        "Skriv ner för att släppa",
+        "En konkret plan hindrade ogjorda uppgifter från att tränga sig in i tankarna, och fem minuters skrivande före sänggåendet hjälpte folk att somna snabbare. (Masicampo & Baumeister, 2011; Scullin m.fl., 2018)"
+      ],
+      [
+        "Kolla vad som faktiskt hände",
+        "När personer med kronisk oro loggade sina orosmoln slog 91 % av dem aldrig in. (LaFreniere & Newman, 2020)"
+      ]
+    ],
+    "note": "Oroparkeringen bygger på oroskjutning, en teknik från kognitiv beteendeterapi (KBT) som har studerats i årtionden."
+  },
+  "pricing": {
+    "title": "Allt är gratis",
+    "free": {
+      "name": "Gratis",
+      "items": [
+        "Obegränsat antal parkeringsplatser",
+        "Dagliga påminnelser på orotiden och egen utfartstid",
+        "Utfartsbom och utfartslogg",
+        "Insikter om utfarter: hur många som hände och hur mycket styrkan sjönk"
+      ]
+    },
+    "pro": {
+      "name": "Dricks, om du vill",
+      "items": [
+        "Om appen hjälper kan du ge utvecklaren lite dricks",
+        "Liten, mellan eller stor, som du vill"
+      ],
+      "note": "Dricks låser inte upp något. Utan den fungerar allt likadant."
+    },
+    "note": "Ingen reklam, inget konto, inga servrar, inga analysverktyg. Allt du skriver stannar på din iPhone."
+  },
+  "faq": {
+    "title": "Vanliga frågor",
+    "items": [
+      {
+        "q": "Hur ändrar jag min orotid?",
+        "a": "Under Orotid på fliken Inställningar. Den nya tiden gäller oro du parkerar från och med då. Redan parkerad oro behåller sin ursprungliga utfartstid."
+      },
+      {
+        "q": "Jag får inga påminnelser om hämtning.",
+        "a": "Kolla Notiser på fliken Inställningar. Om de är avstängda trycker du på Öppna iOS-inställningar och slår på dem. Med fokus eller Stör ej på kan påminnelser komma tyst. Även utan påminnelse visas oro som är dags att hämta som klar på parkeringen."
+      },
+      {
+        "q": "Syns min oro i notisen?",
+        "a": "Nej. Notiser visar bara platsnumret, till exempel ”P3 är klar att hämta”. Själva oron syns först när du öppnar appen och går till utfartsbommen."
+      },
+      {
+        "q": "Kan jag titta på en oro före orotiden?",
+        "a": "Tryck på dess bil på parkeringen och välj Skicka den till utfartsbommen nu. Att skjuta upp fungerar dock bäst om du väntar. De flesta orosmoln känns mindre när orotiden kommer."
+      },
+      {
+        "q": "Kan jag flytta min logg till en ny iPhone?",
+        "a": "Allt sparas bara på din iPhone, utan konto eller synk. Om du återställer en ny iPhone från en säkerhetskopia i iCloud eller på datorn, eller använder Snabbstart, följer loggen med tillsammans med dina andra appar."
+      },
+      {
+        "q": "Hur raderar jag min logg?",
+        "a": "Svep en post åt vänster på fliken Utfartslogg för att radera den. Om du raderar appen försvinner allt."
+      },
+      {
+        "q": "Är det här en behandling?",
+        "a": "Oroparkeringen är ett självhjälpsverktyg som bygger på oroskjutning från KBT. Det är ingen medicinteknisk produkt och ersätter inte professionell diagnos eller behandling."
+      },
+      {
+        "q": "Vad gör jag om jag mår riktigt dåligt?",
+        "a": "Om oron tar över dina dagar eller du tänker på att skada dig själv, bär inte på det ensam. I Sverige kan du ringa 112 vid akut fara, eller Självmordslinjen på 90101."
+      }
+    ]
+  },
+  "closing": {
+    "headline": "I natt får oron\nstå kvar på parkeringen",
+    "cta": "Hämta gratis i App Store"
+  },
+  "ui": {
+    "skip": "Hoppa till innehållet",
+    "languages": "Språk",
+    "privacy": "Integritetspolicy",
+    "contact": "Frågor eller idéer? Mejla {email}."
+  }
+}

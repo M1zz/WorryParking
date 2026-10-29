@@ -1,0 +1,171 @@
+{
+  "title": "Parking Zmartwień: zaparkuj zmartwienia przed snem",
+  "description": "Zapisz zmartwienie, które krąży w głowie, zaparkuj je i poświęć mu 15 minut w Porze na zmartwienia. Oparte na technice z CBT. Wszystko za darmo.",
+  "hero": {
+    "headline": "Zaparkuj zmartwienie.\nOdbierz je później.",
+    "lead": "Zapisz to, co krąży ci po głowie przed snem, i zostaw na bilecie parkingowym. Oddamy ci je w Porze na zmartwienia. Do tego czasu nie musisz go nosić ze sobą.",
+    "cta": "Pobierz za darmo z App Store",
+    "note": "Wszystkie funkcje są darmowe. Bez reklam i bez konta."
+  },
+  "demo": {
+    "title": "Zaparkuj jedno zmartwienie",
+    "lead": "Zostaw przykład albo wpisz to, co masz teraz w głowie. Zaparkowane się rozmywa, a w Porze na zmartwienia wyciągasz je z powrotem.",
+    "skip": "Przewiń do Pory na zmartwienia",
+    "again": "Zaparkuj kolejne",
+    "note": "To, co tu wpiszesz, nie opuszcza tej strony. W aplikacji wszystko zostaje na twoim iPhonie.",
+    "ask": "Co krąży ci po głowie?",
+    "placeholder": "Zapisz je dokładnie tak, jak brzmi w twojej głowie.",
+    "loud": "Jak głośne jest w tej chwili?",
+    "park": "Zaparkuj na P{n}",
+    "parked": "Zaparkowano na P{n}",
+    "back": "Nie musisz tego teraz nosić. Przyniesiemy je z powrotem {t}.",
+    "today": "dziś o {t}",
+    "tomorrow": "jutro o {t}",
+    "gate": "Szlaban wyjazdowy · P{n}",
+    "fear": "Czy to, czego się obawiasz, naprawdę się stało?",
+    "loudNow": "Jak głośne jest teraz?",
+    "was": "Gdy je parkowałeś, miało {n}.",
+    "letGo": "Puść",
+    "repark": "Zaparkuj ponownie",
+    "gone": "Opuściło parking. Pozwól mu odjechać.",
+    "levels": [
+      "Zniknęło",
+      "Szept",
+      "Nawracające",
+      "Głośne",
+      "Ciężkie",
+      "Przytłaczające"
+    ],
+    "results": [
+      "Stało się",
+      "Częściowo",
+      "Nie stało się",
+      "Za wcześnie, by powiedzieć"
+    ],
+    "sample": "Odpowiedź szefa była taka krótka. Czy coś zrobiłem źle?"
+  },
+  "problem": {
+    "title": "Światło zgaszone, a głowa wciąż pracuje?",
+    "text": "Ledwo przyłożysz głowę do poduszki, a już się zaczyna: zdanie powiedziane w ciągu dnia, jutrzejsze spotkanie, wiadomość, na którą nikt nie odpisał. Im bardziej starasz się o tym nie myśleć, tym głośniej to brzmi. Parking Zmartwień nie każe ci odpychać zmartwienia. Zapisujesz je, dajesz mu miejsce i rezerwujesz czas, żeby się nim zająć."
+  },
+  "features": [
+    {
+      "title": "Zapisane wychodzi z głowy",
+      "text": "Zapisz je dokładnie tak, jak brzmi w twojej głowie, i oceń, jak głośne jest teraz, od 1 do 5. Oderwij bilet, a zmartwienie zostanie na parkingu, rozmyte.\nJeśli znów wjedzie ci do głowy, powiedz mu: masz już miejsce. Twój czas przyjdzie, ale nie teraz.",
+      "shot": "park"
+    },
+    {
+      "title": "15 minut w Porze na zmartwienia",
+      "text": "Codziennie w Porze na zmartwienia dostajesz przypomnienie. Przy szlabanie wyjazdowym czytasz zmartwienie jeszcze raz, sprawdzasz, czy naprawdę się wydarzyło i jak głośne jest teraz.\nPotem je puszczasz, zamieniasz w jeden mały kolejny krok albo parkujesz do następnej Pory na zmartwienia.",
+      "shot": "gate"
+    },
+    {
+      "title": "Zobacz, jak często zmartwienia się sprawdzały",
+      "text": "Im więcej zmartwień wyjechało, tym wyraźniej dziennik wyjazdów pokazuje, ile z nich naprawdę się wydarzyło i o ile spadła ich siła.\nZmartwienie zwykle maluje przyszłość czarniej, niż się okazuje. Im więcej zapisujesz, tym mniej wierzysz następnemu.",
+      "shot": "log"
+    }
+  ],
+  "steps": {
+    "title": "Start w trzech krokach",
+    "items": [
+      {
+        "title": "Wybierz Porę na zmartwienia",
+        "text": "Przy pierwszym uruchomieniu wybierasz, kiedy każdego dnia zajmiesz się zmartwieniami. Zmienisz to później w Ustawieniach."
+      },
+      {
+        "title": "Zaparkuj prawdziwe zmartwienie",
+        "text": "Od razu zaparkuj coś, co cię gryzie, i poczuj, jak zmienia się jego siła przed i po."
+      },
+      {
+        "title": "Zezwól na przypomnienia o odbiorze",
+        "text": "W Porze na zmartwienia przyjdzie przypomnienie tylko z numerem miejsca."
+      }
+    ]
+  },
+  "reference": {
+    "title": "Dlaczego to działa",
+    "rows": [
+      [
+        "Martw się tylko o stałej porze",
+        "Osoby, które przeniosły zamartwianie na krótki codzienny czas, martwiły się mniej i zgłaszały mniej lęku i problemów ze snem. (Borkovec i in., 1983; McGowan i Behar, 2013)"
+      ],
+      [
+        "Zapisz, żeby odpuścić",
+        "Konkretny plan sprawiał, że niedokończone sprawy rzadziej wdzierały się w myśli, a pięć minut pisania przed snem pomagało szybciej zasnąć. (Masicampo i Baumeister, 2011; Scullin i in., 2018)"
+      ],
+      [
+        "Sprawdź, co naprawdę się stało",
+        "Gdy osoby z przewlekłym zamartwianiem się zapisywały swoje zmartwienia, 91% z nich się nie spełniło. (LaFreniere i Newman, 2020)"
+      ]
+    ],
+    "note": "Parking Zmartwień opiera się na odraczaniu zmartwień, technice terapii poznawczo-behawioralnej (CBT) badanej od dziesięcioleci."
+  },
+  "pricing": {
+    "title": "Wszystko za darmo",
+    "free": {
+      "name": "Za darmo",
+      "items": [
+        "Nielimitowane miejsca parkingowe",
+        "Codzienne przypomnienia w Porze na zmartwienia i własna godzina wyjazdu",
+        "Szlaban wyjazdowy i dziennik wyjazdów",
+        "Statystyki wyjazdów: ile się spełniło i o ile spadła siła"
+      ]
+    },
+    "pro": {
+      "name": "Napiwek, jeśli chcesz",
+      "items": [
+        "Jeśli aplikacja ci pomaga, możesz dać twórcy mały napiwek",
+        "Mały, średni lub duży, jak wolisz"
+      ],
+      "note": "Napiwek niczego nie odblokowuje. Bez niego wszystko działa tak samo."
+    },
+    "note": "Bez reklam, konta, serwerów i narzędzi analitycznych. Wszystko, co piszesz, zostaje na twoim iPhonie."
+  },
+  "faq": {
+    "title": "Częste pytania",
+    "items": [
+      {
+        "q": "Jak zmienić Porę na zmartwienia?",
+        "a": "W karcie Ustawienia, w pozycji Pora na zmartwienia. Nowa godzina dotyczy zmartwień parkowanych od tej chwili. Te już zaparkowane zachowują pierwotną godzinę wyjazdu."
+      },
+      {
+        "q": "Nie dostaję przypomnień o odbiorze.",
+        "a": "Sprawdź Powiadomienia w karcie Ustawienia. Jeśli są wyłączone, stuknij Otwórz Ustawienia iOS i je włącz. Przy włączonym trybie skupienia lub Nie przeszkadzać przypomnienia mogą przychodzić bez dźwięku. Nawet bez przypomnienia zmartwienia, na które przyszła pora, są na parkingu oznaczone jako gotowe do odbioru."
+      },
+      {
+        "q": "Czy moje zmartwienie widać w powiadomieniu?",
+        "a": "Nie. Powiadomienia pokazują tylko numer miejsca, na przykład „P3 jest gotowe do odbioru”. Samo zmartwienie zobaczysz dopiero po otwarciu aplikacji, przy szlabanie wyjazdowym."
+      },
+      {
+        "q": "Czy mogę zajrzeć do zmartwienia wcześniej?",
+        "a": "Stuknij jego samochód na parkingu i wybierz Wyślij je teraz do szlabanu wyjazdowego. Odraczanie działa jednak najlepiej, gdy poczekasz. Większość zmartwień w Porze na zmartwienia wydaje się już mniejsza."
+      },
+      {
+        "q": "Czy przeniosę zapiski na nowego iPhone’a?",
+        "a": "Wszystko jest zapisane tylko na twoim iPhonie, bez konta i synchronizacji. Jeśli odtworzysz nowego iPhone’a z kopii zapasowej iCloud lub komputera albo użyjesz funkcji Szybki start, dane przejdą razem z innymi aplikacjami."
+      },
+      {
+        "q": "Jak usunąć zapiski?",
+        "a": "W karcie Dziennik wyjazdów przesuń wpis w lewo, aby go usunąć. Usunięcie aplikacji kasuje wszystko."
+      },
+      {
+        "q": "Czy to terapia?",
+        "a": "Parking Zmartwień to narzędzie samopomocy oparte na odraczaniu zmartwień z CBT. Nie jest wyrobem medycznym i nie zastępuje profesjonalnej diagnozy ani leczenia."
+      },
+      {
+        "q": "A jeśli jest mi naprawdę ciężko?",
+        "a": "Jeśli zmartwienia przejmują twoje dni albo myślisz o zrobieniu sobie krzywdy, nie zostawaj z tym sam. W Polsce zadzwoń pod 116 123 (telefon wsparcia emocjonalnego dla dorosłych) lub 112 w nagłej sytuacji."
+      }
+    ]
+  },
+  "closing": {
+    "headline": "Dziś w nocy zmartwienie\nzostaje na parkingu",
+    "cta": "Pobierz za darmo z App Store"
+  },
+  "ui": {
+    "skip": "Przejdź do treści",
+    "languages": "Języki",
+    "privacy": "Polityka prywatności",
+    "contact": "Pytania lub pomysły? Napisz na {email}."
+  }
+}

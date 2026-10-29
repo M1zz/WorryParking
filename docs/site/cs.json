@@ -1,0 +1,171 @@
+{
+  "title": "Parkoviště starostí: zaparkuj starosti před spaním",
+  "description": "Zapiš starost, která se ti točí v hlavě, zaparkuj ji a věnuj jí 15 minut v Čase na starosti. Vychází z techniky KBT. Vše je zdarma.",
+  "hero": {
+    "headline": "Zaparkuj starost.\nVyzvedni si ji později.",
+    "lead": "Zapiš, co se ti před spaním honí hlavou, a nech to na parkovacím lístku. V Čase na starosti ti to vrátíme. Do té doby to nemusíš nosit s sebou.",
+    "cta": "Stáhnout zdarma v App Store",
+    "note": "Všechny funkce jsou zdarma. Bez reklam a bez účtu."
+  },
+  "demo": {
+    "title": "Zaparkuj jednu starost",
+    "lead": "Nech příklad, nebo napiš, co tě právě trápí. Po zaparkování se rozmaže a v Čase na starosti ji zase vytáhneš.",
+    "skip": "Přeskočit na Čas na starosti",
+    "again": "Zaparkovat další starost",
+    "note": "Co sem napíšeš, neopustí tuhle stránku. V aplikaci zůstává všechno v tvém iPhonu.",
+    "ask": "Co ti běhá hlavou?",
+    "placeholder": "Napiš ji přesně tak, jak zní ve tvé hlavě.",
+    "loud": "Jak hlasitá je právě teď?",
+    "park": "Zaparkovat na P{n}",
+    "parked": "Zaparkováno na P{n}",
+    "back": "Teď to nemusíš nosit s sebou. Přineseme ti to zpátky {t}.",
+    "today": "dnes v {t}",
+    "tomorrow": "zítra v {t}",
+    "gate": "Výjezdová závora · P{n}",
+    "fear": "Stalo se doopravdy to, čeho ses bál(a)?",
+    "loudNow": "Jak hlasitá je teď?",
+    "was": "Při zaparkování byla na {n}.",
+    "letGo": "Nechat odejít",
+    "repark": "Zaparkovat znovu",
+    "gone": "Odjela z parkoviště. Nech ji jet.",
+    "levels": [
+      "Zmizela",
+      "Šepot",
+      "Dotěrná",
+      "Hlasitá",
+      "Těžká",
+      "Ohromující"
+    ],
+    "results": [
+      "Stalo se",
+      "Částečně",
+      "Nestalo se",
+      "Je příliš brzy to říct"
+    ],
+    "sample": "Odpověď šéfa byla tak krátká. Udělal(a) jsem něco špatně?"
+  },
+  "problem": {
+    "title": "Zhasnuto, a hlava pořád jede?",
+    "text": "Sotva položíš hlavu na polštář, začne to: věta, kterou jsi dnes řekl, zítřejší porada, zpráva, na kterou nikdo neodpověděl. Čím víc se snažíš na to nemyslet, tím je to hlasitější. Parkoviště starostí po tobě nechce, abys starost zaháněl. Zapíšeš ji, dáš jí místo a vyhradíš si čas, kdy se jí budeš věnovat."
+  },
+  "features": [
+    {
+      "title": "Zapsaná starost odejde z hlavy",
+      "text": "Zapiš ji přesně tak, jak ti zní v hlavě, a označ, jak je teď hlasitá, od 1 do 5. Utrhni lístek a starost zůstane rozmazaná na parkovišti.\nKdyž ti zase vjede do hlavy, řekni jí: místo už máš. Tvůj čas přijde, ale teď ne.",
+      "shot": "park"
+    },
+    {
+      "title": "15 minut v Čase na starosti",
+      "text": "Každý den v Čase na starosti přijde upozornění. U výjezdové závory si starost znovu přečteš, zjistíš, jestli se opravdu stala, a jak je teď hlasitá.\nPak ji pustíš, uděláš z ní jeden malý další krok, nebo ji zaparkuješ do dalšího Času na starosti.",
+      "shot": "gate"
+    },
+    {
+      "title": "Uvidíš, jak často měly starosti pravdu",
+      "text": "Čím víc starostí vyjelo, tím jasněji deník výjezdů ukazuje, kolik se jich opravdu stalo a o kolik zeslábly.\nStarost obvykle maluje budoucnost černěji, než jaká pak je. Čím víc zapisuješ, tím míň věříš té další.",
+      "shot": "log"
+    }
+  ],
+  "steps": {
+    "title": "Začni ve třech krocích",
+    "items": [
+      {
+        "title": "Vyber si Čas na starosti",
+        "text": "Při prvním spuštění si vybereš, kdy se budeš starostem každý den věnovat. Později to změníš v Nastavení."
+      },
+      {
+        "title": "Zaparkuj skutečnou starost",
+        "text": "Hned zaparkuj něco, co tě tíží, a všimni si, jak se síla změní před a po."
+      },
+      {
+        "title": "Povol upozornění na vyzvednutí",
+        "text": "V Čase na starosti přijde upozornění jen s číslem místa."
+      }
+    ]
+  },
+  "reference": {
+    "title": "Proč to funguje",
+    "rows": [
+      [
+        "Dělat si starosti jen v určený čas",
+        "Lidé, kteří přesunuli starosti do krátké denní chvíle, se trápili méně a uváděli méně úzkosti a potíží se spánkem. (Borkovec a kol., 1983; McGowan a Behar, 2013)"
+      ],
+      [
+        "Zapsat a pustit",
+        "Konkrétní plán bránil nedodělaným věcem vtírat se do myšlenek a pět minut psaní před spaním lidem pomohlo rychleji usnout. (Masicampo a Baumeister, 2011; Scullin a kol., 2018)"
+      ],
+      [
+        "Ověřit, co se opravdu stalo",
+        "Když si lidé s chronickými starostmi své starosti zapisovali, 91 % z nich se nenaplnilo. (LaFreniere a Newman, 2020)"
+      ]
+    ],
+    "note": "Parkoviště starostí vychází z odkládání starostí, techniky kognitivně-behaviorální terapie (KBT), kterou se výzkum zabývá už desítky let."
+  },
+  "pricing": {
+    "title": "Všechno je zdarma",
+    "free": {
+      "name": "Zdarma",
+      "items": [
+        "Neomezený počet parkovacích míst",
+        "Denní upozornění v Čase na starosti a vlastní čas výjezdu",
+        "Výjezdová závora a deník výjezdů",
+        "Přehledy výjezdů: kolik se jich naplnilo a o kolik zeslábly"
+      ]
+    },
+    "pro": {
+      "name": "Spropitné, pokud chceš",
+      "items": [
+        "Když ti aplikace pomáhá, můžeš vývojáři poslat malé spropitné",
+        "Malé, střední nebo velké, jak chceš"
+      ],
+      "note": "Spropitné nic neodemyká. Bez něj funguje všechno stejně."
+    },
+    "note": "Žádné reklamy, účet, servery ani analytické nástroje. Všechno, co napíšeš, zůstává v tvém iPhonu."
+  },
+  "faq": {
+    "title": "Časté otázky",
+    "items": [
+      {
+        "q": "Jak změním Čas na starosti?",
+        "a": "Na kartě Nastavení v položce Čas na starosti. Nový čas platí pro starosti, které zaparkuješ potom. Už zaparkované si nechají původní čas výjezdu."
+      },
+      {
+        "q": "Nechodí mi upozornění na vyzvednutí.",
+        "a": "Zkontroluj Oznámení na kartě Nastavení. Pokud jsou vypnutá, klepni na Otevřít Nastavení iOS a zapni je. Se zapnutým režimem soustředění nebo Nerušit můžou upozornění přicházet potichu. I bez upozornění se starosti, jejichž čas nastal, na parkovišti zobrazí jako připravené k vyzvednutí."
+      },
+      {
+        "q": "Je moje starost vidět v oznámení?",
+        "a": "Ne. Oznámení ukazují jen číslo místa, třeba „P3 je připraveno k vyzvednutí“. Samotnou starost uvidíš až po otevření aplikace u výjezdové závory."
+      },
+      {
+        "q": "Můžu se na starost podívat dřív?",
+        "a": "Klepni na parkovišti na její auto a vyber Poslat ji hned k výjezdové závoře. Odkládání ale funguje nejlíp, když počkáš. Většina starostí se v Čase na starosti zdá menší."
+      },
+      {
+        "q": "Přenesu záznamy do nového iPhonu?",
+        "a": "Všechno je uložené jen ve tvém iPhonu, bez účtu a synchronizace. Když nový iPhone obnovíš ze zálohy na iCloudu nebo v počítači, případně použiješ Rychlý start, záznamy se přenesou spolu s ostatními aplikacemi."
+      },
+      {
+        "q": "Jak smažu záznamy?",
+        "a": "Na kartě Deník výjezdů přejeď u záznamu doleva a smaž ho. Smazáním aplikace zmizí všechno."
+      },
+      {
+        "q": "Je to terapie?",
+        "a": "Parkoviště starostí je svépomocný nástroj založený na odkládání starostí z KBT. Není to zdravotnický prostředek a nenahrazuje odbornou diagnózu ani léčbu."
+      },
+      {
+        "q": "Co když je mi opravdu zle?",
+        "a": "Pokud ti starosti berou celé dny, nebo myslíš na to, že by sis ublížil, nenes to sám. V Česku volej 116 123 (Linka první psychické pomoci, nonstop) nebo 112 v naléhavé situaci."
+      }
+    ]
+  },
+  "closing": {
+    "headline": "Dnes v noci zůstane starost\nna parkovišti",
+    "cta": "Stáhnout zdarma v App Store"
+  },
+  "ui": {
+    "skip": "Přejít na obsah",
+    "languages": "Jazyky",
+    "privacy": "Ochrana soukromí",
+    "contact": "Dotazy nebo nápady? Napiš na {email}."
+  }
+}

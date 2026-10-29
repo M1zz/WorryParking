@@ -1,0 +1,171 @@
+{
+  "title": "Endişe Otoparkı: uyumadan önce endişeni park et",
+  "description": "Kafanda dönüp duran endişeyi yaz, park et ve Endişe Saatinde ona yalnızca 15 dakika ayır. BDT tekniğine dayanır. Her şey ücretsiz.",
+  "hero": {
+    "headline": "Endişeni park et.\nSonra gelip al.",
+    "lead": "Uyumadan önce kafanda dönüp duranı bir otopark fişine yaz ve bırak. Endişe Saatinde sana geri veririz. O zamana kadar onu taşımak zorunda değilsin.",
+    "cta": "App Store’dan ücretsiz indir",
+    "note": "Tüm özellikler ücretsiz. Reklam yok, hesap yok."
+  },
+  "demo": {
+    "title": "Bir endişeyi park et",
+    "lead": "Örneği bırak ya da şu an aklındakini yaz. Park edilince bulanıklaşır, Endişe Saatinde yeniden çıkarırsın.",
+    "skip": "Endişe Saatine atla",
+    "again": "Bir endişe daha park et",
+    "note": "Buraya yazdıkların bu sayfadan çıkmaz. Uygulamada her şey iPhone’unda kalır.",
+    "ask": "Kafanda ne dönüp duruyor?",
+    "placeholder": "Kafanda duyulduğu gibi yaz.",
+    "loud": "Şu anda sesi ne kadar yüksek?",
+    "park": "P{n}'e park et",
+    "parked": "P{n}'e park edildi",
+    "back": "Bunu şu anda taşımana gerek yok. {t} geri getireceğiz.",
+    "today": "bugün {t}",
+    "tomorrow": "yarın {t}",
+    "gate": "Çıkış bariyeri · P{n}",
+    "fear": "Korktuğun şey gerçekten oldu mu?",
+    "loudNow": "Şimdi sesi ne kadar yüksek?",
+    "was": "Park ettiğinde {n} idi.",
+    "letGo": "Bırak gitsin",
+    "repark": "Tekrar park et",
+    "gone": "Otoparktan çıktı. Gitmesine izin ver.",
+    "levels": [
+      "Gitti",
+      "Fısıltı gibi",
+      "Can sıkıcı",
+      "Yüksek sesli",
+      "Ağır",
+      "Bunaltıcı"
+    ],
+    "results": [
+      "Oldu",
+      "Kısmen",
+      "Olmadı",
+      "Söylemek için henüz erken"
+    ],
+    "sample": "Yöneticimin cevabı çok kısaydı. Bir şey mi yanlış yaptım?"
+  },
+  "problem": {
+    "title": "Işık kapandı, kafa açıldı mı?",
+    "text": "Başını yastığa koyar koymaz başlar: gün içinde söylediğin bir söz, yarınki toplantı, hâlâ cevap gelmeyen mesaj. Düşünmemeye çalıştıkça sesi daha da yükselir. Endişe Otoparkı endişeyi itip kakmanı istemez. Onu yazar, ona bir yer verir ve ilgilenmek için ayrı bir zaman ayırırsın."
+  },
+  "features": [
+    {
+      "title": "Yazınca kafandan iner",
+      "text": "Kafanda nasıl duyuluyorsa öyle yaz ve şu an ne kadar yüksek sesle çınladığını 1’den 5’e kadar seç. Fişi kopar, endişe otoparkta bulanık hâlde kalır.\nYeniden aklına gelirse ona söyle: zaten bir yerin var. Senin de sıran gelecek ama şimdi değil.",
+      "shot": "park"
+    },
+    {
+      "title": "Endişe Saatinde sadece 15 dakika",
+      "text": "Her gün Endişe Saatinde bir hatırlatma gelir. Çıkış bariyerinde endişeyi yeniden okur, gerçekten olup olmadığına ve şimdi ne kadar yüksek sesle çınladığına bakarsın.\nSonra onu bırakır, küçük bir sonraki adıma çevirir ya da bir sonraki Endişe Saatine kadar yeniden park edersin.",
+      "shot": "gate"
+    },
+    {
+      "title": "Endişelerinin ne sıklıkla çıktığını gör",
+      "text": "Çıkış yapan endişeler arttıkça Çıkış Günlüğü kaçının gerçekten yaşandığını ve şiddetinin ne kadar düştüğünü daha net gösterir.\nEndişe geleceği çoğu zaman olduğundan daha kötü tahmin eder. Kaydettikçe bir sonrakine daha az inanırsın.",
+      "shot": "log"
+    }
+  ],
+  "steps": {
+    "title": "Üç adımda başla",
+    "items": [
+      {
+        "title": "Endişe Saatini seç",
+        "text": "İlk açılışta her gün endişelerinle ne zaman ilgileneceğini seçersin. Sonra Ayarlar’dan değiştirebilirsin."
+      },
+      {
+        "title": "Gerçek bir endişeyi park et",
+        "text": "Aklını kurcalayan bir şeyi hemen park et ve şiddetinin önce ve sonra nasıl değiştiğini fark et."
+      },
+      {
+        "title": "Teslim alma hatırlatıcılarına izin ver",
+        "text": "Endişe Saatinde yalnızca park yeri numarasını gösteren bir hatırlatma gelir."
+      }
+    ]
+  },
+  "reference": {
+    "title": "Neden işe yarar",
+    "rows": [
+      [
+        "Yalnızca belirli bir saatte endişelen",
+        "Endişelerini gün içinde kısa bir zamana taşıyanlar daha az endişelendi; daha az kaygı ve uyku sorunu bildirdi. (Borkovec ve ark., 1983; McGowan ve Behar, 2013)"
+      ],
+      [
+        "Bırakmak için yaz",
+        "Somut bir plan, yarım kalan işlerin düşüncelere sızmasını engelledi; yatmadan önce beş dakika yazanlar da daha çabuk uykuya daldı. (Masicampo ve Baumeister, 2011; Scullin ve ark., 2018)"
+      ],
+      [
+        "Gerçekte ne olduğunu kontrol et",
+        "Kronik endişe yaşayan kişiler endişelerini kaydettiğinde, bunların %91’i gerçekleşmedi. (LaFreniere ve Newman, 2020)"
+      ]
+    ],
+    "note": "Endişe Otoparkı, bilişsel davranışçı terapinin (BDT) onlarca yıldır araştırılan tekniklerinden biri olan endişe erteleme üzerine kuruludur."
+  },
+  "pricing": {
+    "title": "Her şey ücretsiz",
+    "free": {
+      "name": "Ücretsiz",
+      "items": [
+        "Sınırsız park yeri",
+        "Her gün Endişe Saati hatırlatması, istediğin çıkış saati",
+        "Çıkış bariyeri ve Çıkış Günlüğü",
+        "Çıkış içgörüleri: kaçı gerçekleşti, şiddet ne kadar düştü"
+      ]
+    },
+    "pro": {
+      "name": "Bahşiş, istersen",
+      "items": [
+        "Uygulama işine yaradıysa geliştiriciye küçük bir bahşiş bırakabilirsin",
+        "Küçük, orta ya da büyük, nasıl istersen"
+      ],
+      "note": "Bahşiş hiçbir özelliği açmaz. Bahşiş vermeden de her şey aynı çalışır."
+    },
+    "note": "Reklam, hesap, sunucu ve analiz aracı yok. Yazdığın her şey iPhone’unda kalır."
+  },
+  "faq": {
+    "title": "Sık sorulan sorular",
+    "items": [
+      {
+        "q": "Endişe Saatimi nasıl değiştiririm?",
+        "a": "Ayarlar sekmesindeki Endişe Saati bölümünden. Yeni saat, bundan sonra park ettiğin endişeler için geçerli olur. Zaten park edilmiş olanlar ilk çıkış saatlerini korur."
+      },
+      {
+        "q": "Teslim alma hatırlatmaları gelmiyor.",
+        "a": "Ayarlar sekmesinde Bildirimler’e bak. Kapalıysa iOS Ayarları'nı aç’a dokunup bildirimleri aç. Odak ya da Rahatsız Etme açıkken hatırlatmalar sessiz gelebilir. Hatırlatma gelmese de zamanı gelen endişeler otoparkta çıkışa hazır olarak görünür."
+      },
+      {
+        "q": "Bildirimde endişem görünüyor mu?",
+        "a": "Hayır. Bildirimlerde yalnızca park yeri numarası görünür, örneğin “P3 çıkışa hazır”. Endişenin kendisi ancak uygulamayı açıp çıkış bariyerine girdiğinde görünür."
+      },
+      {
+        "q": "Endişe Saatinden önce bakabilir miyim?",
+        "a": "Otoparkta arabasına dokun ve Şimdi çıkış bariyerine gönder’i seç. Yine de erteleme en iyi beklediğinde işe yarar. Çoğu endişe Endişe Saati geldiğinde daha küçük görünür."
+      },
+      {
+        "q": "Kayıtlarımı yeni bir iPhone’a taşıyabilir miyim?",
+        "a": "Her şey yalnızca iPhone’unda saklanır; hesap ya da eşzamanlama yoktur. Yeni iPhone’u iCloud ya da bilgisayar yedeğinden geri yüklersen veya Hızlı Başlangıç’ı kullanırsan, kayıtlar diğer uygulamalarınla birlikte taşınır."
+      },
+      {
+        "q": "Kayıtlarımı nasıl silerim?",
+        "a": "Çıkış Günlüğü sekmesinde bir kaydı sola kaydırarak silebilirsin. Uygulamayı silersen her şey silinir."
+      },
+      {
+        "q": "Bu bir tedavi mi?",
+        "a": "Endişe Otoparkı, BDT’deki endişe erteleme tekniğine dayanan bir kendi kendine yardım aracıdır. Tıbbi bir cihaz değildir ve uzman teşhisinin ya da tedavisinin yerini tutmaz."
+      },
+      {
+        "q": "Gerçekten çok zorlanıyorsam ne yapmalıyım?",
+        "a": "Endişeler günlerini ele geçiriyorsa ya da kendine zarar vermeyi düşünüyorsan, lütfen bunu tek başına taşıma. Türkiye’de acil durumda 112’yi ara; ALO 183 Sosyal Destek Hattı’ndan da destek alabilirsin."
+      }
+    ]
+  },
+  "closing": {
+    "headline": "Bu gece endişen\notoparkta kalsın",
+    "cta": "App Store’dan ücretsiz indir"
+  },
+  "ui": {
+    "skip": "İçeriğe geç",
+    "languages": "Diller",
+    "privacy": "Gizlilik Politikası",
+    "contact": "Soruların ya da fikirlerin mi var? {email} adresine yaz."
+  }
+}

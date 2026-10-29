@@ -1,0 +1,171 @@
+{
+  "title": "Sorgen-Parkplatz: Sorgen vor dem Schlafen abstellen",
+  "description": "Schreib die Sorge auf, die nicht loslässt, park sie und nimm dir zur Sorgenzeit 15 Minuten dafür. Basiert auf Sorgenaufschub aus der KVT. Kostenlos.",
+  "hero": {
+    "headline": "Park die Sorge.\nHol sie später ab.",
+    "lead": "Schreib auf, was dir abends im Kopf herumkreist, und lass es auf einem Parkschein zurück. Zu deiner Sorgenzeit bekommst du es wieder. Bis dahin musst du es nicht mit dir herumtragen.",
+    "cta": "Kostenlos im App Store laden",
+    "note": "Alle Funktionen sind kostenlos. Keine Werbung, kein Konto."
+  },
+  "demo": {
+    "title": "Park eine Sorge",
+    "lead": "Lass das Beispiel stehen oder schreib, was dich gerade beschäftigt. Geparkt wird sie unscharf, und zur Sorgenzeit holst du sie wieder hervor.",
+    "skip": "Zur Sorgenzeit vorspulen",
+    "again": "Noch eine Sorge parken",
+    "note": "Was du hier schreibst, verlässt diese Seite nicht. In der App bleibt es auf deinem iPhone.",
+    "ask": "Was geht dir gerade im Kopf herum?",
+    "placeholder": "Schreib sie genau so auf, wie sie in deinem Kopf klingt.",
+    "loud": "Wie laut ist sie gerade?",
+    "park": "Auf P{n} parken",
+    "parked": "Auf P{n} geparkt",
+    "back": "Du musst das gerade nicht mit dir herumtragen. Wir bringen es dir {t} zurück.",
+    "today": "heute um {t}",
+    "tomorrow": "morgen um {t}",
+    "gate": "Ausfahrtschranke · P{n}",
+    "fear": "Ist das, wovor du Angst hattest, wirklich eingetreten?",
+    "loudNow": "Wie laut ist sie jetzt?",
+    "was": "Beim Parken war sie bei {n}.",
+    "letGo": "Loslassen",
+    "repark": "Erneut parken",
+    "gone": "Sie hat den Parkplatz verlassen. Lass sie ziehen.",
+    "levels": [
+      "Weg",
+      "Ein Flüstern",
+      "Hartnäckig",
+      "Laut",
+      "Schwer",
+      "Überwältigend"
+    ],
+    "results": [
+      "Ist eingetreten",
+      "Teilweise",
+      "Ist nicht eingetreten",
+      "Noch zu früh, um das zu sagen"
+    ],
+    "sample": "Die Antwort meines Chefs war so kurz. Habe ich etwas falsch gemacht?"
+  },
+  "problem": {
+    "title": "Licht aus, Kopfkino an?",
+    "text": "Kaum liegst du im Bett, geht es los: ein Satz von heute, das Meeting morgen, die Nachricht, auf die noch keine Antwort kam. Je mehr du dir sagst, nicht daran zu denken, desto lauter wird es. Der Sorgen-Parkplatz verlangt nicht, dass du die Sorge wegdrückst. Du schreibst sie auf, gibst ihr einen Platz und legst eine Zeit fest, um dich darum zu kümmern."
+  },
+  "features": [
+    {
+      "title": "Aufgeschrieben ist sie raus aus dem Kopf",
+      "text": "Schreib sie genau so auf, wie sie in deinem Kopf klingt, und gib an, wie laut sie gerade ist, von 1 bis 5. Reiß den Parkschein ab, und die Sorge bleibt unscharf auf dem Parkplatz stehen.\nKommt sie wieder angefahren, sag ihr: Du hast schon einen Platz. Deine Zeit kommt noch, aber nicht jetzt.",
+      "shot": "park"
+    },
+    {
+      "title": "15 Minuten zur Sorgenzeit",
+      "text": "Jeden Tag zu deiner Sorgenzeit kommt ein Hinweis. An der Ausfahrtschranke liest du die Sorge noch einmal und prüfst, ob sie wirklich eingetreten ist und wie laut sie jetzt noch ist.\nDann lässt du sie los, machst einen kleinen nächsten Schritt daraus oder parkst sie bis zur nächsten Sorgenzeit.",
+      "shot": "gate"
+    },
+    {
+      "title": "Sieh, wie oft deine Sorgen recht hatten",
+      "text": "Je mehr Sorgen durch die Ausfahrt sind, desto klarer zeigt das Ausfahrtsjournal, wie viele wirklich eingetreten sind und wie stark sie nachgelassen haben.\nSorgen malen die Zukunft oft schwärzer, als sie wird. Je mehr du festhältst, desto weniger glaubst du der nächsten.",
+      "shot": "log"
+    }
+  ],
+  "steps": {
+    "title": "In drei Schritten startklar",
+    "items": [
+      {
+        "title": "Leg deine Sorgenzeit fest",
+        "text": "Beim ersten Öffnen wählst du, wann du dich jeden Tag um deine Sorgen kümmerst. Ändern kannst du das später in den Einstellungen."
+      },
+      {
+        "title": "Park eine echte Sorge",
+        "text": "Park gleich etwas, das dich beschäftigt, und spür, wie sich die Stärke vorher und nachher verändert."
+      },
+      {
+        "title": "Erlaube Abholhinweise",
+        "text": "Zur Sorgenzeit bekommst du einen Hinweis, auf dem nur die Platznummer steht."
+      }
+    ]
+  },
+  "reference": {
+    "title": "Warum es wirkt",
+    "rows": [
+      [
+        "Nur zu einer festen Zeit sorgen",
+        "Wer seine Sorgen in eine kurze tägliche Sorgenzeit verlegte, grübelte weniger und berichtete von weniger Angst und Schlafproblemen. (Borkovec u. a., 1983; McGowan & Behar, 2013)"
+      ],
+      [
+        "Aufschreiben, um loszulassen",
+        "Ein konkreter Plan verhinderte, dass sich Unerledigtes in die Gedanken drängte, und wer vor dem Schlafen fünf Minuten lang aufschrieb, schlief schneller ein. (Masicampo & Baumeister, 2011; Scullin u. a., 2018)"
+      ],
+      [
+        "Prüfen, was wirklich passiert ist",
+        "Als Menschen mit chronischen Sorgen ihre Sorgen festhielten, traten 91 % davon nicht ein. (LaFreniere & Newman, 2020)"
+      ]
+    ],
+    "note": "Der Sorgen-Parkplatz beruht auf dem Sorgenaufschub, einer seit Jahrzehnten erforschten Technik der kognitiven Verhaltenstherapie (KVT)."
+  },
+  "pricing": {
+    "title": "Alles ist kostenlos",
+    "free": {
+      "name": "Kostenlos",
+      "items": [
+        "Unbegrenzt viele Parkplätze",
+        "Tägliche Hinweise zur Sorgenzeit, eigene Ausfahrtszeiten",
+        "Ausfahrtschranke und Ausfahrtsjournal",
+        "Ausfahrt-Einblicke: wie viel eingetreten ist und wie stark die Sorgen nachließen"
+      ]
+    },
+    "pro": {
+      "name": "Trinkgeld, wenn du magst",
+      "items": [
+        "Wenn dir die App hilft, kannst du dem Entwickler ein kleines Trinkgeld geben",
+        "Klein, mittel oder groß, wie du möchtest"
+      ],
+      "note": "Trinkgeld schaltet nichts frei. Ohne funktioniert alles genauso."
+    },
+    "note": "Keine Werbung, kein Konto, keine Server, keine Analyse-Tools. Alles, was du schreibst, bleibt auf deinem iPhone."
+  },
+  "faq": {
+    "title": "Häufige Fragen",
+    "items": [
+      {
+        "q": "Wie ändere ich meine Sorgenzeit?",
+        "a": "Im Tab Einstellungen unter Sorgenzeit. Die neue Zeit gilt für alle Sorgen, die du ab dann parkst. Bereits geparkte Sorgen behalten ihre ursprüngliche Ausfahrtszeit."
+      },
+      {
+        "q": "Ich bekomme keine Abholhinweise.",
+        "a": "Sieh im Tab Einstellungen unter Mitteilungen nach. Steht dort, dass Mitteilungen aus sind, tippe auf iOS-Einstellungen öffnen und schalte sie ein. Mit einem Fokus oder Nicht stören kommen Hinweise womöglich lautlos an. Auch ohne Hinweis werden fällige Sorgen auf dem Parkplatz als abholbereit angezeigt."
+      },
+      {
+        "q": "Steht meine Sorge in der Mitteilung?",
+        "a": "Nein. Mitteilungen zeigen nur die Platznummer, etwa „P3 ist abholbereit“. Die Sorge selbst siehst du erst, wenn du die App öffnest und zur Ausfahrtschranke gehst."
+      },
+      {
+        "q": "Kann ich eine Sorge vor der Sorgenzeit ansehen?",
+        "a": "Tippe auf dem Parkplatz auf ihr Auto und wähle Jetzt zur Ausfahrtschranke schicken. Aufschieben wirkt aber am besten, wenn du wartest. Die meisten Sorgen wirken zur Sorgenzeit schon kleiner."
+      },
+      {
+        "q": "Kann ich meine Einträge auf ein neues iPhone mitnehmen?",
+        "a": "Alles liegt nur auf deinem iPhone, ohne Konto und ohne Sync. Wenn du ein neues iPhone aus einem iCloud- oder Computer-Backup wiederherstellst oder Schnellstart nutzt, kommen die Daten zusammen mit deinen anderen App-Daten mit."
+      },
+      {
+        "q": "Wie lösche ich Einträge?",
+        "a": "Wisch im Tab Ausfahrtsjournal einen Eintrag nach links, um ihn zu löschen. Wenn du die App löschst, ist alles weg."
+      },
+      {
+        "q": "Ist das eine Therapie?",
+        "a": "Der Sorgen-Parkplatz ist ein Selbsthilfe-Werkzeug, das auf dem Sorgenaufschub aus der KVT beruht. Er ist kein Medizinprodukt und ersetzt keine professionelle Diagnose oder Behandlung."
+      },
+      {
+        "q": "Was, wenn es mir gerade richtig schlecht geht?",
+        "a": "Wenn Sorgen deinen Alltag bestimmen oder du daran denkst, dir etwas anzutun, trag das bitte nicht allein. In Deutschland erreichst du die Telefonseelsorge kostenlos unter 0800 111 0 111 oder 0800 111 0 222, im Notfall den Notruf 112."
+      }
+    ]
+  },
+  "closing": {
+    "headline": "Heute Nacht bleibt die Sorge\nauf dem Parkplatz",
+    "cta": "Kostenlos im App Store laden"
+  },
+  "ui": {
+    "skip": "Zum Inhalt springen",
+    "languages": "Sprachen",
+    "privacy": "Datenschutz",
+    "contact": "Fragen oder Feedback? Schreib an {email}."
+  }
+}

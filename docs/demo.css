@@ -1,0 +1,52 @@
+/* 걱정 주차장 웹 체험. 주차장 색은 앱과 같다: 아스팔트 #1a1c21, 차선 노랑 #ffcc38, 주차권 종이 #faf5e6. */
+.demo-card { display: grid; grid-template-columns: 1fr 1fr; gap: var(--s5); align-items: start; }
+.wp-stage { background: #1a1c21; border-radius: var(--r-inner); padding: var(--s5); }
+.wp-lot { display: grid; grid-template-columns: repeat(3, 1fr); gap: var(--s3); }
+.wp-spot { position: relative; min-height: 190px; border: 3px solid #ffcc38; border-bottom: 0;
+           border-radius: 6px 6px 0 0; padding: var(--s3) var(--s2); display: flex; flex-direction: column;
+           align-items: center; gap: var(--s3); color: #a3a7b0; }
+.wp-spot b { color: #ffcc38; font-size: 0.875rem; }
+.wp-spot i { font-style: normal; font-size: 2rem; margin: auto; opacity: .5; }
+.wp-ticket { width: 100%; background: #faf5e6; color: #212129; border-radius: 10px; padding: var(--s2);
+             font-size: 0.8125rem; line-height: 1.4; filter: blur(5px); user-select: none;
+             animation: wp-in .6s var(--ease); overflow-wrap: anywhere; max-height: 140px; overflow: hidden; }
+.wp-ticket.open { filter: none; user-select: auto; transition: filter .5s var(--ease); }
+@keyframes wp-in { from { transform: translateY(-24px); opacity: 0; } }
+
+.wp-panel { display: flex; flex-direction: column; gap: var(--s2); }
+.wp-q { font-weight: 600; margin: var(--s2) 0 0; }
+#wp-text { font: inherit; color: var(--text); background: var(--bg); border: 2px solid transparent;
+           border-radius: var(--r-inner); padding: var(--s3); resize: vertical; min-height: 96px; }
+#wp-text:focus { outline: none; border-color: var(--accent); }
+.wp-levels { display: flex; gap: var(--s2); }
+.wp-levels button, .chip { font: inherit; font-weight: 600; min-height: 44px; border: 0; cursor: pointer;
+                           color: var(--text); background: var(--bg); border-radius: 12px;
+                           transition: background .15s var(--ease), transform .15s var(--ease); }
+.wp-levels button { flex: 1; min-width: 44px; }
+.wp-levels [aria-checked="true"], .chip[aria-pressed="true"] { background: var(--accent); color: var(--on-accent); }
+.wp-levels button:active, .chip:active { transform: scale(.95); }
+.wp-level-name { margin: 0; }
+.wp-chips { display: grid; grid-template-columns: 1fr 1fr; gap: var(--s2); }
+.chip { padding: var(--s2) var(--s3); }
+
+.wp-go, .wp-ghost { font: inherit; font-weight: 600; min-height: 48px; padding: 0 var(--s5); border-radius: 999px;
+                    cursor: pointer; margin-top: var(--s3); transition: transform .15s var(--ease), opacity .15s; }
+.wp-go { border: 0; background: var(--accent); color: var(--on-accent); }
+.wp-go:disabled { opacity: .4; cursor: default; }
+.wp-ghost { background: transparent; color: var(--text); border: 2px solid var(--line); }
+.wp-go:active:not(:disabled), .wp-ghost:active { transform: scale(.97); }
+.wp-row { display: flex; flex-wrap: wrap; gap: 0 var(--s3); }
+.wp-big { font-size: 2rem; font-weight: 700; letter-spacing: -0.02em; margin: 0; }
+.wp-gate { font-weight: 700; color: var(--accent); margin: 0; }
+.demo-note { margin-top: var(--s4); }
+
+@media (prefers-reduced-motion: reduce) {
+  .wp-ticket { animation: none; }
+  .wp-ticket.open { transition: none; }
+}
+@media (max-width: 760px) {
+  .demo-card { grid-template-columns: 1fr; }
+  .wp-spot { min-height: 140px; }
+  .wp-ticket { font-size: 0.75rem; filter: blur(4px); }
+  .wp-ticket.open { filter: none; }
+}

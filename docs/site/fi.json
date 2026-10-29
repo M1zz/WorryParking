@@ -1,0 +1,171 @@
+{
+  "title": "Huolipysäköinti: pysäköi huolet ennen nukkumaanmenoa",
+  "description": "Kirjoita kehää kiertävä huoli ylös, pysäköi se ja anna sille 15 minuuttia huoliaikana. Perustuu terapiassa käytettyyn tekniikkaan. Täysin ilmainen.",
+  "hero": {
+    "headline": "Pysäköi huoli.\nHae se myöhemmin.",
+    "lead": "Kirjoita ylös se, mikä pyörii päässä nukkumaan mennessä, ja jätä se pysäköintilipulle. Saat sen takaisin huoliaikanasi. Siihen asti sitä ei tarvitse kantaa mukana.",
+    "cta": "Lataa ilmaiseksi App Storesta",
+    "note": "Kaikki ominaisuudet ovat ilmaisia. Ei mainoksia, ei tiliä."
+  },
+  "demo": {
+    "title": "Pysäköi yksi huoli",
+    "lead": "Pidä esimerkki tai kirjoita, mitä mielessäsi juuri nyt on. Pysäköitynä se sumenee, ja huoliaikana otat sen taas esiin.",
+    "skip": "Siirry huoliaikaan",
+    "again": "Pysäköi toinen huoli",
+    "note": "Tähän kirjoittamasi ei lähde tältä sivulta. Sovelluksessa kaikki pysyy iPhonessasi.",
+    "ask": "Mikä pyörii mielessäsi?",
+    "placeholder": "Kirjoita se täsmälleen niin kuin se kuulostaa mielessäsi.",
+    "loud": "Kuinka kovaääninen se on juuri nyt?",
+    "park": "Pysäköi paikalle P{n}",
+    "parked": "Pysäköity paikalle P{n}",
+    "back": "Sinun ei tarvitse kantaa tätä nyt. Tuomme sen takaisin {t}.",
+    "today": "tänään klo {t}",
+    "tomorrow": "huomenna klo {t}",
+    "gate": "Ulosajopuomi · P{n}",
+    "fear": "Tapahtuiko se, mitä pelkäsit, oikeasti?",
+    "loudNow": "Kuinka kovaääninen se on nyt?",
+    "was": "Kun pysäköit sen, se oli {n}.",
+    "letGo": "Päästä irti",
+    "repark": "Pysäköi uudelleen",
+    "gone": "Se on lähtenyt pysäköintialueelta. Anna sen mennä.",
+    "levels": [
+      "Poissa",
+      "Kuiskaus",
+      "Vaivaava",
+      "Kovaääninen",
+      "Raskas",
+      "Musertava"
+    ],
+    "results": [
+      "Tapahtui",
+      "Osittain",
+      "Ei tapahtunut",
+      "Liian aikaista sanoa"
+    ],
+    "sample": "Esihenkilöni vastaus oli niin lyhyt. Tein jotain väärin?"
+  },
+  "problem": {
+    "title": "Valot pois, ajatukset päälle?",
+    "text": "Heti kun pää osuu tyynyyn, se alkaa: jokin päivällä sanottu, huomisen palaveri, viesti, johon kukaan ei ole vastannut. Mitä enemmän yrität olla ajattelematta, sitä kovempaa se kuuluu. Huolipysäköinti ei pyydä työntämään huolta pois. Kirjoitat sen ylös, annat sille paikan ja varaat ajan sen käsittelyyn."
+  },
+  "features": [
+    {
+      "title": "Kirjoitettuna se lähtee päästä",
+      "text": "Kirjoita huoli juuri niin kuin se päässäsi kuuluu ja merkitse, kuinka kovaa se nyt soi, asteikolla 1–5. Repäise lippu irti, niin huoli jää pysäköintialueelle sumeana.\nJos se ajaa taas mieleen, sano sille: sinulla on jo paikka. Sinun aikasi tulee, mutta ei nyt.",
+      "shot": "park"
+    },
+    {
+      "title": "15 minuuttia huoliaikana",
+      "text": "Joka päivä huoliaikana saat muistutuksen. Ulosajopuomilla luet huolen uudelleen ja tarkistat, tapahtuiko se oikeasti ja kuinka kovaa se nyt soi.\nSitten päästät irti, teet siitä pienen seuraavan askeleen tai pysäköit sen seuraavaan huoliaikaan.",
+      "shot": "gate"
+    },
+    {
+      "title": "Näe, kuinka usein huoli osui oikeaan",
+      "text": "Mitä useampi huoli on ajanut ulos, sitä selvemmin ulosajoloki näyttää, kuinka moni oikeasti toteutui ja kuinka paljon voimakkuus laski.\nHuoli maalaa tulevaisuuden usein synkemmäksi kuin se on. Mitä enemmän kirjaat, sitä vähemmän uskot seuraavaan.",
+      "shot": "log"
+    }
+  ],
+  "steps": {
+    "title": "Alkuun kolmessa vaiheessa",
+    "items": [
+      {
+        "title": "Valitse huoliaikasi",
+        "text": "Kun avaat sovelluksen ensimmäisen kerran, valitset, milloin käsittelet huoliasi joka päivä. Voit muuttaa sitä myöhemmin asetuksista."
+      },
+      {
+        "title": "Pysäköi oikea huoli",
+        "text": "Pysäköi heti jotain, mikä painaa mieltä, ja huomaa, miten voimakkuus muuttuu ennen ja jälkeen."
+      },
+      {
+        "title": "Salli noutomuistutukset",
+        "text": "Huoliaikana saat muistutuksen, jossa on vain paikan numero."
+      }
+    ]
+  },
+  "reference": {
+    "title": "Miksi se toimii",
+    "rows": [
+      [
+        "Huolehdi vain sovittuna aikana",
+        "Ne, jotka siirsivät huolensa lyhyeen päivittäiseen hetkeen, murehtivat vähemmän ja kokivat vähemmän ahdistusta ja uniongelmia. (Borkovec ym., 1983; McGowan & Behar, 2013)"
+      ],
+      [
+        "Kirjoita, niin voit päästää irti",
+        "Konkreettinen suunnitelma piti keskeneräiset asiat poissa ajatuksista, ja viiden minuutin kirjoittaminen ennen nukkumaanmenoa auttoi nukahtamaan nopeammin. (Masicampo & Baumeister, 2011; Scullin ym., 2018)"
+      ],
+      [
+        "Tarkista, mitä oikeasti tapahtui",
+        "Kun pitkäaikaisesti huolestuneet ihmiset kirjasivat huolensa, 91 % niistä ei toteutunut. (LaFreniere & Newman, 2020)"
+      ]
+    ],
+    "note": "Huolipysäköinti perustuu huolten lykkäämiseen, kognitiivisen käyttäytymisterapian (CBT) tekniikkaan, jota on tutkittu vuosikymmeniä."
+  },
+  "pricing": {
+    "title": "Kaikki on ilmaista",
+    "free": {
+      "name": "Ilmainen",
+      "items": [
+        "Rajattomasti pysäköintipaikkoja",
+        "Päivittäiset huoliajan muistutukset ja oma ulosajoaika",
+        "Ulosajopuomi ja ulosajoloki",
+        "Ulosajojen tilastot: moniko toteutui ja paljonko voimakkuus laski"
+      ]
+    },
+    "pro": {
+      "name": "Tippi, jos haluat",
+      "items": [
+        "Jos sovellus auttaa, voit antaa kehittäjälle pienen tipin",
+        "Pieni, keskikokoinen tai iso, miten haluat"
+      ],
+      "note": "Tippi ei avaa mitään. Ilman sitäkin kaikki toimii samoin."
+    },
+    "note": "Ei mainoksia, tiliä, palvelimia eikä analytiikkatyökaluja. Kaikki kirjoittamasi pysyy iPhonessasi."
+  },
+  "faq": {
+    "title": "Usein kysyttyä",
+    "items": [
+      {
+        "q": "Miten vaihdan huoliaikani?",
+        "a": "Asetukset-välilehden kohdasta Huoliaika. Uusi aika koskee huolia, jotka pysäköit sen jälkeen. Jo pysäköidyt huolet pitävät alkuperäisen ulosajoaikansa."
+      },
+      {
+        "q": "En saa noutomuistutuksia.",
+        "a": "Tarkista Ilmoitukset Asetukset-välilehdeltä. Jos ne ovat pois päältä, napauta Avaa iOS-asetukset ja laita ne päälle. Kun keskittyminen tai Älä häiritse on päällä, muistutukset voivat tulla äänettömästi. Ilman muistutustakin huolet, joiden aika on tullut, näkyvät pysäköintialueella noudettavina."
+      },
+      {
+        "q": "Näkyykö huoleni ilmoituksessa?",
+        "a": "Ei. Ilmoituksissa näkyy vain paikan numero, esimerkiksi ”P3 on valmis noudettavaksi”. Itse huolen näet vasta, kun avaat sovelluksen ja menet ulosajopuomille."
+      },
+      {
+        "q": "Voinko katsoa huolta ennen huoliaikaa?",
+        "a": "Napauta sen autoa pysäköintialueella ja valitse Lähetä se nyt ulosajopuomille. Lykkääminen toimii kuitenkin parhaiten, kun odotat. Useimmat huolet tuntuvat huoliaikana jo pienemmiltä."
+      },
+      {
+        "q": "Voinko siirtää tiedot uuteen iPhoneen?",
+        "a": "Kaikki tallentuu vain iPhoneesi, ilman tiliä tai synkronointia. Kun palautat uuden iPhonen iCloud- tai tietokonevarmuuskopiosta tai käytät Pika-aloitusta, tiedot siirtyvät muiden appien mukana."
+      },
+      {
+        "q": "Miten poistan tietoni?",
+        "a": "Pyyhkäise merkintää vasemmalle Ulosajoloki-välilehdellä poistaaksesi sen. Jos poistat sovelluksen, kaikki poistuu."
+      },
+      {
+        "q": "Onko tämä hoitoa?",
+        "a": "Huolipysäköinti on omahoidon työkalu, joka perustuu kognitiivisen terapian huolten lykkäämiseen. Se ei ole lääkinnällinen laite eikä korvaa ammattilaisen diagnoosia tai hoitoa."
+      },
+      {
+        "q": "Entä jos minulla on todella raskasta?",
+        "a": "Jos huolet vievät päiväsi tai ajattelet itsesi vahingoittamista, älä kanna sitä yksin. Soita hätätilanteessa 112 tai MIELI ry:n kriisipuhelimeen 09 2525 0111."
+      }
+    ]
+  },
+  "closing": {
+    "headline": "Tänä yönä huoli jää\npysäköintialueelle",
+    "cta": "Lataa ilmaiseksi App Storesta"
+  },
+  "ui": {
+    "skip": "Siirry sisältöön",
+    "languages": "Kielet",
+    "privacy": "Tietosuoja",
+    "contact": "Kysyttävää tai ideoita? Kirjoita osoitteeseen {email}."
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "title": "Parkir Kekhawatiran: titipkan kekhawatiran sebelum tidur",
+  "description": "Tulis kekhawatiran yang terus berputar, parkirkan, lalu hadapi 15 menit saja di Waktu Khawatir. Berbasis teknik CBT. Semua fitur gratis.",
+  "hero": {
+    "headline": "Parkirkan dulu\nkekhawatiranmu",
+    "lead": "Tulis hal yang terus berputar di kepala menjelang tidur di karcis parkir, lalu titipkan. Saat Waktu Khawatir tiba, kami kembalikan. Sampai saat itu, kamu tidak perlu membawanya ke mana-mana.",
+    "cta": "Unduh gratis di App Store",
+    "note": "Semua fitur gratis. Tanpa iklan, tanpa akun."
+  },
+  "demo": {
+    "title": "Coba parkirkan satu kekhawatiran",
+    "lead": "Pakai contoh ini atau tulis yang sedang ada di kepalamu sekarang. Setelah diparkir, tulisannya buram, dan kamu mengeluarkannya lagi di Waktu Khawatir.",
+    "skip": "Lompat ke Waktu Khawatir",
+    "again": "Parkirkan kekhawatiran lain",
+    "note": "Yang kamu tulis di sini tidak keluar dari halaman ini. Di aplikasi, semuanya hanya tersimpan di iPhone-mu.",
+    "ask": "Apa yang berputar-putar di kepalamu?",
+    "placeholder": "Tuliskan persis seperti suaranya di kepalamu.",
+    "loud": "Seberapa keras suaranya saat ini?",
+    "park": "Parkir di P{n}",
+    "parked": "Diparkir di P{n}",
+    "back": "Kamu tidak perlu membawa ini sekarang. Kami akan membawanya kembali {t}.",
+    "today": "hari ini pukul {t}",
+    "tomorrow": "besok pukul {t}",
+    "gate": "Gerbang keluar · P{n}",
+    "fear": "Apakah yang kamu takutkan benar-benar terjadi?",
+    "loudNow": "Seberapa keras suaranya sekarang?",
+    "was": "Saat kamu memarkirnya, tingkatnya {n}.",
+    "letGo": "Lepaskan",
+    "repark": "Parkirkan lagi",
+    "gone": "Ia sudah keluar dari area parkir. Biarkan ia pergi.",
+    "levels": [
+      "Hilang",
+      "Seperti bisikan",
+      "Mengganjal",
+      "Keras",
+      "Berat",
+      "Sangat membebani"
+    ],
+    "results": [
+      "Terjadi",
+      "Sebagian",
+      "Tidak terjadi",
+      "Masih terlalu awal untuk dinilai"
+    ],
+    "sample": "Balasan atasanku singkat sekali. Apa aku melakukan kesalahan?"
+  },
+  "problem": {
+    "title": "Lampu sudah mati, pikiran belum?",
+    "text": "Begitu kepala menyentuh bantal, semuanya mulai: ucapan tadi siang, rapat besok, pesan yang belum dibalas. Makin dipaksa untuk tidak dipikirkan, makin keras suaranya. Parkir Kekhawatiran tidak memintamu mengusirnya. Kamu menuliskannya, memberinya tempat, dan menyisihkan waktu khusus untuk menghadapinya."
+  },
+  "features": [
+    {
+      "title": "Ditulis, lalu turun dari kepala",
+      "text": "Tulis persis seperti yang terdengar di kepalamu, lalu pilih seberapa keras suaranya sekarang, dari 1 sampai 5. Sobek karcisnya, dan kekhawatiran itu tinggal di area parkir dalam keadaan buram.\nKalau ia datang lagi, bilang saja: kamu sudah punya tempat. Giliranmu nanti, bukan sekarang.",
+      "shot": "park"
+    },
+    {
+      "title": "Cukup 15 menit di Waktu Khawatir",
+      "text": "Setiap hari di Waktu Khawatir, pengingat datang. Di gerbang keluar kamu membacanya lagi, mengecek apakah benar terjadi, dan seberapa keras suaranya sekarang.\nLalu lepaskan, ubah jadi satu langkah kecil berikutnya, atau parkirkan lagi sampai Waktu Khawatir berikutnya.",
+      "shot": "gate"
+    },
+    {
+      "title": "Lihat seberapa sering kekhawatiran terbukti",
+      "text": "Makin banyak kekhawatiran yang keluar, makin jelas catatan keluar menunjukkan berapa banyak yang benar terjadi dan seberapa turun intensitasnya.\nKekhawatiran cenderung menebak masa depan lebih buruk dari kenyataannya. Makin banyak dicatat, makin kecil kamu percaya pada kekhawatiran berikutnya.",
+      "shot": "log"
+    }
+  ],
+  "steps": {
+    "title": "Mulai dalam tiga langkah",
+    "items": [
+      {
+        "title": "Pilih Waktu Khawatir",
+        "text": "Saat pertama dibuka, pilih kapan kamu akan menghadapi kekhawatiran setiap hari. Bisa diubah nanti di Pengaturan."
+      },
+      {
+        "title": "Parkirkan satu kekhawatiran nyata",
+        "text": "Langsung parkirkan yang sedang kamu pikirkan, lalu rasakan perubahan intensitasnya sebelum dan sesudah."
+      },
+      {
+        "title": "Izinkan pengingat penjemputan",
+        "text": "Saat Waktu Khawatir tiba, pengingat datang hanya dengan nomor tempat parkir."
+      }
+    ]
+  },
+  "reference": {
+    "title": "Kenapa ini berhasil",
+    "rows": [
+      [
+        "Khawatir hanya di jam yang ditentukan",
+        "Orang yang memindahkan kekhawatiran ke waktu singkat setiap hari jadi lebih jarang khawatir serta melaporkan kecemasan dan masalah tidur yang lebih sedikit. (Borkovec dkk., 1983; McGowan & Behar, 2013)"
+      ],
+      [
+        "Tulis untuk melepaskan",
+        "Rencana yang konkret membuat urusan yang belum selesai tidak menyelinap ke pikiran, dan menulis lima menit sebelum tidur membantu orang lebih cepat terlelap. (Masicampo & Baumeister, 2011; Scullin dkk., 2018)"
+      ],
+      [
+        "Cek apa yang benar terjadi",
+        "Saat orang dengan kekhawatiran kronis mencatat kekhawatirannya, 91% tidak terjadi. (LaFreniere & Newman, 2020)"
+      ]
+    ],
+    "note": "Parkir Kekhawatiran dibuat berdasarkan penundaan kekhawatiran, teknik terapi perilaku kognitif (CBT) yang sudah diteliti selama puluhan tahun."
+  },
+  "pricing": {
+    "title": "Semua fitur gratis",
+    "free": {
+      "name": "Gratis",
+      "items": [
+        "Tempat parkir tanpa batas",
+        "Pengingat Waktu Khawatir setiap hari, jam keluar bisa diatur sendiri",
+        "Gerbang keluar dan catatan keluar",
+        "Wawasan keluar: berapa yang terjadi dan seberapa turun intensitasnya"
+      ]
+    },
+    "pro": {
+      "name": "Tip (kalau mau)",
+      "items": [
+        "Kalau terbantu, kamu bisa memberi tip kecil untuk pengembang",
+        "Pilih kecil, sedang, atau besar"
+      ],
+      "note": "Tip tidak membuka fitur apa pun. Tanpa tip, semuanya tetap bisa dipakai."
+    },
+    "note": "Tanpa iklan, akun, server, atau alat analitik. Semua yang kamu tulis hanya tersimpan di iPhone-mu."
+  },
+  "faq": {
+    "title": "Pertanyaan umum",
+    "items": [
+      {
+        "q": "Bagaimana cara mengubah Waktu Khawatir?",
+        "a": "Buka Waktu Khawatir di tab Pengaturan. Jam baru berlaku untuk kekhawatiran yang diparkir sesudahnya. Yang sudah diparkir tetap memakai jam keluar semula."
+      },
+      {
+        "q": "Pengingat penjemputan tidak muncul.",
+        "a": "Cek bagian Notifikasi di tab Pengaturan. Kalau notifikasi mati, ketuk Buka Pengaturan iOS lalu nyalakan. Saat mode Fokus atau Jangan Ganggu aktif, pengingat bisa datang tanpa suara. Meski tanpa pengingat, kekhawatiran yang sudah waktunya tetap tampil siap keluar di area parkir."
+      },
+      {
+        "q": "Apakah isi kekhawatiranku muncul di notifikasi?",
+        "a": "Tidak. Notifikasi hanya menampilkan nomor tempat parkir, misalnya “P3 siap dijemput”. Isinya baru terlihat saat kamu membuka aplikasi dan masuk ke gerbang keluar."
+      },
+      {
+        "q": "Bisa dilihat sebelum Waktu Khawatir?",
+        "a": "Ketuk mobilnya di area parkir lalu pilih Kirim ke gerbang keluar sekarang. Tapi penundaan paling efektif kalau kamu menunggu. Kebanyakan kekhawatiran terasa lebih kecil saat Waktu Khawatir tiba."
+      },
+      {
+        "q": "Bisa pindahkan catatan ke iPhone baru?",
+        "a": "Semua hanya tersimpan di iPhone, tanpa akun atau sinkronisasi. Jika kamu memulihkan iPhone baru dari cadangan iCloud atau komputer, atau memakai Mulai Cepat, data ikut pindah bersama data aplikasi lain."
+      },
+      {
+        "q": "Bagaimana cara menghapus catatan?",
+        "a": "Di tab Catatan keluar, geser entri ke kiri untuk menghapusnya. Kalau aplikasi dihapus, semua data ikut terhapus."
+      },
+      {
+        "q": "Apakah ini terapi?",
+        "a": "Parkir Kekhawatiran adalah alat bantu diri berbasis penundaan kekhawatiran dari CBT. Ini bukan perangkat medis dan tidak menggantikan diagnosis atau pengobatan profesional."
+      },
+      {
+        "q": "Bagaimana kalau aku benar-benar kewalahan?",
+        "a": "Kalau kekhawatiran menguasai hari-harimu, atau kamu berpikir untuk menyakiti diri sendiri, tolong jangan menanggungnya sendirian. Di Indonesia, hubungi layanan darurat 112 atau layanan kesehatan jiwa 119 ext. 8."
+      }
+    ]
+  },
+  "closing": {
+    "headline": "Malam ini, titipkan\nkekhawatiranmu di parkiran",
+    "cta": "Unduh gratis di App Store"
+  },
+  "ui": {
+    "skip": "Langsung ke konten",
+    "languages": "Bahasa",
+    "privacy": "Kebijakan Privasi",
+    "contact": "Ada pertanyaan atau masukan? Kirim ke {email}."
+  }
+}

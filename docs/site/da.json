@@ -1,0 +1,171 @@
+{
+  "title": "Bekymringsparkering: parkér bekymringerne før sengetid",
+  "description": "Skriv den bekymring ned, der kører i ring, parkér den og giv den 15 minutter i din bekymringstid. Bygger på en teknik fra KAT. Alt er gratis.",
+  "hero": {
+    "headline": "Parkér bekymringen.\nHent den senere.",
+    "lead": "Skriv det ned, der kører rundt i hovedet ved sengetid, og efterlad det på en parkeringsbillet. Du får det tilbage i din bekymringstid. Indtil da behøver du ikke slæbe rundt på det.",
+    "cta": "Hent gratis i App Store",
+    "note": "Alle funktioner er gratis. Ingen reklamer, ingen konto."
+  },
+  "demo": {
+    "title": "Parkér en bekymring",
+    "lead": "Behold eksemplet, eller skriv det, der fylder lige nu. Når den er parkeret, bliver den sløret, og i bekymringstiden tager du den frem igen.",
+    "skip": "Spol frem til bekymringstiden",
+    "again": "Parkér en bekymring mere",
+    "note": "Det, du skriver her, forlader aldrig siden. I appen bliver alt på din iPhone.",
+    "ask": "Hvad kører rundt i dit hoved?",
+    "placeholder": "Skriv den præcis, som den lyder i dit hoved.",
+    "loud": "Hvor høj er den lige nu?",
+    "park": "Parkér på P{n}",
+    "parked": "Parkeret på P{n}",
+    "back": "Du behøver ikke bære rundt på det her lige nu. Vi bringer den tilbage {t}.",
+    "today": "i dag kl. {t}",
+    "tomorrow": "i morgen kl. {t}",
+    "gate": "Udkørselsbom · P{n}",
+    "fear": "Skete det, du frygtede, faktisk?",
+    "loudNow": "Hvor høj er den nu?",
+    "was": "Den var {n}, da du parkerede den.",
+    "letGo": "Lad den gå",
+    "repark": "Parkér igen",
+    "gone": "Den er kørt ud af parkeringspladsen. Lad den køre.",
+    "levels": [
+      "Væk",
+      "En hvisken",
+      "Nagende",
+      "Høj",
+      "Tung",
+      "Overvældende"
+    ],
+    "results": [
+      "Skete",
+      "Delvist",
+      "Skete ikke",
+      "For tidligt at sige"
+    ],
+    "sample": "Min chefs svar var så kort. Gjorde jeg noget forkert?"
+  },
+  "problem": {
+    "title": "Lyset slukket, hovedet tændt?",
+    "text": "Så snart hovedet rammer puden, går det i gang: noget, du sagde i dag, mødet i morgen, beskeden, der stadig ikke er svaret på. Jo mere du prøver ikke at tænke på det, jo højere larmer det. Bekymringsparkering beder dig ikke skubbe bekymringen væk. Du skriver den ned, giver den en plads og sætter tid af til at tage dig af den."
+  },
+  "features": [
+    {
+      "title": "Skrevet ned er ude af hovedet",
+      "text": "Skriv den, præcis som den lyder i dit hoved, og angiv, hvor høj den er lige nu, fra 1 til 5. Riv billetten af, så står bekymringen sløret tilbage på parkeringen.\nKører den ind i hovedet igen, så sig til den: du har allerede en plads. Din tid kommer, men ikke nu.",
+      "shot": "park"
+    },
+    {
+      "title": "15 minutter i bekymringstiden",
+      "text": "Hver dag i din bekymringstid får du en påmindelse. Ved udkørselsbommen læser du bekymringen igen og tjekker, om den faktisk skete, og hvor høj den er nu.\nSå giver du slip, gør den til et lille næste skridt eller parkerer den til næste bekymringstid.",
+      "shot": "gate"
+    },
+    {
+      "title": "Se, hvor tit dine bekymringer fik ret",
+      "text": "Jo flere bekymringer der er kørt ud, jo tydeligere viser udkørselsloggen, hvor mange der faktisk skete, og hvor meget de faldt i styrke.\nBekymringer maler ofte fremtiden værre, end den bliver. Jo mere du logger, jo mindre tror du på den næste.",
+      "shot": "log"
+    }
+  ],
+  "steps": {
+    "title": "Kom i gang på tre trin",
+    "items": [
+      {
+        "title": "Vælg din bekymringstid",
+        "text": "Første gang du åbner appen, vælger du, hvornår du hver dag tager dig af dine bekymringer. Du kan ændre det senere i Indstillinger."
+      },
+      {
+        "title": "Parkér en rigtig bekymring",
+        "text": "Parkér med det samme noget, der fylder, og mærk, hvordan styrken ændrer sig før og efter."
+      },
+      {
+        "title": "Tillad afhentningspåmindelser",
+        "text": "I bekymringstiden får du en påmindelse med kun pladsnummeret."
+      }
+    ]
+  },
+  "reference": {
+    "title": "Derfor virker det",
+    "rows": [
+      [
+        "Bekymr dig kun på et fast tidspunkt",
+        "Folk, der flyttede deres bekymringer til en kort daglig stund, bekymrede sig mindre og oplevede mindre angst og færre søvnproblemer. (Borkovec m.fl., 1983; McGowan & Behar, 2013)"
+      ],
+      [
+        "Skriv ned for at give slip",
+        "En konkret plan holdt uafsluttede opgaver ude af tankerne, og fem minutters skrivning før sengetid fik folk til at falde hurtigere i søvn. (Masicampo & Baumeister, 2011; Scullin m.fl., 2018)"
+      ],
+      [
+        "Tjek, hvad der faktisk skete",
+        "Da personer med kronisk bekymring loggede deres bekymringer, skete 91 % af dem aldrig. (LaFreniere & Newman, 2020)"
+      ]
+    ],
+    "note": "Bekymringsparkering bygger på udskydelse af bekymringer, en teknik fra kognitiv adfærdsterapi (KAT), der er blevet forsket i i årtier."
+  },
+  "pricing": {
+    "title": "Alt er gratis",
+    "free": {
+      "name": "Gratis",
+      "items": [
+        "Ubegrænset antal parkeringspladser",
+        "Daglige påmindelser i bekymringstiden og selvvalgt udkørselstid",
+        "Udkørselsbom og udkørselslog",
+        "Indsigt i udkørsler: hvor mange der skete, og hvor meget styrken faldt"
+      ]
+    },
+    "pro": {
+      "name": "Drikkepenge, hvis du vil",
+      "items": [
+        "Hvis appen hjælper, kan du give udvikleren lidt drikkepenge",
+        "Lille, mellem eller stor, som du vil"
+      ],
+      "note": "Drikkepenge låser ikke op for noget. Uden virker alt på samme måde."
+    },
+    "note": "Ingen reklamer, ingen konto, ingen servere, ingen analyseværktøjer. Alt, hvad du skriver, bliver på din iPhone."
+  },
+  "faq": {
+    "title": "Ofte stillede spørgsmål",
+    "items": [
+      {
+        "q": "Hvordan ændrer jeg min bekymringstid?",
+        "a": "Under Bekymringstid på fanen Indstillinger. Det nye tidspunkt gælder for bekymringer, du parkerer derefter. Bekymringer, der allerede holder parkeret, beholder deres oprindelige udkørselstid."
+      },
+      {
+        "q": "Jeg får ingen afhentningspåmindelser.",
+        "a": "Tjek Notifikationer på fanen Indstillinger. Er de slået fra, så tryk på Åbn indstillinger i iOS og slå dem til. Med fokus eller Forstyr ikke slået til kan påmindelser komme lydløst. Selv uden påmindelse vises bekymringer, hvis tid er kommet, som klar til afhentning på parkeringen."
+      },
+      {
+        "q": "Står min bekymring i notifikationen?",
+        "a": "Nej. Notifikationer viser kun pladsnummeret, fx ”P3 er klar til afhentning”. Selve bekymringen ser du først, når du åbner appen og går til udkørselsbommen."
+      },
+      {
+        "q": "Kan jeg se en bekymring før bekymringstiden?",
+        "a": "Tryk på dens bil på parkeringen, og vælg Send den til udkørselsbommen nu. Udskydelse virker dog bedst, når du venter. De fleste bekymringer føles mindre, når bekymringstiden kommer."
+      },
+      {
+        "q": "Kan jeg flytte min log til en ny iPhone?",
+        "a": "Alt gemmes kun på din iPhone, uden konto eller synkronisering. Gendanner du en ny iPhone fra en sikkerhedskopi i iCloud eller på computeren, eller bruger du Hurtig start, følger loggen med sammen med dine andre apps."
+      },
+      {
+        "q": "Hvordan sletter jeg min log?",
+        "a": "Stryg en post til venstre på fanen Udkørselslog for at slette den. Sletter du appen, forsvinder alt."
+      },
+      {
+        "q": "Er det her behandling?",
+        "a": "Bekymringsparkering er et selvhjælpsværktøj, der bygger på udskydelse af bekymringer fra KAT. Det er ikke medicinsk udstyr og erstatter ikke professionel diagnose eller behandling."
+      },
+      {
+        "q": "Hvad hvis jeg har det rigtig svært?",
+        "a": "Hvis bekymringerne tager over, eller du tænker på at gøre skade på dig selv, så bær det ikke alene. Ved akut fare i Danmark ring 112. Du kan også ringe til Livslinien på 70 201 201."
+      }
+    ]
+  },
+  "closing": {
+    "headline": "I nat bliver bekymringen\npå parkeringen",
+    "cta": "Hent gratis i App Store"
+  },
+  "ui": {
+    "skip": "Gå til indhold",
+    "languages": "Sprog",
+    "privacy": "Privatlivspolitik",
+    "contact": "Spørgsmål eller idéer? Skriv til {email}."
+  }
+}

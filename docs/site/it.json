@@ -1,0 +1,171 @@
+{
+  "title": "Parcheggio Preoccupazioni: parcheggia i pensieri prima di dormire",
+  "description": "Scrivi la preoccupazione che continua a girare, parcheggiala e dedicale 15 minuti all’Ora delle preoccupazioni. Basata sulla CBT. Tutto gratis.",
+  "hero": {
+    "headline": "Parcheggia la preoccupazione.\nRiprendila dopo.",
+    "lead": "Scrivi quello che ti gira in testa prima di dormire e lascialo su un biglietto del parcheggio. Te lo riportiamo all’Ora delle preoccupazioni. Fino ad allora, non devi portartelo dietro.",
+    "cta": "Scarica gratis su App Store",
+    "note": "Tutte le funzioni sono gratis. Niente pubblicità, niente account."
+  },
+  "demo": {
+    "title": "Parcheggia una preoccupazione",
+    "lead": "Lascia l’esempio o scrivi quello che hai in testa adesso. Una volta parcheggiata diventa sfocata, e la riprendi all’Ora delle preoccupazioni.",
+    "skip": "Vai all’Ora delle preoccupazioni",
+    "again": "Parcheggiane un’altra",
+    "note": "Quello che scrivi qui non lascia questa pagina. Nell’app resta sul tuo iPhone.",
+    "ask": "Cosa ti gira in testa?",
+    "placeholder": "Scrivila esattamente come suona nella tua testa.",
+    "loud": "Quanto è forte in questo momento?",
+    "park": "Parcheggia in P{n}",
+    "parked": "Parcheggiata in P{n}",
+    "back": "Non devi portarti dietro tutto questo adesso. Te lo riporteremo {t}.",
+    "today": "oggi alle {t}",
+    "tomorrow": "domani alle {t}",
+    "gate": "Sbarra d’uscita · P{n}",
+    "fear": "Quello che temevi è successo davvero?",
+    "loudNow": "Quanto è forte adesso?",
+    "was": "Quando l’hai parcheggiata era {n}.",
+    "letGo": "Lasciala andare",
+    "repark": "Parcheggiala di nuovo",
+    "gone": "È uscita dal parcheggio. Lasciala andare.",
+    "levels": [
+      "Svanita",
+      "Un sussurro",
+      "Insistente",
+      "Forte",
+      "Pesante",
+      "Opprimente"
+    ],
+    "results": [
+      "È successo",
+      "In parte",
+      "Non è successo",
+      "Troppo presto per dirlo"
+    ],
+    "sample": "La risposta del mio capo era così breve. Ho sbagliato qualcosa?"
+  },
+  "problem": {
+    "title": "Luce spenta, testa accesa?",
+    "text": "Appena appoggi la testa sul cuscino, comincia: una frase detta oggi, la riunione di domani, il messaggio ancora senza risposta. Più ti dici di non pensarci, più diventa forte. Parcheggio Preoccupazioni non ti chiede di scacciarla. La scrivi, le dai un posto e fissi un momento per occupartene."
+  },
+  "features": [
+    {
+      "title": "Scritta, esce dalla testa",
+      "text": "Scrivila esattamente come la senti in testa e indica quanto è forte adesso, da 1 a 5. Strappa il biglietto e la preoccupazione resta nel parcheggio, sfocata.\nSe torna a girarti intorno, dille: hai già il tuo posto. Il tuo momento arriverà, ma non ora.",
+      "shot": "park"
+    },
+    {
+      "title": "15 minuti all’Ora delle preoccupazioni",
+      "text": "Ogni giorno, all’Ora delle preoccupazioni, arriva un promemoria. Alla sbarra d’uscita la rileggi, controlli se è successa davvero e quanto è forte adesso.\nPoi la lasci andare, la trasformi in un piccolo passo successivo o la parcheggi di nuovo fino alla prossima Ora delle preoccupazioni.",
+      "shot": "gate"
+    },
+    {
+      "title": "Scopri quante preoccupazioni si sono avverate",
+      "text": "Man mano che le preoccupazioni escono, il registro delle uscite mostra quante sono successe davvero e quanto è calata la loro intensità.\nLa preoccupazione tende a immaginare il futuro peggiore di com’è. Più registri, meno credi alla prossima.",
+      "shot": "log"
+    }
+  ],
+  "steps": {
+    "title": "Si parte in tre passi",
+    "items": [
+      {
+        "title": "Scegli la tua Ora delle preoccupazioni",
+        "text": "Alla prima apertura scegli quando occuparti delle preoccupazioni ogni giorno. Puoi cambiarla poi nelle Impostazioni."
+      },
+      {
+        "title": "Parcheggia una preoccupazione vera",
+        "text": "Parcheggia subito qualcosa che ti pesa e nota come cambia l’intensità prima e dopo."
+      },
+      {
+        "title": "Consenti i promemoria di ritiro",
+        "text": "All’Ora delle preoccupazioni arriva un promemoria con solo il numero del posto."
+      }
+    ]
+  },
+  "reference": {
+    "title": "Perché funziona",
+    "rows": [
+      [
+        "Preoccuparsi a un’ora fissa",
+        "Chi ha spostato le preoccupazioni in un breve momento quotidiano si è preoccupato meno e ha riferito meno ansia e problemi di sonno. (Borkovec et al., 1983; McGowan e Behar, 2013)"
+      ],
+      [
+        "Scrivere per lasciar andare",
+        "Un piano concreto ha impedito alle cose in sospeso di intromettersi nei pensieri, e scrivere cinque minuti prima di dormire ha aiutato ad addormentarsi prima. (Masicampo e Baumeister, 2011; Scullin et al., 2018)"
+      ],
+      [
+        "Controllare cosa è successo davvero",
+        "Quando persone con preoccupazione cronica hanno annotato le proprie preoccupazioni, il 91 % non si è avverato. (LaFreniere e Newman, 2020)"
+      ]
+    ],
+    "note": "Parcheggio Preoccupazioni si basa sul rinvio della preoccupazione, una tecnica della terapia cognitivo-comportamentale (CBT) studiata da decenni."
+  },
+  "pricing": {
+    "title": "È tutto gratis",
+    "free": {
+      "name": "Gratis",
+      "items": [
+        "Posti auto illimitati",
+        "Promemoria quotidiani all’Ora delle preoccupazioni e orario d’uscita a scelta",
+        "Sbarra d’uscita e registro delle uscite",
+        "Approfondimenti sulle uscite: quante si sono avverate e quanto è calata l’intensità"
+      ]
+    },
+    "pro": {
+      "name": "Una mancia, se vuoi",
+      "items": [
+        "Se l’app ti aiuta, puoi lasciare una piccola mancia allo sviluppatore",
+        "Piccola, media o grande, come preferisci"
+      ],
+      "note": "La mancia non sblocca nulla. Senza, funziona tutto allo stesso modo."
+    },
+    "note": "Niente pubblicità, account, server o strumenti di analisi. Tutto quello che scrivi resta sul tuo iPhone."
+  },
+  "faq": {
+    "title": "Domande frequenti",
+    "items": [
+      {
+        "q": "Come cambio l’Ora delle preoccupazioni?",
+        "a": "Nella scheda Impostazioni, alla voce Ora delle preoccupazioni. Il nuovo orario vale per quello che parcheggi da lì in poi. Le preoccupazioni già parcheggiate mantengono l’orario d’uscita originale."
+      },
+      {
+        "q": "Non ricevo i promemoria di ritiro.",
+        "a": "Controlla Notifiche nella scheda Impostazioni. Se risultano disattivate, tocca Apri le Impostazioni di iOS e attivale. Con una modalità Full immersion o Non disturbare attiva, i promemoria possono arrivare in silenzio. Anche senza promemoria, le preoccupazioni pronte compaiono nel parcheggio come pronte all’uscita."
+      },
+      {
+        "q": "La notifica mostra la mia preoccupazione?",
+        "a": "No. Le notifiche mostrano solo il numero del posto, per esempio «P3 è pronta per l’uscita». La preoccupazione compare solo quando apri l’app ed entri alla sbarra d’uscita."
+      },
+      {
+        "q": "Posso rivederla prima dell’Ora delle preoccupazioni?",
+        "a": "Tocca la sua auto nel parcheggio e scegli Mandala subito alla sbarra d’uscita. Il rinvio però funziona meglio se aspetti. Quasi tutte le preoccupazioni sembrano più piccole all’Ora delle preoccupazioni."
+      },
+      {
+        "q": "Posso spostare i dati su un nuovo iPhone?",
+        "a": "Tutto è salvato solo sul tuo iPhone, senza account né sincronizzazione. Se ripristini il nuovo iPhone da un backup iCloud o del computer, o usi Configurazione rapida, i dati passano insieme a quelli delle altre app."
+      },
+      {
+        "q": "Come cancello i miei dati?",
+        "a": "Nella scheda Registro delle uscite, scorri una voce verso sinistra per eliminarla. Se elimini l’app, si cancella tutto."
+      },
+      {
+        "q": "È una terapia?",
+        "a": "Parcheggio Preoccupazioni è uno strumento di auto-aiuto basato sul rinvio della preoccupazione della CBT. Non è un dispositivo medico e non sostituisce diagnosi o cure di un professionista."
+      },
+      {
+        "q": "E se sto davvero male?",
+        "a": "Se le preoccupazioni ti stanno travolgendo o pensi di farti del male, non tenerti tutto dentro. In Italia puoi chiamare il 112 in caso di emergenza, oppure Telefono Amico allo 02 2327 2327."
+      }
+    ]
+  },
+  "closing": {
+    "headline": "Stanotte lascia\nla preoccupazione al parcheggio",
+    "cta": "Scarica gratis su App Store"
+  },
+  "ui": {
+    "skip": "Vai al contenuto",
+    "languages": "Lingue",
+    "privacy": "Privacy",
+    "contact": "Domande o suggerimenti? Scrivi a {email}."
+  }
+}

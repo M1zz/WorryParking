@@ -1,0 +1,171 @@
+{
+  "title": "Parking des Soucis : garer ses soucis avant de dormir",
+  "description": "Écris le souci qui tourne en boucle, gare-le et accorde-lui 15 minutes à ton heure des soucis. Inspiré de la TCC. Entièrement gratuit.",
+  "hero": {
+    "headline": "Gare ton souci.\nReprends-le plus tard.",
+    "lead": "Écris ce qui tourne dans ta tête au moment de dormir et laisse-le sur un ticket de parking. On te le rend à ton heure des soucis. D’ici là, tu n’as pas à le porter.",
+    "cta": "Télécharger gratuitement sur l’App Store",
+    "note": "Toutes les fonctions sont gratuites. Pas de pub, pas de compte."
+  },
+  "demo": {
+    "title": "Gare un souci",
+    "lead": "Garde l’exemple ou écris ce qui t’occupe l’esprit en ce moment. Une fois garé, il devient flou, et tu le ressors à l’heure des soucis.",
+    "skip": "Passer à l’heure des soucis",
+    "again": "Garer un autre souci",
+    "note": "Ce que tu écris ici ne quitte pas cette page. Dans l’app, tout reste sur ton iPhone.",
+    "ask": "Qu’est-ce qui tourne dans ta tête ?",
+    "placeholder": "Écris-le exactement comme il résonne dans ta tête.",
+    "loud": "À quel point est-il fort en ce moment ?",
+    "park": "Garer en P{n}",
+    "parked": "Garé en P{n}",
+    "back": "Tu n’as pas à porter ça maintenant. On te le ramène {t}.",
+    "today": "aujourd’hui à {t}",
+    "tomorrow": "demain à {t}",
+    "gate": "Barrière de sortie · P{n}",
+    "fear": "Ce que tu craignais s’est-il vraiment produit ?",
+    "loudNow": "À quel point est-il fort maintenant ?",
+    "was": "Il était à {n} quand tu l’as garé.",
+    "letGo": "Le laisser partir",
+    "repark": "Le garer de nouveau",
+    "gone": "Il a quitté le parking. Laisse-le partir.",
+    "levels": [
+      "Disparu",
+      "Un murmure",
+      "Tenace",
+      "Fort",
+      "Lourd",
+      "Écrasant"
+    ],
+    "results": [
+      "C’est arrivé",
+      "En partie",
+      "Ça n’est pas arrivé",
+      "Trop tôt pour le dire"
+    ],
+    "sample": "La réponse de mon chef était si courte. Ai-je fait quelque chose de mal ?"
+  },
+  "problem": {
+    "title": "Lumière éteinte, tête allumée ?",
+    "text": "À peine la tête sur l’oreiller, ça commence : une phrase dite dans la journée, la réunion de demain, le message resté sans réponse. Plus tu te dis de ne pas y penser, plus ça prend de place. Parking des Soucis ne te demande pas de chasser le souci. Tu l’écris, tu lui donnes une place et tu prévois un moment pour t’en occuper."
+  },
+  "features": [
+    {
+      "title": "Une fois écrit, il sort de ta tête",
+      "text": "Écris-le tel qu’il résonne dans ta tête, puis indique son intensité de 1 à 5. Détache le ticket : le souci reste au parking, flouté.\nS’il revient tourner autour de toi, dis-lui : tu as déjà ta place. Son moment viendra, mais pas maintenant.",
+      "shot": "park"
+    },
+    {
+      "title": "15 minutes à l’heure des soucis",
+      "text": "Chaque jour à ton heure des soucis, tu reçois un rappel. À la barrière de sortie, tu relis le souci, tu vérifies s’il s’est vraiment produit et à quel point il résonne encore.\nEnsuite, tu le laisses partir, tu en fais une petite prochaine étape ou tu le gares jusqu’à la prochaine heure des soucis.",
+      "shot": "gate"
+    },
+    {
+      "title": "Vois combien de soucis se sont réalisés",
+      "text": "Au fil des sorties, le journal des sorties montre la part des soucis qui se sont vraiment produits et de combien leur intensité a baissé.\nLe souci imagine souvent l’avenir pire qu’il ne sera. Plus tu notes, moins tu crois le suivant.",
+      "shot": "log"
+    }
+  ],
+  "steps": {
+    "title": "Trois étapes pour commencer",
+    "items": [
+      {
+        "title": "Choisis ton heure des soucis",
+        "text": "À la première ouverture, choisis quand tu t’occuperas de tes soucis chaque jour. Tu pourras la changer dans les réglages."
+      },
+      {
+        "title": "Gare un vrai souci",
+        "text": "Gare tout de suite ce qui te préoccupe et observe comment son intensité change avant et après."
+      },
+      {
+        "title": "Autorise les rappels de sortie",
+        "text": "À l’heure des soucis, un rappel arrive avec seulement le numéro de la place."
+      }
+    ]
+  },
+  "reference": {
+    "title": "Pourquoi ça marche",
+    "rows": [
+      [
+        "S’inquiéter à heure fixe",
+        "Les personnes qui ont déplacé leurs soucis vers un court moment quotidien s’inquiétaient moins et signalaient moins d’anxiété et de troubles du sommeil. (Borkovec et al., 1983 ; McGowan & Behar, 2013)"
+      ],
+      [
+        "Écrire pour lâcher prise",
+        "Un plan concret empêchait les tâches inachevées d’envahir les pensées, et cinq minutes d’écriture avant le coucher aidaient à s’endormir plus vite. (Masicampo & Baumeister, 2011 ; Scullin et al., 2018)"
+      ],
+      [
+        "Vérifier ce qui s’est vraiment passé",
+        "Quand des personnes très anxieuses ont noté leurs soucis, 91 % ne se sont pas réalisés. (LaFreniere & Newman, 2020)"
+      ]
+    ],
+    "note": "Parking des Soucis s’appuie sur le report des soucis, une technique des thérapies cognitives et comportementales (TCC) étudiée depuis des décennies."
+  },
+  "pricing": {
+    "title": "Tout est gratuit",
+    "free": {
+      "name": "Gratuit",
+      "items": [
+        "Places de parking illimitées",
+        "Rappels quotidiens à l’heure des soucis, heure de sortie au choix",
+        "Barrière de sortie et journal des sorties",
+        "Analyses des sorties : combien se sont réalisés, de combien l’intensité a baissé"
+      ]
+    },
+    "pro": {
+      "name": "Un pourboire, si tu veux",
+      "items": [
+        "Si l’app t’aide, tu peux laisser un petit pourboire au développeur",
+        "Petit, moyen ou grand, au choix"
+      ],
+      "note": "Le pourboire ne débloque rien. Tout fonctionne pareil sans."
+    },
+    "note": "Pas de pub, pas de compte, pas de serveur, pas d’outil d’analyse. Tout ce que tu écris reste sur ton iPhone."
+  },
+  "faq": {
+    "title": "Questions fréquentes",
+    "items": [
+      {
+        "q": "Comment changer mon heure des soucis ?",
+        "a": "Dans l’onglet Réglages, à Heure des soucis. La nouvelle heure s’applique aux soucis garés ensuite. Ceux déjà garés gardent leur heure de sortie d’origine."
+      },
+      {
+        "q": "Je ne reçois pas les rappels de sortie.",
+        "a": "Vérifie la rubrique Notifications dans l’onglet Réglages. Si elles sont coupées, touche Ouvrir les réglages iOS et active-les. Avec un mode Concentration ou Ne pas déranger, les rappels peuvent arriver en silence. Même sans rappel, les soucis arrivés à échéance apparaissent prêts à sortir dans le parking."
+      },
+      {
+        "q": "Mon souci apparaît-il dans la notification ?",
+        "a": "Non. Les notifications n’affichent que le numéro de place, par exemple « P3 est prête à sortir ». Le souci lui-même n’apparaît qu’une fois l’app ouverte, à la barrière de sortie."
+      },
+      {
+        "q": "Puis-je relire un souci avant l’heure prévue ?",
+        "a": "Touche sa voiture dans le parking et choisis L’envoyer maintenant à la barrière de sortie. Le report marche toutefois mieux quand on attend. La plupart des soucis paraissent plus petits à l’heure des soucis."
+      },
+      {
+        "q": "Puis-je transférer mes données sur un nouvel iPhone ?",
+        "a": "Tout est stocké uniquement sur ton iPhone, sans compte ni synchronisation. Si tu restaures un nouvel iPhone depuis une sauvegarde iCloud ou ordinateur, ou avec Démarrage rapide, les données suivent avec celles de tes autres apps."
+      },
+      {
+        "q": "Comment supprimer mes données ?",
+        "a": "Dans l’onglet Journal des sorties, balaie une entrée vers la gauche pour la supprimer. Supprimer l’app efface tout."
+      },
+      {
+        "q": "Est-ce une thérapie ?",
+        "a": "Parking des Soucis est un outil d’aide personnelle fondé sur le report des soucis issu des TCC. Ce n’est pas un dispositif médical et il ne remplace pas un diagnostic ni un traitement par un professionnel."
+      },
+      {
+        "q": "Et si ça ne va vraiment pas ?",
+        "a": "Si les soucis envahissent tes journées ou si tu penses à te faire du mal, ne reste pas seul avec ça. En France, appelle le 3114 (numéro national de prévention du suicide, gratuit, 24 h/24), ou le 15 ou le 112 en cas d’urgence."
+      }
+    ]
+  },
+  "closing": {
+    "headline": "Ce soir, laisse\nton souci au parking",
+    "cta": "Télécharger gratuitement sur l’App Store"
+  },
+  "ui": {
+    "skip": "Aller au contenu",
+    "languages": "Langues",
+    "privacy": "Confidentialité",
+    "contact": "Une question, une idée ? Écris à {email}."
+  }
+}

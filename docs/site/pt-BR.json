@@ -1,0 +1,171 @@
+{
+  "title": "Estacionamento de Preocupações: estacione a preocupação antes de dormir",
+  "description": "Escreva a preocupação que não sai da cabeça, estacione e dê 15 minutos a ela na sua Hora de se preocupar. Baseado na TCC. Tudo de graça.",
+  "hero": {
+    "headline": "Estacione a preocupação.\nPegue depois.",
+    "lead": "Escreva o que fica rodando na sua cabeça na hora de dormir e deixe num tíquete de estacionamento. A gente devolve na sua Hora de se preocupar. Até lá, você não precisa carregar isso.",
+    "cta": "Baixar grátis na App Store",
+    "note": "Todos os recursos são grátis. Sem anúncios, sem conta."
+  },
+  "demo": {
+    "title": "Estacione uma preocupação",
+    "lead": "Deixe o exemplo ou escreva o que está na sua cabeça agora. Estacionada, ela fica embaçada, e você tira de novo na Hora de se preocupar.",
+    "skip": "Pular para a Hora de se preocupar",
+    "again": "Estacionar outra",
+    "note": "O que você escreve aqui não sai desta página. No app, fica no seu iPhone.",
+    "ask": "O que está rondando a sua cabeça?",
+    "placeholder": "Escreva exatamente do jeito que soa na sua cabeça.",
+    "loud": "O quanto ela está alta neste momento?",
+    "park": "Estacionar na P{n}",
+    "parked": "Estacionada na P{n}",
+    "back": "Você não precisa carregar isso agora. Vamos trazê-la de volta {t}.",
+    "today": "hoje às {t}",
+    "tomorrow": "amanhã às {t}",
+    "gate": "Cancela de saída · P{n}",
+    "fear": "O que você temia aconteceu mesmo?",
+    "loudNow": "O quanto ela está alta agora?",
+    "was": "Quando você estacionou, estava em {n}.",
+    "letGo": "Deixar ir",
+    "repark": "Estacionar de novo",
+    "gone": "Ela saiu do estacionamento. Deixe-a ir.",
+    "levels": [
+      "Sumiu",
+      "Um sussurro",
+      "Insistente",
+      "Alta",
+      "Pesada",
+      "Esmagadora"
+    ],
+    "results": [
+      "Aconteceu",
+      "Em parte",
+      "Não aconteceu",
+      "Cedo demais para dizer"
+    ],
+    "sample": "A resposta do meu chefe foi tão curta. Será que fiz algo errado?"
+  },
+  "problem": {
+    "title": "Apagou a luz, a cabeça acendeu?",
+    "text": "É só deitar que começa: uma frase que você disse hoje, a reunião de amanhã, a mensagem que ainda não foi respondida. Quanto mais você tenta não pensar, mais alto fica. O Estacionamento de Preocupações não pede que você empurre a preocupação para longe. Você escreve, dá uma vaga a ela e separa um horário para cuidar disso."
+  },
+  "features": [
+    {
+      "title": "Escreveu, saiu da cabeça",
+      "text": "Escreva do jeito que ela soa na sua cabeça e marque o quanto ela pesa agora, de 1 a 5. Destaque o tíquete e a preocupação fica no estacionamento, embaçada.\nSe ela voltar a rondar, diga: você já tem vaga. A sua hora vai chegar, mas não agora.",
+      "shot": "park"
+    },
+    {
+      "title": "15 minutos na Hora de se preocupar",
+      "text": "Todo dia, na sua Hora de se preocupar, chega um lembrete. Na cancela de saída você lê a preocupação de novo, confere se ela aconteceu mesmo e o quanto ela pesa agora.\nDepois deixa ir, transforma num pequeno próximo passo ou estaciona de novo até a próxima Hora de se preocupar.",
+      "shot": "gate"
+    },
+    {
+      "title": "Veja quantas preocupações se confirmaram",
+      "text": "Conforme as preocupações saem, o registro de saídas mostra quantas aconteceram de verdade e quanto a intensidade caiu.\nA preocupação costuma prever um futuro pior do que ele é. Quanto mais você registra, menos acredita na próxima.",
+      "shot": "log"
+    }
+  ],
+  "steps": {
+    "title": "Comece em três passos",
+    "items": [
+      {
+        "title": "Escolha sua Hora de se preocupar",
+        "text": "Na primeira vez que abrir, escolha quando vai cuidar das preocupações todo dia. Dá para mudar depois em Ajustes."
+      },
+      {
+        "title": "Estacione uma preocupação de verdade",
+        "text": "Estacione logo algo que está na sua cabeça e perceba como a intensidade muda antes e depois."
+      },
+      {
+        "title": "Permita os lembretes de saída",
+        "text": "Na Hora de se preocupar chega um lembrete só com o número da vaga."
+      }
+    ]
+  },
+  "reference": {
+    "title": "Por que funciona",
+    "rows": [
+      [
+        "Se preocupar num horário fixo",
+        "Quem levou as preocupações para um momento curto do dia passou menos tempo preocupado e relatou menos ansiedade e problemas de sono. (Borkovec et al., 1983; McGowan e Behar, 2013)"
+      ],
+      [
+        "Escrever para soltar",
+        "Fazer um plano concreto impediu que tarefas pendentes invadissem os pensamentos, e escrever cinco minutos antes de dormir ajudou a pegar no sono mais rápido. (Masicampo e Baumeister, 2011; Scullin et al., 2018)"
+      ],
+      [
+        "Conferir o que aconteceu de fato",
+        "Quando pessoas com preocupação crônica registraram suas preocupações, 91% delas não se concretizaram. (LaFreniere e Newman, 2020)"
+      ]
+    ],
+    "note": "O Estacionamento de Preocupações se baseia no adiamento da preocupação, uma técnica da terapia cognitivo-comportamental (TCC) estudada há décadas."
+  },
+  "pricing": {
+    "title": "Tudo é grátis",
+    "free": {
+      "name": "Grátis",
+      "items": [
+        "Vagas ilimitadas",
+        "Lembretes diários na Hora de se preocupar e horário de saída à sua escolha",
+        "Cancela de saída e registro de saídas",
+        "Insights de saídas: quantas aconteceram e quanto a intensidade caiu"
+      ]
+    },
+    "pro": {
+      "name": "Gorjeta, se quiser",
+      "items": [
+        "Se o app ajudou, você pode deixar uma pequena gorjeta para o desenvolvedor",
+        "Pequena, média ou grande, como preferir"
+      ],
+      "note": "A gorjeta não libera nada. Sem ela, tudo funciona igual."
+    },
+    "note": "Sem anúncios, sem conta, sem servidores e sem ferramentas de análise. Tudo o que você escreve fica no seu iPhone."
+  },
+  "faq": {
+    "title": "Perguntas frequentes",
+    "items": [
+      {
+        "q": "Como mudo minha Hora de se preocupar?",
+        "a": "Na aba Ajustes, em Hora de se preocupar. O novo horário vale para o que você estacionar a partir daí. As preocupações já estacionadas mantêm o horário de saída original."
+      },
+      {
+        "q": "Não recebo os lembretes de saída.",
+        "a": "Confira Notificações na aba Ajustes. Se aparecer que estão desativadas, toque em Abrir os Ajustes do iOS e ative. Com um modo de Foco ou Não Perturbe ligado, os lembretes podem chegar em silêncio. Mesmo sem lembrete, as preocupações no horário aparecem prontas para sair no estacionamento."
+      },
+      {
+        "q": "Minha preocupação aparece na notificação?",
+        "a": "Não. As notificações mostram só o número da vaga, como “P3 está pronta para sair”. A preocupação só aparece quando você abre o app e entra na cancela de saída."
+      },
+      {
+        "q": "Posso ver antes da Hora de se preocupar?",
+        "a": "Toque no carro dela no estacionamento e escolha Enviar agora para a cancela de saída. Mas adiar funciona melhor quando você espera. A maioria das preocupações parece menor na Hora de se preocupar."
+      },
+      {
+        "q": "Consigo passar meus registros para um iPhone novo?",
+        "a": "Tudo fica só no seu iPhone, sem conta e sem sincronização. Se você restaurar o iPhone novo a partir de um backup do iCloud ou do computador, ou usar o Início Rápido, os dados vão junto com os dos outros apps."
+      },
+      {
+        "q": "Como apago meus registros?",
+        "a": "Na aba Registro de saídas, deslize um item para a esquerda para apagar. Se apagar o app, tudo é apagado junto."
+      },
+      {
+        "q": "Isso é um tratamento?",
+        "a": "O Estacionamento de Preocupações é uma ferramenta de autocuidado baseada no adiamento da preocupação da TCC. Não é um dispositivo médico e não substitui diagnóstico ou tratamento profissional."
+      },
+      {
+        "q": "E se eu estiver muito mal?",
+        "a": "Se a preocupação está tomando conta dos seus dias ou você pensa em se machucar, não carregue isso sozinho. No Brasil, ligue para o 188 (CVV, gratuito, 24 horas) ou para o 192 (SAMU) em caso de emergência."
+      }
+    ]
+  },
+  "closing": {
+    "headline": "Hoje à noite, deixe\na preocupação no estacionamento",
+    "cta": "Baixar grátis na App Store"
+  },
+  "ui": {
+    "skip": "Pular para o conteúdo",
+    "languages": "Idiomas",
+    "privacy": "Privacidade",
+    "contact": "Dúvidas ou sugestões? Escreva para {email}."
+  }
+}
