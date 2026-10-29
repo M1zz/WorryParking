@@ -203,6 +203,7 @@ struct TicketIssuedView: View {
 
     @State private var gateOpen = false
     @State private var ticketShown = false
+    @Environment(\.accessibilityReduceMotion) private var reduceMotion
 
     var body: some View {
         VStack(spacing: 28) {
@@ -211,7 +212,7 @@ struct TicketIssuedView: View {
 
             if ticketShown {
                 TicketView(worry: worry, isRevealed: false)
-                    .transition(.move(edge: .top).combined(with: .opacity))
+                    .transition(reduceMotion ? .opacity : .move(edge: .top).combined(with: .opacity))
             }
 
             VStack(spacing: 8) {
@@ -234,9 +235,10 @@ struct TicketIssuedView: View {
         .padding(24)
         .task {
             try? await Task.sleep(for: .milliseconds(250))
-            withAnimation(.spring(duration: 0.8)) { gateOpen = true }
+            // Reduce Motion: the barrier just opens, the ticket fades in.
+            withAnimation(reduceMotion ? nil : .spring(duration: 0.8)) { gateOpen = true }
             try? await Task.sleep(for: .milliseconds(350))
-            withAnimation(.spring(duration: 0.6)) { ticketShown = true }
+            withAnimation(reduceMotion ? .easeInOut(duration: 0.3) : .spring(duration: 0.6)) { ticketShown = true }
         }
     }
 }

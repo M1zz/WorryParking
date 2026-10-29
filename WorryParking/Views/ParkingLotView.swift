@@ -101,6 +101,7 @@ struct ParkingLotView: View {
             Label("Ready for pickup", systemImage: "bell.badge.fill")
                 .font(.headline)
                 .foregroundStyle(Theme.readyGreen)
+                .accessibilityAddTraits(.isHeader)
             ForEach(ready) { worry in
                 Button {
                     exiting = worry
@@ -109,6 +110,7 @@ struct ParkingLotView: View {
                         Image(systemName: "car.side.fill")
                             .font(.title2)
                             .foregroundStyle(Theme.readyGreen)
+                            .accessibilityHidden(true)
                         VStack(alignment: .leading, spacing: 2) {
                             Text("P\(worry.spotNumber) · Ticket #\(worry.ticketNumber)")
                                 .font(.subheadline.weight(.semibold))

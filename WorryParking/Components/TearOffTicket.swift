@@ -39,6 +39,7 @@ struct TearOffTicket: View {
         .accessibilityLabel(Text("Tear off the ticket to park"))
         .accessibilityHint(Text("Swipe along the dotted line to park"))
         .accessibilityAddTraits(.isButton)
+        .accessibilityInputLabels([Text("Park"), Text("Tear off your ticket")])
         .accessibilityAction { tear() }
         .onAppear { nudge = true }
     }
@@ -112,8 +113,9 @@ struct TearOffTicket: View {
             .overlay(alignment: .top) { notches }
             .overlay(alignment: .top) { tearLine }
             // The stub hangs from the part that isn't torn yet, then drops away.
-            .rotationEffect(.degrees(isTorn ? 18 : progress * 5), anchor: .topTrailing)
-            .offset(y: isTorn ? 160 : 0)
+            // Reduce Motion: the stub just fades instead of falling.
+            .rotationEffect(.degrees(isTorn && !reduceMotion ? 18 : progress * 5), anchor: .topTrailing)
+            .offset(y: isTorn && !reduceMotion ? 160 : 0)
             .opacity(isTorn ? 0 : 1)
     }
 

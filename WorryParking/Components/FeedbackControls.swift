@@ -40,6 +40,7 @@ struct FeedbackResponseCard: View {
 struct LevelChangeView: View {
     let before: Int
     let after: Int
+    @ScaledMetric(relativeTo: .largeTitle) private var numberSize: CGFloat = 44
 
     var body: some View {
         HStack(spacing: 20) {
@@ -59,7 +60,7 @@ struct LevelChangeView: View {
     private func level(_ value: Int, label: LocalizedStringKey) -> some View {
         VStack(spacing: 2) {
             Text("\(value)")
-                .font(.system(size: 44, weight: .black, design: .rounded))
+                .font(.system(size: numberSize, weight: .black, design: .rounded))
                 .foregroundStyle(Theme.lineYellow)
             Text(label)
                 .font(.caption.weight(.semibold))

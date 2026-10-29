@@ -139,6 +139,7 @@ struct ExitGateView: View {
             Image(systemName: "timer")
                 .font(.title2)
                 .foregroundStyle(Theme.lineYellow)
+                .accessibilityHidden(true)
             VStack(alignment: .leading, spacing: 2) {
                 Text("Worry Time")
                     .font(.headline)

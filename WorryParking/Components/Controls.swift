@@ -140,7 +140,6 @@ struct Tag: View {
     var body: some View {
         Text(text)
             .font(.caption2.weight(.semibold))
-            .lineLimit(1)
             .padding(.horizontal, 8)
             .padding(.vertical, 4)
             .background(color.opacity(0.25), in: Capsule())

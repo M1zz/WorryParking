@@ -178,16 +178,10 @@ struct ExitLogRow: View {
                 .lineLimit(3)
                 .privacySensitive()
 
-            HStack(spacing: 6) {
-                if let result = worry.fearResult {
-                    Tag(text: result.title, color: result.color)
-                }
-                if let after = worry.intensityAfter {
-                    Tag(text: String(localized: "Level \(worry.intensityBefore) → \(after)"), color: .gray)
-                }
-                if let outcome = worry.outcome {
-                    Tag(text: outcome.title, color: Theme.signBlue)
-                }
+            // Tags stack when they don't fit on one line (large text sizes).
+            ViewThatFits(in: .horizontal) {
+                HStack(spacing: 6) { tags }
+                VStack(alignment: .leading, spacing: 6) { tags }
             }
 
             if let step = worry.actionStep {
@@ -197,6 +191,19 @@ struct ExitLogRow: View {
             }
         }
         .padding(.vertical, 6)
+    }
+
+    @ViewBuilder
+    private var tags: some View {
+        if let result = worry.fearResult {
+            Tag(text: result.title, color: result.color)
+        }
+        if let after = worry.intensityAfter {
+            Tag(text: String(localized: "Level \(worry.intensityBefore) → \(after)"), color: .gray)
+        }
+        if let outcome = worry.outcome {
+            Tag(text: outcome.title, color: Theme.signBlue)
+        }
     }
 }
 

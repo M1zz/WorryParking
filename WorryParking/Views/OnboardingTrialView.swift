@@ -7,6 +7,7 @@ struct OnboardingTrialView: View {
     let onFinish: () -> Void
 
     @Environment(\.modelContext) private var modelContext
+    @Environment(\.accessibilityReduceMotion) private var reduceMotion
     @AppStorage(SettingsKey.worryHour) private var worryHour = WorryTime.defaultHour
     @AppStorage(SettingsKey.worryMinute) private var worryMinute = WorryTime.defaultMinute
 
@@ -134,7 +135,7 @@ struct OnboardingTrialView: View {
 
                 if ticketShown {
                     TicketView(worry: parkedWorry, isRevealed: false)
-                        .transition(.move(edge: .top).combined(with: .opacity))
+                        .transition(reduceMotion ? .opacity : .move(edge: .top).combined(with: .opacity))
                 }
 
                 VStack(spacing: 8) {
@@ -155,9 +156,9 @@ struct OnboardingTrialView: View {
             }
             .task {
                 try? await Task.sleep(for: .milliseconds(250))
-                withAnimation(.spring(duration: 0.8)) { gateOpen = true }
+                withAnimation(reduceMotion ? nil : .spring(duration: 0.8)) { gateOpen = true }
                 try? await Task.sleep(for: .milliseconds(350))
-                withAnimation(.spring(duration: 0.6)) { ticketShown = true }
+                withAnimation(reduceMotion ? .easeInOut(duration: 0.3) : .spring(duration: 0.6)) { ticketShown = true }
                 try? await Task.sleep(for: .seconds(2))
                 withAnimation(.easeInOut(duration: 0.4)) { askShown = true }
             }
