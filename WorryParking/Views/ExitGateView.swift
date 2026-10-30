@@ -120,7 +120,7 @@ struct ExitGateView: View {
             .navigationBarTitleDisplayMode(.inline)
             .toolbar {
                 ToolbarItem(placement: .cancellationAction) {
-                    Button("Later") { dismiss() }
+                    Button { dismiss() } label: { Label("Later", systemImage: "xmark") }
                 }
             }
             .onAppear { intensityNow = worry.intensityBefore }

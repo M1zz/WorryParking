@@ -38,7 +38,7 @@ struct ParkedTicketSheet: View {
             .navigationBarTitleDisplayMode(.inline)
             .toolbar {
                 ToolbarItem(placement: .confirmationAction) {
-                    Button("Done") { dismiss() }
+                    Button { dismiss() } label: { Label("Done", systemImage: "checkmark") }
                 }
             }
             .confirmationDialog(

@@ -55,7 +55,7 @@ struct FirstExitFeedbackView: View {
             .background(Theme.asphalt.ignoresSafeArea())
             .toolbar {
                 ToolbarItem(placement: .cancellationAction) {
-                    Button("Not now", action: onDone)
+                    Button(action: onDone) { Label("Not now", systemImage: "xmark") }
                 }
             }
         }

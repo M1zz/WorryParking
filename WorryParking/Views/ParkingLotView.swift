@@ -1,5 +1,6 @@
 import SwiftUI
 import SwiftData
+import LeeoKit
 
 struct ParkingRequest: Identifiable {
     let spot: Int
@@ -42,6 +43,8 @@ struct ParkingLotView: View {
             }
             .background(Theme.asphalt.ignoresSafeArea())
             .safeAreaInset(edge: .bottom) { parkButton }
+            // 펼친 아이폰 듀오의 탭 막대 자리. NavigationStack 안에서 비워야 주차하기 버튼이 막대 위로 올라간다.
+            .foldTabBarRoom()
             .navigationTitle("Worry Parking")
             .toolbarBackground(Theme.asphalt, for: .navigationBar)
             .sheet(item: $parkingRequest) { request in
@@ -52,6 +55,8 @@ struct ParkingLotView: View {
             }
             .fullScreenCover(item: $exiting) { worry in
                 ExitGateView(worry: worry)
+                    // 펼친 아이폰 듀오에서는 고르는 쪽 판에만 선다.
+                    .foldConfined()
             }
             .sheet(isPresented: $showingPaywall) {
                 PaywallView()

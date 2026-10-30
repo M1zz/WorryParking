@@ -19,3 +19,14 @@
 - [x] 다국어 22개 추가(en-GB, zh-Hans, zh-Hant, ja, ru, es, de, fr, it, pt-BR, th, vi, cs, da, el, fi, id, nb, nl, pl, sv, tr) — 앱 문자열 · 스토어 문구 · docs/<언어>/ · 릴리즈노트 · AppStore/metadata
 - [x] Mac에서 24개 언어 스크린샷 캡처·합성(`AppStore/capture_screenshots.sh`) 후 한·중·일·태국어 글꼴과 긴 문구 줄바꿈 확인
 - [ ] Xcode 빌드로 22개 언어 문자열 확인, DeployBar 다국어 게이트(LOCALIZATION_GATE=strict) 확인
+
+## 아이폰 듀오 대응 (2026-10-30, LeeoKit 3.26 Fold · 듀오 시뮬레이터 빌드 성공)
+- [x] 루트(`RootView`)에 `.foldAware()` 한 번. 시트 · 알림창이 접힌 선을 비킨다
+- [x] 펴면(세로 고정 앱이라 세로) 아래 판은 주차장 · 설정, 위 판은 출차 기록(`MainTabView` 의 `foldTab`). 주차해 두는 쪽 | 그 걱정이 어떻게 됐는지
+- [x] 출차 기록은 늘 위 판이라 펼친 탭 막대에는 주차장 · 설정만. 출차 기록 탭에서 펴면 주차장으로 옮긴다
+- [x] 탭 막대 자리(`.foldTabBarRoom()`)는 주차장 · 설정의 NavigationStack 안에 건다. 판 밖에 걸면 '걱정 주차하기' 버튼이 막대 밑에 깔린다
+- [x] 탭 구조를 그대로 두고 `FoldSplitView` 로 나눠, 펴고 접어도 보던 주차장 · 시트가 남는다
+- [x] 출차 게이트(fullScreenCover) · 온보딩은 `.foldConfined()` (아래 판에만)
+- [x] 툴바 글자 버튼에 아이콘: Cancel · Done · Later · Not now (문자열은 그대로라 번역 추가 없음)
+- [ ] 실기기 · Xcode 27.1 빌드로 펼친 화면 확인 (27.0 빌드는 듀오에서 호환 틀로 뜬다)
+- 확인 방법: 듀오 시뮬레이터에 `-FoldPretend` 로 실행하면 펼친 배치, 인자 없이 실행하면 지금 화면 그대로

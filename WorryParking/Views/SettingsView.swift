@@ -76,6 +76,8 @@ struct SettingsView: View {
             }
             .scrollContentBackground(.hidden)
             .background(Theme.asphalt.ignoresSafeArea())
+            // 펼친 아이폰 듀오의 탭 막대 자리 (NavigationStack 안에서 비운다)
+            .foldTabBarRoom()
             .navigationTitle("Settings")
             .toolbarBackground(Theme.asphalt, for: .navigationBar)
             .sheet(isPresented: $showingPaywall) { PaywallView() }
