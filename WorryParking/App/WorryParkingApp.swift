@@ -1,11 +1,17 @@
 import SwiftUI
 import SwiftData
+import AppIntents
 import LeeoKit
 
 @main
 struct WorryParkingApp: App {
     @UIApplicationDelegateAdaptor(AppDelegate.self) private var appDelegate
     @State private var store = StoreManager()
+
+    init() {
+        // Siri 인텐트가 같은 저장소를 쓴다 (→ WorryIntents.swift)
+        AppDependencyManager.shared.add(dependency: Self.container)
+    }
 
     var body: some Scene {
         WindowGroup {
