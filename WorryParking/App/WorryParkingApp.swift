@@ -9,6 +9,8 @@ struct WorryParkingApp: App {
     @State private var store = StoreManager()
 
     init() {
+        // 백업 금고: 예약된 복원 · 업데이트 직전 백업을 저장소가 열리기 전에 한다
+        LeeoVault.start(WorryParkingSpec.self)
         // Siri 인텐트가 같은 저장소를 쓴다 (→ WorryIntents.swift)
         AppDependencyManager.shared.add(dependency: Self.container)
     }

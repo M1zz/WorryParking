@@ -57,6 +57,9 @@ struct SettingsView: View {
                 }
 
                 Section("About") {
+                    NavigationLink { LeeoVaultView(appName: WorryParkingSpec.displayName) } label: {
+                        Label(LeeoVaultText.entry, systemImage: "externaldrive.badge.timemachine")
+                    }
                     NavigationLink {
                         WhyItWorksView()
                             .navigationBarTitleDisplayMode(.inline)

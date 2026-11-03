@@ -16,6 +16,8 @@ enum WorryParkingSpec: LeeoAppSpec {
     )
     /// 구독은 LeeoKit 밖(`StoreManager`)에 있다. LeeoKit 이 페이월을 그리지 않게 `.free` 로 둔다.
     static let monetization = LeeoMonetization.free
+    /// 피드백 허브 iCloud 컨테이너가 entitlements 에 없다. 금고는 파일로만 내보낸다.
+    static let vaultUsesICloud = false
 
     /// 이미 다 가진 사람이 조금 더 내고 싶을 때 내는 곳. 소모성 상품 셋, 작은 것부터.
     /// ⚠️ 기능을 여는 상품이 아니다 — `StoreManager.productIDs` 에 넣지 않는다.
