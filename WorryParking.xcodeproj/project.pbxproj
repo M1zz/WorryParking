@@ -299,6 +299,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				CODE_SIGN_ENTITLEMENTS = WorryParking/WorryParking.entitlements;
 				PRODUCT_BUNDLE_IDENTIFIER = com.devkoan.worryparking;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -328,6 +329,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				CODE_SIGN_ENTITLEMENTS = WorryParking/WorryParking.entitlements;
 				PRODUCT_BUNDLE_IDENTIFIER = com.devkoan.worryparking;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
