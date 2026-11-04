@@ -19,6 +19,7 @@ struct ParkWorryIntent: AppIntent {
     )
 
     @Parameter(title: LocalizedStringResource("Worry", comment: "Siri: worry text parameter"),
+               description: LocalizedStringResource("The worry to set aside. It stays hidden until your Worry Time.", comment: "Siri: what the worry parameter is for"),
                requestValueDialog: IntentDialog(LocalizedStringResource("What’s on your mind?", comment: "Siri: ask for the worry")))
     var worry: String
 

@@ -20332,6 +20332,150 @@
         }
       }
     },
+    "The worry to set aside. It stays hidden until your Worry Time." : {
+      "comment" : "Siri: what the worry parameter is for",
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Starost, kterou chceš odložit. Zůstane skrytá až do tvého času na starosti."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Den bekymring, du vil lægge fra dig. Den er skjult indtil din bekymringstid."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die Sorge, die du beiseitelegen willst. Sie bleibt bis zu deiner Sorgenzeit verborgen."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η ανησυχία που θέλεις να αφήσεις στην άκρη. Μένει κρυφή μέχρι την ώρα ανησυχίας σου."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The worry to set aside. It stays hidden until your Worry Time."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La preocupación que quieres dejar a un lado. Se queda oculta hasta tu hora de preocuparte."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Huoli, jonka haluat laskea syrjään. Se pysyy piilossa huoliaikaasi asti."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le souci que tu veux mettre de côté. Il reste masqué jusqu’à ton heure des soucis."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kekhawatiran yang ingin kamu sisihkan. Tetap tersembunyi sampai Waktu Khawatir-mu."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La preoccupazione da mettere da parte. Resta nascosta fino alla tua ora delle preoccupazioni."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "いったん置いておきたい心配ごと。心配タイムまで隠れています。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "잠시 내려놓을 걱정이에요. 걱정 시간까지 숨겨 둡니다."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bekymringen du vil legge fra deg. Den er skjult til bekymringstiden din."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De zorg die je opzij wilt zetten. Hij blijft verborgen tot je zorgentijd."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zmartwienie, które chcesz odłożyć. Pozostaje ukryte do twojej pory na zmartwienia."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A preocupação que você quer deixar de lado. Ela fica oculta até a sua hora de se preocupar."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тревога, которую хочется отложить. Она скрыта до вашего времени тревог."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oron du vill lägga åt sidan. Den är dold till din orotid."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ความกังวลที่อยากพักไว้ก่อน จะถูกซ่อนไว้จนถึงเวลากังวลของคุณ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bir kenara bırakmak istediğin endişe. Endişe Saatine kadar gizli kalır."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nỗi lo bạn muốn tạm gác lại. Nó sẽ được ẩn đến giờ lo lắng của bạn."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "想先放一边的烦恼。在你的烦恼时间到来之前，它会一直被遮住。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "想先放一邊的煩惱。在你的煩惱時間到來之前，它會一直被遮住。"
+          }
+        }
+      }
+    },
     "Ticket #%@" : {
       "localizations" : {
         "cs" : {
