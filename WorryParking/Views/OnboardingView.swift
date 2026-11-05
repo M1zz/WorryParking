@@ -137,6 +137,7 @@ struct OnboardingView: View {
 private struct ExampleWalkthrough: View {
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
     @Environment(\.accessibilityVoiceOverEnabled) private var voiceOverEnabled
+    @Environment(\.dynamicTypeSize) private var dynamicTypeSize
 
     @State private var step = 0
     @State private var autoplay = true
@@ -172,7 +173,7 @@ private struct ExampleWalkthrough: View {
                     }
                 }
                 .id(step)
-                .transition(.asymmetric(
+                .transition(reduceMotion ? .opacity : .asymmetric(
                     insertion: .move(edge: .trailing).combined(with: .opacity),
                     removal: .opacity
                 ))
@@ -197,7 +198,9 @@ private struct ExampleWalkthrough: View {
     }
 
     private var stepPicker: some View {
-        HStack(spacing: 8) {
+        // Chips side by side, stacked at accessibility text sizes.
+        let layout = dynamicTypeSize.isAccessibilitySize ? AnyLayout(VStackLayout(spacing: 8)) : AnyLayout(HStackLayout(spacing: 8))
+        return layout {
             stepChip(0, title: "Write", systemImage: "pencil")
             stepChip(1, title: "Park", systemImage: "parkingsign")
             stepChip(2, title: "Exit", systemImage: "arrow.up.right")

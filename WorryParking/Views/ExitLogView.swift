@@ -93,10 +93,16 @@ struct InsightsCard: View {
     let summary: InsightsSummary
     let isUnlocked: Bool
     let onUnlock: () -> Void
+    @Environment(\.dynamicTypeSize) private var dynamicTypeSize
+
+    /// Three tiles side by side, stacked at accessibility text sizes.
+    private var tileLayout: AnyLayout {
+        dynamicTypeSize.isAccessibilitySize ? AnyLayout(VStackLayout(spacing: 12)) : AnyLayout(HStackLayout(spacing: 12))
+    }
 
     var body: some View {
         VStack(alignment: .leading, spacing: 16) {
-            HStack(spacing: 12) {
+            tileLayout {
                 StatTile(value: "\(summary.total)", label: String(localized: "Exited"))
                 StatTile(
                     value: summary.didNotHappenRate.map { $0.formatted(.percent.precision(.fractionLength(0))) } ?? "–",
@@ -221,9 +227,9 @@ struct ExperienceRow: View {
                     .font(.caption)
                     .foregroundStyle(.secondary)
             }
-            HStack(spacing: 6) {
-                Tag(text: entry.feeling.title(for: entry.moment), color: entry.feeling.color)
-                Tag(text: String(localized: "Level \(entry.levelBefore) → \(entry.levelAfter)"), color: .gray)
+            ViewThatFits(in: .horizontal) {
+                HStack(spacing: 6) { tags }
+                VStack(alignment: .leading, spacing: 6) { tags }
             }
             if !entry.note.isEmpty {
                 Text(entry.note)
@@ -233,5 +239,11 @@ struct ExperienceRow: View {
             }
         }
         .padding(.vertical, 6)
+    }
+
+    @ViewBuilder
+    private var tags: some View {
+        Tag(text: entry.feeling.title(for: entry.moment), color: entry.feeling.color)
+        Tag(text: String(localized: "Level \(entry.levelBefore) → \(entry.levelAfter)"), color: .gray)
     }
 }
