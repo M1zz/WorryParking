@@ -32,11 +32,15 @@ CBT의 걱정 미루기(worry postponement / scheduled worry) 기법을 주차�
 | 처리 방식 | 떠나보내기 / 다음 행동 계획 / 재주차 |
 | 기록 | Exit Log — 이력 + 인사이트 ("걱정의 N%는 일어나지 않았음") |
 
-## 수익화 ($3.99/월)
-- 제품 ID: `com.devkoan.worryparking.pro.monthly` (1주 무료 체험 포함, StoreKit 설정 파일 기준)
-- 무료: 동시 주차 3칸, Worry Time 기반 출차 시간
-- Pro: 무제한 주차 칸, 사용자 지정 출차 시간, Exit 인사이트(차트)
-- 페이월은 `SubscriptionStoreView` 사용 → App Store Connect에 같은 ID로 구독 상품만 만들면 그대로 동작
+## 수익화 (무료 · Pro)
+- 무료: 동시 주차 5칸, 걱정 시간 출차 · 알림 · 출차 게이트, 출차 기록과 텍스트 내보내기
+- Pro: 무제한 주차 칸, 출차 시간 직접 지정, 출차 인사이트(차트)
+- 상품(`Services/StoreManager.swift` 의 `ProProduct`, 구독 그룹 "Worry Parking Pro"):
+  `com.devkoan.worryparking.pro.weekly` · `.pro.monthly` · `.pro.yearly`(첫 해 반값) 자동 갱신 구독,
+  `.pro.lifetime` 평생, `.pro.graduate` 구독자 졸업 평생가. 팁(`.tip.*`)은 아무것도 열지 않는다
+- 구매 · 복원 · 거래 리스너는 LeeoKit `LeeoStore`. 페이월은 `Views/PaywallView.swift`
+- 스토어에서 Pro 상품을 한 번도 못 불러온 기기는 막지 않는다(`StoreManager.sellsPro`)
+- 1.0.2 빌드 7 까지 받은 사람은 Pro 그대로(`AppTransaction.originalAppVersion`)
 
 ## 현지화
 - 영어(기본) + 한국어 + 22개 언어(en-GB, zh-Hans, zh-Hant, ja, ru, es, de, fr, it, pt-BR, th, vi, cs, da, el, fi, id, nb, nl, pl, sv, tr). `WorryParking/Localizable.xcstrings`(UI), `InfoPlist.xcstrings`(앱 이름: 걱정 주차장)

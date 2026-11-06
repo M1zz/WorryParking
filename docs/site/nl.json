@@ -1,11 +1,11 @@
 {
   "title": "Zorgenparking: parkeer je zorgen voor het slapengaan",
-  "description": "Schrijf de zorg op die blijft malen, parkeer hem en geef hem 15 minuten op je Zorgentijd. Gebaseerd op een techniek uit CGT. Helemaal gratis.",
+  "description": "Schrijf de zorg op die blijft malen, parkeer hem en geef hem 15 minuten op je Zorgentijd. Gebaseerd op een techniek uit CGT. Gratis om te beginnen.",
   "hero": {
     "headline": "Parkeer je zorg.\nHaal hem later op.",
     "lead": "Schrijf op wat er bij het slapengaan door je hoofd maalt en laat het achter op een parkeerkaartje. Op je Zorgentijd krijg je het terug. Tot die tijd hoef je het niet mee te sjouwen.",
     "cta": "Gratis downloaden in de App Store",
-    "note": "Alle functies zijn gratis. Geen reclame, geen account."
+    "note": "Gratis te gebruiken, met Pro als je meer ruimte nodig hebt. Geen reclame, geen account."
   },
   "demo": {
     "title": "Parkeer één zorg",
@@ -101,23 +101,24 @@
     "note": "Zorgenparking is gebaseerd op het uitstellen van zorgen, een techniek uit de cognitieve gedragstherapie (CGT) die al tientallen jaren wordt onderzocht."
   },
   "pricing": {
-    "title": "Alles is gratis",
+    "title": "Gratis, en met Pro meer ruimte",
     "free": {
       "name": "Gratis",
       "items": [
-        "Onbeperkt parkeerplaatsen",
-        "Dagelijkse herinneringen op je Zorgentijd en zelf te kiezen uitrittijden",
+        "5 parkeerplekken",
+        "Uitrit op je Zorgentijd met dagelijkse herinnering",
         "Slagboom en uitritlogboek",
-        "Inzichten over uitritten: hoeveel er uitkwam en hoeveel de kracht zakte"
+        "Exporteer je uitritlogboek als tekst"
       ]
     },
     "pro": {
-      "name": "Een fooi, als je wilt",
+      "name": "Pro",
       "items": [
-        "Heb je er iets aan, dan kun je de ontwikkelaar een kleine fooi geven",
-        "Klein, middel of groot, wat je wilt"
+        "Onbeperkte plekken",
+        "Eigen uitrittijden",
+        "Inzichten over uitritten: hoeveel er uitkwamen en hoeveel de sterkte daalde"
       ],
-      "note": "Een fooi ontgrendelt niets. Zonder werkt alles precies hetzelfde."
+      "note": "Week-, maand- of jaarabonnement, of een eenmalige aankoop voor altijd. Fooien ontgrendelen niets."
     },
     "note": "Geen reclame, geen account, geen servers, geen analysetools. Alles wat je schrijft blijft op je iPhone."
   },

@@ -59,7 +59,7 @@ struct ParkingLotView: View {
                     .foldConfined()
             }
             .sheet(isPresented: $showingPaywall) {
-                PaywallView()
+                PaywallView(highlight: .spots)
             }
         }
     }

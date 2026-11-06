@@ -15,7 +15,7 @@ enum ScreenshotScene: String {
 struct ScreenshotRootView: View {
     let scene: ScreenshotScene
 
-    @State private var store = StoreManager()
+    @State private var store = StoreManager.shared
     @State private var data = ScreenshotData()
 
     var body: some View {

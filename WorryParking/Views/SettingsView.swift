@@ -1,19 +1,15 @@
 import SwiftUI
-import StoreKit
 import UIKit
 import LeeoKit
 import UserNotifications
 
 struct SettingsView: View {
-    @Environment(StoreManager.self) private var store
     @Environment(\.openURL) private var openURL
     @Environment(\.scenePhase) private var scenePhase
     @AppStorage(SettingsKey.worryHour) private var worryHour = WorryTime.defaultHour
     @AppStorage(SettingsKey.worryMinute) private var worryMinute = WorryTime.defaultMinute
 
     @State private var notificationStatus: UNAuthorizationStatus = .notDetermined
-    @State private var showingPaywall = false
-    @State private var showingManageSubscription = false
 
     var body: some View {
         NavigationStack {
@@ -32,24 +28,7 @@ struct SettingsView: View {
                     notificationRow
                 }
 
-                if AppConfig.subscriptionsEnabled {
-                    Section("Worry Parking Pro") {
-                        if store.isPro {
-                            Label("Pro is active", systemImage: "checkmark.seal.fill")
-                                .foregroundStyle(Theme.readyGreen)
-                            Button("Manage subscription") { showingManageSubscription = true }
-                        } else {
-                            Button {
-                                showingPaywall = true
-                            } label: {
-                                Label("Unlimited spots, custom exit times, insights", systemImage: "sparkles")
-                            }
-                        }
-                        Button("Restore purchases") {
-                            Task { await store.restorePurchases() }
-                        }
-                    }
-                }
+                ProSettingsSection()
 
                 // 개발자 응원하기 — 판매 중인 팁이 있어야 선다.
                 Section {
@@ -73,6 +52,10 @@ struct SettingsView: View {
                     Text("Worry Parking is a self-help tool, not a medical device or a substitute for professional care. If you're struggling, please reach out to a mental health professional or local emergency services.")
                         .font(.footnote)
                         .foregroundStyle(.secondary)
+                    // 안전 안내 — 누구에게나 연다. 나라마다 맞는 상담 전화를 모아 둔 곳으로 보낸다.
+                    Link(destination: AppConfig.helplineURL) {
+                        Label("Find a helpline near you", systemImage: "phone.bubble")
+                    }
                     Link("Terms of Use", destination: AppConfig.termsURL)
                     Link("Privacy Policy", destination: AppConfig.privacyURL)
                 }
@@ -83,8 +66,6 @@ struct SettingsView: View {
             .foldTabBarRoom()
             .navigationTitle("Settings")
             .toolbarBackground(Theme.asphalt, for: .navigationBar)
-            .sheet(isPresented: $showingPaywall) { PaywallView() }
-            .manageSubscriptionsSheet(isPresented: $showingManageSubscription)
             .task { await refreshNotificationStatus() }
             .onChange(of: scenePhase) { _, phase in
                 if phase == .active {

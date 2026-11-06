@@ -22,15 +22,15 @@ KOKEILE HETI
 Aloituksessa pysäköit yhden oikean huolen ja näet, miten sen voimakkuus muuttuu ennen pysäköintiä ja sen jälkeen. Miltä se tuntui, tallentuu kohtaan ”Kokemuksesi”, jotta voit katsoa sitä myöhemmin.
 
 ULOSAJOLOKI
-Kun läpikäytyjä huolia kertyy, näet, kuinka suuri osa peloistasi toteutui oikeasti ja kuinka paljon voimakkuus laski keskimäärin.
+Kun läpikäytyjä huolia kertyy, näet, kuinka suuri osa peloistasi toteutui oikeasti ja kuinka paljon voimakkuus laski keskimäärin. Ulosajojen tilastot kuuluvat Prohon.
 
 YKSITYISYYS ENNEN KAIKKEA
 • Ei tiliä, ei palvelimia, ei mainoksia, ei analytiikkaa. Kaikki kirjoittamasi pysyy iPhonessasi.
 • Ilmoituksissa näkyy vain paikan numero, esimerkiksi ”P3 on valmis noudettavaksi”. Huolesi tekstiä ei koskaan liitetä mukaan.
 
-MITÄ SOVELLUKSESSA ON
-• Rajattomat paikat, omat ulosajoajat, päivittäiset huoliajan muistutukset
-• Ulosajopuomi, ulosajoloki ja ulosajojen tilastot
+ILMAINEN – JA PROLLA LISÄÄ TILAA
+• Ilmainen: 5 pysäköintipaikkaa, ulosajo huoliaikana ja päivittäinen muistutus, ulosajopuomi ja ulosajoloki
+• Pro: rajattomat paikat, omat ulosajoajat ja ulosajojen tilastot. Valitse viikko-, kuukausi- tai vuositilaus tai elinikäinen kertaosto.
 
 Käyttöehdot: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 Tietosuojakäytäntö: https://m1zz.github.io/WorryParking/fi/privacy.html

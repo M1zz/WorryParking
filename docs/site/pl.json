@@ -1,11 +1,11 @@
 {
   "title": "Parking Zmartwień: zaparkuj zmartwienia przed snem",
-  "description": "Zapisz zmartwienie, które krąży w głowie, zaparkuj je i poświęć mu 15 minut w Porze na zmartwienia. Oparte na technice z CBT. Wszystko za darmo.",
+  "description": "Zapisz zmartwienie, które krąży w głowie, zaparkuj je i poświęć mu 15 minut w Porze na zmartwienia. Oparte na technice z CBT. Zacznij za darmo.",
   "hero": {
     "headline": "Zaparkuj zmartwienie.\nOdbierz je później.",
     "lead": "Zapisz to, co krąży ci po głowie przed snem, i zostaw na bilecie parkingowym. Oddamy ci je w Porze na zmartwienia. Do tego czasu nie musisz go nosić ze sobą.",
     "cta": "Pobierz za darmo z App Store",
-    "note": "Wszystkie funkcje są darmowe. Bez reklam i bez konta."
+    "note": "Za darmo, a z Pro więcej miejsca, gdy go potrzebujesz. Bez reklam i bez konta."
   },
   "demo": {
     "title": "Zaparkuj jedno zmartwienie",
@@ -101,23 +101,24 @@
     "note": "Parking Zmartwień opiera się na odraczaniu zmartwień, technice terapii poznawczo-behawioralnej (CBT) badanej od dziesięcioleci."
   },
   "pricing": {
-    "title": "Wszystko za darmo",
+    "title": "Za darmo, a z Pro więcej miejsca",
     "free": {
       "name": "Za darmo",
       "items": [
-        "Nielimitowane miejsca parkingowe",
-        "Codzienne przypomnienia w Porze na zmartwienia i własna godzina wyjazdu",
+        "5 miejsc parkingowych",
+        "Wyjazd o Porze na zmartwienia z codziennym przypomnieniem",
         "Szlaban wyjazdowy i dziennik wyjazdów",
-        "Statystyki wyjazdów: ile się spełniło i o ile spadła siła"
+        "Eksport dziennika wyjazdów jako tekst"
       ]
     },
     "pro": {
-      "name": "Napiwek, jeśli chcesz",
+      "name": "Pro",
       "items": [
-        "Jeśli aplikacja ci pomaga, możesz dać twórcy mały napiwek",
-        "Mały, średni lub duży, jak wolisz"
+        "Nieograniczona liczba miejsc",
+        "Własne czasy wyjazdu",
+        "Statystyki wyjazdów: ile się sprawdziło i o ile spadła siła"
       ],
-      "note": "Napiwek niczego nie odblokowuje. Bez niego wszystko działa tak samo."
+      "note": "Subskrypcja tygodniowa, miesięczna lub roczna albo jednorazowy zakup na zawsze. Napiwki niczego nie odblokowują."
     },
     "note": "Bez reklam, konta, serwerów i narzędzi analitycznych. Wszystko, co piszesz, zostaje na twoim iPhonie."
   },

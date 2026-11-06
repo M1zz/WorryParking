@@ -1,11 +1,11 @@
 {
   "title": "Parking de Preocupaciones: aparca tus preocupaciones antes de dormir",
-  "description": "Escribe la preocupación que no te deja en paz, apárcala y dedícale 15 minutos a tu Hora de preocuparse. Basada en la TCC. Todo es gratis.",
+  "description": "Escribe la preocupación que no te deja en paz, apárcala y dedícale 15 minutos a tu Hora de preocuparse. Basada en la TCC. Empieza gratis.",
   "hero": {
     "headline": "Aparca la preocupación.\nRecógela luego.",
     "lead": "Escribe lo que te da vueltas en la cabeza al acostarte y déjalo en un tique de parking. Te lo devolvemos a tu Hora de preocuparse. Hasta entonces, no tienes que cargar con ello.",
     "cta": "Descargar gratis en el App Store",
-    "note": "Todas las funciones son gratis. Sin anuncios y sin cuenta."
+    "note": "Úsala gratis y, si necesitas más espacio, pásate a Pro. Sin anuncios y sin cuenta."
   },
   "demo": {
     "title": "Aparca una preocupación",
@@ -101,23 +101,24 @@
     "note": "Parking de Preocupaciones se basa en el aplazamiento de la preocupación, una técnica de la terapia cognitivo-conductual (TCC) estudiada durante décadas."
   },
   "pricing": {
-    "title": "Todo es gratis",
+    "title": "Gratis, y con Pro más espacio",
     "free": {
       "name": "Gratis",
       "items": [
-        "Plazas de parking ilimitadas",
-        "Avisos diarios a tu Hora de preocuparse y hora de salida a tu medida",
-        "Barrera de salida y registro de salidas",
-        "Información de salidas: cuántas se cumplieron y cuánto bajó la intensidad"
+        "5 plazas",
+        "Salidas en tu Hora de preocuparse, con aviso diario",
+        "La barrera de salida y el registro de salidas",
+        "Exporta tu registro de salidas como texto"
       ]
     },
     "pro": {
-      "name": "Propina, si quieres",
+      "name": "Pro",
       "items": [
-        "Si te ayuda, puedes dejarle una pequeña propina al desarrollador",
-        "Pequeña, mediana o grande, como prefieras"
+        "Plazas ilimitadas",
+        "Horas de salida personalizadas",
+        "Información de salidas: cuántas se cumplieron y cuánto bajó la intensidad"
       ],
-      "note": "La propina no desbloquea nada. Sin ella, todo funciona igual."
+      "note": "Suscripción semanal, mensual o anual, o un pago único para siempre. Las propinas no desbloquean nada."
     },
     "note": "Sin anuncios, sin cuenta, sin servidores y sin herramientas de análisis. Todo lo que escribes se queda en tu iPhone."
   },

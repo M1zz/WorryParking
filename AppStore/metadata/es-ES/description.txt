@@ -22,15 +22,15 @@ PRUÉBALO AL MOMENTO
 En la introducción aparcas una preocupación real y ves cómo cambia su nivel antes y después. Lo que sentiste se guarda en «Tu experiencia» para que puedas revisarlo más adelante.
 
 REGISTRO DE SALIDAS
-A medida que se acumulan las preocupaciones revisadas, ves qué parte de tus miedos se cumplió de verdad y cuánto bajó su nivel de media.
+A medida que se acumulan las preocupaciones revisadas, ves qué parte de tus miedos se cumplió de verdad y cuánto bajó su nivel de media. La información de salidas es parte de Pro.
 
 PRIVADA POR DISEÑO
 • Sin cuenta, sin servidores, sin anuncios y sin analíticas. Todo lo que escribes se queda en tu iPhone.
 • Las notificaciones solo muestran el número de plaza, como «P3 está lista para salir». El texto de tu preocupación nunca se incluye.
 
-QUÉ INCLUYE
-• Plazas ilimitadas, horas de salida personalizadas y recordatorios diarios de la hora de preocuparse
-• La barrera de salida, el registro de salidas y la información de salidas
+GRATIS, Y CON PRO MÁS ESPACIO
+• Gratis: 5 plazas, salidas en tu Hora de preocuparse con aviso diario, la barrera de salida y tu registro de salidas
+• Pro: plazas ilimitadas, horas de salida personalizadas e información de salidas. Elige suscripción semanal, mensual o anual, o un pago único para siempre.
 
 Condiciones de uso: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 Política de privacidad: https://m1zz.github.io/WorryParking/es/privacy.html

@@ -1,11 +1,11 @@
 {
   "title": "Endişe Otoparkı: uyumadan önce endişeni park et",
-  "description": "Kafanda dönüp duran endişeyi yaz, park et ve Endişe Saatinde ona yalnızca 15 dakika ayır. BDT tekniğine dayanır. Her şey ücretsiz.",
+  "description": "Kafanda dönüp duran endişeyi yaz, park et ve Endişe Saatinde ona yalnızca 15 dakika ayır. BDT tekniğine dayanır. Ücretsiz başla.",
   "hero": {
     "headline": "Endişeni park et.\nSonra gelip al.",
     "lead": "Uyumadan önce kafanda dönüp duranı bir otopark fişine yaz ve bırak. Endişe Saatinde sana geri veririz. O zamana kadar onu taşımak zorunda değilsin.",
     "cta": "App Store’dan ücretsiz indir",
-    "note": "Tüm özellikler ücretsiz. Reklam yok, hesap yok."
+    "note": "Ücretsiz kullan, daha fazla yer gerekirse Pro var. Reklam yok, hesap yok."
   },
   "demo": {
     "title": "Bir endişeyi park et",
@@ -101,23 +101,24 @@
     "note": "Endişe Otoparkı, bilişsel davranışçı terapinin (BDT) onlarca yıldır araştırılan tekniklerinden biri olan endişe erteleme üzerine kuruludur."
   },
   "pricing": {
-    "title": "Her şey ücretsiz",
+    "title": "Ücretsiz, daha fazlası için Pro",
     "free": {
       "name": "Ücretsiz",
       "items": [
-        "Sınırsız park yeri",
-        "Her gün Endişe Saati hatırlatması, istediğin çıkış saati",
+        "5 park yeri",
+        "Endişe Saati'nde çıkış ve günlük hatırlatma",
         "Çıkış bariyeri ve Çıkış Günlüğü",
-        "Çıkış içgörüleri: kaçı gerçekleşti, şiddet ne kadar düştü"
+        "Çıkış Günlüğü'nü metin olarak dışa aktar"
       ]
     },
     "pro": {
-      "name": "Bahşiş, istersen",
+      "name": "Pro",
       "items": [
-        "Uygulama işine yaradıysa geliştiriciye küçük bir bahşiş bırakabilirsin",
-        "Küçük, orta ya da büyük, nasıl istersen"
+        "Sınırsız park yeri",
+        "Özel çıkış saatleri",
+        "Çıkış içgörüleri: kaçı gerçekleşti, şiddet ne kadar azaldı"
       ],
-      "note": "Bahşiş hiçbir özelliği açmaz. Bahşiş vermeden de her şey aynı çalışır."
+      "note": "Haftalık, aylık veya yıllık abonelik ya da tek seferlik ömür boyu satın alma. Bahşiş hiçbir şeyin kilidini açmaz."
     },
     "note": "Reklam, hesap, sunucu ve analiz aracı yok. Yazdığın her şey iPhone’unda kalır."
   },

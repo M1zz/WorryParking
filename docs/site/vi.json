@@ -1,11 +1,11 @@
 {
   "title": "Bãi đỗ lo âu: gửi nỗi lo lại trước khi ngủ",
-  "description": "Viết ra nỗi lo cứ quanh quẩn trong đầu, đỗ nó lại và chỉ dành 15 phút cho nó vào Giờ lo lắng. Dựa trên kỹ thuật của CBT. Miễn phí hoàn toàn.",
+  "description": "Viết ra nỗi lo cứ quanh quẩn trong đầu, đỗ nó lại và chỉ dành 15 phút cho nó vào Giờ lo lắng. Dựa trên kỹ thuật của CBT. Bắt đầu miễn phí.",
   "hero": {
     "headline": "Đỗ nỗi lo lại đây.\nLát nữa hãy lấy.",
     "lead": "Viết điều cứ quanh quẩn trong đầu trước khi ngủ lên vé gửi xe rồi gửi lại. Đến Giờ lo lắng, chúng tôi trả lại cho bạn. Từ giờ tới lúc đó, bạn không cần mang nó theo.",
     "cta": "Tải miễn phí trên App Store",
-    "note": "Mọi tính năng đều miễn phí. Không quảng cáo, không cần tài khoản."
+    "note": "Dùng miễn phí, cần thêm chỗ thì có Pro. Không quảng cáo, không cần tài khoản."
   },
   "demo": {
     "title": "Thử đỗ một nỗi lo",
@@ -101,23 +101,24 @@
     "note": "Bãi đỗ lo âu dựa trên kỹ thuật trì hoãn lo âu của liệu pháp nhận thức hành vi (CBT), đã được nghiên cứu hàng chục năm."
   },
   "pricing": {
-    "title": "Mọi tính năng đều miễn phí",
+    "title": "Miễn phí, cần thêm thì có Pro",
     "free": {
       "name": "Miễn phí",
       "items": [
-        "Chỗ đỗ không giới hạn",
-        "Nhắc Giờ lo lắng mỗi ngày, tự chọn giờ ra bãi",
+        "5 chỗ đỗ",
+        "Ra bãi vào Giờ lo lắng, kèm nhắc hằng ngày",
         "Cổng ra và nhật ký ra bãi",
-        "Thông tin chi tiết: bao nhiêu điều đã xảy ra, mức độ giảm bao nhiêu"
+        "Xuất nhật ký ra bãi dưới dạng văn bản"
       ]
     },
     "pro": {
-      "name": "Tiền tip (tùy bạn)",
+      "name": "Pro",
       "items": [
-        "Nếu thấy có ích, bạn có thể gửi nhà phát triển một khoản tip nhỏ",
-        "Chọn mức nhỏ, vừa hoặc lớn"
+        "Chỗ đỗ không giới hạn",
+        "Giờ ra bãi tùy chỉnh",
+        "Thông tin chi tiết: bao nhiêu điều đã xảy ra, mức lo giảm bao nhiêu"
       ],
-      "note": "Tip không mở khóa gì cả. Không tip vẫn dùng được mọi tính năng."
+      "note": "Chọn gói tuần, tháng, năm hoặc mua một lần dùng trọn đời. Tiền tip không mở khóa tính năng nào."
     },
     "note": "Không quảng cáo, không tài khoản, không máy chủ, không công cụ phân tích. Mọi thứ bạn viết chỉ nằm trên iPhone của bạn."
   },

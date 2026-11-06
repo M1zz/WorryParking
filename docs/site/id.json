@@ -1,11 +1,11 @@
 {
   "title": "Parkir Kekhawatiran: titipkan kekhawatiran sebelum tidur",
-  "description": "Tulis kekhawatiran yang terus berputar, parkirkan, lalu hadapi 15 menit saja di Waktu Khawatir. Berbasis teknik CBT. Semua fitur gratis.",
+  "description": "Tulis kekhawatiran yang terus berputar, parkirkan, lalu hadapi 15 menit saja di Waktu Khawatir. Berbasis teknik CBT. Mulai gratis.",
   "hero": {
     "headline": "Parkirkan dulu\nkekhawatiranmu",
     "lead": "Tulis hal yang terus berputar di kepala menjelang tidur di karcis parkir, lalu titipkan. Saat Waktu Khawatir tiba, kami kembalikan. Sampai saat itu, kamu tidak perlu membawanya ke mana-mana.",
     "cta": "Unduh gratis di App Store",
-    "note": "Semua fitur gratis. Tanpa iklan, tanpa akun."
+    "note": "Gratis dipakai, dan ada Pro kalau butuh ruang lebih. Tanpa iklan, tanpa akun."
   },
   "demo": {
     "title": "Coba parkirkan satu kekhawatiran",
@@ -101,23 +101,24 @@
     "note": "Parkir Kekhawatiran dibuat berdasarkan penundaan kekhawatiran, teknik terapi perilaku kognitif (CBT) yang sudah diteliti selama puluhan tahun."
   },
   "pricing": {
-    "title": "Semua fitur gratis",
+    "title": "Gratis, dan Pro untuk ruang lebih",
     "free": {
       "name": "Gratis",
       "items": [
-        "Tempat parkir tanpa batas",
-        "Pengingat Waktu Khawatir setiap hari, jam keluar bisa diatur sendiri",
+        "5 petak parkir",
+        "Keluar di Waktu Khawatir, dengan pengingat harian",
         "Gerbang keluar dan catatan keluar",
-        "Wawasan keluar: berapa yang terjadi dan seberapa turun intensitasnya"
+        "Ekspor catatan keluar sebagai teks"
       ]
     },
     "pro": {
-      "name": "Tip (kalau mau)",
+      "name": "Pro",
       "items": [
-        "Kalau terbantu, kamu bisa memberi tip kecil untuk pengembang",
-        "Pilih kecil, sedang, atau besar"
+        "Petak parkir tanpa batas",
+        "Waktu keluar kustom",
+        "Wawasan keluar: berapa yang benar terjadi dan seberapa turun intensitasnya"
       ],
-      "note": "Tip tidak membuka fitur apa pun. Tanpa tip, semuanya tetap bisa dipakai."
+      "note": "Langganan mingguan, bulanan, atau tahunan, atau sekali bayar seumur hidup. Tip tidak membuka fitur apa pun."
     },
     "note": "Tanpa iklan, akun, server, atau alat analitik. Semua yang kamu tulis hanya tersimpan di iPhone-mu."
   },

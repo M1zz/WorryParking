@@ -1,11 +1,11 @@
 {
   "title": "Parking des Soucis : garer ses soucis avant de dormir",
-  "description": "Écris le souci qui tourne en boucle, gare-le et accorde-lui 15 minutes à ton heure des soucis. Inspiré de la TCC. Entièrement gratuit.",
+  "description": "Écris le souci qui tourne en boucle, gare-le et accorde-lui 15 minutes à ton heure des soucis. Inspiré de la TCC. Gratuit pour commencer.",
   "hero": {
     "headline": "Gare ton souci.\nReprends-le plus tard.",
     "lead": "Écris ce qui tourne dans ta tête au moment de dormir et laisse-le sur un ticket de parking. On te le rend à ton heure des soucis. D’ici là, tu n’as pas à le porter.",
     "cta": "Télécharger gratuitement sur l’App Store",
-    "note": "Toutes les fonctions sont gratuites. Pas de pub, pas de compte."
+    "note": "Gratuit, avec Pro quand il te faut plus de place. Pas de pub, pas de compte."
   },
   "demo": {
     "title": "Gare un souci",
@@ -101,23 +101,24 @@
     "note": "Parking des Soucis s’appuie sur le report des soucis, une technique des thérapies cognitives et comportementales (TCC) étudiée depuis des décennies."
   },
   "pricing": {
-    "title": "Tout est gratuit",
+    "title": "Gratuit, et avec Pro plus de place",
     "free": {
       "name": "Gratuit",
       "items": [
-        "Places de parking illimitées",
-        "Rappels quotidiens à l’heure des soucis, heure de sortie au choix",
-        "Barrière de sortie et journal des sorties",
-        "Analyses des sorties : combien se sont réalisés, de combien l’intensité a baissé"
+        "5 places",
+        "Sorties à ton heure des soucis, avec rappel quotidien",
+        "La barrière de sortie et le journal des sorties",
+        "Export du journal des sorties en texte"
       ]
     },
     "pro": {
-      "name": "Un pourboire, si tu veux",
+      "name": "Pro",
       "items": [
-        "Si l’app t’aide, tu peux laisser un petit pourboire au développeur",
-        "Petit, moyen ou grand, au choix"
+        "Places illimitées",
+        "Heures de sortie personnalisées",
+        "Analyses des sorties : combien se sont réalisés, de combien l’intensité a baissé"
       ],
-      "note": "Le pourboire ne débloque rien. Tout fonctionne pareil sans."
+      "note": "Abonnement à la semaine, au mois ou à l’année, ou achat unique à vie. Les pourboires ne débloquent rien."
     },
     "note": "Pas de pub, pas de compte, pas de serveur, pas d’outil d’analyse. Tout ce que tu écris reste sur ton iPhone."
   },

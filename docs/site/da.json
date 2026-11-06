@@ -1,11 +1,11 @@
 {
   "title": "Bekymringsparkering: parkér bekymringerne før sengetid",
-  "description": "Skriv den bekymring ned, der kører i ring, parkér den og giv den 15 minutter i din bekymringstid. Bygger på en teknik fra KAT. Alt er gratis.",
+  "description": "Skriv den bekymring ned, der kører i ring, parkér den og giv den 15 minutter i din bekymringstid. Bygger på en teknik fra KAT. Gratis at komme i gang.",
   "hero": {
     "headline": "Parkér bekymringen.\nHent den senere.",
     "lead": "Skriv det ned, der kører rundt i hovedet ved sengetid, og efterlad det på en parkeringsbillet. Du får det tilbage i din bekymringstid. Indtil da behøver du ikke slæbe rundt på det.",
     "cta": "Hent gratis i App Store",
-    "note": "Alle funktioner er gratis. Ingen reklamer, ingen konto."
+    "note": "Gratis at bruge, med Pro når du har brug for mere plads. Ingen reklamer, ingen konto."
   },
   "demo": {
     "title": "Parkér en bekymring",
@@ -101,23 +101,24 @@
     "note": "Bekymringsparkering bygger på udskydelse af bekymringer, en teknik fra kognitiv adfærdsterapi (KAT), der er blevet forsket i i årtier."
   },
   "pricing": {
-    "title": "Alt er gratis",
+    "title": "Gratis – med Pro mere plads",
     "free": {
       "name": "Gratis",
       "items": [
-        "Ubegrænset antal parkeringspladser",
-        "Daglige påmindelser i bekymringstiden og selvvalgt udkørselstid",
+        "5 parkeringspladser",
+        "Udkørsel ved din bekymringstid med daglig påmindelse",
         "Udkørselsbom og udkørselslog",
-        "Indsigt i udkørsler: hvor mange der skete, og hvor meget styrken faldt"
+        "Eksportér udkørselsloggen som tekst"
       ]
     },
     "pro": {
-      "name": "Drikkepenge, hvis du vil",
+      "name": "Pro",
       "items": [
-        "Hvis appen hjælper, kan du give udvikleren lidt drikkepenge",
-        "Lille, mellem eller stor, som du vil"
+        "Ubegrænsede pladser",
+        "Egne udkørselstider",
+        "Indsigt i udkørsler: hvor mange der skete, og hvor meget styrken faldt"
       ],
-      "note": "Drikkepenge låser ikke op for noget. Uden virker alt på samme måde."
+      "note": "Uge-, måneds- eller årsabonnement eller et engangskøb for livstid. Drikkepenge låser ikke noget op."
     },
     "note": "Ingen reklamer, ingen konto, ingen servere, ingen analyseværktøjer. Alt, hvad du skriver, bliver på din iPhone."
   },

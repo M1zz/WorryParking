@@ -6,7 +6,7 @@ import LeeoKit
 @main
 struct WorryParkingApp: App {
     @UIApplicationDelegateAdaptor(AppDelegate.self) private var appDelegate
-    @State private var store = StoreManager()
+    @State private var store = StoreManager.shared
 
     init() {
         // 백업 금고: 예약된 복원 · 업데이트 직전 백업을 저장소가 열리기 전에 한다
@@ -21,7 +21,6 @@ struct WorryParkingApp: App {
                 .environment(store)
                 .preferredColorScheme(.dark)
                 .tint(Theme.lineYellow)
-                .task { await store.start() }
                 // 팁 상품을 불러오고 끝나지 않은 팁을 마저 센다 (LeeoStore 없이 혼자)
                 .task { await WorryParkingSpec.tipJar.startStandalone() }
                 // 아이폰 듀오: 접힘을 재서 아래로 흘린다. 시트 · 알림창도 접힌 선을 비킨다.
@@ -76,6 +75,9 @@ struct RootView: View {
 struct MainTabView: View {
     @State var selection = 0
     @Environment(\.foldLayout) private var fold
+    @Environment(\.scenePhase) private var scenePhase
+    @Environment(StoreManager.self) private var store
+    @State private var showingGraduation = false
 
     var body: some View {
         TabView(selection: $selection) {
@@ -97,6 +99,16 @@ struct MainTabView: View {
         .onChange(of: fold.isUnfolded, initial: true) { _, unfolded in
             if unfolded, selection == 1 { selection = 0 }
         }
+        // 앱을 열 때와 다시 앞에 올 때 영수증을 읽는다. 구독 졸업을 제안할 때면 한 번 띄운다.
+        .task(id: scenePhase) {
+            guard scenePhase == .active else { return }
+            await store.refresh()
+            if store.graduationIsDue {
+                store.markGraduationOffered()
+                showingGraduation = true
+            }
+        }
+        .sheet(isPresented: $showingGraduation) { ProGraduationSheet() }
     }
 
     private func foldTab<Choose: View>(@ViewBuilder _ choose: () -> Choose) -> some View {

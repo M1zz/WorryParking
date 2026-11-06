@@ -22,15 +22,15 @@ TRY IT RIGHT AWAY
 During onboarding you park one real worry and see how its level changes before and after. How it felt is saved under "Your experience" so you can look back later.
 
 EXIT LOG
-As your reviewed worries add up, see what share of your fears actually came true and how much their level dropped.
+As your reviewed worries add up, see what share of your fears actually came true and how much their level dropped. Exit insights come with Pro.
 
 PRIVATE BY DESIGN
 • No account, no servers, no ads, no analytics. Everything you write stays on your iPhone.
 • Notifications only show the spot number, like "P3 is ready for pickup". Your worry text is never included.
 
-EVERYTHING IS FREE
-• Unlimited parking spots, custom exit times, daily Worry Time reminders
-• The exit gate, Exit Log and Exit insights
+FREE, WITH PRO FOR MORE ROOM
+• Free: 5 parking spots, exits at your Worry Time with daily reminders, the exit gate and your Exit Log
+• Pro: unlimited spots, custom exit times and Exit insights. Choose a weekly, monthly or yearly subscription, or a one-time lifetime purchase.
 
 Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 Privacy Policy: https://m1zz.github.io/WorryParking/en/privacy.html

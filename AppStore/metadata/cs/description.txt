@@ -22,15 +22,15 @@ VYZKOUŠEJ HNED
 Při úvodním seznámení zaparkuješ jednu skutečnou starost a uvidíš, jak se její úroveň změní před zaparkováním a po něm. Jaké to bylo, se uloží do „Tvoje zkušenost“, takže se k tomu můžeš později vrátit.
 
 DENÍK VÝJEZDŮ
-Jak se hromadí prověřené starosti, uvidíš, jaký podíl tvých obav se doopravdy splnil a o kolik v průměru klesla jejich intenzita.
+Jak se hromadí prověřené starosti, uvidíš, jaký podíl tvých obav se doopravdy splnil a o kolik v průměru klesla jejich intenzita. Přehledy výjezdů jsou součástí Pro.
 
 SOUKROMÍ JE ZÁKLAD
 • Žádný účet, žádné servery, žádné reklamy, žádná analytika. Vše, co napíšeš, zůstává v tvém iPhonu.
 • Upozornění ukazují jen číslo místa, například „P3 je připraveno k vyzvednutí“. Text tvé starosti v nich nikdy není.
 
-CO V APLIKACI NAJDEŠ
-• Neomezený počet míst, vlastní časy výjezdu, denní připomínky Času na starosti
-• Výjezdová závora, deník výjezdů a přehledy výjezdů
+ZDARMA, S PRO VÍC MÍSTA
+• Zdarma: 5 parkovacích míst, výjezd v Čase na starosti s denní připomínkou, výjezdová závora a deník výjezdů
+• Pro: neomezený počet míst, vlastní časy výjezdu a přehledy výjezdů. Vyber si týdenní, měsíční nebo roční předplatné, nebo jednorázový nákup navždy.
 
 Podmínky použití: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 Zásady ochrany osobních údajů: https://m1zz.github.io/WorryParking/cs/privacy.html

@@ -9,7 +9,6 @@
 
 import AppIntents
 import Foundation
-import StoreKit
 import SwiftData
 
 struct ParkWorryIntent: AppIntent {
@@ -50,15 +49,9 @@ struct ParkWorryIntent: AppIntent {
         return .result(dialog: IntentDialog(LocalizedStringResource("Parked in spot \(spot). It’ll come back \(WorryTime.describe(exit)).", comment: "Siri: worry parked. Arguments: spot number, when it comes back")))
     }
 
-    /// 앱의 StoreManager 와 같은 기준. 구독을 끈 빌드면 모두 Pro 다.
-    private static func isPro() async -> Bool {
-        guard AppConfig.subscriptionsEnabled else { return true }
-        for await result in Transaction.currentEntitlements {
-            if case .verified(let transaction) = result,
-               transaction.productID == StoreManager.proMonthlyID,
-               transaction.revocationDate == nil { return true }
-        }
-        return false
+    /// 앱의 화면과 같은 기준 (→ StoreManager.isPro). 아직 살 수 있는 Pro 상품이 없으면 막지 않는다.
+    @MainActor private static func isPro() async -> Bool {
+        await StoreManager.shared.currentlyUnlocked()
     }
 }
 

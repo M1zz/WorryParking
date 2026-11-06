@@ -22,15 +22,15 @@ EXPERIMENTE NA HORA
 Na introdução, você estaciona uma preocupação real e vê como a intensidade muda antes e depois. O que você sentiu fica salvo em “Sua experiência” para rever depois.
 
 REGISTRO DE SAÍDAS
-À medida que as preocupações revisadas se acumulam, você vê qual parte dos seus medos aconteceu de verdade e o quanto a intensidade caiu em média.
+À medida que as preocupações revisadas se acumulam, você vê qual parte dos seus medos aconteceu de verdade e o quanto a intensidade caiu em média. Os insights de saídas fazem parte do Pro.
 
 PRIVADO POR PROJETO
 • Sem conta, sem servidores, sem anúncios e sem análises. Tudo o que você escreve fica no seu iPhone.
 • As notificações mostram só o número da vaga, como “A P3 está pronta para sair”. O texto da sua preocupação nunca é incluído.
 
-O QUE VEM NO APP
-• Vagas ilimitadas, horários de saída personalizados, lembretes diários da Hora de se preocupar
-• Cancela de saída, registro de saídas e insights de saídas
+GRÁTIS, E COM O PRO MAIS ESPAÇO
+• Grátis: 5 vagas, saídas na sua Hora de se preocupar com lembrete diário, cancela de saída e registro de saídas
+• Pro: vagas ilimitadas, horários de saída personalizados e insights de saídas. Escolha assinatura semanal, mensal ou anual, ou uma compra única vitalícia.
 
 Termos de Uso: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 Política de Privacidade: https://m1zz.github.io/WorryParking/pt-BR/privacy.html

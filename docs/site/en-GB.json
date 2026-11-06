@@ -1,11 +1,11 @@
 {
   "title": "Worry Parking: a place to park your worries before bed",
-  "description": "Write down the worry that keeps circling, park it, and face it for 15 minutes at your Worry Time. Built on worry postponement from CBT. All free.",
+  "description": "Write down the worry that keeps circling, park it, and face it for 15 minutes at your Worry Time. Built on worry postponement from CBT. Free to start.",
   "hero": {
     "headline": "Park the worry.\nGet it back later.",
     "lead": "Write down whatever keeps circling at bedtime and leave it on a parking ticket. We'll bring it back at your Worry Time. Until then, you don't have to carry it.",
     "cta": "Get it free on the App Store",
-    "note": "Every feature is free. No ads, no account."
+    "note": "Free to use, with Pro when you need more room. No ads, no account."
   },
   "demo": {
     "title": "Park one worry",
@@ -101,23 +101,24 @@
     "note": "Worry Parking is built on worry postponement, a technique from cognitive behavioural therapy (CBT) that has been studied for decades."
   },
   "pricing": {
-    "title": "Everything is free",
+    "title": "Free, with Pro for more room",
     "free": {
       "name": "Free",
       "items": [
-        "Unlimited parking spaces",
-        "Daily Worry Time reminders and custom exit times",
+        "5 parking spots",
+        "Exits at your Worry Time, with daily reminders",
         "The Exit Gate and Exit Log",
-        "Exit insights: how many came true, how much the level dropped"
+        "Export your Exit Log as text"
       ]
     },
     "pro": {
-      "name": "Tips, if you like",
+      "name": "Pro",
       "items": [
-        "If it helped, you can send the developer a small tip",
-        "Pick a small, medium or large tip"
+        "Unlimited parking spots",
+        "Custom exit times",
+        "Exit insights: how many came true, how much the level dropped"
       ],
-      "note": "Tips don't unlock anything. Every feature works the same without one."
+      "note": "Weekly, monthly or yearly subscription, or a one-off lifetime purchase. Tips never unlock anything."
     },
     "note": "No ads, no account, no servers, no analytics. Everything you write stays on your iPhone."
   },

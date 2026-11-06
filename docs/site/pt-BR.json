@@ -1,11 +1,11 @@
 {
   "title": "Estacionamento de Preocupações: estacione a preocupação antes de dormir",
-  "description": "Escreva a preocupação que não sai da cabeça, estacione e dê 15 minutos a ela na sua Hora de se preocupar. Baseado na TCC. Tudo de graça.",
+  "description": "Escreva a preocupação que não sai da cabeça, estacione e dê 15 minutos a ela na sua Hora de se preocupar. Baseado na TCC. Comece de graça.",
   "hero": {
     "headline": "Estacione a preocupação.\nPegue depois.",
     "lead": "Escreva o que fica rodando na sua cabeça na hora de dormir e deixe num tíquete de estacionamento. A gente devolve na sua Hora de se preocupar. Até lá, você não precisa carregar isso.",
     "cta": "Baixar grátis na App Store",
-    "note": "Todos os recursos são grátis. Sem anúncios, sem conta."
+    "note": "Grátis para usar, com o Pro quando precisar de mais espaço. Sem anúncios, sem conta."
   },
   "demo": {
     "title": "Estacione uma preocupação",
@@ -101,23 +101,24 @@
     "note": "O Estacionamento de Preocupações se baseia no adiamento da preocupação, uma técnica da terapia cognitivo-comportamental (TCC) estudada há décadas."
   },
   "pricing": {
-    "title": "Tudo é grátis",
+    "title": "Grátis, e com o Pro mais espaço",
     "free": {
       "name": "Grátis",
       "items": [
-        "Vagas ilimitadas",
-        "Lembretes diários na Hora de se preocupar e horário de saída à sua escolha",
+        "5 vagas",
+        "Saídas na sua Hora de se preocupar, com lembrete diário",
         "Cancela de saída e registro de saídas",
-        "Insights de saídas: quantas aconteceram e quanto a intensidade caiu"
+        "Exporte o registro de saídas como texto"
       ]
     },
     "pro": {
-      "name": "Gorjeta, se quiser",
+      "name": "Pro",
       "items": [
-        "Se o app ajudou, você pode deixar uma pequena gorjeta para o desenvolvedor",
-        "Pequena, média ou grande, como preferir"
+        "Vagas ilimitadas",
+        "Horários de saída personalizados",
+        "Insights de saídas: quantas aconteceram e quanto a intensidade caiu"
       ],
-      "note": "A gorjeta não libera nada. Sem ela, tudo funciona igual."
+      "note": "Assinatura semanal, mensal ou anual, ou uma compra única vitalícia. Gorjetas não desbloqueiam nada."
     },
     "note": "Sem anúncios, sem conta, sem servidores e sem ferramentas de análise. Tudo o que você escreve fica no seu iPhone."
   },

@@ -22,15 +22,15 @@ WYPRÓBUJ OD RAZU
 Na początku parkujesz jedno prawdziwe zmartwienie i widzisz, jak zmienia się jego nasilenie przed zaparkowaniem i po nim. Twoje wrażenia zapisują się w sekcji „Twoje doświadczenie”, żeby można było do nich wrócić.
 
 DZIENNIK WYJAZDÓW
-W miarę jak przybywa przejrzanych zmartwień, widzisz, jaka część twoich obaw naprawdę się spełniła i o ile średnio spadło ich nasilenie.
+W miarę jak przybywa przejrzanych zmartwień, widzisz, jaka część twoich obaw naprawdę się spełniła i o ile średnio spadło ich nasilenie. Statystyki wyjazdów są dostępne w Pro.
 
 PRYWATNOŚĆ OD PODSTAW
 • Bez konta, bez serwerów, bez reklam, bez analityki. Wszystko, co piszesz, zostaje na twoim iPhonie.
 • Powiadomienia pokazują tylko numer miejsca, na przykład „P3 jest gotowe do odbioru”. Treść twojego zmartwienia nigdy w nich nie występuje.
 
-CO JEST W APLIKACJI
-• Nieograniczona liczba miejsc, własne czasy wyjazdu, codzienne przypomnienia o Porze na zmartwienia
-• Szlaban wyjazdowy, dziennik wyjazdów i statystyki wyjazdów
+ZA DARMO, A Z PRO WIĘCEJ MIEJSCA
+• Za darmo: 5 miejsc parkingowych, wyjazd o Porze na zmartwienia z codziennym przypomnieniem, szlaban wyjazdowy i dziennik wyjazdów
+• Pro: nieograniczona liczba miejsc, własne czasy wyjazdu i statystyki wyjazdów. Wybierz subskrypcję tygodniową, miesięczną lub roczną albo jednorazowy zakup na zawsze.
 
 Warunki korzystania: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 Polityka prywatności: https://m1zz.github.io/WorryParking/pl/privacy.html

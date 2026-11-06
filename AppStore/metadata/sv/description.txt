@@ -22,15 +22,15 @@ TESTA DIREKT
 I introduktionen parkerar du en riktig oro och ser hur dess styrka förändras före och efter parkeringen. Hur det kändes sparas under ”Din upplevelse”, så att du kan titta tillbaka senare.
 
 UTFARTSLOGG
-Allt eftersom genomgångna oror samlas ser du hur stor del av dina farhågor som faktiskt besannades och hur mycket styrkan sjönk i genomsnitt.
+Allt eftersom genomgångna oror samlas ser du hur stor del av dina farhågor som faktiskt besannades och hur mycket styrkan sjönk i genomsnitt. Insikterna om utfarter ingår i Pro.
 
 PRIVAT FRÅN GRUNDEN
 • Inget konto, inga servrar, ingen reklam, ingen analys. Allt du skriver stannar på din iPhone.
 • Notiser visar bara platsnumret, till exempel ”P3 är redo att hämtas”. Texten från din oro ingår aldrig.
 
-DET HÄR INGÅR
-• Obegränsade platser, egna utfartstider, dagliga påminnelser om orotid
-• Utfartsbom, utfartslogg och insikter om utfarter
+GRATIS – OCH MED PRO MER PLATS
+• Gratis: 5 parkeringsplatser, utfart vid din orotid med daglig påminnelse, utfartsbom och utfartslogg
+• Pro: obegränsat antal platser, egna utfartstider och insikter om utfarter. Välj vecko-, månads- eller årsabonnemang, eller ett engångsköp för livet.
 
 Användarvillkor: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 Integritetspolicy: https://m1zz.github.io/WorryParking/sv/privacy.html

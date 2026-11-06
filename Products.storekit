@@ -1,101 +1,195 @@
 {
-  "identifier" : "5E1A2B3C",
-  "nonRenewingSubscriptions" : [],
-  "products" : [
+  "identifier": "5E1A2B3C",
+  "nonRenewingSubscriptions": [],
+  "products": [
     {
-      "displayPrice" : "1.99",
-      "familyShareable" : false,
-      "internalID" : "51500001",
-      "localizations" : [
+      "displayPrice": "17.99",
+      "familyShareable": false,
+      "internalID": "51500011",
+      "localizations": [
         {
-          "description" : "Support the developer",
-          "displayName" : "Small Tip",
-          "locale" : "en_US"
+          "description": "Unlimited spots, custom exit times, and exit insights.",
+          "displayName": "Worry Parking Pro Lifetime",
+          "locale": "en_US"
+        },
+        {
+          "description": "무제한 주차 칸, 출차 시간 직접 지정, 출차 인사이트.",
+          "displayName": "걱정 주차장 Pro 평생",
+          "locale": "ko"
         }
       ],
-      "productID" : "com.devkoan.worryparking.tip.small",
-      "referenceName" : "Small Tip",
-      "type" : "Consumable"
+      "productID": "com.devkoan.worryparking.pro.lifetime",
+      "referenceName": "Pro Lifetime",
+      "type": "NonConsumable"
     },
     {
-      "displayPrice" : "4.99",
-      "familyShareable" : false,
-      "internalID" : "51500002",
-      "localizations" : [
+      "displayPrice": "11.99",
+      "familyShareable": false,
+      "internalID": "51500012",
+      "localizations": [
         {
-          "description" : "Support the developer",
-          "displayName" : "Medium Tip",
-          "locale" : "en_US"
+          "description": "Switch your subscription to Pro for life.",
+          "displayName": "Pro Lifetime for Subscribers",
+          "locale": "en_US"
+        },
+        {
+          "description": "구독을 평생 Pro로 바꿔요.",
+          "displayName": "구독자 Pro 평생",
+          "locale": "ko"
         }
       ],
-      "productID" : "com.devkoan.worryparking.tip.medium",
-      "referenceName" : "Medium Tip",
-      "type" : "Consumable"
+      "productID": "com.devkoan.worryparking.pro.graduate",
+      "referenceName": "Pro Graduate",
+      "type": "NonConsumable"
     },
     {
-      "displayPrice" : "9.99",
-      "familyShareable" : false,
-      "internalID" : "51500003",
-      "localizations" : [
+      "displayPrice": "1.99",
+      "familyShareable": false,
+      "internalID": "51500001",
+      "localizations": [
         {
-          "description" : "Support the developer",
-          "displayName" : "Large Tip",
-          "locale" : "en_US"
+          "description": "Support the developer",
+          "displayName": "Small Tip",
+          "locale": "en_US"
         }
       ],
-      "productID" : "com.devkoan.worryparking.tip.large",
-      "referenceName" : "Large Tip",
-      "type" : "Consumable"
+      "productID": "com.devkoan.worryparking.tip.small",
+      "referenceName": "Small Tip",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "4.99",
+      "familyShareable": false,
+      "internalID": "51500002",
+      "localizations": [
+        {
+          "description": "Support the developer",
+          "displayName": "Medium Tip",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.devkoan.worryparking.tip.medium",
+      "referenceName": "Medium Tip",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "9.99",
+      "familyShareable": false,
+      "internalID": "51500003",
+      "localizations": [
+        {
+          "description": "Support the developer",
+          "displayName": "Large Tip",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.devkoan.worryparking.tip.large",
+      "referenceName": "Large Tip",
+      "type": "Consumable"
     }
   ],
-  "settings" : {
-    "_failTransactionsEnabled" : false,
-    "_locale" : "ko",
-    "_storefront" : "USA",
-    "_storeKitErrors" : []
+  "settings": {
+    "_failTransactionsEnabled": false,
+    "_locale": "ko",
+    "_storefront": "USA",
+    "_storeKitErrors": []
   },
-  "subscriptionGroups" : [
+  "subscriptionGroups": [
     {
-      "id" : "21500001",
-      "localizations" : [],
-      "name" : "Worry Parking Pro",
-      "subscriptions" : [
+      "id": "21500001",
+      "localizations": [],
+      "name": "Worry Parking Pro",
+      "subscriptions": [
         {
-          "adHocOffers" : [],
-          "codeOffers" : [],
-          "displayPrice" : "3.99",
-          "familyShareable" : false,
-          "groupNumber" : 1,
-          "internalID" : "31500001",
-          "introductoryOffer" : {
-            "internalID" : "41500001",
-            "paymentMode" : "free",
-            "subscriptionPeriod" : "P1W"
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "5.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "31500002",
+          "introductoryOffer": {
+            "displayPrice": "2.99",
+            "internalID": "41500002",
+            "numberOfPeriods": 1,
+            "paymentMode": "payUpFront",
+            "subscriptionPeriod": "P1Y"
           },
-          "localizations" : [
+          "localizations": [
             {
-              "description" : "Unlimited spots, custom exit times, and exit insights.",
-              "displayName" : "Worry Parking Pro",
-              "locale" : "en_US"
+              "description": "Unlimited spots, custom exit times, and exit insights.",
+              "displayName": "Worry Parking Pro Yearly",
+              "locale": "en_US"
             },
             {
-              "description" : "무제한 주차 칸, 출차 시간 지정, 출차 인사이트.",
-              "displayName" : "걱정 주차장 Pro",
-              "locale" : "ko"
+              "description": "무제한 주차 칸, 출차 시간 직접 지정, 출차 인사이트.",
+              "displayName": "걱정 주차장 Pro 연 구독",
+              "locale": "ko"
             }
           ],
-          "productID" : "com.devkoan.worryparking.pro.monthly",
-          "recurringSubscriptionPeriod" : "P1M",
-          "referenceName" : "Pro Monthly",
-          "subscriptionGroupID" : "21500001",
-          "type" : "RecurringSubscription",
-          "winbackOffers" : []
+          "productID": "com.devkoan.worryparking.pro.yearly",
+          "recurringSubscriptionPeriod": "P1Y",
+          "referenceName": "Pro Yearly",
+          "subscriptionGroupID": "21500001",
+          "type": "RecurringSubscription",
+          "winbackOffers": []
+        },
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "31500001",
+          "localizations": [
+            {
+              "description": "Unlimited spots, custom exit times, and exit insights.",
+              "displayName": "Worry Parking Pro Monthly",
+              "locale": "en_US"
+            },
+            {
+              "description": "무제한 주차 칸, 출차 시간 직접 지정, 출차 인사이트.",
+              "displayName": "걱정 주차장 Pro 월 구독",
+              "locale": "ko"
+            }
+          ],
+          "productID": "com.devkoan.worryparking.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Pro Monthly",
+          "subscriptionGroupID": "21500001",
+          "type": "RecurringSubscription",
+          "winbackOffers": []
+        },
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "0.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "31500003",
+          "localizations": [
+            {
+              "description": "Unlimited spots, custom exit times, and exit insights.",
+              "displayName": "Worry Parking Pro Weekly",
+              "locale": "en_US"
+            },
+            {
+              "description": "무제한 주차 칸, 출차 시간 직접 지정, 출차 인사이트.",
+              "displayName": "걱정 주차장 Pro 주 구독",
+              "locale": "ko"
+            }
+          ],
+          "productID": "com.devkoan.worryparking.pro.weekly",
+          "recurringSubscriptionPeriod": "P1W",
+          "referenceName": "Pro Weekly",
+          "subscriptionGroupID": "21500001",
+          "type": "RecurringSubscription",
+          "winbackOffers": []
         }
       ]
     }
   ],
-  "version" : {
-    "major" : 4,
-    "minor" : 0
+  "version": {
+    "major": 4,
+    "minor": 0
   }
 }

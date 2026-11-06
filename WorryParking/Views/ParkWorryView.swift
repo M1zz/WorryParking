@@ -74,7 +74,7 @@ struct ParkWorryView: View {
                 }
             }
             .sheet(isPresented: $showingPaywall) {
-                PaywallView()
+                PaywallView(highlight: .customExit)
             }
         }
         .interactiveDismissDisabled(!trimmedText.isEmpty && issued == nil)

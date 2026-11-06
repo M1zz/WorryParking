@@ -22,15 +22,15 @@ GLEICH AUSPROBIEREN
 Im Einstieg parkst du eine echte Sorge und siehst, wie sich ihre Stärke vor und nach dem Parken verändert. Wie es sich angefühlt hat, wird unter „Deine Erfahrung“ gespeichert, damit du später zurückblicken kannst.
 
 AUSFAHRTSJOURNAL
-Je mehr geprüfte Sorgen sich ansammeln, desto klarer siehst du, welcher Anteil deiner Befürchtungen wirklich eingetreten ist und wie stark ihre Stärke im Schnitt gesunken ist.
+Je mehr geprüfte Sorgen sich ansammeln, desto klarer siehst du, welcher Anteil deiner Befürchtungen wirklich eingetreten ist und wie stark ihre Stärke im Schnitt gesunken ist. Die Ausfahrt-Einblicke gibt es mit Pro.
 
 PRIVAT ENTWORFEN
 • Kein Konto, keine Server, keine Werbung, keine Analyse. Alles, was du schreibst, bleibt auf deinem iPhone.
 • Mitteilungen zeigen nur die Platznummer, etwa „P3 ist abholbereit“. Der Text deiner Sorge ist nie enthalten.
 
-DAS ALLES IST DABEI
-• Unbegrenzte Stellplätze, eigene Ausfahrtszeiten, tägliche Erinnerungen zur Sorgenzeit
-• Ausfahrtschranke, Ausfahrtsjournal und Ausfahrt-Einblicke
+KOSTENLOS – UND MIT PRO MEHR PLATZ
+• Kostenlos: 5 Stellplätze, Ausfahrt zur Sorgenzeit mit täglicher Erinnerung, Ausfahrtschranke und Ausfahrtsjournal
+• Pro: unbegrenzte Stellplätze, eigene Ausfahrtszeiten und Ausfahrt-Einblicke. Wähle ein Wochen-, Monats- oder Jahres-Abo oder einen einmaligen Kauf für immer.
 
 Nutzungsbedingungen: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 Datenschutzerklärung: https://m1zz.github.io/WorryParking/de/privacy.html

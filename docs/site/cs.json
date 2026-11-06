@@ -1,11 +1,11 @@
 {
   "title": "Parkoviště starostí: zaparkuj starosti před spaním",
-  "description": "Zapiš starost, která se ti točí v hlavě, zaparkuj ji a věnuj jí 15 minut v Čase na starosti. Vychází z techniky KBT. Vše je zdarma.",
+  "description": "Zapiš starost, která se ti točí v hlavě, zaparkuj ji a věnuj jí 15 minut v Čase na starosti. Vychází z techniky KBT. Začni zdarma.",
   "hero": {
     "headline": "Zaparkuj starost.\nVyzvedni si ji později.",
     "lead": "Zapiš, co se ti před spaním honí hlavou, a nech to na parkovacím lístku. V Čase na starosti ti to vrátíme. Do té doby to nemusíš nosit s sebou.",
     "cta": "Stáhnout zdarma v App Store",
-    "note": "Všechny funkce jsou zdarma. Bez reklam a bez účtu."
+    "note": "Používej zdarma, a když potřebuješ víc místa, je tu Pro. Bez reklam a bez účtu."
   },
   "demo": {
     "title": "Zaparkuj jednu starost",
@@ -101,23 +101,24 @@
     "note": "Parkoviště starostí vychází z odkládání starostí, techniky kognitivně-behaviorální terapie (KBT), kterou se výzkum zabývá už desítky let."
   },
   "pricing": {
-    "title": "Všechno je zdarma",
+    "title": "Zdarma, s Pro víc místa",
     "free": {
       "name": "Zdarma",
       "items": [
-        "Neomezený počet parkovacích míst",
-        "Denní upozornění v Čase na starosti a vlastní čas výjezdu",
+        "5 parkovacích míst",
+        "Výjezd v Čase na starosti s denní připomínkou",
         "Výjezdová závora a deník výjezdů",
-        "Přehledy výjezdů: kolik se jich naplnilo a o kolik zeslábly"
+        "Export deníku výjezdů jako text"
       ]
     },
     "pro": {
-      "name": "Spropitné, pokud chceš",
+      "name": "Pro",
       "items": [
-        "Když ti aplikace pomáhá, můžeš vývojáři poslat malé spropitné",
-        "Malé, střední nebo velké, jak chceš"
+        "Neomezený počet míst",
+        "Vlastní časy výjezdu",
+        "Přehledy výjezdů: kolik se jich splnilo a o kolik klesla síla"
       ],
-      "note": "Spropitné nic neodemyká. Bez něj funguje všechno stejně."
+      "note": "Týdenní, měsíční nebo roční předplatné, nebo jednorázový nákup navždy. Spropitné nic neodemyká."
     },
     "note": "Žádné reklamy, účet, servery ani analytické nástroje. Všechno, co napíšeš, zůstává v tvém iPhonu."
   },

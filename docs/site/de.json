@@ -1,11 +1,11 @@
 {
   "title": "Sorgen-Parkplatz: Sorgen vor dem Schlafen abstellen",
-  "description": "Schreib die Sorge auf, die nicht loslässt, park sie und nimm dir zur Sorgenzeit 15 Minuten dafür. Basiert auf Sorgenaufschub aus der KVT. Kostenlos.",
+  "description": "Schreib die Sorge auf, die im Kopf kreist, park sie und gib ihr zur Sorgenzeit 15 Minuten. Basiert auf Sorgenaufschub aus der KVT. Gratis starten.",
   "hero": {
     "headline": "Park die Sorge.\nHol sie später ab.",
     "lead": "Schreib auf, was dir abends im Kopf herumkreist, und lass es auf einem Parkschein zurück. Zu deiner Sorgenzeit bekommst du es wieder. Bis dahin musst du es nicht mit dir herumtragen.",
     "cta": "Kostenlos im App Store laden",
-    "note": "Alle Funktionen sind kostenlos. Keine Werbung, kein Konto."
+    "note": "Kostenlos nutzbar, mit Pro für mehr Platz. Keine Werbung, kein Konto."
   },
   "demo": {
     "title": "Park eine Sorge",
@@ -101,23 +101,24 @@
     "note": "Der Sorgen-Parkplatz beruht auf dem Sorgenaufschub, einer seit Jahrzehnten erforschten Technik der kognitiven Verhaltenstherapie (KVT)."
   },
   "pricing": {
-    "title": "Alles ist kostenlos",
+    "title": "Kostenlos – mit Pro mehr Platz",
     "free": {
       "name": "Kostenlos",
       "items": [
-        "Unbegrenzt viele Parkplätze",
-        "Tägliche Hinweise zur Sorgenzeit, eigene Ausfahrtszeiten",
+        "5 Stellplätze",
+        "Ausfahrt zur Sorgenzeit mit täglicher Erinnerung",
         "Ausfahrtschranke und Ausfahrtsjournal",
-        "Ausfahrt-Einblicke: wie viel eingetreten ist und wie stark die Sorgen nachließen"
+        "Ausfahrtsjournal als Text exportieren"
       ]
     },
     "pro": {
-      "name": "Trinkgeld, wenn du magst",
+      "name": "Pro",
       "items": [
-        "Wenn dir die App hilft, kannst du dem Entwickler ein kleines Trinkgeld geben",
-        "Klein, mittel oder groß, wie du möchtest"
+        "Unbegrenzte Stellplätze",
+        "Eigene Ausfahrtszeiten",
+        "Ausfahrt-Einblicke: wie viel eingetreten ist und wie stark die Sorgen nachließen"
       ],
-      "note": "Trinkgeld schaltet nichts frei. Ohne funktioniert alles genauso."
+      "note": "Wochen-, Monats- oder Jahres-Abo oder ein einmaliger Kauf für immer. Trinkgeld schaltet nichts frei."
     },
     "note": "Keine Werbung, kein Konto, keine Server, keine Analyse-Tools. Alles, was du schreibst, bleibt auf deinem iPhone."
   },

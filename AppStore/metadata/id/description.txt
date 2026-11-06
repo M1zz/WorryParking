@@ -22,15 +22,15 @@ COBA LANGSUNG
 Saat pengenalan awal, kamu memarkirkan satu kekhawatiran nyata dan melihat bagaimana tingkatnya berubah sebelum dan sesudah. Perasaanmu tersimpan di “Pengalamanmu” agar bisa dilihat lagi nanti.
 
 CATATAN KELUAR
-Seiring kekhawatiran yang kamu tinjau bertambah, kamu bisa melihat berapa bagian ketakutanmu yang benar-benar terjadi dan seberapa besar rata-rata penurunan tingkatnya.
+Seiring kekhawatiran yang kamu tinjau bertambah, kamu bisa melihat berapa bagian ketakutanmu yang benar-benar terjadi dan seberapa besar rata-rata penurunan tingkatnya. Wawasan keluar tersedia di Pro.
 
 PRIVAT SEJAK AWAL
 • Tanpa akun, tanpa server, tanpa iklan, tanpa analitik. Semua yang kamu tulis tetap di iPhone-mu.
 • Notifikasi hanya menampilkan nomor petak, seperti “P3 siap dijemput”. Teks kekhawatiranmu tidak pernah disertakan.
 
-YANG ADA DI APLIKASI
-• Petak parkir tanpa batas, waktu keluar kustom, pengingat Waktu Khawatir harian
-• Gerbang keluar, catatan keluar, dan wawasan keluar
+GRATIS, DAN PRO UNTUK RUANG LEBIH
+• Gratis: 5 petak parkir, keluar di Waktu Khawatir dengan pengingat harian, gerbang keluar, dan catatan keluar
+• Pro: petak parkir tanpa batas, waktu keluar kustom, dan wawasan keluar. Pilih langganan mingguan, bulanan, atau tahunan, atau sekali bayar seumur hidup.
 
 Ketentuan Penggunaan: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 Kebijakan Privasi: https://m1zz.github.io/WorryParking/id/privacy.html

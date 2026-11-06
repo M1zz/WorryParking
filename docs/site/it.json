@@ -1,11 +1,11 @@
 {
   "title": "Parcheggio Preoccupazioni: parcheggia i pensieri prima di dormire",
-  "description": "Scrivi la preoccupazione che continua a girare, parcheggiala e dedicale 15 minuti all’Ora delle preoccupazioni. Basata sulla CBT. Tutto gratis.",
+  "description": "Scrivi la preoccupazione che continua a girare, parcheggiala e dedicale 15 minuti all’Ora delle preoccupazioni. Basata sulla CBT. Si inizia gratis.",
   "hero": {
     "headline": "Parcheggia la preoccupazione.\nRiprendila dopo.",
     "lead": "Scrivi quello che ti gira in testa prima di dormire e lascialo su un biglietto del parcheggio. Te lo riportiamo all’Ora delle preoccupazioni. Fino ad allora, non devi portartelo dietro.",
     "cta": "Scarica gratis su App Store",
-    "note": "Tutte le funzioni sono gratis. Niente pubblicità, niente account."
+    "note": "Gratis da usare, con Pro quando ti serve più spazio. Niente pubblicità, niente account."
   },
   "demo": {
     "title": "Parcheggia una preoccupazione",
@@ -101,23 +101,24 @@
     "note": "Parcheggio Preoccupazioni si basa sul rinvio della preoccupazione, una tecnica della terapia cognitivo-comportamentale (CBT) studiata da decenni."
   },
   "pricing": {
-    "title": "È tutto gratis",
+    "title": "Gratis, e con Pro più spazio",
     "free": {
       "name": "Gratis",
       "items": [
-        "Posti auto illimitati",
-        "Promemoria quotidiani all’Ora delle preoccupazioni e orario d’uscita a scelta",
+        "5 posti",
+        "Uscite all’Ora delle preoccupazioni, con promemoria quotidiano",
         "Sbarra d’uscita e registro delle uscite",
-        "Approfondimenti sulle uscite: quante si sono avverate e quanto è calata l’intensità"
+        "Esporta il registro delle uscite come testo"
       ]
     },
     "pro": {
-      "name": "Una mancia, se vuoi",
+      "name": "Pro",
       "items": [
-        "Se l’app ti aiuta, puoi lasciare una piccola mancia allo sviluppatore",
-        "Piccola, media o grande, come preferisci"
+        "Posti illimitati",
+        "Orari di uscita personalizzati",
+        "Approfondimenti sulle uscite: quante si sono avverate e quanto è calata l’intensità"
       ],
-      "note": "La mancia non sblocca nulla. Senza, funziona tutto allo stesso modo."
+      "note": "Abbonamento settimanale, mensile o annuale, oppure acquisto unico a vita. Le mance non sbloccano nulla."
     },
     "note": "Niente pubblicità, account, server o strumenti di analisi. Tutto quello che scrivi resta sul tuo iPhone."
   },

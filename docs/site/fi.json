@@ -1,11 +1,11 @@
 {
   "title": "Huolipysäköinti: pysäköi huolet ennen nukkumaanmenoa",
-  "description": "Kirjoita kehää kiertävä huoli ylös, pysäköi se ja anna sille 15 minuuttia huoliaikana. Perustuu terapiassa käytettyyn tekniikkaan. Täysin ilmainen.",
+  "description": "Kirjoita kehää kiertävä huoli ylös, pysäköi se ja anna sille 15 minuuttia huoliaikana. Perustuu terapiassa käytettyyn tekniikkaan. Aloita ilmaiseksi.",
   "hero": {
     "headline": "Pysäköi huoli.\nHae se myöhemmin.",
     "lead": "Kirjoita ylös se, mikä pyörii päässä nukkumaan mennessä, ja jätä se pysäköintilipulle. Saat sen takaisin huoliaikanasi. Siihen asti sitä ei tarvitse kantaa mukana.",
     "cta": "Lataa ilmaiseksi App Storesta",
-    "note": "Kaikki ominaisuudet ovat ilmaisia. Ei mainoksia, ei tiliä."
+    "note": "Ilmainen käyttää, ja Prolla saat lisää tilaa. Ei mainoksia, ei tiliä."
   },
   "demo": {
     "title": "Pysäköi yksi huoli",
@@ -101,23 +101,24 @@
     "note": "Huolipysäköinti perustuu huolten lykkäämiseen, kognitiivisen käyttäytymisterapian (CBT) tekniikkaan, jota on tutkittu vuosikymmeniä."
   },
   "pricing": {
-    "title": "Kaikki on ilmaista",
+    "title": "Ilmainen – Prolla lisää tilaa",
     "free": {
       "name": "Ilmainen",
       "items": [
-        "Rajattomasti pysäköintipaikkoja",
-        "Päivittäiset huoliajan muistutukset ja oma ulosajoaika",
+        "5 pysäköintipaikkaa",
+        "Ulosajo huoliaikana ja päivittäinen muistutus",
         "Ulosajopuomi ja ulosajoloki",
-        "Ulosajojen tilastot: moniko toteutui ja paljonko voimakkuus laski"
+        "Ulosajolokin vienti tekstinä"
       ]
     },
     "pro": {
-      "name": "Tippi, jos haluat",
+      "name": "Pro",
       "items": [
-        "Jos sovellus auttaa, voit antaa kehittäjälle pienen tipin",
-        "Pieni, keskikokoinen tai iso, miten haluat"
+        "Rajattomat paikat",
+        "Omat ulosajoajat",
+        "Ulosajojen tilastot: kuinka moni toteutui ja kuinka paljon voimakkuus laski"
       ],
-      "note": "Tippi ei avaa mitään. Ilman sitäkin kaikki toimii samoin."
+      "note": "Viikko-, kuukausi- tai vuositilaus tai elinikäinen kertaosto. Juomarahat eivät avaa mitään."
     },
     "note": "Ei mainoksia, tiliä, palvelimia eikä analytiikkatyökaluja. Kaikki kirjoittamasi pysyy iPhonessasi."
   },

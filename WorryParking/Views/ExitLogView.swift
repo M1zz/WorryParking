@@ -74,8 +74,18 @@ struct ExitLogView: View {
             .background(Theme.asphalt.ignoresSafeArea())
             .navigationTitle("Exit Log")
             .toolbarBackground(Theme.asphalt, for: .navigationBar)
+            .toolbar {
+                // 기본 내보내기 — 누구에게나 연다. 내가 적은 것은 내가 가져갈 수 있어야 한다.
+                if !history.isEmpty {
+                    ToolbarItem(placement: .primaryAction) {
+                        ShareLink(item: ExitLogExport.text(history)) {
+                            Label("Export as text", systemImage: "square.and.arrow.up")
+                        }
+                    }
+                }
+            }
             .sheet(isPresented: $showingPaywall) {
-                PaywallView()
+                PaywallView(highlight: .insights)
             }
         }
     }
@@ -86,6 +96,32 @@ struct ExitLogView: View {
             modelContext.delete(items[index])
         }
         try? modelContext.save()
+    }
+}
+
+/// 출차 기록을 그대로 읽히는 글로. 메모 · 메일 · 상담 때 보여 주기 좋게, 최근 것부터.
+enum ExitLogExport {
+    static func text(_ worries: [Worry]) -> String {
+        let entries = worries.map { worry -> String in
+            var lines: [String] = []
+            let date = (worry.reviewedAt ?? worry.parkedAt).formatted(date: .abbreviated, time: .omitted)
+            lines.append("\(date) · P\(worry.spotNumber) · #\(worry.ticketNumber)")
+            lines.append(worry.text)
+            if let result = worry.fearResult {
+                lines.append(result.title)
+            }
+            if let after = worry.intensityAfter {
+                lines.append(String(localized: "Level \(worry.intensityBefore) → \(after)"))
+            }
+            if let outcome = worry.outcome {
+                lines.append(outcome.title)
+            }
+            if let step = worry.actionStep, !step.isEmpty {
+                lines.append(String(localized: "Next step: \(step)"))
+            }
+            return lines.joined(separator: "\n")
+        }
+        return ([String(localized: "Worry Parking · Exit Log")] + entries).joined(separator: "\n\n")
     }
 }
 

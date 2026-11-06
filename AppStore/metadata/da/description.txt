@@ -22,15 +22,15 @@ PRØV DET MED DET SAMME
 Under introduktionen parkerer du en rigtig bekymring og ser, hvordan dens styrke ændrer sig før og efter. Hvordan det føltes, gemmes under „Din oplevelse“, så du kan kigge tilbage senere.
 
 UDKØRSELSLOG
-Efterhånden som gennemgåede bekymringer samler sig, kan du se, hvor stor en del af dine frygter der faktisk skete, og hvor meget styrken i gennemsnit faldt.
+Efterhånden som gennemgåede bekymringer samler sig, kan du se, hvor stor en del af dine frygter der faktisk skete, og hvor meget styrken i gennemsnit faldt. Indsigten i udkørsler følger med Pro.
 
 PRIVAT FRA GRUNDEN
 • Ingen konto, ingen servere, ingen reklamer, ingen analyse. Alt, hvad du skriver, bliver på din iPhone.
 • Notifikationer viser kun pladsnummeret, for eksempel „P3 er klar til afhentning“. Teksten fra din bekymring er aldrig med.
 
-DET ER MED I APPEN
-• Ubegrænsede pladser, egne udkørselstider, daglige påmindelser om bekymringstid
-• Udkørselsbom, udkørselslog og indsigt i udkørsler
+GRATIS – OG MED PRO MERE PLADS
+• Gratis: 5 parkeringspladser, udkørsel ved din bekymringstid med daglig påmindelse, udkørselsbom og udkørselslog
+• Pro: ubegrænsede pladser, egne udkørselstider og indsigt i udkørsler. Vælg uge-, måneds- eller årsabonnement eller et engangskøb for livstid.
 
 Brugsvilkår: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 Privatlivspolitik: https://m1zz.github.io/WorryParking/da/privacy.html

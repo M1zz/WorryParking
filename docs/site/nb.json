@@ -1,11 +1,11 @@
 {
   "title": "Bekymringsparkering: parker bekymringene før du sovner",
-  "description": "Skriv ned bekymringen som går i ring, parker den og gi den 15 minutter i bekymringstiden din. Bygger på en teknikk fra KAT. Alt er gratis.",
+  "description": "Skriv ned bekymringen som går i ring, parker den og gi den 15 minutter i bekymringstiden din. Bygger på en teknikk fra KAT. Gratis å komme i gang.",
   "hero": {
     "headline": "Parker bekymringen.\nHent den senere.",
     "lead": "Skriv ned det som surrer i hodet ved leggetid, og legg det igjen på en parkeringslapp. Du får det tilbake i bekymringstiden din. Fram til da trenger du ikke bære på det.",
     "cta": "Last ned gratis i App Store",
-    "note": "Alle funksjoner er gratis. Ingen reklame, ingen konto."
+    "note": "Gratis å bruke, med Pro når du trenger mer plass. Ingen reklame, ingen konto."
   },
   "demo": {
     "title": "Parker én bekymring",
@@ -101,23 +101,24 @@
     "note": "Bekymringsparkering bygger på utsettelse av bekymringer, en teknikk fra kognitiv atferdsterapi (KAT) som har vært forsket på i flere tiår."
   },
   "pricing": {
-    "title": "Alt er gratis",
+    "title": "Gratis – med Pro mer plass",
     "free": {
       "name": "Gratis",
       "items": [
-        "Ubegrenset antall parkeringsplasser",
-        "Daglige påminnelser i bekymringstiden og selvvalgt utkjøringstid",
+        "5 parkeringsplasser",
+        "Utkjøring ved bekymringstid med daglig påminnelse",
         "Utkjørselsbom og utkjøringslogg",
-        "Innsikt om utkjøringer: hvor mange som skjedde, og hvor mye styrken falt"
+        "Eksporter utkjøringsloggen som tekst"
       ]
     },
     "pro": {
-      "name": "Tips, om du vil",
+      "name": "Pro",
       "items": [
-        "Hvis appen hjelper, kan du gi utvikleren litt tips",
-        "Lite, middels eller stort, som du vil"
+        "Ubegrenset med plasser",
+        "Egne utkjøringstider",
+        "Innsikt om utkjøringer: hvor mange som skjedde, og hvor mye styrken falt"
       ],
-      "note": "Tips låser ikke opp noe. Uten fungerer alt likt."
+      "note": "Uke-, måneds- eller årsabonnement, eller et engangskjøp for livstid. Tips låser ikke opp noe."
     },
     "note": "Ingen reklame, ingen konto, ingen servere, ingen analyseverktøy. Alt du skriver, blir på iPhonen din."
   },

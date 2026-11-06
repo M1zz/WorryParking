@@ -1,11 +1,11 @@
 {
   "title": "Oroparkeringen: parkera oron innan du sover",
-  "description": "Skriv ner oron som snurrar, parkera den och ge den 15 minuter på din orotid. Bygger på en teknik från KBT. Allt är gratis.",
+  "description": "Skriv ner oron som snurrar, parkera den och ge den 15 minuter på din orotid. Bygger på en teknik från KBT. Gratis att börja.",
   "hero": {
     "headline": "Parkera oron.\nHämta den senare.",
     "lead": "Skriv ner det som snurrar i huvudet vid läggdags och lämna det på en parkeringsbiljett. Du får tillbaka det på din orotid. Tills dess behöver du inte bära på det.",
     "cta": "Hämta gratis i App Store",
-    "note": "Alla funktioner är gratis. Ingen reklam, inget konto."
+    "note": "Gratis att använda, med Pro när du behöver mer plats. Ingen reklam, inget konto."
   },
   "demo": {
     "title": "Parkera en oro",
@@ -101,23 +101,24 @@
     "note": "Oroparkeringen bygger på oroskjutning, en teknik från kognitiv beteendeterapi (KBT) som har studerats i årtionden."
   },
   "pricing": {
-    "title": "Allt är gratis",
+    "title": "Gratis – med Pro mer plats",
     "free": {
       "name": "Gratis",
       "items": [
-        "Obegränsat antal parkeringsplatser",
-        "Dagliga påminnelser på orotiden och egen utfartstid",
+        "5 parkeringsplatser",
+        "Utfart vid din orotid med daglig påminnelse",
         "Utfartsbom och utfartslogg",
-        "Insikter om utfarter: hur många som hände och hur mycket styrkan sjönk"
+        "Exportera utfartsloggen som text"
       ]
     },
     "pro": {
-      "name": "Dricks, om du vill",
+      "name": "Pro",
       "items": [
-        "Om appen hjälper kan du ge utvecklaren lite dricks",
-        "Liten, mellan eller stor, som du vill"
+        "Obegränsat antal platser",
+        "Egna utfartstider",
+        "Insikter om utfarter: hur många som slog in och hur mycket styrkan sjönk"
       ],
-      "note": "Dricks låser inte upp något. Utan den fungerar allt likadant."
+      "note": "Vecko-, månads- eller årsabonnemang, eller ett engångsköp för livet. Dricks låser inte upp något."
     },
     "note": "Ingen reklam, inget konto, inga servrar, inga analysverktyg. Allt du skriver stannar på din iPhone."
   },

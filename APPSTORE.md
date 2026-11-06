@@ -44,15 +44,15 @@
 온보딩에서 지금 가진 걱정 하나를 바로 주차해 보고, 주차 전후로 강도가 어떻게 달라졌는지 확인해요. 느낀 점은 ‘내 체험 기록’에 남아 나중에 다시 볼 수 있어요.
 
 ■ 출차 기록
-검토한 걱정이 쌓이면 내 걱정 중 실제로 일어난 비율과 평균 강도 변화를 한눈에 볼 수 있어요.
+검토한 걱정이 쌓이면 내 걱정 중 실제로 일어난 비율과 평균 강도 변화를 한눈에 볼 수 있어요. 이 인사이트는 Pro에서 열려요.
 
 ■ 개인정보
 • 계정, 서버, 광고, 분석 도구가 없어요. 적은 내용은 모두 이 iPhone에만 저장돼요.
 • 알림에는 “P3 출차 준비 완료”처럼 칸 번호만 나오고, 걱정 내용은 절대 담기지 않아요.
 
-■ 모든 기능 무료
-• 주차 칸 무제한, 출차 시간 직접 지정, 매일 걱정 시간 알림
-• 출차 게이트, 출차 기록, 출차 인사이트
+■ 무료로 쓰고, 칸이 더 필요하면 Pro
+• 무료: 주차 칸 5개, 걱정 시간 출차와 매일 알림, 출차 게이트, 출차 기록
+• Pro: 주차 칸 무제한, 출차 시간 직접 지정, 출차 인사이트. 주 · 월 · 연 구독이나 한 번 결제하는 평생 중에 골라요.
 
 이용약관: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 개인정보 처리방침: https://m1zz.github.io/WorryParking/ko/privacy.html
@@ -115,15 +115,15 @@ TRY IT RIGHT AWAY
 During onboarding you park one real worry and see how its level changes before and after. How it felt is saved under "Your experience" so you can look back later.
 
 EXIT LOG
-As your reviewed worries add up, see what share of your fears actually came true and how much their level dropped.
+As your reviewed worries add up, see what share of your fears actually came true and how much their level dropped. Exit insights come with Pro.
 
 PRIVATE BY DESIGN
 • No account, no servers, no ads, no analytics. Everything you write stays on your iPhone.
 • Notifications only show the spot number, like "P3 is ready for pickup". Your worry text is never included.
 
-EVERYTHING IS FREE
-• Unlimited parking spots, custom exit times, daily Worry Time reminders
-• The exit gate, Exit Log and Exit insights
+FREE, WITH PRO FOR MORE ROOM
+• Free: 5 parking spots, exits at your Worry Time with daily reminders, the exit gate and your Exit Log
+• Pro: unlimited spots, custom exit times and Exit insights. Choose a weekly, monthly or yearly subscription, or a one-time lifetime purchase.
 
 Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 Privacy Policy: https://m1zz.github.io/WorryParking/en/privacy.html
@@ -186,15 +186,15 @@ TRY IT RIGHT AWAY
 During onboarding you park one real worry and see how its level changes before and after. How it felt is saved under "Your experience" so you can look back later.
 
 EXIT LOG
-As your reviewed worries add up, see what share of your fears actually came true and how much their level dropped.
+As your reviewed worries add up, see what share of your fears actually came true and how much their level dropped. Exit insights come with Pro.
 
 PRIVATE BY DESIGN
 • No account, no servers, no ads, no analytics. Everything you write stays on your iPhone.
 • Notifications only show the spot number, like "P3 is ready for pickup". Your worry text is never included.
 
-WHAT YOU GET
-• Unlimited parking spots, custom exit times, daily Worry Time reminders
-• The exit gate, Exit Log and Exit insights
+FREE, WITH PRO FOR MORE ROOM
+• Free: 5 parking spots, exits at your Worry Time with daily reminders, the exit gate and your Exit Log
+• Pro: unlimited spots, custom exit times and Exit insights. Choose a weekly, monthly or yearly subscription, or a one-off lifetime purchase.
 
 Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 Privacy Policy: https://m1zz.github.io/WorryParking/en-GB/privacy.html
@@ -257,15 +257,15 @@ https://m1zz.github.io/WorryParking/en-GB/index.html
 在引导流程中，你可以立刻停放一个真实的烦恼，并看到停放前后强度的变化。当时的感受会保存在“你的体验”里，日后随时回看。
 
 ■ 出场记录
-回顾过的烦恼越攒越多，你就能一眼看出自己担心的事有多少真的发生了，以及强度平均降了多少。
+回顾过的烦恼越攒越多，你就能一眼看出自己担心的事有多少真的发生了，以及强度平均降了多少。出场洞察需要 Pro。
 
 ■ 隐私
 • 没有账号，没有服务器，没有广告，也没有分析工具。你写的一切只保存在这部 iPhone 上。
 • 通知里只显示车位号，比如“P3 可以取车了”，绝不包含烦恼的内容。
 
-■ 功能一览
-• 不限数量的车位、自定义出场时间、每天烦恼时间提醒
-• 出场闸口、出场记录和出场洞察
+■ 免费使用，需要更多车位时选 Pro
+• 免费：5 个车位、在烦恼时间出场和每天提醒、出场闸口、出场记录
+• Pro：不限数量的车位、自定义出场时间、出场洞察。可选按周、按月、按年订阅，或一次买断终身使用。
 
 使用条款：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 隐私政策：https://m1zz.github.io/WorryParking/zh-Hans/privacy.html
@@ -328,15 +328,15 @@ https://m1zz.github.io/WorryParking/zh-Hans/index.html
 在引導流程中，你可以立刻停放一個真實的煩惱，並看到停放前後強度的變化。當時的感受會儲存在「你的體驗」裡，日後隨時回顧。
 
 ■ 出場紀錄
-回顧過的煩惱越積越多，你就能一眼看出自己擔心的事有多少真的發生了，以及強度平均降了多少。
+回顧過的煩惱越積越多，你就能一眼看出自己擔心的事有多少真的發生了，以及強度平均降了多少。出場洞察需要 Pro。
 
 ■ 隱私
 • 沒有帳號，沒有伺服器，沒有廣告，也沒有分析工具。你寫的一切只儲存在這支 iPhone 上。
 • 通知裡只顯示車位號，例如「P3 可以取車了」，絕不包含煩惱的內容。
 
-■ 功能一覽
-• 不限數量的車位、自訂出場時間、每天煩惱時間提醒
-• 出場閘口、出場紀錄和出場洞察
+■ 免費使用，需要更多車位時選 Pro
+• 免費：5 個車位、在煩惱時間出場和每天提醒、出場閘口、出場紀錄
+• Pro：不限數量的車位、自訂出場時間、出場洞察。可選按週、按月、按年訂閱，或一次買斷終身使用。
 
 使用條款：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 隱私權政策：https://m1zz.github.io/WorryParking/zh-Hant/privacy.html
@@ -399,15 +399,15 @@ https://m1zz.github.io/WorryParking/zh-Hant/index.html
 オンボーディングで、今ある心配をひとつその場で駐車し、駐車の前後で強さがどう変わったかを確かめます。感じたことは「あなたの体験」に残り、あとから見返せます。
 
 ■ 出庫ログ
-振り返った心配が積み重なると、心配のうち実際に起きた割合と、強さの平均的な変化がひと目でわかります。
+振り返った心配が積み重なると、心配のうち実際に起きた割合と、強さの平均的な変化がひと目でわかります。このインサイトは Pro で使えます。
 
 ■ プライバシー
 • アカウントも、サーバーも、広告も、解析ツールもありません。書いた内容はすべてこの iPhone にだけ保存されます。
 • 通知には「P3 が出庫できます」のように区画番号だけが表示され、心配の内容は決して含まれません。
 
-■ 利用できる機能
-• 駐車区画は無制限、出庫時間の指定、毎日の心配タイムのお知らせ
-• 出庫ゲート、出庫ログ、出庫インサイト
+■ 無料で使えて、もっと区画が必要なら Pro
+• 無料：駐車区画5つ、心配タイムの出庫と毎日のお知らせ、出庫ゲート、出庫ログ
+• Pro：駐車区画は無制限、出庫時間を自由に設定、出庫インサイト。週額・月額・年額のサブスクリプションか、1回払いの買い切りから選べます。
 
 利用規約：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 プライバシーポリシー：https://m1zz.github.io/WorryParking/ja/privacy.html
@@ -470,15 +470,15 @@ https://m1zz.github.io/WorryParking/ja/index.html
 Во время знакомства с приложением вы паркуете одну настоящую тревогу и видите, как меняется её уровень до и после. Ваши ощущения сохраняются в разделе «Ваш опыт», чтобы к ним можно было вернуться.
 
 ЖУРНАЛ ВЫЕЗДОВ
-По мере того как копятся разобранные тревоги, вы видите, какая доля ваших страхов действительно сбылась и насколько в среднем снизился уровень тревог.
+По мере того как копятся разобранные тревоги, вы видите, какая доля ваших страхов действительно сбылась и насколько в среднем снизился уровень тревог. Аналитика выездов доступна в Pro.
 
 ПРИВАТНОСТЬ
 • Нет аккаунтов, серверов, рекламы и аналитики. Всё, что вы пишете, остаётся на вашем iPhone.
 • В уведомлениях виден только номер места, например «P3 можно забирать». Текст тревоги в них никогда не попадает.
 
-ЧТО ВНУТРИ
-• Неограниченное число мест, своё время выезда, ежедневные напоминания о времени тревог
-• Шлагбаум выезда, журнал выездов и аналитика выездов
+БЕСПЛАТНО, А С PRO — БОЛЬШЕ МЕСТА
+• Бесплатно: 5 мест на парковке, выезд во Время тревог и ежедневные напоминания, шлагбаум выезда и журнал выездов
+• Pro: неограниченное число мест, своё время выезда и аналитика выездов. Недельная, месячная или годовая подписка либо разовая покупка навсегда.
 
 Условия использования: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 Политика конфиденциальности: https://m1zz.github.io/WorryParking/ru/privacy.html
@@ -541,15 +541,15 @@ PRUÉBALO AL MOMENTO
 En la introducción aparcas una preocupación real y ves cómo cambia su nivel antes y después. Lo que sentiste se guarda en «Tu experiencia» para que puedas revisarlo más adelante.
 
 REGISTRO DE SALIDAS
-A medida que se acumulan las preocupaciones revisadas, ves qué parte de tus miedos se cumplió de verdad y cuánto bajó su nivel de media.
+A medida que se acumulan las preocupaciones revisadas, ves qué parte de tus miedos se cumplió de verdad y cuánto bajó su nivel de media. La información de salidas es parte de Pro.
 
 PRIVADA POR DISEÑO
 • Sin cuenta, sin servidores, sin anuncios y sin analíticas. Todo lo que escribes se queda en tu iPhone.
 • Las notificaciones solo muestran el número de plaza, como «P3 está lista para salir». El texto de tu preocupación nunca se incluye.
 
-QUÉ INCLUYE
-• Plazas ilimitadas, horas de salida personalizadas y recordatorios diarios de la hora de preocuparse
-• La barrera de salida, el registro de salidas y la información de salidas
+GRATIS, Y CON PRO MÁS ESPACIO
+• Gratis: 5 plazas, salidas en tu Hora de preocuparse con aviso diario, la barrera de salida y tu registro de salidas
+• Pro: plazas ilimitadas, horas de salida personalizadas e información de salidas. Elige suscripción semanal, mensual o anual, o un pago único para siempre.
 
 Condiciones de uso: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 Política de privacidad: https://m1zz.github.io/WorryParking/es/privacy.html
@@ -612,15 +612,15 @@ GLEICH AUSPROBIEREN
 Im Einstieg parkst du eine echte Sorge und siehst, wie sich ihre Stärke vor und nach dem Parken verändert. Wie es sich angefühlt hat, wird unter „Deine Erfahrung“ gespeichert, damit du später zurückblicken kannst.
 
 AUSFAHRTSJOURNAL
-Je mehr geprüfte Sorgen sich ansammeln, desto klarer siehst du, welcher Anteil deiner Befürchtungen wirklich eingetreten ist und wie stark ihre Stärke im Schnitt gesunken ist.
+Je mehr geprüfte Sorgen sich ansammeln, desto klarer siehst du, welcher Anteil deiner Befürchtungen wirklich eingetreten ist und wie stark ihre Stärke im Schnitt gesunken ist. Die Ausfahrt-Einblicke gibt es mit Pro.
 
 PRIVAT ENTWORFEN
 • Kein Konto, keine Server, keine Werbung, keine Analyse. Alles, was du schreibst, bleibt auf deinem iPhone.
 • Mitteilungen zeigen nur die Platznummer, etwa „P3 ist abholbereit“. Der Text deiner Sorge ist nie enthalten.
 
-DAS ALLES IST DABEI
-• Unbegrenzte Stellplätze, eigene Ausfahrtszeiten, tägliche Erinnerungen zur Sorgenzeit
-• Ausfahrtschranke, Ausfahrtsjournal und Ausfahrt-Einblicke
+KOSTENLOS – UND MIT PRO MEHR PLATZ
+• Kostenlos: 5 Stellplätze, Ausfahrt zur Sorgenzeit mit täglicher Erinnerung, Ausfahrtschranke und Ausfahrtsjournal
+• Pro: unbegrenzte Stellplätze, eigene Ausfahrtszeiten und Ausfahrt-Einblicke. Wähle ein Wochen-, Monats- oder Jahres-Abo oder einen einmaligen Kauf für immer.
 
 Nutzungsbedingungen: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 Datenschutzerklärung: https://m1zz.github.io/WorryParking/de/privacy.html
@@ -683,15 +683,15 @@ ESSAIE TOUT DE SUITE
 Pendant la prise en main, tu gares un vrai souci et tu vois comment son intensité change avant et après. Ce que tu as ressenti est enregistré dans « Ton expérience » pour que tu puisses y revenir plus tard.
 
 JOURNAL DES SORTIES
-À mesure que les soucis passés en revue s’accumulent, tu vois quelle part de tes craintes s’est réellement produite et de combien leur intensité a baissé en moyenne.
+À mesure que les soucis passés en revue s’accumulent, tu vois quelle part de tes craintes s’est réellement produite et de combien leur intensité a baissé en moyenne. Les analyses des sorties font partie de Pro.
 
 CONFIDENTIEL PAR CONCEPTION
 • Pas de compte, pas de serveur, pas de publicité, pas d’outil d’analyse. Tout ce que tu écris reste sur ton iPhone.
 • Les notifications n’affichent que le numéro de place, comme « P3 est prête pour la sortie ». Le texte de ton souci n’y figure jamais.
 
-CE QUE TU TROUVES DANS L’APP
-• Places illimitées, heures de sortie personnalisées, rappels quotidiens de l’heure des soucis
-• La barrière de sortie, le journal des sorties et les analyses des sorties
+GRATUIT, ET AVEC PRO PLUS DE PLACE
+• Gratuit : 5 places, sorties à ton heure des soucis avec rappel quotidien, la barrière de sortie et ton journal des sorties
+• Pro : places illimitées, heures de sortie personnalisées et analyses des sorties. Choisis un abonnement à la semaine, au mois ou à l’année, ou un achat unique à vie.
 
 Conditions d’utilisation : https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 Politique de confidentialité : https://m1zz.github.io/WorryParking/fr/privacy.html
@@ -754,15 +754,15 @@ PROVA SUBITO
 Durante l’introduzione parcheggi una preoccupazione vera e vedi come cambia la sua intensità prima e dopo. Come ti sei sentito resta salvato in “La tua esperienza”, così puoi riguardarlo più avanti.
 
 REGISTRO DELLE USCITE
-Man mano che si accumulano le preoccupazioni riesaminate, vedi quale quota delle tue paure si è avverata davvero e di quanto è scesa in media la loro intensità.
+Man mano che si accumulano le preoccupazioni riesaminate, vedi quale quota delle tue paure si è avverata davvero e di quanto è scesa in media la loro intensità. Gli approfondimenti sulle uscite sono inclusi in Pro.
 
 PRIVATA PER SCELTA
 • Nessun account, nessun server, nessuna pubblicità, nessuna analisi. Tutto ciò che scrivi resta sul tuo iPhone.
 • Le notifiche mostrano solo il numero del posto, come “P3 è pronta per il ritiro”. Il testo della tua preoccupazione non è mai incluso.
 
-COSA TROVI
-• Posti illimitati, orari di uscita personalizzati, promemoria quotidiani per l’Ora delle preoccupazioni
-• Sbarra d’uscita, registro delle uscite e approfondimenti sulle uscite
+GRATIS, E CON PRO PIÙ SPAZIO
+• Gratis: 5 posti, uscite all’Ora delle preoccupazioni con promemoria quotidiano, sbarra d’uscita e registro delle uscite
+• Pro: posti illimitati, orari di uscita personalizzati e approfondimenti sulle uscite. Scegli un abbonamento settimanale, mensile o annuale, oppure un acquisto unico a vita.
 
 Condizioni d’uso: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 Informativa sulla privacy: https://m1zz.github.io/WorryParking/it/privacy.html
@@ -825,15 +825,15 @@ EXPERIMENTE NA HORA
 Na introdução, você estaciona uma preocupação real e vê como a intensidade muda antes e depois. O que você sentiu fica salvo em “Sua experiência” para rever depois.
 
 REGISTRO DE SAÍDAS
-À medida que as preocupações revisadas se acumulam, você vê qual parte dos seus medos aconteceu de verdade e o quanto a intensidade caiu em média.
+À medida que as preocupações revisadas se acumulam, você vê qual parte dos seus medos aconteceu de verdade e o quanto a intensidade caiu em média. Os insights de saídas fazem parte do Pro.
 
 PRIVADO POR PROJETO
 • Sem conta, sem servidores, sem anúncios e sem análises. Tudo o que você escreve fica no seu iPhone.
 • As notificações mostram só o número da vaga, como “A P3 está pronta para sair”. O texto da sua preocupação nunca é incluído.
 
-O QUE VEM NO APP
-• Vagas ilimitadas, horários de saída personalizados, lembretes diários da Hora de se preocupar
-• Cancela de saída, registro de saídas e insights de saídas
+GRÁTIS, E COM O PRO MAIS ESPAÇO
+• Grátis: 5 vagas, saídas na sua Hora de se preocupar com lembrete diário, cancela de saída e registro de saídas
+• Pro: vagas ilimitadas, horários de saída personalizados e insights de saídas. Escolha assinatura semanal, mensal ou anual, ou uma compra única vitalícia.
 
 Termos de Uso: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 Política de Privacidade: https://m1zz.github.io/WorryParking/pt-BR/privacy.html
@@ -896,15 +896,15 @@ https://m1zz.github.io/WorryParking/pt-BR/index.html
 ในขั้นตอนเริ่มต้น คุณจะได้จอดความกังวลจริงหนึ่งเรื่อง และดูว่าระดับของมันเปลี่ยนไปอย่างไรก่อนและหลังจอด ความรู้สึกของคุณจะถูกเก็บไว้ใน “ประสบการณ์ของคุณ” ให้ย้อนกลับมาดูได้
 
 ■ บันทึกการออก
-เมื่อความกังวลที่ทบทวนแล้วสะสมมากขึ้น คุณจะเห็นว่าสิ่งที่กลัวเกิดขึ้นจริงสักกี่ส่วน และระดับความกังวลลดลงเฉลี่ยเท่าไร
+เมื่อความกังวลที่ทบทวนแล้วสะสมมากขึ้น คุณจะเห็นว่าสิ่งที่กลัวเกิดขึ้นจริงสักกี่ส่วน และระดับความกังวลลดลงเฉลี่ยเท่าไร ข้อมูลเชิงลึกนี้มีใน Pro
 
 ■ ความเป็นส่วนตัว
 • ไม่มีบัญชี ไม่มีเซิร์ฟเวอร์ ไม่มีโฆษณา และไม่มีเครื่องมือวิเคราะห์ ทุกอย่างที่คุณเขียนอยู่บน iPhone ของคุณเท่านั้น
 • การแจ้งเตือนจะแสดงแค่เลขช่องจอด เช่น “P3 พร้อมออกจากที่จอดแล้ว” และไม่มีข้อความความกังวลของคุณเลย
 
-■ ในแอปมีอะไรบ้าง
-• ช่องจอดไม่จำกัด กำหนดเวลาออกเอง และการเตือนเวลากังวลทุกวัน
-• ด่านทางออก บันทึกการออก และข้อมูลเชิงลึกการออก
+■ ใช้ฟรี และอัปเกรดเป็น Pro เมื่ออยากได้ที่จอดเพิ่ม
+• ฟรี: ช่องจอด 5 ช่อง ออกตามเวลากังวลพร้อมแจ้งเตือนทุกวัน ด่านทางออก และบันทึกการออก
+• Pro: ช่องจอดไม่จำกัด กำหนดเวลาออกเอง และข้อมูลเชิงลึกการออก เลือกได้ทั้งแบบรายสัปดาห์ รายเดือน รายปี หรือซื้อครั้งเดียวใช้ตลอดไป
 
 ข้อกำหนดการใช้งาน: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 นโยบายความเป็นส่วนตัว: https://m1zz.github.io/WorryParking/th/privacy.html
@@ -967,15 +967,15 @@ THỬ NGAY
 Trong phần làm quen, bạn đỗ một nỗi lo có thật và xem mức của nó thay đổi thế nào trước và sau khi đỗ. Cảm giác của bạn được lưu trong “Trải nghiệm của bạn” để xem lại sau.
 
 NHẬT KÝ RA BÃI
-Khi những nỗi lo đã xem lại tích lũy dần, bạn sẽ thấy tỷ lệ nỗi sợ thực sự đã xảy ra và mức giảm trung bình của chúng.
+Khi những nỗi lo đã xem lại tích lũy dần, bạn sẽ thấy tỷ lệ nỗi sợ thực sự đã xảy ra và mức giảm trung bình của chúng. Phần thông tin chi tiết này có trong Pro.
 
 RIÊNG TƯ TỪ THIẾT KẾ
 • Không tài khoản, không máy chủ, không quảng cáo, không công cụ phân tích. Mọi thứ bạn viết chỉ nằm trên iPhone của bạn.
 • Thông báo chỉ hiện số chỗ đỗ, như “P3 sẵn sàng ra bãi”. Nội dung nỗi lo của bạn không bao giờ xuất hiện.
 
-TRONG ỨNG DỤNG CÓ GÌ
-• Chỗ đỗ không giới hạn, giờ ra bãi tùy chỉnh, nhắc Giờ lo lắng mỗi ngày
-• Cổng ra, nhật ký ra bãi và thông tin chi tiết về lần ra bãi
+MIỄN PHÍ, CẦN THÊM CHỖ THÌ CÓ PRO
+• Miễn phí: 5 chỗ đỗ, ra bãi vào Giờ lo lắng kèm nhắc hằng ngày, cổng ra và nhật ký ra bãi
+• Pro: chỗ đỗ không giới hạn, giờ ra bãi tùy chỉnh và thông tin chi tiết về lần ra bãi. Chọn gói tuần, tháng, năm hoặc mua một lần dùng trọn đời.
 
 Điều khoản sử dụng: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 Chính sách quyền riêng tư: https://m1zz.github.io/WorryParking/vi/privacy.html
@@ -1038,15 +1038,15 @@ VYZKOUŠEJ HNED
 Při úvodním seznámení zaparkuješ jednu skutečnou starost a uvidíš, jak se její úroveň změní před zaparkováním a po něm. Jaké to bylo, se uloží do „Tvoje zkušenost“, takže se k tomu můžeš později vrátit.
 
 DENÍK VÝJEZDŮ
-Jak se hromadí prověřené starosti, uvidíš, jaký podíl tvých obav se doopravdy splnil a o kolik v průměru klesla jejich intenzita.
+Jak se hromadí prověřené starosti, uvidíš, jaký podíl tvých obav se doopravdy splnil a o kolik v průměru klesla jejich intenzita. Přehledy výjezdů jsou součástí Pro.
 
 SOUKROMÍ JE ZÁKLAD
 • Žádný účet, žádné servery, žádné reklamy, žádná analytika. Vše, co napíšeš, zůstává v tvém iPhonu.
 • Upozornění ukazují jen číslo místa, například „P3 je připraveno k vyzvednutí“. Text tvé starosti v nich nikdy není.
 
-CO V APLIKACI NAJDEŠ
-• Neomezený počet míst, vlastní časy výjezdu, denní připomínky Času na starosti
-• Výjezdová závora, deník výjezdů a přehledy výjezdů
+ZDARMA, S PRO VÍC MÍSTA
+• Zdarma: 5 parkovacích míst, výjezd v Čase na starosti s denní připomínkou, výjezdová závora a deník výjezdů
+• Pro: neomezený počet míst, vlastní časy výjezdu a přehledy výjezdů. Vyber si týdenní, měsíční nebo roční předplatné, nebo jednorázový nákup navždy.
 
 Podmínky použití: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 Zásady ochrany osobních údajů: https://m1zz.github.io/WorryParking/cs/privacy.html
@@ -1109,15 +1109,15 @@ PRØV DET MED DET SAMME
 Under introduktionen parkerer du en rigtig bekymring og ser, hvordan dens styrke ændrer sig før og efter. Hvordan det føltes, gemmes under „Din oplevelse“, så du kan kigge tilbage senere.
 
 UDKØRSELSLOG
-Efterhånden som gennemgåede bekymringer samler sig, kan du se, hvor stor en del af dine frygter der faktisk skete, og hvor meget styrken i gennemsnit faldt.
+Efterhånden som gennemgåede bekymringer samler sig, kan du se, hvor stor en del af dine frygter der faktisk skete, og hvor meget styrken i gennemsnit faldt. Indsigten i udkørsler følger med Pro.
 
 PRIVAT FRA GRUNDEN
 • Ingen konto, ingen servere, ingen reklamer, ingen analyse. Alt, hvad du skriver, bliver på din iPhone.
 • Notifikationer viser kun pladsnummeret, for eksempel „P3 er klar til afhentning“. Teksten fra din bekymring er aldrig med.
 
-DET ER MED I APPEN
-• Ubegrænsede pladser, egne udkørselstider, daglige påmindelser om bekymringstid
-• Udkørselsbom, udkørselslog og indsigt i udkørsler
+GRATIS – OG MED PRO MERE PLADS
+• Gratis: 5 parkeringspladser, udkørsel ved din bekymringstid med daglig påmindelse, udkørselsbom og udkørselslog
+• Pro: ubegrænsede pladser, egne udkørselstider og indsigt i udkørsler. Vælg uge-, måneds- eller årsabonnement eller et engangskøb for livstid.
 
 Brugsvilkår: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 Privatlivspolitik: https://m1zz.github.io/WorryParking/da/privacy.html
@@ -1180,15 +1180,15 @@ https://m1zz.github.io/WorryParking/da/index.html
 Στην εισαγωγή παρκάρεις μια πραγματική ανησυχία και βλέπεις πώς αλλάζει η έντασή της πριν και μετά. Πώς ένιωσες αποθηκεύεται στην «Η εμπειρία σου», ώστε να το δεις ξανά αργότερα.
 
 ΑΡΧΕΙΟ ΕΞΟΔΩΝ
-Όσο μαζεύονται οι ανησυχίες που έχεις εξετάσει, βλέπεις ποιο ποσοστό των φόβων σου έγινε πραγματικά και πόσο έπεσε κατά μέσο όρο η έντασή τους.
+Όσο μαζεύονται οι ανησυχίες που έχεις εξετάσει, βλέπεις ποιο ποσοστό των φόβων σου έγινε πραγματικά και πόσο έπεσε κατά μέσο όρο η έντασή τους. Τα στατιστικά εξόδων περιλαμβάνονται στο Pro.
 
 ΙΔΙΩΤΙΚΟ ΑΠΟ ΤΟΝ ΣΧΕΔΙΑΣΜΟ
 • Χωρίς λογαριασμό, χωρίς διακομιστές, χωρίς διαφημίσεις, χωρίς αναλυτικά στοιχεία. Όσα γράφεις μένουν στο iPhone σου.
 • Οι ειδοποιήσεις δείχνουν μόνο τον αριθμό θέσης, όπως «Η P3 είναι έτοιμη για παραλαβή». Το κείμενο της ανησυχίας σου δεν περιλαμβάνεται ποτέ.
 
-ΤΙ ΠΕΡΙΛΑΜΒΑΝΕΙ
-• Απεριόριστες θέσεις, προσαρμοσμένες ώρες εξόδου, καθημερινές υπενθυμίσεις Ώρας ανησυχίας
-• Μπάρα εξόδου, αρχείο εξόδων και στατιστικά εξόδων
+ΔΩΡΕΑΝ, ΚΑΙ ΜΕ ΤΟ PRO ΠΕΡΙΣΣΟΤΕΡΟΣ ΧΩΡΟΣ
+• Δωρεάν: 5 θέσεις στάθμευσης, έξοδος στην Ώρα ανησυχίας με καθημερινή υπενθύμιση, μπάρα εξόδου και αρχείο εξόδων
+• Pro: απεριόριστες θέσεις, προσαρμοσμένες ώρες εξόδου και στατιστικά εξόδων. Διάλεξε εβδομαδιαία, μηνιαία ή ετήσια συνδρομή ή εφάπαξ αγορά εφ’ όρου ζωής.
 
 Όροι χρήσης: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 Πολιτική απορρήτου: https://m1zz.github.io/WorryParking/el/privacy.html
@@ -1251,15 +1251,15 @@ KOKEILE HETI
 Aloituksessa pysäköit yhden oikean huolen ja näet, miten sen voimakkuus muuttuu ennen pysäköintiä ja sen jälkeen. Miltä se tuntui, tallentuu kohtaan ”Kokemuksesi”, jotta voit katsoa sitä myöhemmin.
 
 ULOSAJOLOKI
-Kun läpikäytyjä huolia kertyy, näet, kuinka suuri osa peloistasi toteutui oikeasti ja kuinka paljon voimakkuus laski keskimäärin.
+Kun läpikäytyjä huolia kertyy, näet, kuinka suuri osa peloistasi toteutui oikeasti ja kuinka paljon voimakkuus laski keskimäärin. Ulosajojen tilastot kuuluvat Prohon.
 
 YKSITYISYYS ENNEN KAIKKEA
 • Ei tiliä, ei palvelimia, ei mainoksia, ei analytiikkaa. Kaikki kirjoittamasi pysyy iPhonessasi.
 • Ilmoituksissa näkyy vain paikan numero, esimerkiksi ”P3 on valmis noudettavaksi”. Huolesi tekstiä ei koskaan liitetä mukaan.
 
-MITÄ SOVELLUKSESSA ON
-• Rajattomat paikat, omat ulosajoajat, päivittäiset huoliajan muistutukset
-• Ulosajopuomi, ulosajoloki ja ulosajojen tilastot
+ILMAINEN – JA PROLLA LISÄÄ TILAA
+• Ilmainen: 5 pysäköintipaikkaa, ulosajo huoliaikana ja päivittäinen muistutus, ulosajopuomi ja ulosajoloki
+• Pro: rajattomat paikat, omat ulosajoajat ja ulosajojen tilastot. Valitse viikko-, kuukausi- tai vuositilaus tai elinikäinen kertaosto.
 
 Käyttöehdot: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 Tietosuojakäytäntö: https://m1zz.github.io/WorryParking/fi/privacy.html
@@ -1322,15 +1322,15 @@ COBA LANGSUNG
 Saat pengenalan awal, kamu memarkirkan satu kekhawatiran nyata dan melihat bagaimana tingkatnya berubah sebelum dan sesudah. Perasaanmu tersimpan di “Pengalamanmu” agar bisa dilihat lagi nanti.
 
 CATATAN KELUAR
-Seiring kekhawatiran yang kamu tinjau bertambah, kamu bisa melihat berapa bagian ketakutanmu yang benar-benar terjadi dan seberapa besar rata-rata penurunan tingkatnya.
+Seiring kekhawatiran yang kamu tinjau bertambah, kamu bisa melihat berapa bagian ketakutanmu yang benar-benar terjadi dan seberapa besar rata-rata penurunan tingkatnya. Wawasan keluar tersedia di Pro.
 
 PRIVAT SEJAK AWAL
 • Tanpa akun, tanpa server, tanpa iklan, tanpa analitik. Semua yang kamu tulis tetap di iPhone-mu.
 • Notifikasi hanya menampilkan nomor petak, seperti “P3 siap dijemput”. Teks kekhawatiranmu tidak pernah disertakan.
 
-YANG ADA DI APLIKASI
-• Petak parkir tanpa batas, waktu keluar kustom, pengingat Waktu Khawatir harian
-• Gerbang keluar, catatan keluar, dan wawasan keluar
+GRATIS, DAN PRO UNTUK RUANG LEBIH
+• Gratis: 5 petak parkir, keluar di Waktu Khawatir dengan pengingat harian, gerbang keluar, dan catatan keluar
+• Pro: petak parkir tanpa batas, waktu keluar kustom, dan wawasan keluar. Pilih langganan mingguan, bulanan, atau tahunan, atau sekali bayar seumur hidup.
 
 Ketentuan Penggunaan: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 Kebijakan Privasi: https://m1zz.github.io/WorryParking/id/privacy.html
@@ -1393,15 +1393,15 @@ PRØV DET UMIDDELBART
 Under introduksjonen parkerer du en ekte bekymring og ser hvordan styrken endrer seg før og etter. Hvordan det føltes, lagres under «Din opplevelse», så du kan se tilbake senere.
 
 UTKJØRINGSLOGG
-Etter hvert som gjennomgåtte bekymringer samler seg, ser du hvor stor del av frykten din som faktisk inntraff, og hvor mye styrken i gjennomsnitt falt.
+Etter hvert som gjennomgåtte bekymringer samler seg, ser du hvor stor del av frykten din som faktisk inntraff, og hvor mye styrken i gjennomsnitt falt. Innsikten om utkjøringer følger med Pro.
 
 PRIVAT FRA GRUNNEN AV
 • Ingen konto, ingen servere, ingen reklame, ingen analyse. Alt du skriver, blir på iPhonen din.
 • Varsler viser bare plassnummeret, for eksempel «P3 er klar til henting». Teksten fra bekymringen din er aldri med.
 
-DET ER MED I APPEN
-• Ubegrenset med plasser, egne utkjøringstider, daglige påminnelser om bekymringstid
-• Utkjørselsbom, utkjøringslogg og innsikt om utkjøringer
+GRATIS – OG MED PRO MER PLASS
+• Gratis: 5 parkeringsplasser, utkjøring ved bekymringstid med daglig påminnelse, utkjørselsbom og utkjøringslogg
+• Pro: ubegrenset med plasser, egne utkjøringstider og innsikt om utkjøringer. Velg uke-, måneds- eller årsabonnement, eller et engangskjøp for livstid.
 
 Bruksvilkår: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 Personvernerklæring: https://m1zz.github.io/WorryParking/nb/privacy.html
@@ -1464,15 +1464,15 @@ PROBEER HET METEEN
 Tijdens de introductie parkeer je één echte zorg en zie je hoe zijn niveau verandert voor en na het parkeren. Hoe het voelde, wordt bewaard onder ‘Jouw ervaring’, zodat je later kunt terugkijken.
 
 UITRITLOGBOEK
-Naarmate je bekeken zorgen zich opstapelen, zie je welk deel van je angsten echt uitkwam en hoeveel het niveau gemiddeld daalde.
+Naarmate je bekeken zorgen zich opstapelen, zie je welk deel van je angsten echt uitkwam en hoeveel het niveau gemiddeld daalde. De inzichten over uitritten horen bij Pro.
 
 PRIVÉ VANAF HET BEGIN
 • Geen account, geen servers, geen advertenties, geen analyse. Alles wat je schrijft blijft op je iPhone.
 • Meldingen tonen alleen het plekkennummer, zoals ‘P3 is klaar om opgehaald te worden’. De tekst van je zorg staat er nooit in.
 
-WAT ZIT ER IN DE APP
-• Onbeperkte plekken, eigen uitrittijden, dagelijkse herinneringen voor de Zorgentijd
-• Slagboom, uitritlogboek en inzichten over uitritten
+GRATIS, EN MET PRO MEER RUIMTE
+• Gratis: 5 parkeerplekken, uitrit op je Zorgentijd met dagelijkse herinnering, slagboom en uitritlogboek
+• Pro: onbeperkte plekken, eigen uitrittijden en inzichten over uitritten. Kies een week-, maand- of jaarabonnement, of een eenmalige aankoop voor altijd.
 
 Gebruiksvoorwaarden: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 Privacybeleid: https://m1zz.github.io/WorryParking/nl/privacy.html
@@ -1535,15 +1535,15 @@ WYPRÓBUJ OD RAZU
 Na początku parkujesz jedno prawdziwe zmartwienie i widzisz, jak zmienia się jego nasilenie przed zaparkowaniem i po nim. Twoje wrażenia zapisują się w sekcji „Twoje doświadczenie”, żeby można było do nich wrócić.
 
 DZIENNIK WYJAZDÓW
-W miarę jak przybywa przejrzanych zmartwień, widzisz, jaka część twoich obaw naprawdę się spełniła i o ile średnio spadło ich nasilenie.
+W miarę jak przybywa przejrzanych zmartwień, widzisz, jaka część twoich obaw naprawdę się spełniła i o ile średnio spadło ich nasilenie. Statystyki wyjazdów są dostępne w Pro.
 
 PRYWATNOŚĆ OD PODSTAW
 • Bez konta, bez serwerów, bez reklam, bez analityki. Wszystko, co piszesz, zostaje na twoim iPhonie.
 • Powiadomienia pokazują tylko numer miejsca, na przykład „P3 jest gotowe do odbioru”. Treść twojego zmartwienia nigdy w nich nie występuje.
 
-CO JEST W APLIKACJI
-• Nieograniczona liczba miejsc, własne czasy wyjazdu, codzienne przypomnienia o Porze na zmartwienia
-• Szlaban wyjazdowy, dziennik wyjazdów i statystyki wyjazdów
+ZA DARMO, A Z PRO WIĘCEJ MIEJSCA
+• Za darmo: 5 miejsc parkingowych, wyjazd o Porze na zmartwienia z codziennym przypomnieniem, szlaban wyjazdowy i dziennik wyjazdów
+• Pro: nieograniczona liczba miejsc, własne czasy wyjazdu i statystyki wyjazdów. Wybierz subskrypcję tygodniową, miesięczną lub roczną albo jednorazowy zakup na zawsze.
 
 Warunki korzystania: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 Polityka prywatności: https://m1zz.github.io/WorryParking/pl/privacy.html
@@ -1606,15 +1606,15 @@ TESTA DIREKT
 I introduktionen parkerar du en riktig oro och ser hur dess styrka förändras före och efter parkeringen. Hur det kändes sparas under ”Din upplevelse”, så att du kan titta tillbaka senare.
 
 UTFARTSLOGG
-Allt eftersom genomgångna oror samlas ser du hur stor del av dina farhågor som faktiskt besannades och hur mycket styrkan sjönk i genomsnitt.
+Allt eftersom genomgångna oror samlas ser du hur stor del av dina farhågor som faktiskt besannades och hur mycket styrkan sjönk i genomsnitt. Insikterna om utfarter ingår i Pro.
 
 PRIVAT FRÅN GRUNDEN
 • Inget konto, inga servrar, ingen reklam, ingen analys. Allt du skriver stannar på din iPhone.
 • Notiser visar bara platsnumret, till exempel ”P3 är redo att hämtas”. Texten från din oro ingår aldrig.
 
-DET HÄR INGÅR
-• Obegränsade platser, egna utfartstider, dagliga påminnelser om orotid
-• Utfartsbom, utfartslogg och insikter om utfarter
+GRATIS – OCH MED PRO MER PLATS
+• Gratis: 5 parkeringsplatser, utfart vid din orotid med daglig påminnelse, utfartsbom och utfartslogg
+• Pro: obegränsat antal platser, egna utfartstider och insikter om utfarter. Välj vecko-, månads- eller årsabonnemang, eller ett engångsköp för livet.
 
 Användarvillkor: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 Integritetspolicy: https://m1zz.github.io/WorryParking/sv/privacy.html
@@ -1677,15 +1677,15 @@ HEMEN DENE
 İlk tanıtımda gerçek bir endişeni park eder ve park etmeden önce ile sonra şiddetinin nasıl değiştiğini görürsün. Nasıl hissettiğin “Deneyimin” bölümüne kaydedilir; sonra dönüp bakabilirsin.
 
 ÇIKIŞ GÜNLÜĞÜ
-Gözden geçirilen endişeler biriktikçe, korkularının ne kadarının gerçekten gerçekleştiğini ve şiddetlerinin ortalama ne kadar düştüğünü görürsün.
+Gözden geçirilen endişeler biriktikçe, korkularının ne kadarının gerçekten gerçekleştiğini ve şiddetlerinin ortalama ne kadar düştüğünü görürsün. Çıkış içgörüleri Pro'da.
 
 TASARIMDAN GELEN GİZLİLİK
 • Hesap yok, sunucu yok, reklam yok, analiz aracı yok. Yazdığın her şey iPhone'unda kalır.
 • Bildirimler yalnızca yer numarasını gösterir; örneğin “P3 alınmaya hazır”. Endişenin metni asla yer almaz.
 
-UYGULAMADA NELER VAR
-• Sınırsız yer, özel çıkış saatleri, günlük Endişe Saati hatırlatıcıları
-• Çıkış bariyeri, Çıkış Günlüğü ve çıkış içgörüleri
+ÜCRETSİZ, DAHA FAZLA YER İÇİN PRO
+• Ücretsiz: 5 park yeri, Endişe Saati'nde çıkış ve günlük hatırlatma, çıkış bariyeri ve Çıkış Günlüğü
+• Pro: sınırsız park yeri, özel çıkış saatleri ve çıkış içgörüleri. Haftalık, aylık veya yıllık abonelik ya da tek seferlik ömür boyu satın alma arasından seç.
 
 Kullanım Koşulları: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 Gizlilik Politikası: https://m1zz.github.io/WorryParking/tr/privacy.html
