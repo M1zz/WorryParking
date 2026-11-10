@@ -13,6 +13,12 @@ struct WorryParkingApp: App {
         LeeoVault.start(WorryParkingSpec.self)
         // Siri 인텐트가 같은 저장소를 쓴다 (→ WorryIntents.swift)
         AppDependencyManager.shared.add(dependency: Self.container)
+        #if DEBUG
+        CloudKitSchemaWarmup.runIfRequested(Self.container) {
+            [Worry(text: "표본", spotNumber: 1, intensityBefore: 3, exitAt: .now),
+             ExperienceFeedback(moment: .trial, feeling: .same, levelBefore: 0, levelAfter: 0, note: "")]
+        }
+        #endif
     }
 
     var body: some Scene {
