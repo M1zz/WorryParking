@@ -56,13 +56,13 @@
         <p><strong>Lyhyesti: Huolipysäköinti ei kerää henkilötietoja.</strong></p>
         <ul>
           <li>Tiliä tai kirjautumista ei ole, eikä kehittäjä ylläpidä palvelimia.</li>
-          <li>Kirjoittamasi huolet ja historiasi tallennetaan vain laitteellesi.</li>
+          <li>Kirjoittamasi huolet ja historiasi tallennetaan laitteellesi ja, jos olet kirjautunut iCloudiin, myös omaan iCloudiisi.</li>
           <li>Sovellus ei käytä kolmansien osapuolten SDK:ita mainontaan, analytiikkaan tai seurantaan.</li>
         </ul>
       </div>
 
       <h2>1. Laitteellesi tallennettavat tiedot</h2>
-      <p>Jotta sovellus toimii, seuraavat tiedot tallennetaan <strong>vain iPhoneesi</strong>. Kehittäjällä ei ole niihin pääsyä, eikä niitä koskaan lähetetä minnekään.</p>
+      <p>Jotta sovellus toimii, seuraavat tiedot tallennetaan <strong>iPhoneesi</strong> ja, jos olet kirjautunut iCloudiin, myös omaan iCloudiisi (ks. alla). Kehittäjällä ei ole niihin pääsyä, eikä niitä lähetetä kehittäjälle.</p>
       <table>
         <tr><th>Tiedot</th><th>Tarkoitus</th></tr>
         <tr><td>Huolen teksti, voimakkuus (1–5), paikan numero</td><td>Lippujen näyttäminen, läpikäynti ulosajopuomilla</td></tr>
@@ -71,6 +71,8 @@
         <tr><td>Huoliaika-asetus, aloituksen tila</td><td>Ulosajoaikojen laskeminen, asetustesi säilyttäminen</td></tr>
       </table>
       <p>Jos iCloud-varmuuskopiointi tai tietokoneen varmuuskopiointi on käytössä, nämä tiedot voivat sisältyä Applen laitevarmuuskopioon muiden sovellustietojen mukana. Näihin varmuuskopioihin sovelletaan Applen tietosuojakäytäntöä, eikä kehittäjällä ole niihin pääsyä.</p>
+
+      <p><strong>iCloud-synkronointi.</strong> Jos laite on kirjautunut iCloudiin, yllä mainitut tiedot tallennetaan myös omaan yksityiseen iCloud-tietokantaasi (Apple CloudKit) ja pidetään ajan tasalla muiden saman Apple-tilin laitteidesi kanssa. Vain sinä voit lukea niitä; kehittäjä tai muut eivät näe niitä. Jos poistat iCloudin käytöstä Asetuksissa, synkronointi loppuu ja merkinnät jäävät laitteelle. iCloudiin jääneet tiedot voi poistaa kohdassa Asetukset ▸ Apple-tili ▸ iCloud ▸ Hallitse tallennustilaa.</p>
 
       <h2>2. Ilmoitukset</h2>
       <p>Noutomuistutukset ovat paikallisia ilmoituksia, jotka ajastetaan laitteellesi. Ne näyttävät vain paikan numeron (esimerkiksi ”P3 on valmis noudettavaksi”) eivätkä <strong>koskaan sisällä huolesi tekstiä.</strong> Voit poistaa ne käytöstä milloin tahansa kohdassa Asetukset &gt; Ilmoitukset.</p>

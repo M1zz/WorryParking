@@ -56,13 +56,13 @@
         <p><strong>Kısaca: Endişe Otoparkı kişisel veri toplamaz.</strong></p>
         <ul>
           <li>Hesap veya oturum açma yoktur ve geliştirici herhangi bir sunucu işletmez.</li>
-          <li>Yazdığın endişeler ve geçmişin yalnızca cihazında saklanır.</li>
+          <li>Yazdığın endişeler ve geçmişin cihazında ve, iCloud'da oturum açtıysan, kendi iCloud'unda saklanır.</li>
           <li>Uygulama reklam, analiz veya izleme için üçüncü taraf SDK'ları kullanmaz.</li>
         </ul>
       </div>
 
       <h2>1. Cihazında saklanan bilgiler</h2>
-      <p>Uygulamanın çalışması için aşağıdakiler <strong>yalnızca iPhone'unda</strong> saklanır. Geliştirici bunlara erişemez ve hiçbir yere gönderilmez.</p>
+      <p>Uygulamanın çalışması için aşağıdakiler <strong>iPhone'unda</strong> ve, iCloud'da oturum açtıysan, kendi iCloud'unda saklanır (aşağıya bak). Geliştirici bunlara erişemez ve geliştiriciye gönderilmez.</p>
       <table>
         <tr><th>Veri</th><th>Amaç</th></tr>
         <tr><td>Endişe metni, şiddet (1–5), yer numarası</td><td>Biletleri gösterme, çıkış bariyerinde gözden geçirme</td></tr>
@@ -71,6 +71,8 @@
         <tr><td>Endişe Saati ayarı, tanıtım durumu</td><td>Çıkış saatlerini hesaplama, ayarlarını koruma</td></tr>
       </table>
       <p>iCloud Yedekleme veya bilgisayar yedeklemesi açıksa bu veriler, diğer uygulama verileriyle birlikte Apple'ın cihaz yedeğine dahil edilebilir. Bu yedekler Apple'ın gizlilik politikasına tabidir ve geliştirici bunlara erişemez.</p>
+
+      <p><strong>iCloud eşzamanlama.</strong> Aygıt iCloud'da oturum açmışsa yukarıdaki bilgiler kendi özel iCloud veritabanında (Apple CloudKit) da saklanır ve aynı Apple Hesabı'ndaki diğer aygıtlarınla otomatik olarak eşlenir. Bunları yalnızca sen okuyabilirsin; geliştirici ve başkaları göremez. Ayarlar'dan iCloud'u kapatırsan eşzamanlama durur ve kayıtlar aygıtında kalır. iCloud'da kalanları Ayarlar ▸ Apple Hesabı ▸ iCloud ▸ Saklama Alanını Yönet bölümünden silebilirsin.</p>
 
       <h2>2. Bildirimler</h2>
       <p>Teslim alma hatırlatıcıları, cihazında planlanan yerel bildirimlerdir. Yalnızca yer numarasını gösterir (örneğin “P3 alınmaya hazır”) ve <strong>endişenin metnini asla içermez.</strong> Bunları istediğin zaman Ayarlar &gt; Bildirimler'den kapatabilirsin.</p>

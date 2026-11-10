@@ -56,13 +56,13 @@
         <p><strong>Em resumo: o Estacionamento de Preocupações não coleta dados pessoais.</strong></p>
         <ul>
           <li>Não há conta nem login, e o desenvolvedor não mantém nenhum servidor.</li>
-          <li>As preocupações que você escreve e o seu histórico ficam salvos somente no seu aparelho.</li>
+          <li>As preocupações que você escreve e o seu histórico ficam salvos no seu aparelho e, se você estiver conectado ao iCloud, também no seu próprio iCloud.</li>
           <li>O app não usa SDKs de terceiros para anúncios, análises ou rastreamento.</li>
         </ul>
       </div>
 
       <h2>1. Informações salvas no seu aparelho</h2>
-      <p>Para o app funcionar, o seguinte é salvo <strong>somente no seu iPhone</strong>. O desenvolvedor não tem acesso, e nada é enviado para lugar nenhum.</p>
+      <p>Para o app funcionar, o seguinte é salvo <strong>no seu iPhone</strong> e, se você estiver conectado ao iCloud, também no seu próprio iCloud (veja abaixo). O desenvolvedor não tem acesso, e nada é enviado a ele.</p>
       <table>
         <tr><th>Dados</th><th>Finalidade</th></tr>
         <tr><td>Texto da preocupação, intensidade (1–5), número da vaga</td><td>Exibir os tickets, revisão na cancela de saída</td></tr>
@@ -71,6 +71,8 @@
         <tr><td>Ajuste da Hora de se preocupar, estado da introdução</td><td>Calcular os horários de saída, manter os seus ajustes</td></tr>
       </table>
       <p>Se o Backup do iCloud ou o backup no computador estiver ativado, esses dados podem ser incluídos no backup do aparelho da Apple junto com os demais dados dos apps. Esses backups seguem a política de privacidade da Apple e o desenvolvedor não tem acesso a eles.</p>
+
+      <p><strong>Sincronização com o iCloud.</strong> Se o aparelho estiver conectado ao iCloud, as informações acima também ficam salvas no seu próprio banco de dados privado do iCloud (Apple CloudKit) e são mantidas em dia com seus outros aparelhos da mesma Conta Apple. Só você pode lê-las; o desenvolvedor e outras pessoas não têm acesso. Se você desativar o iCloud nos Ajustes, a sincronização para e seus registros continuam no aparelho. O que ficar no iCloud pode ser apagado em Ajustes ▸ Conta Apple ▸ iCloud ▸ Gerenciar Armazenamento.</p>
 
       <h2>2. Notificações</h2>
       <p>Os lembretes de saída são notificações locais agendadas no seu aparelho. Eles mostram só o número da vaga (por exemplo, “A P3 está pronta para sair”) e <strong>nunca incluem o texto da sua preocupação.</strong> Você pode desativá-los a qualquer momento em Ajustes &gt; Notificações.</p>

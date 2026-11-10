@@ -56,13 +56,13 @@
         <p><strong>Kort sagt: Bekymringsparkering indsamler ikke personoplysninger.</strong></p>
         <ul>
           <li>Der er ingen konto eller login, og udvikleren driver ingen servere.</li>
-          <li>De bekymringer, du skriver, og din historik gemmes kun på din enhed.</li>
+          <li>De bekymringer, du skriver, og din historik gemmes på din enhed og, hvis du er logget ind på iCloud, også i din egen iCloud.</li>
           <li>Appen bruger ingen tredjeparts-SDK'er til reklamer, analyse eller sporing.</li>
         </ul>
       </div>
 
       <h2>1. Oplysninger gemt på din enhed</h2>
-      <p>For at appen kan fungere, gemmes følgende <strong>kun på din iPhone</strong>. Udvikleren har ikke adgang til det, og det sendes aldrig nogen steder hen.</p>
+      <p>For at appen kan fungere, gemmes følgende <strong>på din iPhone</strong> og, hvis du er logget ind på iCloud, også i din egen iCloud (se nedenfor). Udvikleren har ikke adgang til det, og det sendes aldrig til udvikleren.</p>
       <table>
         <tr><th>Data</th><th>Formål</th></tr>
         <tr><td>Bekymringens tekst, styrke (1–5), pladsnummer</td><td>Visning af billetter, gennemgang ved udkørselsbommen</td></tr>
@@ -71,6 +71,8 @@
         <tr><td>Indstilling af bekymringstid, status for introduktionen</td><td>Beregning af udkørselstider, bevarelse af dine indstillinger</td></tr>
       </table>
       <p>Hvis du har iCloud-backup eller computerbackup slået til, kan disse data indgå i Apples enhedsbackup sammen med andre appdata. Disse backups er underlagt Apples privatlivspolitik, og udvikleren har ikke adgang til dem.</p>
+
+      <p><strong>iCloud-synkronisering.</strong> Hvis enheden er logget ind på iCloud, gemmes oplysningerne ovenfor også i din egen private iCloud-database (Apple CloudKit) og holdes i takt med dine andre enheder på samme Apple-konto. Kun du kan læse dem; udvikleren og andre kan ikke se dem. Slår du iCloud fra i Indstillinger, stopper synkroniseringen, og dine data bliver på enheden. Det, der ligger tilbage i iCloud, kan slettes under Indstillinger ▸ Apple-konto ▸ iCloud ▸ Administrer lagringsplads.</p>
 
       <h2>2. Notifikationer</h2>
       <p>Afhentningspåmindelser er lokale notifikationer, der planlægges på din enhed. De viser kun pladsnummeret (for eksempel „P3 er klar til afhentning“) og <strong>indeholder aldrig teksten fra din bekymring.</strong> Du kan slå dem fra når som helst under Indstillinger &gt; Notifikationer.</p>

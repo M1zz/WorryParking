@@ -56,13 +56,13 @@
         <p><strong>En resumen: Parking de Preocupaciones no recopila datos personales.</strong></p>
         <ul>
           <li>No hay cuenta ni inicio de sesión, y el desarrollador no gestiona ningún servidor.</li>
-          <li>Las preocupaciones que escribes y tu historial se guardan solo en tu dispositivo.</li>
+          <li>Las preocupaciones que escribes y tu historial se guardan en tu dispositivo y, si has iniciado sesión en iCloud, también en tu propio iCloud.</li>
           <li>La app no usa SDK de terceros para publicidad, analíticas ni seguimiento.</li>
         </ul>
       </div>
 
       <h2>1. Información guardada en tu dispositivo</h2>
-      <p>Para que la app funcione, lo siguiente se guarda <strong>solo en tu iPhone</strong>. El desarrollador no puede acceder a ello y nunca se envía a ningún sitio.</p>
+      <p>Para que la app funcione, lo siguiente se guarda <strong>en tu iPhone</strong> y, si has iniciado sesión en iCloud, también en tu propio iCloud (ver más abajo). El desarrollador no puede acceder a ello y nunca se le envía.</p>
       <table>
         <tr><th>Datos</th><th>Finalidad</th></tr>
         <tr><td>Texto de la preocupación, nivel (1–5), número de plaza</td><td>Mostrar los tickets, revisión en la barrera de salida</td></tr>
@@ -71,6 +71,8 @@
         <tr><td>Ajuste de la hora de preocuparse, estado de la introducción</td><td>Calcular las horas de salida, conservar tus ajustes</td></tr>
       </table>
       <p>Si tienes activada la copia de seguridad de iCloud o del ordenador, estos datos pueden incluirse en la copia de seguridad de tu dispositivo de Apple junto con los demás datos de las apps. Esas copias se rigen por la política de privacidad de Apple y el desarrollador no puede acceder a ellas.</p>
+
+      <p><strong>Sincronización con iCloud.</strong> Si el dispositivo tiene la sesión iniciada en iCloud, la información anterior también se guarda en tu propia base de datos privada de iCloud (Apple CloudKit) y se mantiene al día con tus otros dispositivos de la misma cuenta de Apple. Solo tú puedes leerla; ni el desarrollador ni nadie más puede verla. Si desactivas iCloud en Ajustes, la sincronización se detiene y tus registros se quedan en el dispositivo. Lo que quede en iCloud se puede borrar en Ajustes ▸ Cuenta de Apple ▸ iCloud ▸ Gestionar almacenamiento.</p>
 
       <h2>2. Notificaciones</h2>
       <p>Los avisos de salida son notificaciones locales programadas en tu dispositivo. Solo muestran el número de plaza (por ejemplo, «P3 está lista para salir») y <strong>nunca incluyen el texto de tu preocupación.</strong> Puedes desactivarlas en cualquier momento en Ajustes &gt; Notificaciones.</p>

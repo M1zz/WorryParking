@@ -56,13 +56,13 @@
         <p><strong>Kort sagt: Bekymringsparkering samler ikke inn personopplysninger.</strong></p>
         <ul>
           <li>Det finnes ingen konto eller pålogging, og utvikleren driver ingen servere.</li>
-          <li>Bekymringene du skriver og historikken din lagres bare på enheten din.</li>
+          <li>Bekymringene du skriver og historikken din lagres på enheten din og, hvis du er logget på iCloud, også i din egen iCloud.</li>
           <li>Appen bruker ingen tredjeparts-SDK-er til reklame, analyse eller sporing.</li>
         </ul>
       </div>
 
       <h2>1. Informasjon som lagres på enheten din</h2>
-      <p>For at appen skal fungere, lagres følgende <strong>bare på iPhonen din</strong>. Utvikleren har ikke tilgang til det, og det sendes aldri noe sted.</p>
+      <p>For at appen skal fungere, lagres følgende <strong>på iPhonen din</strong> og, hvis du er logget på iCloud, også i din egen iCloud (se nedenfor). Utvikleren har ikke tilgang til det, og det sendes aldri til utvikleren.</p>
       <table>
         <tr><th>Data</th><th>Formål</th></tr>
         <tr><td>Bekymringens tekst, styrke (1–5), plassnummer</td><td>Visning av billetter, gjennomgang ved utkjørselsbommen</td></tr>
@@ -71,6 +71,8 @@
         <tr><td>Innstilling for bekymringstid, status for introduksjonen</td><td>Beregne utkjøringstider, beholde innstillingene dine</td></tr>
       </table>
       <p>Hvis du har iCloud-sikkerhetskopi eller datamaskinsikkerhetskopi slått på, kan disse dataene inngå i Apples enhetssikkerhetskopi sammen med andre appdata. Disse sikkerhetskopiene styres av Apples personvernerklæring, og utvikleren har ikke tilgang til dem.</p>
+
+      <p><strong>iCloud-synkronisering.</strong> Hvis enheten er logget på iCloud, lagres opplysningene ovenfor også i din egen private iCloud-database (Apple CloudKit) og holdes i takt med de andre enhetene dine på samme Apple-konto. Bare du kan lese dem; utvikleren og andre kan ikke se dem. Slår du av iCloud i Innstillinger, stopper synkroniseringen, og dataene blir værende på enheten. Det som ligger igjen i iCloud, kan slettes under Innstillinger ▸ Apple-konto ▸ iCloud ▸ Administrer lagring.</p>
 
       <h2>2. Varsler</h2>
       <p>Hentepåminnelser er lokale varsler som planlegges på enheten din. De viser bare plassnummeret (for eksempel «P3 er klar til henting») og <strong>inneholder aldri teksten fra bekymringen din.</strong> Du kan slå dem av når som helst under Innstillinger &gt; Varsler.</p>
