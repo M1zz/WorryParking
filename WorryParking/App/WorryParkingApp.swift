@@ -36,12 +36,28 @@ struct WorryParkingApp: App {
     /// 손으로 열고, 실패하면 디스크의 기록은 그대로 둔 채 이번 실행만 메모리에서 연다.
     private static let container: ModelContainer = {
         let schema = Schema([Worry.self, ExperienceFeedback.self])
+        // 1. 사용자의 iCloud(앱 자체 컨테이너의 개인 데이터베이스). 기기에 있던 기록은 그대로 올라가고,
+        //    새 기기는 계정에 있던 것을 받아 온다. 컨테이너를 이름으로 못박는다 — 비워 두면(.automatic)
+        //    entitlements 의 첫 컨테이너(FeedbackHub, 피드백 전송용)로 걱정이 올라간다.
+        if let synced = try? ModelContainer(
+            for: schema,
+            configurations: ModelConfiguration(schema: schema, cloudKitDatabase: .private(cloudContainer))
+        ) {
+            usesCloud = true
+            return synced
+        }
+        // 2. 같은 파일을 기기 안에서만. entitlement 가 없거나 컨테이너가 아직 없는 빌드도 기록은 잃지 않는다.
         do {
-            return try ModelContainer(for: schema, configurations: ModelConfiguration(schema: schema))
+            return try ModelContainer(for: schema, configurations: ModelConfiguration(schema: schema, cloudKitDatabase: .none))
         } catch {
             return StoreFallback.memoryContainer(schema: schema, after: error)
         }
     }()
+
+    /// 앱 자체 iCloud 컨테이너. entitlements 에 이 이름이 있어야 1 단계가 열린다.
+    static let cloudContainer = "iCloud.com.devkoan.worryparking"
+    /// 이번 실행이 iCloud 와 이어져 열렸는가 (makeContainer 가 한 번 정한다).
+    private(set) static var usesCloud = false
 }
 
 struct RootView: View {
