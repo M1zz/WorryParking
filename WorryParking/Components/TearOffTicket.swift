@@ -33,8 +33,10 @@ struct TearOffTicket: View {
         .foregroundStyle(Theme.ink)
         .opacity(isEnabled ? 1 : 0.45)
         .allowsHitTesting(isEnabled && !isTorn)
+        #if !os(visionOS)   // Vision Pro 에는 진동이 없다
         .sensoryFeedback(.selection, trigger: tick) { old, new in new > old }
         .sensoryFeedback(.impact(weight: .medium), trigger: isTorn) { _, new in new }
+        #endif
         .accessibilityElement(children: .ignore)
         .accessibilityLabel(Text("Tear off the ticket to park"))
         .accessibilityHint(Text("Swipe along the dotted line to park"))

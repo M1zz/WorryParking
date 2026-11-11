@@ -114,7 +114,9 @@ struct ExitGateView: View {
                 }
                 .padding(20)
             }
+            #if !os(visionOS)
             .scrollDismissesKeyboard(.interactively)
+            #endif
             .background(Theme.asphalt.ignoresSafeArea())
             .navigationTitle("Exit Gate · P\(worry.spotNumber)")
             .navigationBarTitleDisplayMode(.inline)
@@ -124,7 +126,9 @@ struct ExitGateView: View {
                 }
             }
             .onAppear { intensityNow = worry.intensityBefore }
+            #if !os(visionOS)
             .sensoryFeedback(.success, trigger: finished)
+            #endif
             .sheet(isPresented: $askingFeedback) {
                 FirstExitFeedbackView(worry: worry) {
                     askingFeedback = false

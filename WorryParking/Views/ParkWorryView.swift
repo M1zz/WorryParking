@@ -78,7 +78,9 @@ struct ParkWorryView: View {
             }
         }
         .interactiveDismissDisabled(!trimmedText.isEmpty && issued == nil)
+        #if !os(visionOS)
         .sensoryFeedback(.success, trigger: issued != nil)
+        #endif
     }
 
     private var form: some View {
@@ -155,7 +157,9 @@ struct ParkWorryView: View {
             }
             .padding(20)
         }
+        #if !os(visionOS)
         .scrollDismissesKeyboard(.interactively)
+        #endif
         .onAppear { if focusesOnAppear { isEditorFocused = true } }
     }
 

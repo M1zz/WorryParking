@@ -55,7 +55,9 @@ struct OnboardingTrialView: View {
                 }
                 .padding(24)
             }
+            #if !os(visionOS)
             .scrollDismissesKeyboard(.interactively)
+            #endif
             .scrollBounceBehavior(.basedOnSize)
 
             buttons

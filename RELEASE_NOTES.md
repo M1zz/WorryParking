@@ -1,5 +1,151 @@
 # 걱정 주차장 릴리즈 노트
 
+## 1.0.3
+
+### 앱스토어 (한국어)
+
+이제 Apple Vision Pro에서도 쓸 수 있어요
+넓은 창에서 주차장을 한눈에 봐요
+걱정은 iCloud로 iPhone과 그대로 이어져요
+
+### App Store (English)
+
+Now available on Apple Vision Pro
+See the whole lot in one wide window
+Worries sync with your iPhone via iCloud
+
+### App Store (en-GB)
+
+Now available on Apple Vision Pro
+See the whole lot in one wide window
+Worries sync with your iPhone via iCloud
+
+### App Store (简体中文)
+
+现在也能在 Apple Vision Pro 上使用
+在宽大的窗口中一览整个停车场
+烦恼通过 iCloud 与 iPhone 保持同步
+
+### App Store (繁體中文)
+
+現在也能在 Apple Vision Pro 上使用
+在寬大的視窗中一覽整個停車場
+煩惱透過 iCloud 與 iPhone 保持同步
+
+### App Store (日本語)
+
+Apple Vision Proでも使えるようになりました
+広いウインドウで駐車場を一望できます
+心配ごとはiCloudでiPhoneと同期します
+
+### App Store (Русский)
+
+Теперь и на Apple Vision Pro
+Вся парковка в одном широком окне
+Тревоги синхронны с iPhone через iCloud
+
+### App Store (Español)
+
+Ya disponible en Apple Vision Pro
+Todo el aparcamiento en una gran ventana
+Preocupaciones sincronizadas por iCloud
+
+### App Store (Deutsch)
+
+Jetzt auch auf Apple Vision Pro
+Der ganze Parkplatz im großen Fenster
+Sorgen per iCloud mit iPhone synchron
+
+### App Store (Français)
+
+Désormais aussi sur Apple Vision Pro
+Tout le parking dans une grande fenêtre
+Vos soucis se synchronisent via iCloud
+
+### App Store (Italiano)
+
+Ora anche su Apple Vision Pro
+Tutto il parcheggio in finestra ampia
+Preoccupazioni sincronizzate via iCloud
+
+### App Store (Português Brasil)
+
+Agora também no Apple Vision Pro
+Todo o estacionamento numa janela ampla
+Preocupações seguem no iPhone via iCloud
+
+### App Store (ไทย)
+
+ใช้งานได้แล้วบน Apple Vision Pro
+เห็นลานจอดทั้งหมดในหน้าต่างกว้าง
+ความกังวลซิงค์กับ iPhone ผ่าน iCloud
+
+### App Store (Tiếng Việt)
+
+Nay đã có trên Apple Vision Pro
+Cả bãi đỗ trong một cửa sổ rộng
+Nỗi lo đồng bộ với iPhone qua iCloud
+
+### App Store (Čeština)
+
+Nyní také na Apple Vision Pro
+Celé parkoviště v jednom širokém okně
+Starosti se přes iCloud sladí s iPhonem
+
+### App Store (Dansk)
+
+Nu også på Apple Vision Pro
+Hele parkeringspladsen i ét bredt vindue
+Bekymringer følger med iPhone via iCloud
+
+### App Store (Ελληνικά)
+
+Τώρα και στο Apple Vision Pro
+Όλο το πάρκινγκ σε ένα μεγάλο παράθυρο
+Οι έγνοιες συγχρονίζονται μέσω iCloud
+
+### App Store (Suomi)
+
+Nyt myös Apple Vision Prossa
+Koko parkkipaikka leveässä ikkunassa
+iCloud pitää huolet iPhonen tahdissa
+
+### App Store (Bahasa Indonesia)
+
+Kini tersedia di Apple Vision Pro
+Seluruh tempat parkir di jendela lebar
+Kekhawatiran sinkron lewat iCloud
+
+### App Store (Norsk bokmål)
+
+Nå også på Apple Vision Pro
+Hele parkeringsplassen i ett bredt vindu
+Bekymringer følger med iPhone via iCloud
+
+### App Store (Nederlands)
+
+Nu ook op Apple Vision Pro
+Hele parkeerplaats in één breed venster
+Zorgen via iCloud gelijk op je iPhone
+
+### App Store (Polski)
+
+Teraz także na Apple Vision Pro
+Cały parking w jednym szerokim oknie
+Zmartwienia zsynchronizowane z iPhone’em
+
+### App Store (Svenska)
+
+Nu även på Apple Vision Pro
+Hela parkeringen i ett brett fönster
+Oron följer med din iPhone via iCloud
+
+### App Store (Türkçe)
+
+Artık Apple Vision Pro'da da
+Tüm otopark geniş bir pencerede
+Kaygılar iCloud ile iPhone'da da güncel
+
 ## 1.0.2
 
 ### 앱스토어 (한국어)

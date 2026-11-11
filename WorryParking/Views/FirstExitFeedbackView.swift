@@ -51,7 +51,9 @@ struct FirstExitFeedbackView: View {
                 }
                 .padding(24)
             }
+            #if !os(visionOS)
             .scrollDismissesKeyboard(.interactively)
+            #endif
             .background(Theme.asphalt.ignoresSafeArea())
             .toolbar {
                 ToolbarItem(placement: .cancellationAction) {
