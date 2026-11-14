@@ -6,21 +6,99 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		152117B20D108BFDA8EC5845 /* WorryParkingWatchApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD9248E119AE1077639550E6 /* WorryParkingWatchApp.swift */; };
+		16479D0D9BE6496FB613FCD7 /* LeeoKit in Frameworks */ = {isa = PBXBuildFile; productRef = 653292EE5CA84E1FA883052E /* LeeoKit */; };
+		2F1C59638FBB54A2C1B83F0C /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 686B409000A9448C8A6A8E21 /* Localizable.xcstrings */; };
+		34E6CB81DDAB85C2B030A38B /* WatchParkKeys.swift in Sources */ = {isa = PBXBuildFile; fileRef = 678F88CB7102D42BC8405D9D /* WatchParkKeys.swift */; };
+		3EDD43C152F0544160674004 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 585BC85F4A829587D731392E /* Assets.xcassets */; };
+		4728EBF7FB8987B620799DA4 /* WorryParkingWatch.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = 1E2106D02548C319F57E51C6 /* WorryParkingWatch.app */; platformFilters = (ios, ); settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		4C6C9E4A5566B267515A83E9 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 686B409000A9448C8A6A8E21 /* Localizable.xcstrings */; };
+		99B2A5748E5620AB2700E265 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D759BDAB97C76B53BC49B87B /* Foundation.framework */; };
+		AAEC33356DCE40E5217AB00F /* WorryParkingWatchWidget.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = DD241DD4E32C593B9D71CC06 /* WorryParkingWatchWidget.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		B06F5AD7C102DD1AF134D652 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D759BDAB97C76B53BC49B87B /* Foundation.framework */; };
+		B9D0B7CB4A2C94896A23747E /* WatchParkKeys.swift in Sources */ = {isa = PBXBuildFile; fileRef = 678F88CB7102D42BC8405D9D /* WatchParkKeys.swift */; };
+		BC3887565DE19FFA3ADB7D46 /* ParkComplication.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AF4C2DB93617D1C73C98577 /* ParkComplication.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		73BECDDD5FF68E26DBF3B91A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 7A0000000000000000000009 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 756DC60FE13E2DD1252C7C62;
+			remoteInfo = WorryParkingWatchWidget;
+		};
+		E1822BCB0B4A0EC74E1A9D35 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 7A0000000000000000000009 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 7735B8441128953A04193F21;
+			remoteInfo = WorryParkingWatch;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		46AFC7FEC47244A5B1F5D5E1 /* Embed Foundation Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				AAEC33356DCE40E5217AB00F /* WorryParkingWatchWidget.appex in Embed Foundation Extensions */,
+			);
+			name = "Embed Foundation Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6FBB0DB4ED7E083E2F9F49DD /* Embed Watch Content */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "$(CONTENTS_FOLDER_PATH)/Watch";
+			dstSubfolderSpec = 16;
+			files = (
+				4728EBF7FB8987B620799DA4 /* WorryParkingWatch.app in Embed Watch Content */,
+			);
+			name = "Embed Watch Content";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
+		0AF4C2DB93617D1C73C98577 /* ParkComplication.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ParkComplication.swift; sourceTree = "<group>"; };
+		1E2106D02548C319F57E51C6 /* WorryParkingWatch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WorryParkingWatch.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1E4BF3342082C6FBF6D79E6C /* WorryParkingWatchWidget.entitlements */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.entitlements; path = WorryParkingWatchWidget.entitlements; sourceTree = "<group>"; };
+		585BC85F4A829587D731392E /* Assets.xcassets */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		678F88CB7102D42BC8405D9D /* WatchParkKeys.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = WatchParkKeys.swift; sourceTree = "<group>"; };
+		686B409000A9448C8A6A8E21 /* Localizable.xcstrings */ = {isa = PBXFileReference; includeInIndex = 1; path = Localizable.xcstrings; sourceTree = "<group>"; };
 		7A0000000000000000000001 /* WorryParking.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WorryParking.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7A0000000000000000000010 /* Products.storekit */ = {isa = PBXFileReference; lastKnownFileType = text; path = Products.storekit; sourceTree = "<group>"; };
 		7A0000000000000000000020 /* Version.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Config/Version.xcconfig; sourceTree = "<group>"; };
+		BF31615649FA7208B837E1C2 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CD9248E119AE1077639550E6 /* WorryParkingWatchApp.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = WorryParkingWatchApp.swift; sourceTree = "<group>"; };
+		D759BDAB97C76B53BC49B87B /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/WatchOS.platform/Developer/SDKs/WatchOS26.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		DD241DD4E32C593B9D71CC06 /* WorryParkingWatchWidget.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = WorryParkingWatchWidget.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		F422DEF48A20E83AED2D3536 /* WorryParkingWatch.entitlements */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.entitlements; path = WorryParkingWatch.entitlements; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		7A0000000000000000000002 /* WorryParking */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+			);
 			path = WorryParking;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		4567A7C81366C1E23C5ECDE4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B06F5AD7C102DD1AF134D652 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		7A0000000000000000000003 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -29,9 +107,36 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		D1285B515CDE7C1E27B0863F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				99B2A5748E5620AB2700E265 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1E49EA875D84664B45F661C5 /* watchOS */ = {
+			isa = PBXGroup;
+			children = (
+				D759BDAB97C76B53BC49B87B /* Foundation.framework */,
+			);
+			name = watchOS;
+			sourceTree = "<group>";
+		};
+		3667DEC378BBDBEF98296E11 /* WorryParkingWatchWidget */ = {
+			isa = PBXGroup;
+			children = (
+				BF31615649FA7208B837E1C2 /* Info.plist */,
+				0AF4C2DB93617D1C73C98577 /* ParkComplication.swift */,
+				1E4BF3342082C6FBF6D79E6C /* WorryParkingWatchWidget.entitlements */,
+			);
+			name = WorryParkingWatchWidget;
+			path = WorryParkingWatchWidget;
+			sourceTree = "<group>";
+		};
 		7A0000000000000000000004 = {
 			isa = PBXGroup;
 			children = (
@@ -39,6 +144,9 @@
 				7A0000000000000000000010 /* Products.storekit */,
 				7A0000000000000000000020 /* Version.xcconfig */,
 				7A0000000000000000000005 /* Products */,
+				D1544C8017A3EAA4D9BA3FD5 /* Frameworks */,
+				90095EEF486A5214FE2DFED6 /* WorryParkingWatch */,
+				3667DEC378BBDBEF98296E11 /* WorryParkingWatchWidget */,
 			);
 			sourceTree = "<group>";
 		};
@@ -46,13 +154,72 @@
 			isa = PBXGroup;
 			children = (
 				7A0000000000000000000001 /* WorryParking.app */,
+				1E2106D02548C319F57E51C6 /* WorryParkingWatch.app */,
+				DD241DD4E32C593B9D71CC06 /* WorryParkingWatchWidget.appex */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		90095EEF486A5214FE2DFED6 /* WorryParkingWatch */ = {
+			isa = PBXGroup;
+			children = (
+				585BC85F4A829587D731392E /* Assets.xcassets */,
+				686B409000A9448C8A6A8E21 /* Localizable.xcstrings */,
+				678F88CB7102D42BC8405D9D /* WatchParkKeys.swift */,
+				F422DEF48A20E83AED2D3536 /* WorryParkingWatch.entitlements */,
+				CD9248E119AE1077639550E6 /* WorryParkingWatchApp.swift */,
+			);
+			name = WorryParkingWatch;
+			path = WorryParkingWatch;
+			sourceTree = "<group>";
+		};
+		D1544C8017A3EAA4D9BA3FD5 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1E49EA875D84664B45F661C5 /* watchOS */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		756DC60FE13E2DD1252C7C62 /* WorryParkingWatchWidget */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 069A24A93BD7154C41F34F4C /* Build configuration list for PBXNativeTarget "WorryParkingWatchWidget" */;
+			buildPhases = (
+				EAD3455FF0704AEDF0CAD104 /* Sources */,
+				4567A7C81366C1E23C5ECDE4 /* Frameworks */,
+				C5EB448E3414F022A3901A0D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = WorryParkingWatchWidget;
+			productName = WorryParkingWatchWidget;
+			productReference = DD241DD4E32C593B9D71CC06 /* WorryParkingWatchWidget.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
+		7735B8441128953A04193F21 /* WorryParkingWatch */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6B0F7189520C7C1E7A96B439 /* Build configuration list for PBXNativeTarget "WorryParkingWatch" */;
+			buildPhases = (
+				2686AC98A463B7A63E4091DA /* Sources */,
+				D1285B515CDE7C1E27B0863F /* Frameworks */,
+				945FA29885C879A785B2F9D6 /* Resources */,
+				46AFC7FEC47244A5B1F5D5E1 /* Embed Foundation Extensions */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				0BA7272B30E1E733DD5A2A0F /* PBXTargetDependency */,
+			);
+			name = WorryParkingWatch;
+			productName = WorryParkingWatch;
+			productReference = 1E2106D02548C319F57E51C6 /* WorryParkingWatch.app */;
+			productType = "com.apple.product-type.application";
+		};
 		7A0000000000000000000006 /* WorryParking */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 7A000000000000000000000B /* Build configuration list for PBXNativeTarget "WorryParking" */;
@@ -60,10 +227,12 @@
 				7A0000000000000000000007 /* Sources */,
 				7A0000000000000000000003 /* Frameworks */,
 				7A0000000000000000000008 /* Resources */,
+				6FBB0DB4ED7E083E2F9F49DD /* Embed Watch Content */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				FE783E910AC8D9A72666BCA8 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
 				7A0000000000000000000002 /* WorryParking */,
@@ -132,6 +301,8 @@
 			projectRoot = "";
 			targets = (
 				7A0000000000000000000006 /* WorryParking */,
+				7735B8441128953A04193F21 /* WorryParkingWatch */,
+				756DC60FE13E2DD1252C7C62 /* WorryParkingWatchWidget */,
 			);
 		};
 /* End PBXProject section */
@@ -144,19 +315,135 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		945FA29885C879A785B2F9D6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3EDD43C152F0544160674004 /* Assets.xcassets in Resources */,
+				2F1C59638FBB54A2C1B83F0C /* Localizable.xcstrings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C5EB448E3414F022A3901A0D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4C6C9E4A5566B267515A83E9 /* Localizable.xcstrings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		2686AC98A463B7A63E4091DA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B9D0B7CB4A2C94896A23747E /* WatchParkKeys.swift in Sources */,
+				152117B20D108BFDA8EC5845 /* WorryParkingWatchApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		7A0000000000000000000007 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				34E6CB81DDAB85C2B030A38B /* WatchParkKeys.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EAD3455FF0704AEDF0CAD104 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BC3887565DE19FFA3ADB7D46 /* ParkComplication.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
+/* Begin PBXTargetDependency section */
+		0BA7272B30E1E733DD5A2A0F /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = WorryParkingWatchWidget;
+			target = 756DC60FE13E2DD1252C7C62 /* WorryParkingWatchWidget */;
+			targetProxy = 73BECDDD5FF68E26DBF3B91A /* PBXContainerItemProxy */;
+		};
+		FE783E910AC8D9A72666BCA8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = WorryParkingWatch;
+			platformFilters = (
+				ios,
+			);
+			target = 7735B8441128953A04193F21 /* WorryParkingWatch */;
+			targetProxy = E1822BCB0B4A0EC74E1A9D35 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
 /* Begin XCBuildConfiguration section */
+		5D2C0CBB3D9DDA92FDCC227B /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7A0000000000000000000020 /* Version.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = WorryParkingWatch/WorryParkingWatch.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = QGAQ3AY3R3;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Worry Parking";
+				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = com.devkoan.worryparking;
+				INFOPLIST_KEY_WKRunsIndependentlyOfCompanionApp = NO;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = com.devkoan.worryparking.watchkitapp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				VALIDATE_PRODUCT = YES;
+				WATCHOS_DEPLOYMENT_TARGET = 10.0;
+			};
+			name = Release;
+		};
+		6EE3D75588BBB3B86912C2A0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7A0000000000000000000020 /* Version.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = WorryParkingWatch/WorryParkingWatch.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = QGAQ3AY3R3;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Worry Parking";
+				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = com.devkoan.worryparking;
+				INFOPLIST_KEY_WKRunsIndependentlyOfCompanionApp = NO;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = com.devkoan.worryparking.watchkitapp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 10.0;
+			};
+			name = Debug;
+		};
 		7A000000000000000000000C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 7A0000000000000000000020 /* Version.xcconfig */;
@@ -284,6 +571,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = WorryParking/WorryParking.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = QGAQ3AY3R3;
 				ENABLE_PREVIEWS = YES;
@@ -299,13 +587,12 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				CODE_SIGN_ENTITLEMENTS = WorryParking/WorryParking.entitlements;
 				PRODUCT_BUNDLE_IDENTIFIER = com.devkoan.worryparking;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 5.0;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator xros xrsimulator";
 				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,7";
 				XROS_DEPLOYMENT_TARGET = 2.0;
 			};
@@ -317,6 +604,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = WorryParking/WorryParking.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = QGAQ3AY3R3;
 				ENABLE_PREVIEWS = YES;
@@ -332,21 +620,95 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				CODE_SIGN_ENTITLEMENTS = WorryParking/WorryParking.entitlements;
 				PRODUCT_BUNDLE_IDENTIFIER = com.devkoan.worryparking;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 5.0;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator xros xrsimulator";
 				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,7";
 				XROS_DEPLOYMENT_TARGET = 2.0;
 			};
 			name = Release;
 		};
+		AA8707898713FA1200F4A8C5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7A0000000000000000000020 /* Version.xcconfig */;
+			buildSettings = {
+				APPLICATION_EXTENSION_API_ONLY = YES;
+				CODE_SIGN_ENTITLEMENTS = WorryParkingWatchWidget/WorryParkingWatchWidget.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = QGAQ3AY3R3;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = WorryParkingWatchWidget/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Worry Parking";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = com.devkoan.worryparking.watchkitapp.widget;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				VALIDATE_PRODUCT = YES;
+				WATCHOS_DEPLOYMENT_TARGET = 10.0;
+			};
+			name = Release;
+		};
+		D2AC61968407FEF5EFDE030C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7A0000000000000000000020 /* Version.xcconfig */;
+			buildSettings = {
+				APPLICATION_EXTENSION_API_ONLY = YES;
+				CODE_SIGN_ENTITLEMENTS = WorryParkingWatchWidget/WorryParkingWatchWidget.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = QGAQ3AY3R3;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = WorryParkingWatchWidget/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Worry Parking";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = com.devkoan.worryparking.watchkitapp.widget;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 10.0;
+			};
+			name = Debug;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		069A24A93BD7154C41F34F4C /* Build configuration list for PBXNativeTarget "WorryParkingWatchWidget" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AA8707898713FA1200F4A8C5 /* Release */,
+				D2AC61968407FEF5EFDE030C /* Debug */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6B0F7189520C7C1E7A96B439 /* Build configuration list for PBXNativeTarget "WorryParkingWatch" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5D2C0CBB3D9DDA92FDCC227B /* Release */,
+				6EE3D75588BBB3B86912C2A0 /* Debug */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		7A000000000000000000000A /* Build configuration list for PBXProject "WorryParking" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -367,17 +729,13 @@
 		};
 /* End XCConfigurationList section */
 
-/* Begin PBXBuildFile section */
-		16479D0D9BE6496FB613FCD7 /* LeeoKit in Frameworks */ = {isa = PBXBuildFile; productRef = 653292EE5CA84E1FA883052E /* LeeoKit */; };
-/* End PBXBuildFile section */
-
 /* Begin XCRemoteSwiftPackageReference section */
 		14DE1FA05ED5406A8264575A /* XCRemoteSwiftPackageReference "LeeoKit" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/M1zz/LeeoKit.git";
 			requirement = {
 				kind = upToNextMajorVersion;
-				minimumVersion = 3.43.0;
+				minimumVersion = 3.44.1;
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */

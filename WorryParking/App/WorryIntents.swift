@@ -29,10 +29,20 @@ struct ParkWorryIntent: AppIntent {
         guard !text.isEmpty else {
             throw $worry.needsValueError(IntentDialog(LocalizedStringResource("What’s on your mind?", comment: "Siri: ask for the worry")))
         }
+        let said = try await WorryParker.park(text, in: container)
+        return .result(dialog: IntentDialog(stringLiteral: said))
+    }
+}
+
+/// 걱정 하나를 주차한다 — Siri 와 애플워치가 같은 길로 온다(앱 화면의 주차와 같은 규칙).
+/// 다음 빈 자리, 다음 걱정 시간에 출차, 그때 알림. 무료 자리 수 제한도 앱과 똑같이 지킨다.
+/// 돌려주는 것은 사람에게 그대로 보여 줄 한 줄이다.
+enum WorryParker {
+    static func park(_ text: String, in container: ModelContainer) async throws -> String {
         let context = ModelContext(container)
         let parked = ((try? context.fetch(FetchDescriptor<Worry>())) ?? []).filter { $0.status == .parked }
-        if parked.count >= AppConfig.freeSpotLimit, await !Self.isPro() {
-            return .result(dialog: IntentDialog(LocalizedStringResource("The lot is full. Let one worry out in the app first.", comment: "Siri: free spots used up")))
+        if parked.count >= AppConfig.freeSpotLimit, await !isPro() {
+            return String(localized: LocalizedStringResource("The lot is full. Let one worry out in the app first.", comment: "Siri: free spots used up"))
         }
 
         let defaults = UserDefaults.standard
@@ -46,7 +56,7 @@ struct ParkWorryIntent: AppIntent {
         try context.save()
         await NotificationManager.scheduleExit(ticketID: new.ticketID, spot: spot, at: exit)
 
-        return .result(dialog: IntentDialog(LocalizedStringResource("Parked in spot \(spot). It’ll come back \(WorryTime.describe(exit)).", comment: "Siri: worry parked. Arguments: spot number, when it comes back")))
+        return String(localized: LocalizedStringResource("Parked in spot \(spot). It’ll come back \(WorryTime.describe(exit)).", comment: "Siri: worry parked. Arguments: spot number, when it comes back"))
     }
 
     /// 앱의 화면과 같은 기준 (→ StoreManager.isPro). 아직 살 수 있는 Pro 상품이 없으면 막지 않는다.

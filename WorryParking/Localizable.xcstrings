@@ -27098,7 +27098,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%1$lld numaralı yere park edildi. %2$@ geri gelecek."
+            "value" : "%1$lld numaralı yere park edildi, %2$@ geri gelecek."
           }
         },
         "vi" : {

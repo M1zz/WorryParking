@@ -7,144 +7,168 @@
 이제 Apple Vision Pro에서도 쓸 수 있어요
 넓은 창에서 주차장을 한눈에 봐요
 걱정은 iCloud로 iPhone과 그대로 이어져요
+Apple Watch에 말해서 걱정을 바로 주차해요
 
 ### App Store (English)
 
 Now available on Apple Vision Pro
 See the whole lot in one wide window
 Worries sync with your iPhone via iCloud
+Park a worry by speaking to Apple Watch
 
 ### App Store (en-GB)
 
 Now available on Apple Vision Pro
 See the whole lot in one wide window
 Worries sync with your iPhone via iCloud
+Park a worry by speaking to Apple Watch
 
 ### App Store (简体中文)
 
 现在也能在 Apple Vision Pro 上使用
 在宽大的窗口中一览整个停车场
 烦恼通过 iCloud 与 iPhone 保持同步
+对 Apple Watch 说一句，就能停放烦恼
 
 ### App Store (繁體中文)
 
 現在也能在 Apple Vision Pro 上使用
 在寬大的視窗中一覽整個停車場
 煩惱透過 iCloud 與 iPhone 保持同步
+對 Apple Watch 說一句，就能停放煩惱
 
 ### App Store (日本語)
 
 Apple Vision Proでも使えるようになりました
 広いウインドウで駐車場を一望できます
 心配ごとはiCloudでiPhoneと同期します
+Apple Watchに話しかけて心配を駐車できます
 
 ### App Store (Русский)
 
 Теперь и на Apple Vision Pro
 Вся парковка в одном широком окне
 Тревоги синхронны с iPhone через iCloud
+Паркуйте тревоги голосом с Apple Watch
 
 ### App Store (Español)
 
 Ya disponible en Apple Vision Pro
 Todo el aparcamiento en una gran ventana
 Preocupaciones sincronizadas por iCloud
+Aparca tus preocupaciones con el Watch
 
 ### App Store (Deutsch)
 
 Jetzt auch auf Apple Vision Pro
 Der ganze Parkplatz im großen Fenster
 Sorgen per iCloud mit iPhone synchron
+Sorgen per Stimme auf der Watch parken
 
 ### App Store (Français)
 
 Désormais aussi sur Apple Vision Pro
 Tout le parking dans une grande fenêtre
 Vos soucis se synchronisent via iCloud
+Garez un souci depuis l’Apple Watch
 
 ### App Store (Italiano)
 
 Ora anche su Apple Vision Pro
 Tutto il parcheggio in finestra ampia
 Preoccupazioni sincronizzate via iCloud
+Parcheggia i pensieri dall’Apple Watch
 
 ### App Store (Português Brasil)
 
 Agora também no Apple Vision Pro
 Todo o estacionamento numa janela ampla
 Preocupações seguem no iPhone via iCloud
+Estacione preocupações pelo Apple Watch
 
 ### App Store (ไทย)
 
 ใช้งานได้แล้วบน Apple Vision Pro
 เห็นลานจอดทั้งหมดในหน้าต่างกว้าง
 ความกังวลซิงค์กับ iPhone ผ่าน iCloud
+พูดกับ Apple Watch เพื่อจอดความกังวล
 
 ### App Store (Tiếng Việt)
 
 Nay đã có trên Apple Vision Pro
 Cả bãi đỗ trong một cửa sổ rộng
 Nỗi lo đồng bộ với iPhone qua iCloud
+Nói với Apple Watch để đỗ nỗi lo lại
 
 ### App Store (Čeština)
 
 Nyní také na Apple Vision Pro
 Celé parkoviště v jednom širokém okně
 Starosti se přes iCloud sladí s iPhonem
+Zaparkujte starost hlasem na Apple Watch
 
 ### App Store (Dansk)
 
 Nu også på Apple Vision Pro
 Hele parkeringspladsen i ét bredt vindue
 Bekymringer følger med iPhone via iCloud
+Parkér bekymringer fra Apple Watch
 
 ### App Store (Ελληνικά)
 
 Τώρα και στο Apple Vision Pro
 Όλο το πάρκινγκ σε ένα μεγάλο παράθυρο
 Οι έγνοιες συγχρονίζονται μέσω iCloud
+Στάθμευση ανησυχιών από το Apple Watch
 
 ### App Store (Suomi)
 
 Nyt myös Apple Vision Prossa
 Koko parkkipaikka leveässä ikkunassa
 iCloud pitää huolet iPhonen tahdissa
+Pysäköi huoli puhumalla Apple Watchille
 
 ### App Store (Bahasa Indonesia)
 
 Kini tersedia di Apple Vision Pro
 Seluruh tempat parkir di jendela lebar
 Kekhawatiran sinkron lewat iCloud
+Parkir kekhawatiran dari Apple Watch
 
 ### App Store (Norsk bokmål)
 
 Nå også på Apple Vision Pro
 Hele parkeringsplassen i ett bredt vindu
 Bekymringer følger med iPhone via iCloud
+Parker bekymringer fra Apple Watch
 
 ### App Store (Nederlands)
 
 Nu ook op Apple Vision Pro
 Hele parkeerplaats in één breed venster
 Zorgen via iCloud gelijk op je iPhone
+Parkeer zorgen vanaf je Apple Watch
 
 ### App Store (Polski)
 
 Teraz także na Apple Vision Pro
 Cały parking w jednym szerokim oknie
 Zmartwienia zsynchronizowane z iPhone’em
+Parkuj zmartwienia głosem na Apple Watch
 
 ### App Store (Svenska)
 
 Nu även på Apple Vision Pro
 Hela parkeringen i ett brett fönster
 Oron följer med din iPhone via iCloud
+Parkera oro direkt från Apple Watch
 
 ### App Store (Türkçe)
 
 Artık Apple Vision Pro'da da
 Tüm otopark geniş bir pencerede
 Kaygılar iCloud ile iPhone'da da güncel
+Endişeni Apple Watch'tan park et
 
 ## 1.0.2
 
