@@ -5,6 +5,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أطلب من مديري لقاءً فرديًا"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -149,6 +155,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "هل سأقدر فعلًا على سداد فاتورة البطاقة هذا الشهر؟"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -293,6 +305,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أتحقق من أسعار الإيجار في الحي"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -437,6 +455,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "هل تجاوزت مزحتي على العشاء حدودها؟"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -581,6 +605,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أظن أنني أفسدت تقييم هذا الربع."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -725,6 +755,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "سيوجّهون إليّ الملاحظات مجددًا في اجتماع الأحد."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -869,6 +905,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لن ألحق بموعد تسليم التقرير أبدًا."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1013,6 +1055,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إن تلعثمت في المقابلة فسأُستبعد."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1157,6 +1205,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إن تعطّل حاسوبي فسأخسر كل شيء."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1301,6 +1355,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أشعر أن أصدقائي يتجاهلون رسائلي وحدي في مجموعة الدردشة."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1445,6 +1505,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لو فاتتني الرحلة الجوية لضاعت الإجازة كلها."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1589,6 +1655,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نتائج فحوصات أمي لم تصل بعد. ماذا لو وجدوا شيئًا خطيرًا وهي لا تخبرني؟"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1733,6 +1805,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "سيرفع المالك الإيجار."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1877,6 +1955,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ردّ مديري كان مقتضبًا جدًا. هل أخطأت في شيء؟"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2021,6 +2105,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لا بد أن أختي تأذّت من كلامي."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2165,6 +2255,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أتدرّب بصوت عالٍ على ثلاثة أسئلة متوقعة"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2309,6 +2405,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أفعّل النسخ الاحتياطي السحابي"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2453,6 +2555,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ماذا لو تجمّد ذهني أثناء عرض الغد وقرر الجميع أنني لست كفؤًا؟"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2597,6 +2705,12 @@
       "comment" : "App Store screenshot sample worry (DEBUG screenshot mode only)",
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ماذا لو كشف الفحص عن شيء ما؟"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",

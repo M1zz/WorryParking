@@ -21,8 +21,9 @@ struct TicketView: View {
                         Text("WORRY PARKING")
                             .font(.caption.weight(.heavy))
                             .tracking(2)
-                        Text("Ticket #\(ticketNumber)")
-                            .font(.caption.monospaced())
+                        // Only the code is monospaced: monospaced fonts have no Arabic letters.
+                        Text("Ticket #\(Text(ticketNumber).monospaced())")
+                            .font(.caption)
                             .opacity(0.6)
                     }
                     Spacer()
@@ -187,6 +188,8 @@ struct GateBarrier: View {
             .rotationEffect(.degrees(isOpen ? -72 : 0), anchor: .leading)
         }
         .frame(width: 228, height: 90, alignment: .bottomLeading)
+        // A physical barrier, not reading order: the arm pivots on its post the same way in every language.
+        .environment(\.layoutDirection, .leftToRight)
         .accessibilityHidden(true)
     }
 }

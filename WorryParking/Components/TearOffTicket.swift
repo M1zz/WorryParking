@@ -11,11 +11,12 @@ struct TearOffTicket: View {
     let onTear: () -> Void
 
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
+    @Environment(\.layoutDirection) private var layoutDirection
 
     /// How far along the dotted line the tear has run, 0...1.
     @State private var progress: CGFloat = 0
     @State private var isTorn = false
-    /// A drag only tears if it starts near the left end of the line.
+    /// A drag only tears if it starts near the leading end of the line.
     @State private var dragIsTearing: Bool?
     @State private var nudge = false
 
@@ -47,6 +48,8 @@ struct TearOffTicket: View {
     }
 
     private var tick: Int { Int(progress * 10) }
+
+    private var isRightToLeft: Bool { layoutDirection == .rightToLeft }
 
     private var ticketBody: some View {
         VStack(alignment: .leading, spacing: 14) {
@@ -98,6 +101,8 @@ struct TearOffTicket: View {
         }
         .frame(height: notchRadius * 2)
         .offset(y: -notchRadius)
+        // Symmetric, and `offset(x:)` doesn't follow the layout direction: keep it left to right.
+        .environment(\.layoutDirection, .leftToRight)
         .foregroundStyle(Theme.asphalt)
         .accessibilityHidden(true)
     }
@@ -114,9 +119,12 @@ struct TearOffTicket: View {
             )
             .overlay(alignment: .top) { notches }
             .overlay(alignment: .top) { tearLine }
-            // The stub hangs from the part that isn't torn yet, then drops away.
+            // The stub hangs from the part that isn't torn yet (the trailing end), then drops away.
             // Reduce Motion: the stub just fades instead of falling.
-            .rotationEffect(.degrees(isTorn && !reduceMotion ? 18 : progress * 5), anchor: .topTrailing)
+            .rotationEffect(
+                .degrees((isTorn && !reduceMotion ? 18 : progress * 5) * (isRightToLeft ? -1 : 1)),
+                anchor: isRightToLeft ? .topLeading : .topTrailing
+            )
             .offset(y: isTorn && !reduceMotion ? 160 : 0)
             .opacity(isTorn ? 0 : 1)
     }
@@ -158,7 +166,11 @@ struct TearOffTicket: View {
             .frame(width: width, height: proxy.size.height)
             .contentShape(Rectangle())
             .gesture(tearGesture(width: width))
+            // The tear is drawn and measured left to right, then mirrored as a whole
+            // so it runs from the leading end in right-to-left languages too.
+            .environment(\.layoutDirection, .leftToRight)
         }
+        .flipsForRightToLeftLayoutDirection(true)
         .frame(height: 48)
         .offset(y: -24)
     }

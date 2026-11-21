@@ -5,6 +5,12 @@
       "comment" : "Bundle display name",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "موقف الهموم"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -155,6 +161,12 @@
       "comment" : "Bundle name",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "موقف الهموم"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",

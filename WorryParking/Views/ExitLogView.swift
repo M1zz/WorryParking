@@ -105,7 +105,7 @@ enum ExitLogExport {
         let entries = worries.map { worry -> String in
             var lines: [String] = []
             let date = (worry.reviewedAt ?? worry.parkedAt).formatted(date: .abbreviated, time: .omitted)
-            lines.append("\(date) · P\(worry.spotNumber) · #\(worry.ticketNumber)")
+            lines.append("\(date) · P\(worry.spotNumber.formatted()) · #\(worry.ticketNumber)")
             lines.append(worry.text)
             if let result = worry.fearResult {
                 lines.append(result.title)
@@ -139,7 +139,7 @@ struct InsightsCard: View {
     var body: some View {
         VStack(alignment: .leading, spacing: 16) {
             tileLayout {
-                StatTile(value: "\(summary.total)", label: String(localized: "Exited"))
+                StatTile(value: summary.total.formatted(), label: String(localized: "Exited"))
                 StatTile(
                     value: summary.didNotHappenRate.map { $0.formatted(.percent.precision(.fractionLength(0))) } ?? "–",
                     label: String(localized: "Didn't happen")
@@ -227,9 +227,14 @@ struct ExitLogRow: View {
             }
 
             if let step = worry.actionStep {
-                Label(step, systemImage: "arrow.turn.down.right")
-                    .font(.subheadline)
-                    .foregroundStyle(.secondary)
+                Label {
+                    Text(step)
+                } icon: {
+                    Image(systemName: "arrow.turn.down.right")
+                        .flipsForRightToLeftLayoutDirection(true)
+                }
+                .font(.subheadline)
+                .foregroundStyle(.secondary)
             }
         }
         .padding(.vertical, 6)

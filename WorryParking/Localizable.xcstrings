@@ -6,6 +6,12 @@
     },
     "%lld of %lld spots used" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "المواقف المشغولة: %1$lld من %2$lld"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -148,6 +154,48 @@
     },
     "%lld parked" : {
       "localizations" : {
+        "ar" : {
+          "variations" : {
+            "plural" : {
+              "zero" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "لا هموم مركونة"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "همّ واحد مركون"
+                }
+              },
+              "two" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "همّان مركونان"
+                }
+              },
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld هموم مركونة"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld همًّا مركونًا"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld همّ مركون"
+                }
+              }
+            }
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -290,6 +338,12 @@
     },
     "%lld%% of the fears you checked didn't come true." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لم يقع %lld%% مما خشيته من الهموم التي راجعتها."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -435,6 +489,12 @@
     },
     "11:40 PM and your brain won't stop replaying tomorrow. Write the worry exactly as it sounds, and rate how loud it is." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "قُبيل منتصف الليل، وعقلك لا يكفّ عن إعادة مشاهد الغد. اكتب الهمّ كما يتردد في رأسك تمامًا، ثم اختر مدى علوّ صوته."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -577,6 +637,12 @@
     },
     "6:00 PM, the presentation is over. Did it happen? Not really. The worry dropped from 4 to 1, so you let it go, and it's added to your Exit Log." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "السادسة مساءً، وانتهى العرض. هل حدث ما خشيته؟ ليس فعلًا. هبط الهمّ من المستوى الرابع إلى الأول، فتركته يمضي، وأُضيف إلى سجل الخروج."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -719,6 +785,12 @@
     },
     "A daily 15-minute window, ideally a few hours before bed. We'll tap you on the shoulder when a worry is ready for pickup." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ربع ساعة كل يوم، ويُفضَّل أن تكون قبل النوم ببضع ساعات. سننبّهك بلطف حين يصبح أحد الهموم جاهزًا للخروج."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -861,6 +933,12 @@
     },
     "A little lighter" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أخفّ قليلًا"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1003,6 +1081,12 @@
     },
     "A whisper" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "همسة"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1145,6 +1229,12 @@
     },
     "About" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حول التطبيق"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1287,6 +1377,12 @@
     },
     "About the same" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "كما هو تقريبًا"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1429,6 +1525,12 @@
     },
     "After parking it, how do you feel?" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "بعد أن ركنته، كيف تشعر؟"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1571,6 +1673,12 @@
     },
     "Allow pickup reminders" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "السماح بتنبيهات الخروج"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1713,6 +1821,12 @@
     },
     "Allow reminders & continue" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "السماح بالتنبيهات والمتابعة"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1855,6 +1969,12 @@
     },
     "An unfinished worry keeps replaying because your mind is afraid of forgetting it. Writing it down, with a set time to come back to it, tells your brain it's taken care of for now." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يظل الهمّ الذي لم يُحسم يتكرر في رأسك لأن عقلك يخشى أن ينساه. حين تكتبه وتحدد وقتًا للعودة إليه، يفهم عقلك أنه في أيدٍ أمينة الآن."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1997,6 +2117,12 @@
     },
     "Anything else? (optional)" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "هل تودّ إضافة شيء؟ (اختياري)"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2139,6 +2265,12 @@
     },
     "Avg. level drop" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "متوسط انخفاض المستوى"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2281,6 +2413,12 @@
     },
     "Before" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "قبل"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2423,6 +2561,12 @@
     },
     "Cancel" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إلغاء"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2565,6 +2709,12 @@
     },
     "Check what actually happened" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تحقّق مما حدث فعلًا"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2707,6 +2857,12 @@
     },
     "Choose a time a few hours before bed. New worries are parked until then. Already-parked worries keep their exit time." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اختر وقتًا قبل النوم ببضع ساعات. تبقى الهموم الجديدة مركونة حتى ذلك الوقت، أما المركونة من قبل فتحتفظ بموعد خروجها."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2849,6 +3005,12 @@
     },
     "Continue" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "متابعة"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2991,6 +3153,12 @@
     },
     "Count" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "العدد"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3133,6 +3301,12 @@
     },
     "Custom exit times" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تحديد موعد الخروج بنفسك"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3275,6 +3449,12 @@
     },
     "Custom time" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "وقت تختاره"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3417,6 +3597,12 @@
     },
     "Did what you feared actually happen?" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "هل حدث ما كنت تخشاه فعلًا؟"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3559,6 +3745,12 @@
     },
     "Didn't happen" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لم يحدث"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3701,6 +3893,12 @@
     },
     "Done" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تم"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3843,6 +4041,12 @@
     },
     "Drive out" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اخرج من الموقف"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3985,6 +4189,12 @@
     },
     "Edit my worry" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أعد كتابة همّي"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4127,6 +4337,12 @@
     },
     "Empty" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "فارغ"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4269,6 +4485,12 @@
     },
     "Everything you write stays on this device. Notifications never include your worry text." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "كل ما تكتبه يبقى على هذا الجهاز، ولا تعرض التنبيهات نص همّك أبدًا."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4411,6 +4633,12 @@
     },
     "EXIT" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "خروج"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4553,6 +4781,12 @@
     },
     "Exit" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الخروج"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4695,6 +4929,12 @@
     },
     "Exit gate" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "بوابة الخروج"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4837,6 +5077,12 @@
     },
     "Exit Gate · P%lld" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "بوابة الخروج · P%lld"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4979,6 +5225,12 @@
     },
     "Exit Gate · P1" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "بوابة الخروج · P1"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5121,6 +5373,12 @@
     },
     "Exit insights" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "رؤى الخروج"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5263,6 +5521,12 @@
     },
     "Exit Log" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "سجل الخروج"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5405,6 +5669,12 @@
     },
     "Exit time" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "موعد الخروج"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5547,6 +5817,12 @@
     },
     "Exited" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "خرجت"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5689,6 +5965,12 @@
     },
     "Exits in %@" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يخرج بعد %@"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5831,6 +6113,12 @@
     },
     "First exit" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أول خروج"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5973,6 +6261,12 @@
     },
     "First time parking" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أول مرة تركن فيها"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6115,6 +6409,12 @@
     },
     "Give it your full attention. It's the only thing to do right now." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "امنحه انتباهك كله، فهو الشيء الوحيد المطلوب الآن."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6257,6 +6557,12 @@
     },
     "Gone" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تلاشى"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6399,6 +6705,12 @@
     },
     "Heavy" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ثقيل"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6541,6 +6853,12 @@
     },
     "History" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "السجل"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6683,6 +7001,12 @@
     },
     "How did that feel?" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "كيف كانت التجربة؟"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6825,6 +7149,12 @@
     },
     "How loud is it now?" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ما مدى علوّ صوته الآن؟"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6967,6 +7297,12 @@
     },
     "How loud is it right now?" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ما مدى علوّ صوته في هذه اللحظة؟"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7109,6 +7445,12 @@
     },
     "If it drives back into your head, notice it and tell yourself: it has a spot. You'll deal with it at Worry Time." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إن عاد إلى رأسك، فلاحظه وقل لنفسك: «له مكانه المحجوز، وسأنظر فيه في وقت الهموم»."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7253,6 +7595,12 @@
       "comment" : "Response to a user's \"heavier\" feedback on postponing.",
       "isCommentAutoGenerated" : true,
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إن ظل يعود إليك، فقل له باختصار: «لك مكانك المحجوز»، ثم ارجع إلى ما كنت تفعله. وإن صار القلق يعيق أيامك، فالحديث مع مختص قد يساعدك كثيرًا."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7395,6 +7743,12 @@
     },
     "IN" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "دخول"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7537,6 +7891,12 @@
     },
     "It bothered me less" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أزعجني أقل"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7679,6 +8039,12 @@
     },
     "It bothered me more" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أزعجني أكثر"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7821,6 +8187,12 @@
     },
     "It didn't happen" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لم يحدث"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7963,6 +8335,12 @@
     },
     "It happened" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حدث"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8105,6 +8483,12 @@
     },
     "It was %lld when you parked it." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "كان مستواه %lld حين ركنته."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8249,6 +8633,12 @@
       "comment" : "Feedback text for a user who found postponing a hassle.",
       "isCommentAutoGenerated" : true,
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "صار يشغلني أكثر"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8391,6 +8781,12 @@
     },
     "It's only the first one. In studies, the effect built up over a few weeks. Park a few more and compare them in your Exit Log." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "هذا أول همّ فقط. في الدراسات، تراكم الأثر على مدى بضعة أسابيع. اركن بضعة هموم أخرى وقارن بينها في سجل الخروج."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8533,6 +8929,12 @@
     },
     "It's out of the lot. Drive away." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "غادر الموقف. دعه يمضي."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8675,6 +9077,12 @@
     },
     "It's parked until tomorrow's Worry Time. When it pops up again in the shower, just tell yourself: it already has a spot." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ركنته حتى وقت الهموم غدًا. وإن خطر لك مجددًا تحت الدش، فقل لنفسك فقط: «له مكانه المحجوز»."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8817,6 +9225,48 @@
     },
     "It's Worry Time. Give it %lld focused minutes, then decide what to do with it." : {
       "localizations" : {
+        "ar" : {
+          "variations" : {
+            "plural" : {
+              "zero" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "حان وقت الهموم. امنحه بضع دقائق من التركيز، ثم قرّر ما تفعله به."
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "حان وقت الهموم. امنحه دقيقة واحدة من التركيز، ثم قرّر ما تفعله به."
+                }
+              },
+              "two" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "حان وقت الهموم. امنحه دقيقتين من التركيز، ثم قرّر ما تفعله به."
+                }
+              },
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "حان وقت الهموم. امنحه %lld دقائق من التركيز، ثم قرّر ما تفعله به."
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "حان وقت الهموم. امنحه %lld دقيقة من التركيز، ثم قرّر ما تفعله به."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "حان وقت الهموم. امنحه %lld دقيقة من التركيز، ثم قرّر ما تفعله به."
+                }
+              }
+            }
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8959,6 +9409,12 @@
     },
     "Keep it parked" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أبقه مركونًا"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9101,6 +9557,12 @@
     },
     "Keep parking. Patterns show up after a few exits." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "واصل الركن. ستظهر الأنماط بعد بضع مرات من الخروج."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9243,6 +9705,12 @@
     },
     "Later" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لاحقًا"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9385,6 +9853,12 @@
     },
     "Let it go" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "دعه يمضي"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9527,6 +10001,12 @@
     },
     "LEVEL" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "المستوى"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9669,6 +10149,12 @@
     },
     "Level %lld of 5, %@" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "المستوى %1$lld من خمسة، %2$@"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9811,6 +10297,12 @@
     },
     "Level %lld → %lld" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "المستوى %1$lld ← %2$lld"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9955,6 +10447,12 @@
       "comment" : "Feedback response for a user who chose \"heavier\" for the \"How postponing felt\" question.",
       "isCommentAutoGenerated" : true,
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "النظر إلى الهمّ مباشرة قد يجعله يبدو أكبر في البداية. لا يلزمك حلّه الآن، فمهمته الوحيدة أن ينتظر وقت الهموم."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10097,6 +10595,12 @@
     },
     "Lot" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الموقف"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10239,6 +10743,12 @@
     },
     "Loud" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "عالٍ"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10381,6 +10891,12 @@
     },
     "Made a plan" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "وضعتُ خطة"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10523,6 +11039,12 @@
     },
     "Make a plan" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ضع خطة"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10665,6 +11187,12 @@
     },
     "Making a concrete plan stopped unfinished tasks from intruding on people's thoughts, and five minutes of writing before bed helped people fall asleep faster." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "وضع خطة محددة منع المهام غير المنجزة من اقتحام أفكار الناس، وساعدتهم خمس دقائق من الكتابة قبل النوم على أن يغفوا أسرع."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10807,6 +11335,12 @@
     },
     "Manage subscription" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إدارة الاشتراك"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10949,6 +11483,12 @@
     },
     "Nagging" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مُلِحّ"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11091,6 +11631,12 @@
     },
     "Next" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "التالي"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11233,6 +11779,12 @@
     },
     "Next Worry Time" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "وقت الهموم القادم"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11375,6 +11927,12 @@
     },
     "Next Worry Time: %@" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "وقت الهموم القادم: %@"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11517,6 +12075,12 @@
     },
     "No exits yet" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لم يخرج أي همّ بعد"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11659,6 +12223,12 @@
     },
     "Not now" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ليس الآن"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11801,6 +12371,12 @@
     },
     "Not ready yet. Bring it back at the next Worry Time." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لست مستعدًا بعد. أعده في وقت الهموم القادم."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11943,6 +12519,12 @@
     },
     "Notifications are off" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "التنبيهات متوقفة"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12087,6 +12669,12 @@
       "comment" : "A label for the current value of a level.",
       "isCommentAutoGenerated" : true,
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الآن"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12229,6 +12817,12 @@
     },
     "Now that it's parked, how loud is it?" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الآن بعد أن ركنته، ما مدى علوّ صوته؟"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12371,6 +12965,12 @@
     },
     "One real worry, from 11:40 PM to Worry Time the next day." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "همّ حقيقي واحد، من قُبيل منتصف الليل حتى وقت الهموم في اليوم التالي."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12513,6 +13113,12 @@
     },
     "One small next step" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "خطوة تالية صغيرة"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12655,6 +13261,12 @@
     },
     "Open iOS Settings" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "فتح إعدادات iOS"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12797,6 +13409,12 @@
     },
     "Overwhelming" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "طاغٍ"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12945,6 +13563,12 @@
     },
     "P%lld is ready for pickup" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "P%lld جاهز للخروج"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13090,6 +13714,12 @@
     },
     "P%lld · Ticket #%@" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "P%1$lld · تذكرة #%2$@"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13232,6 +13862,12 @@
     },
     "Page %lld of %lld" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الصفحة %1$lld من %2$lld"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13374,6 +14010,12 @@
     },
     "Park" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اركن"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13516,6 +14158,12 @@
     },
     "Park a worry" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اركن همًّا"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13658,6 +14306,12 @@
     },
     "Park at P%lld" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اركن في P%lld"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13800,6 +14454,12 @@
     },
     "Park it again" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اركنه من جديد"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13942,6 +14602,12 @@
     },
     "Parked %@" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "رُكن %@"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14084,6 +14750,12 @@
     },
     "Parked at P%lld" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "رُكن في P%lld"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14226,6 +14898,12 @@
     },
     "Parked until %@" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مركون حتى %@"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14368,6 +15046,12 @@
     },
     "Parked worries stay hidden until their exit time. You don't have to carry them right now." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تبقى الهموم المركونة مخفية حتى موعد خروجها. لست مضطرًا إلى حملها الآن."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14510,6 +15194,12 @@
     },
     "Parked. Not your job right now." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مركون. ليس شأنك الآن."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14652,6 +15342,12 @@
     },
     "Partly" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "جزئيًا"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14796,6 +15492,12 @@
       "comment" : "Research study showing that people who moved their worrying to a short daily worry period spent less time worrying and reported less anxiety and fewer sleep problems.",
       "isCommentAutoGenerated" : true,
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "من نقلوا قلقهم إلى وقت قصير مخصص له كل يوم قضوا وقتًا أقل في القلق، وذكروا قلقًا أخف ومشكلات نوم أقل."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14938,6 +15640,12 @@
     },
     "Pick your Worry Time" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اختر وقت الهموم"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15080,6 +15788,12 @@
     },
     "Postponing is working for you. Try parking the next one too." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "التأجيل يؤتي ثماره معك. جرّب أن تركن الهمّ التالي هنا أيضًا."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15222,6 +15936,12 @@
     },
     "Postponing works best when you wait. Most worries feel smaller by Worry Time." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ينجح التأجيل أكثر حين تنتظر. معظم الهموم تبدو أصغر عندما يحين وقت الهموم."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15364,6 +16084,12 @@
     },
     "Privacy Policy" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "سياسة الخصوصية"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15506,6 +16232,12 @@
     },
     "Pro is active" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "برو مفعّل"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15648,6 +16380,12 @@
     },
     "Pro spot" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "موقف برو"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15790,6 +16528,12 @@
     },
     "Ready for pickup" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "جاهز للخروج"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15932,6 +16676,12 @@
     },
     "Reminders" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "التنبيهات"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16074,6 +16824,12 @@
     },
     "Research describes average effects, and results differ from person to person. Worry Parking is a self-help tool, not a medical device or a treatment." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تصف الأبحاث آثارًا متوسطة، والنتائج تختلف من شخص لآخر. موقف الهموم أداة للعناية الذاتية، وليس جهازًا طبيًا ولا علاجًا."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16216,6 +16972,12 @@
     },
     "Research references" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مراجع الأبحاث"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16358,6 +17120,12 @@
     },
     "Restore purchases" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "استعادة المشتريات"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16500,6 +17268,12 @@
     },
     "Result" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "النتيجة"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16642,6 +17416,12 @@
     },
     "Retrieve early" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أخرجه مبكرًا"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16784,6 +17564,12 @@
     },
     "Retrieve this worry early?" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "هل تريد إخراج هذا الهمّ مبكرًا؟"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16926,6 +17712,12 @@
     },
     "See how many of your worries actually happened" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اكتشف كم من همومك حدث فعلًا"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17068,6 +17860,12 @@
     },
     "See it in action" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "شاهد مثالًا"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17210,6 +18008,12 @@
     },
     "Send it to the exit gate now" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أرسله إلى بوابة الخروج الآن"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17352,6 +18156,12 @@
     },
     "Settings" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الإعدادات"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17494,6 +18304,12 @@
     },
     "Skip for now" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تخطَّ الآن"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17636,6 +18452,12 @@
     },
     "Spot %lld. Empty. Park a worry here." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الموقف %lld. فارغ. اركن همًّا هنا."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17778,6 +18600,12 @@
     },
     "Spot %lld. Pro spot, locked." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الموقف %lld. موقف برو، مقفل."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17920,6 +18748,12 @@
     },
     "Spot %lld. Worry parked until %@." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الموقف %1$lld. همّ مركون حتى %2$@."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18062,6 +18896,12 @@
     },
     "Spot %lld. Worry ready for pickup." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الموقف %lld. همّ جاهز للخروج."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18204,6 +19044,12 @@
     },
     "Start" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ابدأ"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18346,6 +19192,12 @@
     },
     "Swipe along the dotted line to park" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اسحب على طول الخط المنقّط لتركن"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18488,6 +19340,12 @@
     },
     "Swipe along the dotted line. Once it tears off, this worry is parked until %@." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اسحب على طول الخط المنقّط. ما إن تنفصل التذكرة حتى يُركن هذا الهمّ حتى %@."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18630,6 +19488,12 @@
     },
     "Take one slow breath. There's nothing to do about it right now." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "خذ نفسًا بطيئًا واحدًا. لا شيء عليك فعله حياله الآن."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18772,6 +19636,12 @@
     },
     "Tear off the ticket to park" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اقطع التذكرة لتركن"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18914,6 +19784,12 @@
     },
     "Tear off your ticket" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اقطع تذكرتك"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19056,6 +19932,12 @@
     },
     "Terms of Use" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "شروط الاستخدام"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19198,6 +20080,12 @@
     },
     "That's completely normal. The effect usually builds over days, not minutes. When it pops back up, tell it \"you already have a spot\" and see how it feels at Worry Time." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "هذا طبيعي تمامًا. يتراكم الأثر عادةً على مدى أيام لا دقائق. حين يعود إليك، قل له: «لك مكانك المحجوز»، وانظر كيف تشعر به في وقت الهموم."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19340,6 +20228,12 @@
     },
     "That's the first effect of postponing. Once a worry is written down and has a place, your mind doesn't have to hold on to it. See you at Worry Time." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "هذا أول أثر للتأجيل. حين يُكتب الهمّ ويصبح له مكان، لا يعود عقلك مضطرًا إلى التمسك به. نلقاك في وقت الهموم."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19482,6 +20376,12 @@
     },
     "The Worry Time after" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "وقت الهموم الذي يليه"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19626,6 +20526,12 @@
       "comment" : "Siri: what the worry parameter is for",
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الهمّ الذي تودّ وضعه جانبًا. يبقى مخفيًا حتى وقت الهموم."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19768,6 +20674,12 @@
     },
     "Ticket #%@" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تذكرة #%@"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19910,6 +20822,12 @@
     },
     "today at %@" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اليوم الساعة %@"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20052,6 +20970,12 @@
     },
     "tomorrow at %@" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "غدًا الساعة %@"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20194,6 +21118,12 @@
     },
     "Too early to tell" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "من المبكر الحكم"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20336,6 +21266,12 @@
     },
     "Try it now" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "جرّبه الآن"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20478,6 +21414,12 @@
     },
     "Turn it into one small next step." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حوّله إلى خطوة تالية صغيرة."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20620,6 +21562,12 @@
     },
     "Unlimited spots, custom exit times, insights" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مواقف بلا حدود، وموعد خروج تختاره، ورؤى"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20762,6 +21710,12 @@
     },
     "Unlock Insights with Pro" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "افتح الرؤى مع برو"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20904,6 +21858,12 @@
     },
     "We'll tell you when a worry is ready for pickup." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "سنخبرك حين يصبح أحد الهموم جاهزًا للخروج."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21046,6 +22006,12 @@
     },
     "What do you want to do with it?" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ماذا تريد أن تفعل به؟"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21188,6 +22154,12 @@
     },
     "What if I blank during tomorrow's presentation and everyone decides I'm not good enough?" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ماذا لو تجمّد ذهني أثناء عرض الغد وقرر الجميع أنني لست كفؤًا؟"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21330,6 +22302,12 @@
     },
     "What you feared didn't happen. Each exit like this goes into your Exit Log, so you can see how often your worries turn out wrong." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ما خشيته لم يحدث. كل خروج كهذا يُحفظ في سجل الخروج، فترى بعينك كم مرة أخطأت همومك."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21472,6 +22450,12 @@
     },
     "What's circling in your head?" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ما الذي يدور في رأسك؟"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21614,6 +22598,12 @@
     },
     "When people with chronic worry tracked their worries, %lld%% of them didn't come true." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حين دوّن أصحاب القلق المزمن همومهم، تبيّن أن %lld%% منها لم يحدث."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21756,6 +22746,12 @@
     },
     "When should it come back?" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "متى يعود إليك؟"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21898,6 +22894,12 @@
     },
     "While it was parked, how did this worry feel?" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "كيف كان هذا الهمّ وهو مركون؟"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22040,6 +23042,12 @@
     },
     "Why it works" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لماذا ينجح؟"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22182,6 +23190,12 @@
     },
     "Without them, parked worries wait silently in the lot." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "بدونها، تنتظر الهموم المركونة في صمت داخل الموقف."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22324,6 +23338,12 @@
     },
     "Worries don't have to ride with you all night.\nPark them here. We'll keep them until your Worry Time." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لا داعي لأن تحمل همومك معك طوال الليل.\nاركنها هنا، وسنحفظها لك حتى وقت الهموم."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22468,6 +23488,12 @@
       "comment" : "Explanation of the mechanism of worry postponement, based on cognitive behavioral therapy.",
       "isCommentAutoGenerated" : true,
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تظهر الهموم في أي مكان: في السرير، وتحت الدش، وفي طريق العودة. حين يصبح للقلق وقته الخاص، يتعلم عقلك أن بقية اليوم ليست له. يسمّي علماء النفس ذلك «ضبط المثيرات»."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22610,6 +23636,12 @@
     },
     "Worries you review at the exit gate land here. Over time you'll see how many of them actually happened." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تُحفظ هنا الهموم التي تراجعها عند بوابة الخروج. ومع الوقت سترى كم منها حدث فعلًا."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22752,6 +23784,12 @@
     },
     "Worry at one set time" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اقلق في وقت واحد محدد"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22894,6 +23932,12 @@
     },
     "WORRY PARKING" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "موقف الهموم"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23036,6 +24080,12 @@
     },
     "Worry Parking" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "موقف الهموم"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23178,6 +24228,12 @@
     },
     "Worry Parking is a self-help tool, not a medical device or a substitute for professional care. If you're struggling, please reach out to a mental health professional or local emergency services." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "موقف الهموم أداة للعناية الذاتية، وليس جهازًا طبيًا ولا بديلًا عن الرعاية المتخصصة. إن كنت تمر بوقت صعب، فتواصل مع مختص في الصحة النفسية أو مع خدمات الطوارئ في بلدك."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23320,6 +24376,12 @@
     },
     "Worry Parking is built on worry postponement, a stimulus-control technique used in cognitive behavioral therapy (CBT): instead of fighting a worry, you schedule it for a set time and return to it then." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يقوم موقف الهموم على «تأجيل القلق»، وهي تقنية لضبط المثيرات تُستخدم في العلاج المعرفي السلوكي: بدل أن تصارع الهمّ، تؤجله إلى وقت محدد ثم تعود إليه حينها."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23464,6 +24526,12 @@
       "comment" : "A description of the research behind worry postponement.",
       "isCommentAutoGenerated" : true,
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "صُمّم موقف الهموم على «تأجيل القلق»، وهي تقنية من العلاج المعرفي السلوكي دُرست على مدى عقود."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23606,6 +24674,12 @@
     },
     "Worry Parking Pro" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "موقف الهموم برو"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23748,6 +24822,12 @@
     },
     "Worry predicts the future as worse than it usually turns out. At the exit gate you record whether it really happened, so over time your Exit Log shows how often your worries were wrong." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "القلق يتوقع المستقبل أسوأ مما يكون عادةً. عند بوابة الخروج تسجّل هل حدث ما خشيته حقًا، ومع الوقت يُريك سجل الخروج كم مرة أخطأت همومك."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23890,6 +24970,12 @@
     },
     "Worry Time" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "وقت الهموم"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24032,6 +25118,12 @@
     },
     "Write" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اكتب"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24176,6 +25268,12 @@
       "comment" : "A description of the onboarding step where the user writes down a worry.",
       "isCommentAutoGenerated" : true,
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اكتب همًّا واحدًا يشغل بالك الآن. سيُركن فعلًا ويعود إليك %@."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24318,6 +25416,12 @@
     },
     "Write it down to put it down" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اكتبه لتضعه جانبًا"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24460,6 +25564,12 @@
     },
     "Write it exactly the way it sounds in your head." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اكتبه تمامًا كما يتردد في رأسك."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24602,6 +25712,12 @@
     },
     "You don't need to carry this right now. We'll bring it back %@." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لا داعي لأن تحمله الآن. سنعيده إليك %@."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24744,6 +25860,12 @@
     },
     "You postponed a worry and came back to it on purpose. That's the whole technique." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أجّلت همًّا ثم عدت إليه في الوقت الذي اخترته. هذه هي التقنية كلها."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24888,6 +26010,12 @@
       "comment" : "A description of how the user's feedback is stored.",
       "isCommentAutoGenerated" : true,
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تبقى إجاباتك على هذا الـ iPhone، ويمكنك الرجوع إليها في سجل الخروج."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25030,6 +26158,12 @@
     },
     "Your daily Worry Time is %@. You can change it in Settings." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "وقت الهموم اليومي هو %@، ويمكنك تغييره من الإعدادات."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25172,6 +26306,12 @@
     },
     "Your experience" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تجربتك"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25314,6 +26454,12 @@
     },
     "Your first exit" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أول خروج لك"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25456,6 +26602,12 @@
     },
     "Your worry" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "همّك"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25599,6 +26751,48 @@
     "%lld worries have left the lot so far" : {
       "comment" : "Tip ask card: how many worries the person has reviewed and driven out of the lot",
       "localizations" : {
+        "ar" : {
+          "variations" : {
+            "plural" : {
+              "zero" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "لم يغادر أي همّ الموقف بعد"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "غادر الموقف همّ واحد حتى الآن"
+                }
+              },
+              "two" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "غادر الموقف همّان حتى الآن"
+                }
+              },
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "غادرت الموقف %lld هموم حتى الآن"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "غادر الموقف %lld همًّا حتى الآن"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "غادر الموقف %lld همّ حتى الآن"
+                }
+              }
+            }
+          }
+        },
         "cs" : {
           "variations" : {
             "plural" : {
@@ -25975,6 +27169,12 @@
     },
     "기록을 열지 못했어요" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تعذّر فتح سجلاتك"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26123,6 +27323,12 @@
     },
     "저장된 기록은 지워지지 않았어요. 다만 지금 적는 내용은 저장되지 않으니, 앱을 껐다 켜 보세요." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لم تُحذف سجلاتك المحفوظة، لكن ما تضيفه الآن لن يُحفظ. أغلق التطبيق ثم افتحه من جديد."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26271,6 +27477,12 @@
     },
     "Park a Worry" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اركن همًّا"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26413,6 +27625,12 @@
     },
     "Parks a worry until your next Worry Time." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يركن همًّا حتى وقت الهموم القادم."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26555,6 +27773,12 @@
     },
     "Worry" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الهمّ"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26697,6 +27921,12 @@
     },
     "What’s on your mind?" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ما الذي يشغل بالك؟"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26839,6 +28069,12 @@
     },
     "The lot is full. Let one worry out in the app first." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الموقف ممتلئ. أخرج همًّا واحدًا من التطبيق أولًا."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26981,6 +28217,12 @@
     },
     "Parked in spot %lld. It’ll come back %@." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "رُكن في الموقف %1$lld، وسيعود إليك %2$@."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27123,6 +28365,12 @@
     },
     "No purchases were found for this Apple Account." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لم نعثر على مشتريات لحساب Apple هذا."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27265,6 +28513,12 @@
     },
     "You have Worry Parking Pro. Thank you." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لديك موقف الهموم برو. شكرًا لك."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27407,6 +28661,12 @@
     },
     "A bigger lot for busy-mind days. Go yearly or lifetime." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "موقف أوسع للأيام المزدحمة بالأفكار. اختر الاشتراك السنوي أو مدى الحياة."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27549,6 +28809,48 @@
     },
     "All %lld free spots are taken." : {
       "localizations" : {
+        "ar" : {
+          "variations" : {
+            "plural" : {
+              "zero" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "لا توجد مواقف مجانية شاغرة."
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "الموقف المجاني الوحيد مشغول."
+                }
+              },
+              "two" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "الموقفان المجانيان مشغولان."
+                }
+              },
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "المواقف المجانية الـ%lld كلها مشغولة."
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "المواقف المجانية الـ%lld كلها مشغولة."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "المواقف المجانية الـ%lld كلها مشغولة."
+                }
+              }
+            }
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27691,6 +28993,12 @@
     },
     "Feature" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الميزة"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27833,6 +29141,12 @@
     },
     "Free" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مجاني"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27975,6 +29289,12 @@
     },
     "Parking spots" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "المواقف"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28117,6 +29437,48 @@
     },
     "%lld spots" : {
       "localizations" : {
+        "ar" : {
+          "variations" : {
+            "plural" : {
+              "zero" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "بلا مواقف"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "موقف واحد"
+                }
+              },
+              "two" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "موقفان"
+                }
+              },
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld مواقف"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld موقفًا"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld موقف"
+                }
+              }
+            }
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28259,6 +29621,12 @@
     },
     "Unlimited" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "بلا حدود"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28401,6 +29769,12 @@
     },
     "Exits at Worry Time" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الخروج في وقت الهموم"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28543,6 +29917,12 @@
     },
     "Worry Time reminders · exit gate" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تنبيهات وقت الهموم · بوابة الخروج"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28685,6 +30065,12 @@
     },
     "Free: %@. Pro: %@." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "المجاني: %1$@. برو: %2$@."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28827,6 +30213,12 @@
     },
     "Included for free" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "متاح مجانًا"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28969,6 +30361,12 @@
     },
     "Pro only" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لبرو فقط"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29111,6 +30509,12 @@
     },
     "See weekly and monthly plans" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "عرض الخطط الأسبوعية والشهرية"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29253,6 +30657,12 @@
     },
     "Weekly · %@ / week" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أسبوعي · %@ / أسبوع"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29395,6 +30805,12 @@
     },
     "Monthly · %@ / month" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "شهري · %@ / شهر"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29537,6 +30953,12 @@
     },
     "Start weekly plan" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ابدأ الخطة الأسبوعية"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29679,6 +31101,12 @@
     },
     "Start monthly plan" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ابدأ الخطة الشهرية"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29821,6 +31249,12 @@
     },
     "Start yearly plan" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ابدأ الخطة السنوية"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29963,6 +31397,12 @@
     },
     "Buy lifetime" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اشترِ مدى الحياة"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30105,6 +31545,12 @@
     },
     "Loading plans…" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "جارٍ تحميل الخطط…"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30247,6 +31693,12 @@
     },
     "Couldn't load plans. Check your internet connection and try again." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تعذّر تحميل الخطط. تحقّق من اتصالك بالإنترنت وحاول مجددًا."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30389,6 +31841,12 @@
     },
     "Try again" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حاول مجددًا"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30531,6 +31989,12 @@
     },
     "Subscriptions renew automatically at the same price unless cancelled at least 24 hours before the period ends, and are charged to your Apple Account. If you start the yearly plan for the first time, your first year is charged at the discounted price and renews at the regular price after that. Manage or cancel anytime in your App Store account settings. Lifetime is a one-time purchase, not a subscription." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تتجدد الاشتراكات تلقائيًا بالسعر نفسه ما لم تُلغَ قبل نهاية الفترة بأربع وعشرين ساعة على الأقل، ويُخصم المبلغ من حساب Apple. إذا بدأت الخطة السنوية لأول مرة، تُحسب السنة الأولى بالسعر المخفّض ثم تتجدد بالسعر المعتاد بعد ذلك. يمكنك إدارة الاشتراك أو إلغاؤه في أي وقت من إعدادات حسابك في App Store. خيار مدى الحياة دفعة واحدة وليس اشتراكًا."
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30673,6 +32137,12 @@
     },
     "Pro for life" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "برو مدى الحياة"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30815,6 +32285,12 @@
     },
     "Find a helpline near you" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ابحث عن خط مساعدة قريب منك"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30957,6 +32433,12 @@
     },
     "Export as text" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تصدير كنص"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31099,6 +32581,12 @@
     },
     "Next step: %@" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الخطوة التالية: %@"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31241,6 +32729,12 @@
     },
     "Worry Parking · Exit Log" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "موقف الهموم · سجل الخروج"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
