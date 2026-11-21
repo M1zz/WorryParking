@@ -12,6 +12,9 @@ struct TicketView: View {
 
     private let stubHeight: CGFloat = 72
 
+    @Environment(\.layoutDirection) private var layoutDirection
+    private var isRightToLeft: Bool { layoutDirection == .rightToLeft }
+
     var body: some View {
         VStack(spacing: 0) {
             VStack(alignment: .leading, spacing: 16) {
@@ -20,7 +23,7 @@ struct TicketView: View {
                     VStack(alignment: .leading, spacing: 2) {
                         Text("WORRY PARKING")
                             .font(.caption.weight(.heavy))
-                            .tracking(2)
+                            .tracking(isRightToLeft ? 0 : 2)   // spacing would pull joined Arabic letters apart
                         // Only the code is monospaced: monospaced fonts have no Arabic letters.
                         Text("Ticket #\(Text(ticketNumber).monospaced())")
                             .font(.caption)

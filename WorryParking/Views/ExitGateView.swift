@@ -106,7 +106,7 @@ struct ExitGateView: View {
                     }
 
                     Button(action: finish) {
-                        Label(finishTitle, systemImage: "arrow.up.right")
+                        Label(finishTitle, systemImage: "arrow.up.forward")
                     }
                     .buttonStyle(PrimaryButtonStyle(tint: Theme.readyGreen))
                     .disabled(!canFinish)

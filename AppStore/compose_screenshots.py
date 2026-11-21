@@ -1,11 +1,16 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """Compose App Store marketing screenshots (6.5", 1242x2688) from raw simulator captures.
 
 Usage: python3 compose_screenshots.py <raw_dir> <out_dir> [lang ...]
   raw_dir contains <lang>/{lot,park,ticket,gate,log}.png for every language in COPY captured by capture_screenshots.sh
 """
 import glob
+import html
+import re
+import subprocess
 import sys
+import tempfile
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
@@ -196,7 +201,19 @@ COPY = {
         ("gate", "Sadece {15 dakika}\nodaklan", "Gerçekte ne olduğunu kontrol et, bırak gitsin."),
         ("log", "Korkularının {%78}'i\ngerçekleşmedi", "Çıkış Günlüğü endişelerin ne sıklıkla olduğunu gösterir."),
     ],
+    "ar": [
+        ("lot", "اركن {همومك}\nإلى وقت لاحق", "لا داعي لأن تحملها معك طوال الليل"),
+        ("park", "اكتبه {كما يتردد}\nفي رأسك", "اختر مدى علوّ صوته، ومتى يعود إليك"),
+        ("ticket", "{مخفيّ} حتى\nوقت الهموم", "الهموم المركونة تبقى مغطاة. ليست شأنك الآن"),
+        ("gate", "ربع ساعة {فقط}\nلتواجهه", "تحقّق مما حدث فعلًا، ثم دعه يمضي أو ضع خطة"),
+        ("log", "{٧٨٪} من مخاوفك\nلم تحدث", "سجل الخروج يُريك كم مرة تتحقق الهموم فعلًا"),
+    ],
 }
+
+# Right-to-left languages. Pillow here has no text shaping (raqm), so Arabic letters
+# would not join; headless Chrome lays out that text and Pillow pastes it in.
+RTL = {"ar"}
+CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 
 
 # Script-specific fonts (macOS). Candidates are tried in order; the first that loads wins.
@@ -280,9 +297,48 @@ def rounded_mask(size, radius):
     return mask
 
 
+def rtl_text(lang, headline, subtitle):
+    """Headline + subtitle laid out by Chrome on a transparent canvas, same places and sizes as `compose`."""
+    def rich(line):
+        return re.sub(r"\{(.*?)\}", r"<b>\1</b>", html.escape(line, quote=False))
+    lines = "".join(f'<div class="h">{rich(l)}</div>' for l in headline.split("\n"))
+    page = f"""<!doctype html><html lang="{lang}" dir="rtl"><head><meta charset="utf-8"><style>
+* {{ margin:0; padding:0; }}
+html, body {{ width:{W}px; height:{px(700)}px; background:transparent; overflow:hidden; }}
+body {{ font-family:"SF Arabic","Geeza Pro",sans-serif; text-align:center; padding-top:{px(150)}px; }}
+.h {{ height:{px(140)}px; line-height:{px(140)}px; font-size:{px(104)}px; font-weight:800; white-space:nowrap;
+      color:rgb{WHITE}; }}
+.h b {{ color:rgb{YELLOW}; font-weight:800; }}
+.s {{ margin-top:{px(26)}px; font-size:{px(46)}px; font-weight:500; color:rgb{GRAY}; white-space:nowrap; }}
+</style></head><body>{lines}<div class="s">{html.escape(subtitle)}</div>
+<script>
+const max = {W - px(120)};
+document.querySelectorAll('.h, .s').forEach(el => {{
+  let size = parseFloat(getComputedStyle(el).fontSize);
+  const r = document.createRange();
+  r.selectNodeContents(el);
+  while (r.getBoundingClientRect().width > max && size > 40) {{ size -= 2; el.style.fontSize = size + 'px'; }}
+}});
+</script></body></html>"""
+    with tempfile.TemporaryDirectory() as tmp:
+        src, out = Path(tmp) / "text.html", Path(tmp) / "text.png"
+        src.write_text(page, encoding="utf-8")
+        subprocess.run(["nice", "-n", "19", CHROME, "--headless=new", "--disable-gpu", "--hide-scrollbars",
+                        f"--user-data-dir={tmp}/profile", f"--window-size={W},{px(700)}",
+                        "--force-device-scale-factor=1", "--default-background-color=00000000",
+                        "--virtual-time-budget=2000", f"--screenshot={out}", src.as_uri()],
+                       capture_output=True, timeout=120, check=True)
+        return Image.open(out).convert("RGBA")
+
+
 def compose(lang, shot, headline, subtitle, raw_dir):
     img = background()
     draw = ImageDraw.Draw(img)
+
+    if lang in RTL:
+        text = rtl_text(lang, headline, subtitle)
+        img.paste(text, (0, 0), text)
+        return place_phone(img, lang, shot, raw_dir)
 
     # Headline + subtitle
     max_w = W - px(120)
@@ -295,7 +351,10 @@ def compose(lang, shot, headline, subtitle, raw_dir):
     y += px(26)
     sub_w = draw.textlength(subtitle, font=sub_font)
     draw.text(((W - sub_w) / 2, y), subtitle, font=sub_font, fill=GRAY)
+    return place_phone(img, lang, shot, raw_dir)
 
+
+def place_phone(img, lang, shot, raw_dir):
     # Phone geometry
     raw = Image.open(raw_dir / lang / f"{shot}.png").convert("RGB")
     screen_w = px(960)

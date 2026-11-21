@@ -341,7 +341,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "لم يقع %lld%% مما خشيته من الهموم التي راجعتها."
+            "value" : "لم يقع %lld٪ مما خشيته من الهموم التي راجعتها."
           }
         },
         "cs" : {
@@ -5080,7 +5080,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "بوابة الخروج · P%lld"
+            "value" : "بوابة الخروج · ⁨P%lld⁩"
           }
         },
         "cs" : {
@@ -13566,7 +13566,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "P%lld جاهز للخروج"
+            "value" : "⁨P%lld⁩ جاهز للخروج"
           }
         },
         "cs" : {
@@ -13717,7 +13717,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "P%1$lld · تذكرة #%2$@"
+            "value" : "⁨P%1$lld⁩ · تذكرة ⁨#%2$@⁩"
           }
         },
         "cs" : {
@@ -14309,7 +14309,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "اركن في P%lld"
+            "value" : "اركن في ⁨P%lld⁩"
           }
         },
         "cs" : {
@@ -14753,7 +14753,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "رُكن في P%lld"
+            "value" : "رُكن في ⁨P%lld⁩"
           }
         },
         "cs" : {
@@ -20677,7 +20677,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تذكرة #%@"
+            "value" : "تذكرة ⁨#%@⁩"
           }
         },
         "cs" : {
@@ -22601,7 +22601,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "حين دوّن أصحاب القلق المزمن همومهم، تبيّن أن %lld%% منها لم يحدث."
+            "value" : "حين دوّن أصحاب القلق المزمن همومهم، تبيّن أن %lld٪ منها لم يحدث."
           }
         },
         "cs" : {

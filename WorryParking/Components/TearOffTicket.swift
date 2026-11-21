@@ -77,7 +77,7 @@ struct TearOffTicket: View {
             VStack(alignment: .leading, spacing: 2) {
                 Text("WORRY PARKING")
                     .font(.caption.weight(.heavy))
-                    .tracking(2)
+                    .tracking(isRightToLeft ? 0 : 2)   // spacing would pull joined Arabic letters apart
                 HStack(spacing: 6) {
                     Text("EXIT")
                         .font(.caption2.weight(.bold))

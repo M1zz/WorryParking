@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """App Store 크리에이티브 자산(제품 페이지 헤더 · 검색 결과) 생성: HTML → 헤드리스 Chrome.
 
 사용법: python3 scripts/make_creative_assets.py [언어 ...]     (없으면 전부)
@@ -42,6 +43,7 @@ EYEBROW = {
     "da": "Angst og søvn", "el": "Άγχος και ύπνος", "fi": "Ahdistus ja uni",
     "id": "Atasi rasa cemas", "nb": "Angst og søvn", "nl": "Stoppen met piekeren",
     "pl": "Lęk i sen", "sv": "Oro och sömn", "tr": "Kaygı ve uyku",
+    "ar": "تخفيف القلق",
 }
 
 # 헤더는 한 가지 약속만: 걱정을 여기 맡기면 오늘 밤은 가벼워진다.
@@ -71,7 +73,17 @@ HEADER = {
     "pl":      ("Parking Zmartwień", "{Zaparkuj} tu zmartwienie.<br>Wieczór znów jest twój."),
     "sv":      ("Oroparkeringen", "{Parkera} oron här.<br>Kvällen är din igen."),
     "tr":      ("Endişe Otoparkı", "Endişeni buraya {park et}.<br>Akşamın yine senin."),
+    "ar":      ("موقف الهموم", "{اركن} همّك هنا،<br>واستعِد مساءك."),
 }
+
+# 오른쪽에서 왼쪽으로 쓰는 언어: 페이지에 dir=rtl, 검색 결과는 글과 기기 자리를 좌우로 맞바꾼다.
+# 아랍어는 글자가 이어 쓰여서 글자 사이를 좁히면 끊어진다.
+RTL = {"ar"}
+RTL_CSS = """
+body { font-family:"SF Arabic","Geeza Pro",-apple-system,sans-serif; }
+.eyebrow, .headline, .sub { letter-spacing:0; }
+.headline { line-height:1.3; }
+"""
 
 # 검색 결과 글 칸은 좁아서 긴 낱말 하나가 한 줄을 다 먹는 언어가 있다.
 # 그런 언어만 스크린샷 1장과 같은 글을 줄만 다르게 끊는다(글은 바꾸지 않는다).
@@ -138,6 +150,11 @@ def rich(text):
     return re.sub(r"\{(.*?)\}", r"<b>\1</b>", text)
 
 
+def mirror(x, width, lang, canvas):
+    """Left edge of a box after flipping the layout for a right-to-left language."""
+    return canvas - x - width if lang in RTL else x
+
+
 def phone(img, left, top, width, rotate=0):
     return (f'<div class="phone" style="left:{left}px;top:{top}px;width:{width}px;'
             f'transform:rotate({rotate}deg)"><img src="{img}"></div>')
@@ -159,10 +176,11 @@ def search_html(lang):
     ph_left = l + col + int(sw * 0.06)
     img = (RAW / lang / f"{shot}.png").as_uri()
     # 기기는 주차선 두 줄 사이에 "주차" 돼 있다(스크린샷과 같은 모티프). 왼쪽 선은 글 칸(오른끝 2050) 밖에 둔다.
+    # 오른쪽에서 왼쪽으로 쓰는 언어는 안전 영역(좌우 대칭) 안에서 통째로 뒤집는다.
     return f"""
-{bay(ph_left - 90, 900, H - 900)}{bay(ph_left + ph_w + 46, 900, H - 900)}
-{phone(img, ph_left, t - 360, ph_w)}
-<div class="text" style="left:{l}px;top:{t}px;width:{col}px;height:{sh}px">
+{bay(mirror(ph_left - 90, 44, lang, W), 900, H - 900)}{bay(mirror(ph_left + ph_w + 46, 44, lang, W), 900, H - 900)}
+{phone(img, mirror(ph_left, ph_w, lang, W), t - 360, ph_w)}
+<div class="text" style="left:{mirror(l, col, lang, W)}px;top:{t}px;width:{col}px;height:{sh}px">
   <div class="eyebrow" style="font-size:96px">{html.escape(EYEBROW[lang])}</div>
   <div class="headline" data-max="230" data-min="120" style="margin-top:36px">{rich(headline)}</div>
   <div class="sub" style="font-size:80px;margin-top:52px">{html.escape(sub)}</div>
@@ -188,8 +206,10 @@ def header_html(lang):
 def render(lang, kind):
     W, H, _ = SPEC[kind]
     body = search_html(lang) if kind == "search" else header_html(lang)
-    page = (f'<!doctype html><html lang="{lang}"><head><meta charset="utf-8"><style>'
-            f'{BASE_CSS % {"W": W, "H": H}}</style></head><body>{body}{FIT_JS}</body></html>')
+    rtl = lang in RTL
+    direction = ' dir="rtl"' if rtl else ""
+    page = (f'<!doctype html><html lang="{lang}"{direction}><head><meta charset="utf-8"><style>'
+            f'{BASE_CSS % {"W": W, "H": H}}{RTL_CSS if rtl else ""}</style></head><body>{body}{FIT_JS}</body></html>')
     html_path = pathlib.Path(tempfile.gettempdir()) / f"worryparking-creative-{lang}-{kind}.html"
     html_path.write_text(page, encoding="utf-8")
     flags = ["--headless=new", f"--window-size={W},{H}", "--force-device-scale-factor=1", "--disable-gpu",

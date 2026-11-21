@@ -27,7 +27,7 @@ struct ParkedTicketSheet: View {
                     Button {
                         confirmingEarlyExit = true
                     } label: {
-                        Label("Retrieve early", systemImage: "arrow.up.right")
+                        Label("Retrieve early", systemImage: "arrow.up.forward")
                     }
                     .buttonStyle(SecondaryButtonStyle())
                 }

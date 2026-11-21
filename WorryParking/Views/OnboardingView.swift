@@ -203,7 +203,7 @@ private struct ExampleWalkthrough: View {
         return layout {
             stepChip(0, title: "Write", systemImage: "pencil")
             stepChip(1, title: "Park", systemImage: "parkingsign")
-            stepChip(2, title: "Exit", systemImage: "arrow.up.right")
+            stepChip(2, title: "Exit", systemImage: "arrow.up.forward")
         }
     }
 

@@ -43,7 +43,7 @@ limit 240 xcrun simctl status_bar $DEVICE override --time "9:41" --dataNetwork w
 
 # <AppleLanguages code>:<AppleLocale>. The code is also the folder name used by compose_screenshots.py.
 LANGS=(ko:ko_KR en:en_US en-GB:en_GB zh-Hans:zh_CN zh-Hant:zh_TW ja:ja_JP ru:ru_RU es:es_ES de:de_DE fr:fr_FR it:it_IT
-       pt-BR:pt_BR th:th_TH vi:vi_VN cs:cs_CZ da:da_DK el:el_GR fi:fi_FI id:id_ID nb:nb_NO nl:nl_NL pl:pl_PL sv:sv_SE tr:tr_TR)
+       pt-BR:pt_BR th:th_TH vi:vi_VN cs:cs_CZ da:da_DK el:el_GR fi:fi_FI id:id_ID nb:nb_NO nl:nl_NL pl:pl_PL sv:sv_SE tr:tr_TR ar:ar_SA)
 
 for entry in $LANGS; do
   lang=${entry%%:*}

@@ -19,6 +19,14 @@ struct ExitLogView: View {
         reviewedWorries.sorted { ($0.reviewedAt ?? .distantPast) > ($1.reviewedAt ?? .distantPast) }
     }
 
+    /// Tip-ask moments; App Store screenshots show the log itself instead.
+    private var tipMoments: [LeeoTipMoment] {
+        #if DEBUG
+        if ScreenshotScene.current != nil { return [] }
+        #endif
+        return WorryParkingTipMoments.reached(exitedCount: history.count)
+    }
+
     var body: some View {
         NavigationStack {
             Group {
@@ -34,7 +42,7 @@ struct ExitLogView: View {
                         // 아직 Pro 가 아닌 사람에게는 페이월이 맞는 길이다.
                         if store.isPro {
                             LeeoTipAskSlot<WorryParkingSpec>(tipJar: WorryParkingSpec.tipJar,
-                                                             reached: WorryParkingTipMoments.reached(exitedCount: history.count))
+                                                             reached: tipMoments)
                                 .listRowInsets(EdgeInsets())
                                 .listRowBackground(Color.clear)
                         }
@@ -130,6 +138,11 @@ struct InsightsCard: View {
     let isUnlocked: Bool
     let onUnlock: () -> Void
     @Environment(\.dynamicTypeSize) private var dynamicTypeSize
+    /// Read outside the chart, which is always laid out left to right.
+    @Environment(\.layoutDirection) private var layoutDirection
+    /// Arabic letters are taller than the axis expects and run into its grid lines,
+    /// so right-to-left languages label each bar directly instead.
+    private var usesBarLabels: Bool { layoutDirection == .rightToLeft }
 
     /// Three tiles side by side, stacked at accessibility text sizes.
     private var tileLayout: AnyLayout {
@@ -153,7 +166,8 @@ struct InsightsCard: View {
             Chart(summary.resultCounts) { item in
                 BarMark(
                     x: .value("Count", item.count),
-                    y: .value("Result", item.result.title)
+                    y: .value("Result", item.result.title),
+                    height: usesBarLabels ? .fixed(12) : .automatic
                 )
                 .foregroundStyle(item.result.color)
                 .annotation(position: .trailing) {
@@ -161,9 +175,19 @@ struct InsightsCard: View {
                         .font(.caption2)
                         .foregroundStyle(.secondary)
                 }
+                .annotation(position: .top, alignment: .leading) {
+                    if usesBarLabels {
+                        Text(item.result.title)
+                            .font(.caption2)
+                            .foregroundStyle(.secondary)
+                    }
+                }
             }
             .chartXAxis(.hidden)
+            .chartYAxis(usesBarLabels ? .hidden : .automatic)
             .frame(height: 150)
+            // Bar lengths are amounts, not reading order: keep the chart left to right in every language.
+            .environment(\.layoutDirection, .leftToRight)
 
             Text(summary.headline)
                 .font(.footnote)
