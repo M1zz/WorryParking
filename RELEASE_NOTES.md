@@ -170,6 +170,13 @@ Tüm otopark geniş bir pencerede
 Kaygılar iCloud ile iPhone'da da güncel
 Endişeni Apple Watch'tan park et
 
+### 앱스토어 (아랍어)
+
+أصبح التطبيق متاحًا على Apple Vision Pro
+شاهد الموقف كاملًا في نافذة واسعة
+تتزامن همومك مع iPhone عبر iCloud
+اركن همّك بكلمة تقولها لساعة Apple Watch
+
 ## 1.0.2
 
 ### 앱스토어 (한국어)
