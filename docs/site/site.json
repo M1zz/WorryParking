@@ -23,7 +23,8 @@
     "nl": "Zorgenparking",
     "pl": "Parking Zmartwień",
     "sv": "Oroparkeringen",
-    "tr": "Endişe Otoparkı"
+    "tr": "Endişe Otoparkı",
+    "ar": "موقف الهموم"
   },
   "url": "https://m1zz.github.io/WorryParking/",
   "appStoreId": "6813391278",
@@ -162,6 +163,11 @@
       "code": "tr",
       "path": "tr/",
       "name": "Türkçe"
+    },
+    {
+      "code": "ar",
+      "path": "ar/",
+      "name": "العربية"
     }
   ]
 }

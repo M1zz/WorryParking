@@ -121,7 +121,7 @@ section .sub { color: var(--muted); margin: 0 0 32px; font-size: 17px; }
 .plan.pro { outline: 2px solid var(--line); }
 .plan h3 { margin: 0 0 4px; font-size: 22px; }
 .plan .price { color: var(--muted); margin: 0 0 16px; }
-.plan ul { margin: 0; padding-left: 20px; }
+.plan ul { margin: 0; padding-inline-start: 20px; }
 .plan li { margin: 6px 0; }
 
 .stat {
@@ -147,7 +147,7 @@ footer a:hover { color: var(--line); }
 .doc .meta { color: var(--muted); margin: 0 0 32px; }
 .doc h2 { font-size: 21px; margin: 36px 0 10px; }
 .doc p, .doc li { color: #d9d8d3; }
-.doc ul { padding-left: 22px; }
+.doc ul { padding-inline-start: 22px; }
 .doc li { margin: 6px 0; }
 .summary {
   background: var(--paper); color: var(--ink); border-radius: var(--radius); padding: 24px 26px;
@@ -155,7 +155,7 @@ footer a:hover { color: var(--line); }
 .summary p, .summary li { color: var(--ink); margin: 4px 0; }
 .summary strong { font-size: 18px; }
 table { width: 100%; border-collapse: collapse; margin: 12px 0; font-size: 15px; }
-th, td { text-align: left; padding: 10px 12px; border-bottom: 1px solid rgba(255, 255, 255, 0.1); vertical-align: top; }
+th, td { text-align: start; padding: 10px 12px; border-bottom: 1px solid rgba(255, 255, 255, 0.1); vertical-align: top; }
 th { color: var(--muted); font-weight: 600; }
 
 /* Support FAQ */
