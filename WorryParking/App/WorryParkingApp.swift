@@ -7,6 +7,8 @@ import LeeoKit
 struct WorryParkingApp: App {
     @UIApplicationDelegateAdaptor(AppDelegate.self) private var appDelegate
     @State private var store = StoreManager.shared
+    /// 할인 배너에서 연 페이월
+    @State private var showsSalePaywall = false
 
     init() {
         // 백업 금고: 예약된 복원 · 업데이트 직전 백업을 저장소가 열리기 전에 한다
@@ -30,6 +32,9 @@ struct WorryParkingApp: App {
             RootView()
                 // 개발자가 보낸 의견에 답장하면, 앱이 앞으로 올 때 답장을 시트로 보여 준다 (LeeoKit).
                 .leeoFeedbackReplyNotice(WorryParkingSpec.self)
+                // 할인 기간이면 앱을 연 뒤 한 번 할인 배너를 띄운다. 단추는 요금제를 연다 (LeeoKit).
+                .leeoSaleBanner { showsSalePaywall = true }
+                .sheet(isPresented: $showsSalePaywall) { PaywallView() }
                 .environment(store)
                 .preferredColorScheme(.dark)
                 .tint(Theme.lineYellow)
