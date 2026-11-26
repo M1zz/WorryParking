@@ -1,5 +1,157 @@
 # 걱정 주차장 릴리즈 노트
 
+## 1.0.4
+
+### 앱스토어 (한국어)
+
+설정에서 바로 의견을 보낼 수 있어요
+보낸 의견이 채택되면 감사 선물을 드려요
+앞으로 만들 기능을 설정에서 볼 수 있어요
+
+### App Store (English)
+
+Send us feedback right from Settings
+Get a thank-you gift when we use your idea
+See what's coming next in Settings
+
+### App Store (en-GB)
+
+Send us feedback right from Settings
+Get a thank-you gift when we use your idea
+See what's coming next in Settings
+
+### App Store (zh-Hans)
+
+现在可以直接在设置里发送反馈
+你的建议被采纳后，会收到一份感谢礼物
+在设置中查看即将推出的功能
+
+### App Store (zh-Hant)
+
+現在可以直接在設定中傳送意見
+你的建議被採納後，會收到一份感謝禮物
+在設定中查看即將推出的功能
+
+### App Store (Japanese)
+
+設定から直接ご意見を送れるようになりました
+ご意見が採用されるとお礼のギフトが届きます
+今後追加される機能を設定で確認できます
+
+### App Store (Russian)
+
+Отзыв можно отправить прямо из настроек
+Если мы примем ваш отзыв, вас ждёт подарок
+В настройках видно, что мы готовим
+
+### App Store (Spanish)
+
+Envía tu opinión desde Ajustes
+Si adoptamos tu idea, te enviamos un regalo
+Descubre en Ajustes lo que está por llegar
+
+### App Store (German)
+
+Feedback direkt aus den Einstellungen senden
+Danke-Geschenk für umgesetzte Vorschläge
+In den Einstellungen siehst du, was kommt
+
+### App Store (French)
+
+Envoyez vos avis depuis les Réglages
+Un cadeau si nous retenons votre idée
+Découvrez dans Réglages ce qui arrive
+
+### App Store (Italian)
+
+Invia un feedback da Impostazioni
+Un regalo se scegliamo la tua idea
+Scopri in Impostazioni cosa arriverà
+
+### App Store (pt-BR)
+
+Envie sua opinião direto dos Ajustes
+Ganhe um presente se usarmos sua ideia
+Veja nos Ajustes o que vem por aí
+
+### App Store (Thai)
+
+ส่งความคิดเห็นได้จากหน้าการตั้งค่า
+รับของขวัญเมื่อเรานำไอเดียของคุณไปใช้
+ดูฟีเจอร์ที่กำลังจะมาในหน้าการตั้งค่า
+
+### App Store (Vietnamese)
+
+Gửi góp ý ngay trong phần Cài đặt
+Nhận quà khi góp ý của bạn được chọn
+Xem tính năng sắp ra mắt trong Cài đặt
+
+### App Store (Czech)
+
+Zpětnou vazbu pošlete přímo z Nastavení
+Za přijatý návrh dostanete dárek
+V Nastavení uvidíte, co chystáme
+
+### App Store (Danish)
+
+Send feedback direkte fra Indstillinger
+Få en gave, når vi bruger din idé
+Se, hvad der er på vej, i Indstillinger
+
+### App Store (Greek)
+
+Στείλτε σχόλια από τις Ρυθμίσεις
+Ένα δώρο αν υιοθετήσουμε την ιδέα σας
+Δείτε στις Ρυθμίσεις τι έρχεται
+
+### App Store (Finnish)
+
+Lähetä palautetta suoraan asetuksista
+Saat lahjan, kun toteutamme ideasi
+Katso asetuksista, mitä on tulossa
+
+### App Store (Indonesian)
+
+Kirim masukan langsung dari Pengaturan
+Dapatkan hadiah saat ide Anda kami pakai
+Lihat fitur mendatang di Pengaturan
+
+### App Store (Norwegian)
+
+Send tilbakemelding rett fra Innstillinger
+Få en gave når vi bruker ideen din
+Se hva som kommer i Innstillinger
+
+### App Store (Dutch)
+
+Stuur feedback direct vanuit Instellingen
+Een cadeau als we jouw idee gebruiken
+Bekijk in Instellingen wat er aankomt
+
+### App Store (Polish)
+
+Wyślij opinię prosto z Ustawień
+Prezent, gdy wykorzystamy Twój pomysł
+Zobacz w Ustawieniach, co nadchodzi
+
+### App Store (Swedish)
+
+Skicka feedback direkt från Inställningar
+Få en gåva när vi använder din idé
+Se vad som är på gång i Inställningar
+
+### App Store (Turkish)
+
+Ayarlar'dan doğrudan görüş gönderin
+Fikriniz kullanılırsa size bir hediye
+Yakında gelecekleri Ayarlar'da görün
+
+### App Store (Arabic)
+
+أرسل ملاحظاتك مباشرة من الإعدادات
+هدية شكر عندما نعتمد اقتراحك
+اطّلع على الميزات القادمة في الإعدادات
+
 ## 1.0.3
 
 ### 앱스토어 (한국어)

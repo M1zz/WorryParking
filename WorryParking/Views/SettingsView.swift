@@ -36,9 +36,9 @@ struct SettingsView: View {
                 }
 
                 Section("About") {
-                    NavigationLink { LeeoVaultView(appName: WorryParkingSpec.displayName) } label: {
-                        Label(LeeoVaultText.entry, systemImage: "externaldrive.badge.timemachine")
-                    }
+                    // 피드백 · 보낸 의견 · 리뷰 · Siri와 단축어 · 백업 · 버전 (LeeoKit). 약관 링크는 아래에 따로 둔다.
+                    LeeoSupportSection<WorryParkingSpec>(showLegalLinks: false)
+                    NavigationLink(LeeoRoadmapText.entry) { LeeoRoadmapView<WorryParkingSpec>() }
                     NavigationLink {
                         WhyItWorksView()
                             .navigationBarTitleDisplayMode(.inline)

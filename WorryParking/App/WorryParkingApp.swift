@@ -94,6 +94,8 @@ struct RootView: View {
     private var appRoot: some View {
         if hasOnboarded {
             MainTabView()
+                // 유료가 되면 축하, 모든 사용자에게 한 번은 감사 인사 (LeeoKit)
+                .leeoCelebrations(appName: WorryParkingSpec.displayName)
         } else {
             OnboardingView()
                 .foldConfined()
